@@ -13,6 +13,7 @@ for line in open('urls.txt'):
         lines = urllib.urlopen(url).readlines()
  
         fOut = open('talesHTML/%s' % (url.split('/')[-1]), 'w')
+
         fOut.write("\n".join(lines))
         fOut.close()
         time.sleep(1)
