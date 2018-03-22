@@ -1,0 +1,806 @@
+554 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan ended was the lyf of Seinte Cecile,</B><BR>
+555 &nbsp; &nbsp; &nbsp; &nbsp; <B>Er we hadde riden fully fyve mile,</B><BR>
+556   &nbsp; &nbsp; &nbsp; &nbsp; <B>At Boghtoun under Blee us gan atake</B><BR>
+557 &nbsp; &nbsp; &nbsp; &nbsp; <B>A man that clothed was in clothes blake,</B><BR>
+558 &nbsp; &nbsp; &nbsp; &nbsp; <B>And undernethe he hadde a whyt surplys.</B><BR>
+559 &nbsp; &nbsp; &nbsp; &nbsp; <B>His hakeney, that was al pomely grys,</B><BR>
+560 &nbsp; &nbsp; &nbsp; &nbsp; <B>So swatte that it wonder was to see;</B><BR>
+561 &nbsp; &nbsp; &nbsp; &nbsp; <B>It semed as he had priked miles three.</B><BR>
+562 &nbsp; &nbsp; &nbsp; &nbsp; <B>The hors eek that his yeman rood upon</B><BR>
+563 &nbsp; &nbsp; &nbsp; &nbsp; <B>So swatte that unnethe myghte it gon.</B><BR>
+564 &nbsp; &nbsp; &nbsp; &nbsp; <B>Aboute the peytrel stood the foom ful hye;</B><BR>
+565 &nbsp; &nbsp; &nbsp; &nbsp; <B>He was of foom al flekked as a pye.</B><BR>
+566 &nbsp; &nbsp; &nbsp; &nbsp; <B>A male tweyfoold on his croper lay;</B><BR>
+567 &nbsp; &nbsp; &nbsp; &nbsp; <B>It semed that he caried lite array.</B><BR>
+568 &nbsp; &nbsp; &nbsp; &nbsp; <B>Al light for somer rood this worthy man,</B><BR>
+569 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in myn herte wondren I bigan</B><BR>
+570 &nbsp; &nbsp; &nbsp; &nbsp; <B>What that he was til that I understood</B><BR>
+571 &nbsp; &nbsp; &nbsp; &nbsp; <B>How that his cloke was sowed to his hood,</B><BR>
+572 &nbsp; &nbsp; &nbsp; &nbsp; <B>For which, whan I hadde longe avysed me,</B><BR>
+573 &nbsp; &nbsp; &nbsp; &nbsp; <B>I demed hym som chanoun for to be.</B><BR>
+574 &nbsp; &nbsp; &nbsp; &nbsp; <B>His hat heeng at his bak doun by a laas,</B><BR>
+575 &nbsp; &nbsp; &nbsp; &nbsp; <B>For he hadde riden moore than trot or paas;</B><BR>
+576 &nbsp; &nbsp; &nbsp; &nbsp; <B>He hadde ay priked lik as he were wood.</B><BR>
+577 &nbsp; &nbsp; &nbsp; &nbsp; <B>A clote-leef he hadde under his hood</B><BR>
+578 &nbsp; &nbsp; &nbsp; &nbsp; <B>For swoot and for to keep his heed from heete.</B><BR>
+579 &nbsp; &nbsp; &nbsp; &nbsp; <B>But it was joye for to seen hym swete!</B><BR>
+580 &nbsp; &nbsp; &nbsp; &nbsp; <B>His forheed dropped as a stillatorie</B><BR>
+581 &nbsp; &nbsp; &nbsp; &nbsp; <B>Were ful of plantayne and of paritorie.</B><BR>
+582 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whan that he was come, he gan to crye,</B><BR>
+583 &nbsp; &nbsp; &nbsp; &nbsp; <B>"God save," quod he, "this joly compaignye!</B><BR>
+584 &nbsp; &nbsp; &nbsp; &nbsp; <B>Faste have I priked," quod he, "for youre sake,</B><BR>
+585 &nbsp; &nbsp; &nbsp; &nbsp; <B>By cause that I wolde yow atake,</B><BR>
+586 &nbsp; &nbsp; &nbsp; &nbsp; <B>To riden in this myrie compaignye."</B><BR>
+587 &nbsp; &nbsp; &nbsp; &nbsp; <B>His yeman eek was ful of curteisye,</B><BR>
+588 &nbsp; &nbsp; &nbsp; &nbsp; <B>And seyde, "Sires, now in the morwe-tyde</B><BR>
+589 &nbsp; &nbsp; &nbsp; &nbsp; <B>I saugh yow ryde out of youre hostelrie,</B><BR>
+590 &nbsp; &nbsp; &nbsp; &nbsp; <B>And warned heer my lord and my soverayn,</B><BR>
+591 &nbsp; &nbsp; &nbsp; &nbsp; <B>Which that to ryden with yow is ful fayn</B><BR>
+592 &nbsp; &nbsp; &nbsp; &nbsp; <B>For his desport; he loveth daliaunce."</B><BR>
+593 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Freend, for thy warnyng God yeve thee good chaunce,"</B><BR>
+594 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thanne seyde oure Hoost, "for certein it wolde seme</B><BR>
+595 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thy lord were wys, and so I may wel deme.</B><BR>
+596 &nbsp; &nbsp; &nbsp; &nbsp; <B>He is ful jocunde also, dar I leye!</B><BR>
+597 &nbsp; &nbsp; &nbsp; &nbsp; <B>Can he oght telle a myrie tale or tweye,</B><BR>
+598 &nbsp; &nbsp; &nbsp; &nbsp; <B>With which he glade may this compaignye?"</B><BR>
+599 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Who, sire? My lord? Ye, ye, withouten lye,</B><BR>
+600 &nbsp; &nbsp; &nbsp; &nbsp; <B>He kan of murthe and eek of jolitee</B><BR>
+601 &nbsp; &nbsp; &nbsp; &nbsp; <B>Nat but ynough; also, sire, trusteth me,</B><BR>
+602 &nbsp; &nbsp; &nbsp; &nbsp; <B>And ye hym knewe as wel as do I,</B><BR>
+603 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ye wolde wondre how wel and craftily</B><BR>
+604 &nbsp; &nbsp; &nbsp; &nbsp; <B>He koude werke, and that in sondry wise.</B><BR>
+605 &nbsp; &nbsp; &nbsp; &nbsp; <B>He hath take on hym many a greet emprise,</B><BR>
+606 &nbsp; &nbsp; &nbsp; &nbsp; <B>Which were ful hard for any that is heere</B><BR>
+607 &nbsp; &nbsp; &nbsp; &nbsp; <B>To brynge aboute, but they of hym it leere.</B><BR>
+608 &nbsp; &nbsp; &nbsp; &nbsp; <B>As hoomly as he rit amonges yow,</B><BR>
+609 &nbsp; &nbsp; &nbsp; &nbsp; <B>If ye hym knewe, it wolde be for youre prow.</B><BR>
+610 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ye wolde nat forgoon his aqueyntaunce</B><BR>
+611 &nbsp; &nbsp; &nbsp; &nbsp; <B>For muchel good, I dar leye in balaunce</B><BR>
+612 &nbsp; &nbsp; &nbsp; &nbsp; <B>Al that I have in my possessioun.</B><BR>
+613 &nbsp; &nbsp; &nbsp; &nbsp; <B>He is a man of heigh discrecioun;</B><BR>
+614 &nbsp; &nbsp; &nbsp; &nbsp; <B>I warne yow wel, he is a passyng man."</B><BR>
+615 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Wel," quod oure Hoost, "I pray thee, tel me than,</B><BR>
+616 &nbsp; &nbsp; &nbsp; &nbsp; <B>Is he a clerk, or noon? Telle what he is."</B><BR>
+617 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Nay, he is gretter than a clerk, ywis,"</B><BR>
+618 &nbsp; &nbsp; &nbsp; &nbsp; <B>Seyde this Yeman, "and in wordes fewe,</B><BR>
+619 &nbsp; &nbsp; &nbsp; &nbsp; <B>Hoost, of his craft somwhat I wol yow shewe.</B><BR>
+620 &nbsp; &nbsp; &nbsp; &nbsp; <B>"I seye, my lord kan swich subtilitee --</B><BR>
+621 &nbsp; &nbsp; &nbsp; &nbsp; <B>But al his craft ye may nat wite at me,</B><BR>
+622 &nbsp; &nbsp; &nbsp; &nbsp; <B>And somwhat helpe I yet to his wirkyng --</B><BR>
+623 &nbsp; &nbsp; &nbsp; &nbsp; <B>That al this ground on which we been ridyng,</B><BR>
+624 &nbsp; &nbsp; &nbsp; &nbsp; <B>Til that we come to Caunterbury toun,</B><BR>
+625 &nbsp; &nbsp; &nbsp; &nbsp; <B>He koude al clene turnen up-so-doun,</B><BR>
+626 &nbsp; &nbsp; &nbsp; &nbsp; <B>And pave it al of silver and of gold."</B><BR>
+627 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whan this Yeman hadde this tale ytold</B><BR>
+628 &nbsp; &nbsp; &nbsp; &nbsp; <B>Unto oure Hoost, he seyde, "Benedicitee!</B><BR>
+629 &nbsp; &nbsp; &nbsp; &nbsp; <B>This thyng is wonder merveillous to me,</B><BR>
+630 &nbsp; &nbsp; &nbsp; &nbsp; <B>Syn that thy lord is of so heigh prudence,</B><BR>
+631 &nbsp; &nbsp; &nbsp; &nbsp; <B>By cause of which men sholde hym reverence,</B><BR>
+632 &nbsp; &nbsp; &nbsp; &nbsp; <B>That of his worshipe rekketh he so lite.</B><BR>
+633 &nbsp; &nbsp; &nbsp; &nbsp; <B>His overslope nys nat worth a myte,</B><BR>
+634 &nbsp; &nbsp; &nbsp; &nbsp; <B>As in effect, to hym, so moot I go,</B><BR>
+635 &nbsp; &nbsp; &nbsp; &nbsp; <B>It is al baudy and totore also.</B><BR>
+636 &nbsp; &nbsp; &nbsp; &nbsp; <B>Why is thy lord so sluttissh, I the preye,</B><BR>
+637 &nbsp; &nbsp; &nbsp; &nbsp; <B>And is of power bettre clooth to beye,</B><BR>
+638 &nbsp; &nbsp; &nbsp; &nbsp; <B>If that his dede accorde with thy speche?</B><BR>
+639 &nbsp; &nbsp; &nbsp; &nbsp; <B>Telle me that, and that I thee biseche."</B><BR>
+640 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Why?" quod this Yeman, "wherto axe ye me?</B><BR>
+641 &nbsp; &nbsp; &nbsp; &nbsp; <B>God help me so, for he shal nevere thee!</B><BR>
+642 &nbsp; &nbsp; &nbsp; &nbsp; <B>(But I wol nat avowe that I seye,</B><BR>
+643 &nbsp; &nbsp; &nbsp; &nbsp; <B>And therfore keepe it secree, I yow preye.)</B><BR>
+644 &nbsp; &nbsp; &nbsp; &nbsp; <B>He is to wys, in feith, as I bileeve.</B><BR>
+645 &nbsp; &nbsp; &nbsp; &nbsp; <B>That that is overdoon, it wol nat preeve</B><BR>
+646 &nbsp; &nbsp; &nbsp; &nbsp; <B>Aright, as clerkes seyn; it is a vice.</B><BR>
+647 &nbsp; &nbsp; &nbsp; &nbsp; <B>Wherfore in that I holde hym lewed and nyce.</B><BR>
+648 &nbsp; &nbsp; &nbsp; &nbsp; <B>For whan a man hath over-greet a wit,</B><BR>
+649 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ful oft hym happeth to mysusen it.</B><BR>
+650 &nbsp; &nbsp; &nbsp; &nbsp; <B>So dooth my lord, and that me greveth soore;</B><BR>
+651 &nbsp; &nbsp; &nbsp; &nbsp; <B>God it amende! I kan sey yow namoore."</B><BR>
+652 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Ther-of no fors, good Yeman," quod oure Hoost;</B><BR>
+653 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Syn of the konnyng of thy lord thow woost,</B><BR>
+654 &nbsp; &nbsp; &nbsp; &nbsp; <B>Telle how he dooth, I pray thee hertely,</B><BR>
+655 &nbsp; &nbsp; &nbsp; &nbsp; <B>Syn that he is so crafty and so sly.</B><BR>
+656 &nbsp; &nbsp; &nbsp; &nbsp; <B>Where dwelle ye, if it to telle be?"</B><BR>
+657 &nbsp; &nbsp; &nbsp; &nbsp; <B>"In the suburbes of a toun," quod he,</B><BR>
+658 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Lurkynge in hernes and in lanes blynde,</B><BR>
+659 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whereas thise robbours and thise theves by kynde</B><BR>
+660 &nbsp; &nbsp; &nbsp; &nbsp; <B>Holden hir pryvee fereful residence,</B><BR>
+661 &nbsp; &nbsp; &nbsp; &nbsp; <B>As they that dar nat shewen hir presence;</B><BR>
+662 &nbsp; &nbsp; &nbsp; &nbsp; <B>So faren we, if I shal seye the sothe."</B><BR>
+663 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Now," quod oure Hoost, "yit lat me talke to the.</B><BR>
+664 &nbsp; &nbsp; &nbsp; &nbsp; <B>Why artow so discoloured of thy face?"</B><BR>
+665 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Peter!" quod he, "God yeve it harde grace,</B><BR>
+666 &nbsp; &nbsp; &nbsp; &nbsp; <B>I am so used in the fyr to blowe</B><BR>
+667 &nbsp; &nbsp; &nbsp; &nbsp; <B>That it hath chaunged my colour, I trowe.</B><BR>
+668 &nbsp; &nbsp; &nbsp; &nbsp; <B>I am nat wont in no mirour to prie,</B><BR>
+669 &nbsp; &nbsp; &nbsp; &nbsp; <B>But swynke soore and lerne multiplie.</B><BR>
+670 &nbsp; &nbsp; &nbsp; &nbsp; <B>We blondren evere and pouren in the fir,</B><BR>
+671 &nbsp; &nbsp; &nbsp; &nbsp; <B>And for al that we faille of oure desir,</B><BR>
+672 &nbsp; &nbsp; &nbsp; &nbsp; <B>For evere we lakken oure conclusioun.</B><BR>
+673 &nbsp; &nbsp; &nbsp; &nbsp; <B>To muchel folk we doon illusioun,</B><BR>
+674 &nbsp; &nbsp; &nbsp; &nbsp; <B>And borwe gold, be it a pound or two,</B><BR>
+675 &nbsp; &nbsp; &nbsp; &nbsp; <B>Or ten, or twelve, or manye sommes mo,</B><BR>
+676 &nbsp; &nbsp; &nbsp; &nbsp; <B>And make hem wenen, at the leeste weye,</B><BR>
+677 &nbsp; &nbsp; &nbsp; &nbsp; <B>That of a pound we koude make tweye.</B><BR>
+678 &nbsp; &nbsp; &nbsp; &nbsp; <B>Yet is it fals, but ay we han good hope</B><BR>
+679 &nbsp; &nbsp; &nbsp; &nbsp; <B>It for to doon, and after it we grope.</B><BR>
+680 &nbsp; &nbsp; &nbsp; &nbsp; <B>But that science is so fer us biforn,</B><BR>
+681 &nbsp; &nbsp; &nbsp; &nbsp; <B>We mowen nat, although we hadden it sworn,</B><BR>
+682 &nbsp; &nbsp; &nbsp; &nbsp; <B>It overtake, it slit awey so faste.</B><BR>
+683 &nbsp; &nbsp; &nbsp; &nbsp; <B>It wole us maken beggers atte laste."</B><BR>
+684 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whil this Yeman was thus in his talkyng,</B><BR>
+685 &nbsp; &nbsp; &nbsp; &nbsp; <B>This Chanoun drough hym neer and herde al thyng</B><BR>
+686 &nbsp; &nbsp; &nbsp; &nbsp; <B>Which this Yeman spak, for suspecioun</B><BR>
+687 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of mennes speche evere hadde this Chanoun.</B><BR>
+688 &nbsp; &nbsp; &nbsp; &nbsp; <B>For Catoun seith that he that gilty is</B><BR>
+689 &nbsp; &nbsp; &nbsp; &nbsp; <B>Demeth alle thyng be spoke of hym, ywis.</B><BR>
+690 &nbsp; &nbsp; &nbsp; &nbsp; <B>That was the cause he gan so ny hym drawe</B><BR>
+691 &nbsp; &nbsp; &nbsp; &nbsp; <B>To his Yeman, to herknen al his sawe.</B><BR>
+692 &nbsp; &nbsp; &nbsp; &nbsp; <B>And thus he seyde unto his Yeman tho:</B><BR>
+693 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Hoold thou thy pees and spek no wordes mo,</B><BR>
+694 &nbsp; &nbsp; &nbsp; &nbsp; <B>For if thou do, thou shalt it deere abye.</B><BR>
+695 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thou sclaundrest me heere in this compaignye,</B><BR>
+696 &nbsp; &nbsp; &nbsp; &nbsp; <B>And eek discoverest that thou sholdest hyde."</B><BR>
+697 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Ye," quod oure Hoost, "telle on, what so bityde.</B><BR>
+698 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of al his thretyng rekke nat a myte!"</B><BR>
+699 &nbsp; &nbsp; &nbsp; &nbsp; <B>"In feith," quod he, "namoore I do but lyte."</B><BR>
+700 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whan this Chanon saugh it wolde nat bee,</B><BR>
+701 &nbsp; &nbsp; &nbsp; &nbsp; <B>But his Yeman wolde telle his pryvetee,</B><BR>
+702 &nbsp; &nbsp; &nbsp; &nbsp; <B>He fledde awey for verray sorwe and shame.</B><BR>
+703 &nbsp; &nbsp; &nbsp; &nbsp; <B>"A!" quod the Yeman, "heere shal arise game;</B><BR>
+704 &nbsp; &nbsp; &nbsp; &nbsp; <B>Al that I kan anon now wol I telle.</B><BR>
+705 &nbsp; &nbsp; &nbsp; &nbsp; <B>Syn he is goon, the foule feend hym quelle!</B><BR>
+706 &nbsp; &nbsp; &nbsp; &nbsp; <B>For nevere heerafter wol I with hym meete</B><BR>
+707 &nbsp; &nbsp; &nbsp; &nbsp; <B>For peny ne for pound, I yow biheete.</B><BR>
+708 &nbsp; &nbsp; &nbsp; &nbsp; <B>He that me broghte first unto that game,</B><BR>
+709 &nbsp; &nbsp; &nbsp; &nbsp; <B>Er that he dye, sorwe have he and shame!</B><BR>
+710 &nbsp; &nbsp; &nbsp; &nbsp; <B>For it is ernest to me, by my feith;</B><BR>
+711 &nbsp; &nbsp; &nbsp; &nbsp; <B>That feele I wel, what so any man seith.</B><BR>
+712 &nbsp; &nbsp; &nbsp; &nbsp; <B>And yet, for al my smert and al my grief,</B><BR>
+713 &nbsp; &nbsp; &nbsp; &nbsp; <B>For al my sorwe, labour, and meschief,</B><BR>
+714 &nbsp; &nbsp; &nbsp; &nbsp; <B>I koude nevere leve it in no wise.</B><BR>
+715 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now wolde God my wit myghte suffise</B><BR>
+716 &nbsp; &nbsp; &nbsp; &nbsp; <B>To tellen al that longeth to that art!</B><BR>
+717 &nbsp; &nbsp; &nbsp; &nbsp; <B>But nathelees yow wol I tellen part.</B><BR>
+718 &nbsp; &nbsp; &nbsp; &nbsp; <B>Syn that my lord is goon, I wol nat spare;</B><BR>
+719 &nbsp; &nbsp; &nbsp; &nbsp; <B>Swich thyng as that I knowe, I wol declare.</B><BR>
+841 &nbsp; &nbsp; &nbsp; &nbsp; <B>Though he sitte at his book bothe day and nyght</B><BR>
+842 &nbsp; &nbsp; &nbsp; &nbsp; <B>In lernyng of this elvysshe nyce loore,</B><BR>
+843 &nbsp; &nbsp; &nbsp; &nbsp; <B>Al is in veyn, and parde, muchel moore.</B><BR>
+844 &nbsp; &nbsp; &nbsp; &nbsp; <B>To lerne a lewed man this subtiltee --</B><BR>
+845 &nbsp; &nbsp; &nbsp; &nbsp; <B>Fy! Spek nat therof, for it wol nat bee.</B><BR>
+846 &nbsp; &nbsp; &nbsp; &nbsp; <B>And konne he letterure or konne he noon,</B><BR>
+847 &nbsp; &nbsp; &nbsp; &nbsp; <B>As in effect, he shal fynde it al oon.</B><BR>
+848 &nbsp; &nbsp; &nbsp; &nbsp; <B>For bothe two, by my savacioun,</B><BR>
+849 &nbsp; &nbsp; &nbsp; &nbsp; <B>Concluden in multiplicacioun</B><BR>
+850 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ylike wel, whan they han al ydo;</B><BR>
+851 &nbsp; &nbsp; &nbsp; &nbsp; <B>This is to seyn, they faillen bothe two.</B><BR>
+852 &nbsp; &nbsp; &nbsp; &nbsp; <B>Yet forgat I to maken rehersaille</B><BR>
+853 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of watres corosif, and of lymaille,</B><BR>
+854 &nbsp; &nbsp; &nbsp; &nbsp; <B>And of bodies mollificacioun,</B><BR>
+855 &nbsp; &nbsp; &nbsp; &nbsp; <B>And also of hire induracioun;</B><BR>
+856 &nbsp; &nbsp; &nbsp; &nbsp; <B>Oilles, ablucions, and metal fusible --</B><BR>
+857 &nbsp; &nbsp; &nbsp; &nbsp; <B>To tellen al wolde passen any bible</B><BR>
+858 &nbsp; &nbsp; &nbsp; &nbsp; <B>That owher is; wherfore, as for the beste,</B><BR>
+859 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of alle thise names now wol I me reste,</B><BR>
+860 &nbsp; &nbsp; &nbsp; &nbsp; <B>For, as I trowe, I have yow toold ynowe</B><BR>
+861 &nbsp; &nbsp; &nbsp; &nbsp; <B>To reyse a feend, al looke he never so rowe.</B><BR>
+862 &nbsp; &nbsp; &nbsp; &nbsp; <B>A! Nay! Lat be; the philosophres stoon,</B><BR>
+863 &nbsp; &nbsp; &nbsp; &nbsp; <B>Elixer clept, we sechen faste echoon;</B><BR>
+864 &nbsp; &nbsp; &nbsp; &nbsp; <B>For hadde we hym, thanne were we siker ynow.</B><BR>
+865 &nbsp; &nbsp; &nbsp; &nbsp; <B>But unto God of hevene I make avow,</B><BR>
+866 &nbsp; &nbsp; &nbsp; &nbsp; <B>For al oure craft, whan we han al ydo,</B><BR>
+867 &nbsp; &nbsp; &nbsp; &nbsp; <B>And al oure sleighte, he wol nat come us to.</B><BR>
+868 &nbsp; &nbsp; &nbsp; &nbsp; <B>He hath ymaad us spenden muchel good,</B><BR>
+869 &nbsp; &nbsp; &nbsp; &nbsp; <B>For sorwe of which almoost we wexen wood,</B><BR>
+870 &nbsp; &nbsp; &nbsp; &nbsp; <B>But that good hope crepeth in oure herte,</B><BR>
+871 &nbsp; &nbsp; &nbsp; &nbsp; <B>Supposynge evere, though we sore smerte,</B><BR>
+872 &nbsp; &nbsp; &nbsp; &nbsp; <B>To be releeved by hym afterward.</B><BR>
+873 &nbsp; &nbsp; &nbsp; &nbsp; <B>Swich supposyng and hope is sharp and hard;</B><BR>
+874 &nbsp; &nbsp; &nbsp; &nbsp; <B>I warne yow wel, it is to seken evere.</B><BR>
+875 &nbsp; &nbsp; &nbsp; &nbsp; <B>That futur temps hath maad men to dissevere,</B><BR>
+876 &nbsp; &nbsp; &nbsp; &nbsp; <B>In trust therof, from al that evere they hadde.</B><BR>
+877 &nbsp; &nbsp; &nbsp; &nbsp; <B>Yet of that art they kan nat wexen sadde,</B><BR>
+878 &nbsp; &nbsp; &nbsp; &nbsp; <B>For unto hem it is a bitter sweete --</B><BR>
+879 &nbsp; &nbsp; &nbsp; &nbsp; <B>So semeth it -- for nadde they but a sheete</B><BR>
+880 &nbsp; &nbsp; &nbsp; &nbsp; <B>Which that they myghte wrappe hem inne a-nyght,</B><BR>
+881 &nbsp; &nbsp; &nbsp; &nbsp; <B>And a brat to walken inne by daylyght,</B><BR>
+882 &nbsp; &nbsp; &nbsp; &nbsp; <B>They wolde hem selle and spenden on this craft.</B><BR>
+883 &nbsp; &nbsp; &nbsp; &nbsp; <B>They kan nat stynte til no thyng be laft.</B><BR>
+884 &nbsp; &nbsp; &nbsp; &nbsp; <B>And everemoore, where that evere they goon,</B><BR>
+885 &nbsp; &nbsp; &nbsp; &nbsp; <B>Men may hem knowe by smel of brymstoon.</B><BR>
+886 &nbsp; &nbsp; &nbsp; &nbsp; <B>For al the world they stynken as a goot;</B><BR>
+887 &nbsp; &nbsp; &nbsp; &nbsp; <B>Hir savour is so rammyssh and so hoot</B><BR>
+888 &nbsp; &nbsp; &nbsp; &nbsp; <B>That though a man from hem a mile be,</B><BR>
+889 &nbsp; &nbsp; &nbsp; &nbsp; <B>The savour wole infecte hym, trusteth me.</B><BR>
+890 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lo, thus by smellyng and threedbare array,</B><BR>
+891 &nbsp; &nbsp; &nbsp; &nbsp; <B>If that men liste, this folk they knowe may.</B><BR>
+892 &nbsp; &nbsp; &nbsp; &nbsp; <B>And if a man wole aske hem pryvely</B><BR>
+893 &nbsp; &nbsp; &nbsp; &nbsp; <B>Why they been clothed so unthriftily,</B><BR>
+894 &nbsp; &nbsp; &nbsp; &nbsp; <B>They right anon wol rownen in his ere,</B><BR>
+895 &nbsp; &nbsp; &nbsp; &nbsp; <B>And seyn that if that they espied were,</B><BR>
+896 &nbsp; &nbsp; &nbsp; &nbsp; <B>Men wolde hem slee by cause of hir science.</B><BR>
+897 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lo, thus this folk bitrayen innocence!</B><BR>
+898 &nbsp; &nbsp; &nbsp; &nbsp; <B>Passe over this; I go my tale unto.</B><BR>
+899 &nbsp; &nbsp; &nbsp; &nbsp; <B>Er that the pot be on the fir ydo,</B><BR>
+900 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of metals with a certeyn quantitee,</B><BR>
+901 &nbsp; &nbsp; &nbsp; &nbsp; <B>My lord hem tempreth, and no man but he --</B><BR>
+902 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now he is goon, I dar seyn boldely --</B><BR>
+903 &nbsp; &nbsp; &nbsp; &nbsp; <B>For, as men seyn, he kan doon craftily.</B><BR>
+904 &nbsp; &nbsp; &nbsp; &nbsp; <B>Algate I woot wel he hath swich a name;</B><BR>
+905 &nbsp; &nbsp; &nbsp; &nbsp; <B>And yet ful ofte he renneth in a blame.</B><BR>
+906 &nbsp; &nbsp; &nbsp; &nbsp; <B>And wite ye how? Ful ofte it happeth so</B><BR>
+907 &nbsp; &nbsp; &nbsp; &nbsp; <B>The pot tobreketh, and farewel, al is go!</B><BR>
+908 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thise metals been of so greet violence</B><BR>
+909 &nbsp; &nbsp; &nbsp; &nbsp; <B>Oure walles mowe nat make hem resistence,</B><BR>
+910 &nbsp; &nbsp; &nbsp; &nbsp; <B>But if they weren wroght of lym and stoon;</B><BR>
+911 &nbsp; &nbsp; &nbsp; &nbsp; <B>They percen so, and thurgh the wal they goon.</B><BR>
+912 &nbsp; &nbsp; &nbsp; &nbsp; <B>And somme of hem synken into the ground --</B><BR>
+913 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thus han we lost by tymes many a pound --</B><BR>
+914 &nbsp; &nbsp; &nbsp; &nbsp; <B>And somme are scatered al the floor aboute;</B><BR>
+915 &nbsp; &nbsp; &nbsp; &nbsp; <B>Somme lepe into the roof. Withouten doute,</B><BR>
+916 &nbsp; &nbsp; &nbsp; &nbsp; <B>Though that the feend noght in oure sighte hym shewe,</B><BR>
+917 &nbsp; &nbsp; &nbsp; &nbsp; <B>I trowe he with us be, that ilke shrewe!</B><BR>
+918 &nbsp; &nbsp; &nbsp; &nbsp; <B>In helle, where that he is lord and sire,</B><BR>
+919 &nbsp; &nbsp; &nbsp; &nbsp; <B>Nis ther moore wo, ne moore rancour ne ire.</B><BR>
+920 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan that oure pot is broke, as I have sayd,</B><BR>
+921 &nbsp; &nbsp; &nbsp; &nbsp; <B>Every man chit and halt hym yvele apayd.</B><BR>
+922 &nbsp; &nbsp; &nbsp; &nbsp; <B>Somme seyde it was long on the fir makyng;</B><BR>
+923 &nbsp; &nbsp; &nbsp; &nbsp; <B>Somme seyde nay, it was on the blowyng --</B><BR>
+924 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thanne was I fered, for that was myn office.</B><BR>
+925 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Straw!" quod the thridde, "ye been lewed and nyce.</B><BR>
+926 &nbsp; &nbsp; &nbsp; &nbsp; <B>It was nat tempred as it oghte be."</B><BR>
+927 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Nay," quod the fourthe, "stynt and herkne me.</B><BR>
+928 &nbsp; &nbsp; &nbsp; &nbsp; <B>By cause oure fir ne was nat maad of beech,</B><BR>
+929 &nbsp; &nbsp; &nbsp; &nbsp; <B>That is the cause and oother noon, so thee'ch!"</B><BR>
+930 &nbsp; &nbsp; &nbsp; &nbsp; <B>I kan nat telle wheron it was long,</B><BR>
+931 &nbsp; &nbsp; &nbsp; &nbsp; <B>But wel I woot greet strif is us among.</B><BR>
+932 &nbsp; &nbsp; &nbsp; &nbsp; <B>"What," quod my lord, "ther is namoore to doone;</B><BR>
+933 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of thise perils I wol be war eftsoone.</B><BR>
+934 &nbsp; &nbsp; &nbsp; &nbsp; <B>I am right siker that the pot was crased.</B><BR>
+935 &nbsp; &nbsp; &nbsp; &nbsp; <B>Be as be may, be ye no thyng amased;</B><BR>
+936 &nbsp; &nbsp; &nbsp; &nbsp; <B>As usage is, lat swepe the floor as swithe,</B><BR>
+937 &nbsp; &nbsp; &nbsp; &nbsp; <B>Plukke up youre hertes and beeth glad and blithe."</B><BR>
+938 &nbsp; &nbsp; &nbsp; &nbsp; <B>The mullok on an heep ysweped was,</B><BR>
+939 &nbsp; &nbsp; &nbsp; &nbsp; <B>And on the floor ycast a canevas,</B><BR>
+940 &nbsp; &nbsp; &nbsp; &nbsp; <B>And al this mullok in a syve ythrowe,</B><BR>
+941 &nbsp; &nbsp; &nbsp; &nbsp; <B>And sifted, and ypiked many a throwe.</B><BR>
+942 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Pardee," quod oon, "somwhat of oure metal</B><BR>
+943 &nbsp; &nbsp; &nbsp; &nbsp; <B>Yet is ther heere, though that we han nat al.</B><BR>
+944 &nbsp; &nbsp; &nbsp; &nbsp; <B>And though this thyng myshapped have as now,</B><BR>
+945 &nbsp; &nbsp; &nbsp; &nbsp; <B>Another tyme it may be well ynow.</B><BR>
+946 &nbsp; &nbsp; &nbsp; &nbsp; <B>Us moste putte oure good in aventure.</B><BR>
+947 &nbsp; &nbsp; &nbsp; &nbsp; <B>A marchant, pardee, may nat ay endure,</B><BR>
+948 &nbsp; &nbsp; &nbsp; &nbsp; <B>Trusteth me wel, in his prosperitee.</B><BR>
+949 &nbsp; &nbsp; &nbsp; &nbsp; <B>Somtyme his good is drowned in the see,</B><BR>
+950 &nbsp; &nbsp; &nbsp; &nbsp; <B>And somtyme comth it sauf unto the londe."</B><BR>
+951 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Pees!" quod my lord, "the nexte tyme I wol fonde</B><BR>
+952 &nbsp; &nbsp; &nbsp; &nbsp; <B>To bryngen oure craft al in another plite,</B><BR>
+953 &nbsp; &nbsp; &nbsp; &nbsp; <B>And but I do, sires, lat me han the wite.</B><BR>
+954 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ther was defaute in somwhat, wel I woot."</B><BR>
+955 &nbsp; &nbsp; &nbsp; &nbsp; <B>Another seyde the fir was over-hoot --</B><BR>
+956 &nbsp; &nbsp; &nbsp; &nbsp; <B>But, be it hoot or coold, I dar seye this,</B><BR>
+957 &nbsp; &nbsp; &nbsp; &nbsp; <B>That we concluden everemoore amys.</B><BR>
+958 &nbsp; &nbsp; &nbsp; &nbsp; <B>We faille of that which that we wolden have,</B><BR>
+959 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in oure madnesse everemoore we rave.</B><BR>
+960 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whan we been togidres everichoon,</B><BR>
+961 &nbsp; &nbsp; &nbsp; &nbsp; <B>Every man semeth a Salomon.</B><BR>
+962 &nbsp; &nbsp; &nbsp; &nbsp; <B>But al thyng which that shineth as the gold</B><BR>
+963 &nbsp; &nbsp; &nbsp; &nbsp; <B>Nis nat gold, as that I have herd told;</B><BR>
+964 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne every appul that is fair at eye</B><BR>
+965 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne is nat good, what so men clappe or crye.</B><BR>
+966 &nbsp; &nbsp; &nbsp; &nbsp; <B>Right so, lo, fareth it amonges us:</B><BR>
+967 &nbsp; &nbsp; &nbsp; &nbsp; <B>He that semeth the wiseste, by Jhesus,</B><BR>
+968 &nbsp; &nbsp; &nbsp; &nbsp; <B>Is moost fool, whan it cometh to the preef;</B><BR>
+969 &nbsp; &nbsp; &nbsp; &nbsp; <B>And he that semeth trewest is a theef.</B><BR>
+970 &nbsp; &nbsp; &nbsp; &nbsp; <B>That shul ye knowe, er that I fro yow wende,</B><BR>
+971 &nbsp; &nbsp; &nbsp; &nbsp; <B>By that I of my tale have maad an ende.</B><BR>
+972 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ther is a chanoun of religioun</B><BR>
+973 &nbsp; &nbsp; &nbsp; &nbsp; <B>Amonges us, wolde infecte al a toun,</B><BR>
+974 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thogh it as greet were as was Nynyvee,</B><BR>
+975 &nbsp; &nbsp; &nbsp; &nbsp; <B>Rome, Alisaundre, Troye, and othere three.</B><BR>
+976 &nbsp; &nbsp; &nbsp; &nbsp; <B>His sleightes and his infinite falsnesse</B><BR>
+977 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ther koude no man writen, as I gesse,</B><BR>
+978 &nbsp; &nbsp; &nbsp; &nbsp; <B>Though that he myghte lyve a thousand yeer.</B><BR>
+979 &nbsp; &nbsp; &nbsp; &nbsp; <B>In al this world of falshede nis his peer,</B><BR>
+980 &nbsp; &nbsp; &nbsp; &nbsp; <B>For in his termes he wol hym so wynde,</B><BR>
+981 &nbsp; &nbsp; &nbsp; &nbsp; <B>And speke his wordes in so sly a kynde,</B><BR>
+982 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whanne he commune shal with any wight,</B><BR>
+983 &nbsp; &nbsp; &nbsp; &nbsp; <B>That he wol make hym doten anonright,</B><BR>
+984 &nbsp; &nbsp; &nbsp; &nbsp; <B>But it a feend be, as hymselven is.</B><BR>
+985 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ful many a man hath he bigiled er this,</B><BR>
+986 &nbsp; &nbsp; &nbsp; &nbsp; <B>And wole, if that he lyve may a while;</B><BR>
+987 &nbsp; &nbsp; &nbsp; &nbsp; <B>And yet men ride and goon ful many a mile</B><BR>
+988 &nbsp; &nbsp; &nbsp; &nbsp; <B>Hym for to seke and have his aqueyntaunce,</B><BR>
+989 &nbsp; &nbsp; &nbsp; &nbsp; <B>Noght knowynge of his false governaunce.</B><BR>
+990 &nbsp; &nbsp; &nbsp; &nbsp; <B>And if yow list to yeve me audience,</B><BR>
+991 &nbsp; &nbsp; &nbsp; &nbsp; <B>I wol it tellen heere in youre presence.</B><BR>
+992 &nbsp; &nbsp; &nbsp; &nbsp; <B>But worshipful chanons religious,</B><BR>
+993 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne demeth nat that I sclaundre youre hous,</B><BR>
+994 &nbsp; &nbsp; &nbsp; &nbsp; <B>Although that my tale of a chanoun bee.</B><BR>
+995 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of every ordre som shrewe is, pardee,</B><BR>
+996 &nbsp; &nbsp; &nbsp; &nbsp; <B>And God forbede that al a compaignye</B><BR>
+997 &nbsp; &nbsp; &nbsp; &nbsp; <B>Sholde rewe o singuleer mannes folye.</B><BR>
+998 &nbsp; &nbsp; &nbsp; &nbsp; <B>To sclaundre yow is no thyng myn entente,</B><BR>
+999 &nbsp; &nbsp; &nbsp; &nbsp; <B>But to correcten that is mys I mente.</B><BR>
+1000 &nbsp; &nbsp; &nbsp; &nbsp; <B>This tale was nat oonly toold for yow,</B><BR>
+1001 &nbsp; &nbsp; &nbsp; &nbsp; <B>But eek for othere mo; ye woot wel how</B><BR>
+1002 &nbsp; &nbsp; &nbsp; &nbsp; <B>That among Cristes apostelles twelve</B><BR>
+1003 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ther nas no traytour but Judas hymselve.</B><BR>
+1004 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thanne why sholde al the remenant have a blame</B><BR>
+1005 &nbsp; &nbsp; &nbsp; &nbsp; <B>That giltlees were? By yow I seye the same,</B><BR>
+1006 &nbsp; &nbsp; &nbsp; &nbsp; <B>Save oonly this, if ye wol herkne me:</B><BR>
+1007 &nbsp; &nbsp; &nbsp; &nbsp; <B>If any Judas in youre covent be,</B><BR>
+1008 &nbsp; &nbsp; &nbsp; &nbsp; <B>Remoeveth hym bitymes, I yow rede,</B><BR>
+1009 &nbsp; &nbsp; &nbsp; &nbsp; <B>If shame or los may causen any drede.</B><BR>
+1010 &nbsp; &nbsp; &nbsp; &nbsp; <B>And beeth no thyng displesed, I yow preye,</B><BR>
+1011 &nbsp; &nbsp; &nbsp; &nbsp; <B>But in this cas herkneth what I shal seye.</B><BR>
+1012 &nbsp; &nbsp; &nbsp; &nbsp; <B>In Londoun was a preest, an annueleer,</B><BR>
+1013 &nbsp; &nbsp; &nbsp; &nbsp; <B>That therinne dwelled hadde many a yeer,</B><BR>
+1014 &nbsp; &nbsp; &nbsp; &nbsp; <B>Which was so plesaunt and so servysable</B><BR>
+1015 &nbsp; &nbsp; &nbsp; &nbsp; <B>Unto the wyf, where as he was at table,</B><BR>
+1016 &nbsp; &nbsp; &nbsp; &nbsp; <B>That she wolde suffre hym no thyng for to paye</B><BR>
+1017 &nbsp; &nbsp; &nbsp; &nbsp; <B>For bord ne clothyng, wente he never so gaye,</B><BR>
+1018 &nbsp; &nbsp; &nbsp; &nbsp; <B>And spendyng silver hadde he right ynow.</B><BR>
+1019 &nbsp; &nbsp; &nbsp; &nbsp; <B>Therof no fors; I wol procede as now,</B><BR>
+1021 &nbsp; &nbsp; &nbsp; &nbsp; <B>That broghte this preest to confusioun.</B><BR>
+1022 &nbsp; &nbsp; &nbsp; &nbsp; <B>This false chanon cam upon a day</B><BR>
+1023 &nbsp; &nbsp; &nbsp; &nbsp; <B>Unto this preestes chambre, wher he lay,</B><BR>
+1024 &nbsp; &nbsp; &nbsp; &nbsp; <B>Bisechynge hym to lene hym a certeyn</B><BR>
+1025 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of gold, and he wolde quite it hym ageyn.</B><BR>
+1026 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Leene me a marc," quod he, "but dayes three,</B><BR>
+1027 &nbsp; &nbsp; &nbsp; &nbsp; <B>And at my day I wol it quiten thee.</B><BR>
+1028 &nbsp; &nbsp; &nbsp; &nbsp; <B>And if so be that thow me fynde fals,</B><BR>
+1029 &nbsp; &nbsp; &nbsp; &nbsp; <B>Another day do hange me by the hals!"</B><BR>
+1030 &nbsp; &nbsp; &nbsp; &nbsp; <B>This preest hym took a marc, and that as swithe,</B><BR>
+1031 &nbsp; &nbsp; &nbsp; &nbsp; <B>And this chanoun hym thanked ofte sithe,</B><BR>
+1032 &nbsp; &nbsp; &nbsp; &nbsp; <B>And took his leve, and wente forth his weye,</B><BR>
+1033 &nbsp; &nbsp; &nbsp; &nbsp; <B>And at the thridde day broghte his moneye,</B><BR>
+1034 &nbsp; &nbsp; &nbsp; &nbsp; <B>And to the preest he took his gold agayn,</B><BR>
+1035 &nbsp; &nbsp; &nbsp; &nbsp; <B>Wherof this preest was wonder glad and fayn.</B><BR>
+1036 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Certes," quod he, "no thyng anoyeth me</B><BR>
+1037 &nbsp; &nbsp; &nbsp; &nbsp; <B>To lene a man a noble, or two, or thre,</B><BR>
+1038 &nbsp; &nbsp; &nbsp; &nbsp; <B>Or what thyng were in my possessioun,</B><BR>
+1039 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan he so trewe is of condicioun</B><BR>
+1040 &nbsp; &nbsp; &nbsp; &nbsp; <B>That in no wise he breke wole his day;</B><BR>
+1041 &nbsp; &nbsp; &nbsp; &nbsp; <B>To swich a man I kan never seye nay."</B><BR>
+1042 &nbsp; &nbsp; &nbsp; &nbsp; <B>"What!" quod this chanoun, "sholde I be untrewe?</B><BR>
+1043 &nbsp; &nbsp; &nbsp; &nbsp; <B>Nay, that were thyng yfallen al of newe.</B><BR>
+1044 &nbsp; &nbsp; &nbsp; &nbsp; <B>Trouthe is a thyng that I wol evere kepe</B><BR>
+1045 &nbsp; &nbsp; &nbsp; &nbsp; <B>Unto that day in which that I shal crepe</B><BR>
+1046 &nbsp; &nbsp; &nbsp; &nbsp; <B>Into my grave, and ellis God forbede.</B><BR>
+1047 &nbsp; &nbsp; &nbsp; &nbsp; <B>Bileveth this as siker as your Crede.</B><BR>
+1048 &nbsp; &nbsp; &nbsp; &nbsp; <B>God thanke I, and in good tyme be it sayd,</B><BR>
+1049 &nbsp; &nbsp; &nbsp; &nbsp; <B>That ther was nevere man yet yvele apayd</B><BR>
+1050 &nbsp; &nbsp; &nbsp; &nbsp; <B>For gold ne silver that he to me lente,</B><BR>
+1051 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne nevere falshede in myn herte I mente.</B><BR>
+1052 &nbsp; &nbsp; &nbsp; &nbsp; <B>And sire," quod he, "now of my pryvetee,</B><BR>
+1053 &nbsp; &nbsp; &nbsp; &nbsp; <B>Syn ye so goodlich han been unto me,</B><BR>
+1054 &nbsp; &nbsp; &nbsp; &nbsp; <B>And kithed to me so greet gentillesse,</B><BR>
+1055 &nbsp; &nbsp; &nbsp; &nbsp; <B>Somwhat to quyte with youre kyndenesse</B><BR>
+1056 &nbsp; &nbsp; &nbsp; &nbsp; <B>I wol yow shewe, and if yow list to leere,</B><BR>
+1057 &nbsp; &nbsp; &nbsp; &nbsp; <B>I wol yow teche pleynly the manere</B><BR>
+1058 &nbsp; &nbsp; &nbsp; &nbsp; <B>How I kan werken in philosophie.</B><BR>
+1059 &nbsp; &nbsp; &nbsp; &nbsp; <B>Taketh good heede; ye shul wel seen at ye</B><BR>
+1060 &nbsp; &nbsp; &nbsp; &nbsp; <B>That I wol doon a maistrie er I go."</B><BR>
+1061 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Ye," quod the preest, "ye, sire, and wol ye so?</B><BR>
+1062 &nbsp; &nbsp; &nbsp; &nbsp; <B>Marie, therof I pray yow hertely."</B><BR>
+1063 &nbsp; &nbsp; &nbsp; &nbsp; <B>"At youre comandement, sire, trewely,"</B><BR>
+1064 &nbsp; &nbsp; &nbsp; &nbsp; <B>Quod the chanoun, "and ellis God forbeede!"</B><BR>
+1065 &nbsp; &nbsp; &nbsp; &nbsp; <B>Loo, how this theef koude his service beede!</B><BR>
+1066 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ful sooth it is that swich profred servyse</B><BR>
+1067 &nbsp; &nbsp; &nbsp; &nbsp; <B>Stynketh, as witnessen thise olde wyse,</B><BR>
+1068 &nbsp; &nbsp; &nbsp; &nbsp; <B>And that ful soone I wol it verifie</B><BR>
+1069 &nbsp; &nbsp; &nbsp; &nbsp; <B>In this chanoun, roote of al trecherie,</B><BR>
+1070 &nbsp; &nbsp; &nbsp; &nbsp; <B>That everemoore delit hath and gladnesse --</B><BR>
+1071 &nbsp; &nbsp; &nbsp; &nbsp; <B>Swiche feendly thoghtes in his herte impresse --</B><BR>
+1072 &nbsp; &nbsp; &nbsp; &nbsp; <B>How Cristes peple he may to meschief brynge.</B><BR>
+1073 &nbsp; &nbsp; &nbsp; &nbsp; <B>God kepe us from his false dissymulynge!</B><BR>
+1074 &nbsp; &nbsp; &nbsp; &nbsp; <B>Noght wiste this preest with whom that he delte,</B><BR>
+1075 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne of his harm comynge he no thyng felte.</B><BR>
+1076 &nbsp; &nbsp; &nbsp; &nbsp; <B>O sely preest! O sely innocent!</B><BR>
+1077 &nbsp; &nbsp; &nbsp; &nbsp; <B>With coveitise anon thou shalt be blent!</B><BR>
+1078 &nbsp; &nbsp; &nbsp; &nbsp; <B>O gracelees, ful blynd is thy conceite,</B><BR>
+1079 &nbsp; &nbsp; &nbsp; &nbsp; <B>No thyng ne artow war of the deceite</B><BR>
+1080 &nbsp; &nbsp; &nbsp; &nbsp; <B>Which that this fox yshapen hath to thee!</B><BR>
+1081 &nbsp; &nbsp; &nbsp; &nbsp; <B>His wily wrenches thou ne mayst nat flee.</B><BR>
+1082 &nbsp; &nbsp; &nbsp; &nbsp; <B>Wherfore, to go to the conclusion,</B><BR>
+1083 &nbsp; &nbsp; &nbsp; &nbsp; <B>That refereth to thy confusion,</B><BR>
+1084 &nbsp; &nbsp; &nbsp; &nbsp; <B>Unhappy man, anon I wol me hye</B><BR>
+1085 &nbsp; &nbsp; &nbsp; &nbsp; <B>To tellen thyn unwit and thy folye,</B><BR>
+1086 &nbsp; &nbsp; &nbsp; &nbsp; <B>And eek the falsnesse of that oother wrecche,</B><BR>
+1087 &nbsp; &nbsp; &nbsp; &nbsp; <B>As ferforth as that my konnyng wol strecche.</B><BR>
+1088 &nbsp; &nbsp; &nbsp; &nbsp; <B>This chanon was my lord, ye wolden weene?</B><BR>
+1089 &nbsp; &nbsp; &nbsp; &nbsp; <B>Sire hoost, in feith, and by the hevenes queene,</B><BR>
+1090 &nbsp; &nbsp; &nbsp; &nbsp; <B>It was another chanoun, and nat hee,</B><BR>
+1091 &nbsp; &nbsp; &nbsp; &nbsp; <B>That kan an hundred foold moore subtiltee.</B><BR>
+1092 &nbsp; &nbsp; &nbsp; &nbsp; <B>He hath bitrayed folkes many tyme;</B><BR>
+1093 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of his falsnesse it dulleth me to ryme.</B><BR>
+1094 &nbsp; &nbsp; &nbsp; &nbsp; <B>Evere whan that I speke of his falshede,</B><BR>
+1095 &nbsp; &nbsp; &nbsp; &nbsp; <B>For shame of hym my chekes wexen rede.</B><BR>
+1096 &nbsp; &nbsp; &nbsp; &nbsp; <B>Algates they bigynnen for to glowe,</B><BR>
+1097 &nbsp; &nbsp; &nbsp; &nbsp; <B>For reednesse have I noon, right wel I knowe,</B><BR>
+1098 &nbsp; &nbsp; &nbsp; &nbsp; <B>In my visage; for fumes diverse</B><BR>
+1099 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of metals, whiche ye han herd me reherce,</B><BR>
+1100 &nbsp; &nbsp; &nbsp; &nbsp; <B>Consumed and wasted han my reednesse.</B><BR>
+1101 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now taak heede of this chanons cursednesse!</B><BR>
+1102 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Sire," quod he to the preest, "lat youre man gon</B><BR>
+1103 &nbsp; &nbsp; &nbsp; &nbsp; <B>For quyksilver, that we it hadde anon;</B><BR>
+1104 &nbsp; &nbsp; &nbsp; &nbsp; <B>And lat hym bryngen ounces two or three;</B><BR>
+1105 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whan he comth, as faste shal ye see</B><BR>
+1106 &nbsp; &nbsp; &nbsp; &nbsp; <B>A wonder thyng, which ye saugh nevere er this."</B><BR>
+1107 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Sire," quod the preest, "it shal be doon, ywis."</B><BR>
+1108 &nbsp; &nbsp; &nbsp; &nbsp; <B>He bad his servant fecchen hym this thyng,</B><BR>
+1109 &nbsp; &nbsp; &nbsp; &nbsp; <B>And he al redy was at his biddyng,</B><BR>
+1110 &nbsp; &nbsp; &nbsp; &nbsp; <B>And wente hym forth, and cam anon agayn</B><BR>
+1111 &nbsp; &nbsp; &nbsp; &nbsp; <B>With this quyksilver, shortly for to sayn,</B><BR>
+1112 &nbsp; &nbsp; &nbsp; &nbsp; <B>And took thise ounces thre to the chanoun;</B><BR>
+1113 &nbsp; &nbsp; &nbsp; &nbsp; <B>And he hem leyde faire and wel adoun,</B><BR>
+1114 &nbsp; &nbsp; &nbsp; &nbsp; <B>And bad the servant coles for to brynge,</B><BR>
+1115 &nbsp; &nbsp; &nbsp; &nbsp; <B>That he anon myghte go to his werkynge.</B><BR>
+1116 &nbsp; &nbsp; &nbsp; &nbsp; <B>The coles right anon weren yfet,</B><BR>
+1117 &nbsp; &nbsp; &nbsp; &nbsp; <B>And this chanoun took out a crosselet</B><BR>
+1118 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of his bosom, and shewed it to the preest.</B><BR>
+1119 &nbsp; &nbsp; &nbsp; &nbsp; <B>"This instrument," quod he, "which that thou seest,</B><BR>
+1120 &nbsp; &nbsp; &nbsp; &nbsp; <B>Taak in thyn hand, and put thyself therinne</B><BR>
+1121 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of this quyksilver an ounce, and heer bigynne,</B><BR>
+1122 &nbsp; &nbsp; &nbsp; &nbsp; <B>In name of Crist, to wexe a philosofre.</B><BR>
+1123 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ther been ful fewe to whiche I wolde profre</B><BR>
+1124 &nbsp; &nbsp; &nbsp; &nbsp; <B>To shewen hem thus muche of my science.</B><BR>
+1125 &nbsp; &nbsp; &nbsp; &nbsp; <B>For ye shul seen heer, by experience,</B><BR>
+1126 &nbsp; &nbsp; &nbsp; &nbsp; <B>That this quyksilver I wol mortifye</B><BR>
+1127 &nbsp; &nbsp; &nbsp; &nbsp; <B>Right in youre sighte anon, withouten lye,</B><BR>
+1128 &nbsp; &nbsp; &nbsp; &nbsp; <B>And make it as good silver and as fyn</B><BR>
+1129 &nbsp; &nbsp; &nbsp; &nbsp; <B>As ther is any in youre purs or myn,</B><BR>
+1130 &nbsp; &nbsp; &nbsp; &nbsp; <B>Or elleswhere, and make it malliable;</B><BR>
+1131 &nbsp; &nbsp; &nbsp; &nbsp; <B>And elles holdeth me fals and unable</B><BR>
+1132 &nbsp; &nbsp; &nbsp; &nbsp; <B>Amonges folk for evere to appeere.</B><BR>
+1133 &nbsp; &nbsp; &nbsp; &nbsp; <B>I have a poudre heer, that coste me deere,</B><BR>
+1134 &nbsp; &nbsp; &nbsp; &nbsp; <B>Shal make al good, for it is cause of al</B><BR>
+1135 &nbsp; &nbsp; &nbsp; &nbsp; <B>My konnyng, which that I yow shewen shal.</B><BR>
+1136 &nbsp; &nbsp; &nbsp; &nbsp; <B>Voyde youre man, and lat hym be theroute,</B><BR>
+1137 &nbsp; &nbsp; &nbsp; &nbsp; <B>And shette the dore, whils we been aboute</B><BR>
+1138 &nbsp; &nbsp; &nbsp; &nbsp; <B>Oure pryvetee, that no man us espie,</B><BR>
+1139 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whils that we werke in this philosophie."</B><BR>
+1140 &nbsp; &nbsp; &nbsp; &nbsp; <B>Al as he bad fulfilled was in dede.</B><BR>
+1141 &nbsp; &nbsp; &nbsp; &nbsp; <B>This ilke servant anonright out yede,</B><BR>
+1142 &nbsp; &nbsp; &nbsp; &nbsp; <B>And his maister shette the dore anon,</B><BR>
+1143 &nbsp; &nbsp; &nbsp; &nbsp; <B>And to hire labour spedily they gon.</B><BR>
+1144 &nbsp; &nbsp; &nbsp; &nbsp; <B>This preest, at this cursed chanons biddyng,</B><BR>
+1145 &nbsp; &nbsp; &nbsp; &nbsp; <B>Upon the fir anon sette this thyng,</B><BR>
+1146 &nbsp; &nbsp; &nbsp; &nbsp; <B>And blew the fir, and bisyed hym ful faste.</B><BR>
+1147 &nbsp; &nbsp; &nbsp; &nbsp; <B>And this chanoun into the crosselet caste</B><BR>
+1148 &nbsp; &nbsp; &nbsp; &nbsp; <B>A poudre, noot I wherof that it was</B><BR>
+1149 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ymaad, outher of chalk, outher of glas,</B><BR>
+1150 &nbsp; &nbsp; &nbsp; &nbsp; <B>Or somwhat elles, was nat worth a flye,</B><BR>
+1151 &nbsp; &nbsp; &nbsp; &nbsp; <B>To blynde with this preest; and bad hym hye</B><BR>
+1152 &nbsp; &nbsp; &nbsp; &nbsp; <B>The coles for to couchen al above</B><BR>
+1153 &nbsp; &nbsp; &nbsp; &nbsp; <B>The crosselet. "For in tokenyng I thee love,"</B><BR>
+1154 &nbsp; &nbsp; &nbsp; &nbsp; <B>Quod this chanoun, "thyne owene handes two</B><BR>
+1155 &nbsp; &nbsp; &nbsp; &nbsp; <B>Shul werche al thyng which that shal heer be do."</B><BR>
+1156 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Graunt mercy," quod the preest, and was ful glad,</B><BR>
+1157 &nbsp; &nbsp; &nbsp; &nbsp; <B>And couched coles as the chanoun bad.</B><BR>
+1158 &nbsp; &nbsp; &nbsp; &nbsp; <B>And while he bisy was, this feendly wrecche,</B><BR>
+1159 &nbsp; &nbsp; &nbsp; &nbsp; <B>This false chanoun -- the foule feend hym fecche! --</B><BR>
+1160 &nbsp; &nbsp; &nbsp; &nbsp; <B>Out of his bosom took a bechen cole,</B><BR>
+1161 &nbsp; &nbsp; &nbsp; &nbsp; <B>In which ful subtilly was maad an hole,</B><BR>
+1162 &nbsp; &nbsp; &nbsp; &nbsp; <B>And therinne put was of silver lemaille</B><BR>
+1163 &nbsp; &nbsp; &nbsp; &nbsp; <B>An ounce, and stopped was, withouten faille,</B><BR>
+1164 &nbsp; &nbsp; &nbsp; &nbsp; <B>This hole with wex, to kepe the lemaille in.</B><BR>
+1165 &nbsp; &nbsp; &nbsp; &nbsp; <B>And understondeth that this false gyn</B><BR>
+1166 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was nat maad ther, but it was maad bifore;</B><BR>
+1167 &nbsp; &nbsp; &nbsp; &nbsp; <B>And othere thynges I shal tellen moore</B><BR>
+1168 &nbsp; &nbsp; &nbsp; &nbsp; <B>Herafterward, whiche that he with hym broghte.</B><BR>
+1169 &nbsp; &nbsp; &nbsp; &nbsp; <B>Er he cam there, hym to bigile he thoghte,</B><BR>
+1170 &nbsp; &nbsp; &nbsp; &nbsp; <B>And so he dide, er that they wente atwynne;</B><BR>
+1171 &nbsp; &nbsp; &nbsp; &nbsp; <B>Til he had terved hym, koude he nat blynne.</B><BR>
+1172 &nbsp; &nbsp; &nbsp; &nbsp; <B>It dulleth me whan that I of hym speke.</B><BR>
+1173 &nbsp; &nbsp; &nbsp; &nbsp; <B>On his falshede fayn wolde I me wreke,</B><BR>
+1174 &nbsp; &nbsp; &nbsp; &nbsp; <B>If I wiste how, but he is heere and there;</B><BR>
+1175 &nbsp; &nbsp; &nbsp; &nbsp; <B>He is so variaunt, he abit nowhere.</B><BR>
+1176 &nbsp; &nbsp; &nbsp; &nbsp; <B>But taketh heede now, sires, for Goddes love!</B><BR>
+1177 &nbsp; &nbsp; &nbsp; &nbsp; <B>He took his cole of which I spak above,</B><BR>
+1178 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in his hand he baar it pryvely.</B><BR>
+1179 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whiles the preest couched bisily</B><BR>
+1180 &nbsp; &nbsp; &nbsp; &nbsp; <B>The coles, as I tolde yow er this,</B><BR>
+1181 &nbsp; &nbsp; &nbsp; &nbsp; <B>This chanoun seyde, "Freend, ye doon amys.</B><BR>
+1182 &nbsp; &nbsp; &nbsp; &nbsp; <B>This is nat couched as it oghte be;</B><BR>
+1183 &nbsp; &nbsp; &nbsp; &nbsp; <B>But soone I shal amenden it," quod he.</B><BR>
+1184 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Now lat me medle therwith but a while,</B><BR>
+1185 &nbsp; &nbsp; &nbsp; &nbsp; <B>For of yow have I pitee, by Seint Gile!</B><BR>
+1186 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ye been right hoot; I se wel how ye swete.</B><BR>
+1187 &nbsp; &nbsp; &nbsp; &nbsp; <B>Have heere a clooth, and wipe awey the wete."</B><BR>
+1188 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whiles that the preest wiped his face,</B><BR>
+1189 &nbsp; &nbsp; &nbsp; &nbsp; <B>This chanoun took his cole -- with sory grace! --</B><BR>
+1190 &nbsp; &nbsp; &nbsp; &nbsp; <B>And leyde it above upon the myddeward</B><BR>
+1191 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of the crosselet, and blew wel afterward</B><BR>
+1192 &nbsp; &nbsp; &nbsp; &nbsp; <B>Til that the coles gonne faste brenne.</B><BR>
+1193 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Now yeve us drynke," quod the chanoun thenne;</B><BR>
+1194 &nbsp; &nbsp; &nbsp; &nbsp; <B>"As swithe al shal be wel, I undertake.</B><BR>
+1195 &nbsp; &nbsp; &nbsp; &nbsp; <B>Sitte we doun, and lat us myrie make."</B><BR>
+1196 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whan that this chanounes bechen cole</B><BR>
+1197 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was brent, al the lemaille out of the hole</B><BR>
+1198 &nbsp; &nbsp; &nbsp; &nbsp; <B>Into the crosselet fil anon adoun;</B><BR>
+1199 &nbsp; &nbsp; &nbsp; &nbsp; <B>And so it moste nedes, by resoun,</B><BR>
+1200 &nbsp; &nbsp; &nbsp; &nbsp; <B>Syn it so evene above couched was.</B><BR>
+1201 &nbsp; &nbsp; &nbsp; &nbsp; <B>But therof wiste the preest nothyng, alas!</B><BR>
+1202 &nbsp; &nbsp; &nbsp; &nbsp; <B>He demed alle the coles yliche good,</B><BR>
+1203 &nbsp; &nbsp; &nbsp; &nbsp; <B>For of that sleighte he nothyng understood.</B><BR>
+1204 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whan this alkamystre saugh his tyme,</B><BR>
+1205 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Ris up," quod he, "sire preest, and stondeth by me;</B><BR>
+1206 &nbsp; &nbsp; &nbsp; &nbsp; <B>And for I woot wel ingot have ye noon,</B><BR>
+1207 &nbsp; &nbsp; &nbsp; &nbsp; <B>Gooth, walketh forth, and bryngeth a chalk stoon;</B><BR>
+1208 &nbsp; &nbsp; &nbsp; &nbsp; <B>For I wol make it of the same shap</B><BR>
+1209 &nbsp; &nbsp; &nbsp; &nbsp; <B>That is an ingot, if I may han hap.</B><BR>
+1210 &nbsp; &nbsp; &nbsp; &nbsp; <B>And bryngeth eek with yow a bolle or a panne</B><BR>
+1211 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ful of water, and ye shul se wel thanne</B><BR>
+1212 &nbsp; &nbsp; &nbsp; &nbsp; <B>How that oure bisynesse shal thryve and preeve.</B><BR>
+1213 &nbsp; &nbsp; &nbsp; &nbsp; <B>And yet, for ye shul han no mysbileeve</B><BR>
+1214 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne wrong conceite of me in youre absence,</B><BR>
+1215 &nbsp; &nbsp; &nbsp; &nbsp; <B>I ne wol nat been out of youre presence,</B><BR>
+1216 &nbsp; &nbsp; &nbsp; &nbsp; <B>But go with yow and come with yow ageyn."</B><BR>
+1217 &nbsp; &nbsp; &nbsp; &nbsp; <B>The chambre dore, shortly for to seyn,</B><BR>
+1218 &nbsp; &nbsp; &nbsp; &nbsp; <B>They opened and shette, and wente hir weye.</B><BR>
+1219 &nbsp; &nbsp; &nbsp; &nbsp; <B>And forth with hem they carieden the keye,</B><BR>
+1220 &nbsp; &nbsp; &nbsp; &nbsp; <B>And coome agayn withouten any delay.</B><BR>
+1221 &nbsp; &nbsp; &nbsp; &nbsp; <B>What sholde I tarien al the longe day?</B><BR>
+1222 &nbsp; &nbsp; &nbsp; &nbsp; <B>He took the chalk and shoop it in the wise</B><BR>
+1223 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of an ingot, as I shal yow devyse.</B><BR>
+1224 &nbsp; &nbsp; &nbsp; &nbsp; <B>I seye, he took out of his owene sleeve</B><BR>
+1225 &nbsp; &nbsp; &nbsp; &nbsp; <B>A teyne of silver -- yvele moot he cheeve! --</B><BR>
+1226 &nbsp; &nbsp; &nbsp; &nbsp; <B>Which that ne was nat but an ounce of weighte.</B><BR>
+1227 &nbsp; &nbsp; &nbsp; &nbsp; <B>And taaketh heede now of his cursed sleighte!</B><BR>
+1228 &nbsp; &nbsp; &nbsp; &nbsp; <B>He shoop his ingot in lengthe and in breede</B><BR>
+1229 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of this teyne, withouten any drede,</B><BR>
+1230 &nbsp; &nbsp; &nbsp; &nbsp; <B>So slyly that the preest it nat espide,</B><BR>
+1231 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in his sleve agayn he gan it hide,</B><BR>
+1232 &nbsp; &nbsp; &nbsp; &nbsp; <B>And fro the fir he took up his mateere,</B><BR>
+1233 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in th'yngot putte it with myrie cheere,</B><BR>
+1234 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in the water-vessel he it caste,</B><BR>
+1235 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan that hym luste, and bad the preest as faste,</B><BR>
+1236 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Loke what ther is; put in thyn hand and grope.</B><BR>
+1237 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thow fynde shalt ther silver, as I hope."</B><BR>
+1238 &nbsp; &nbsp; &nbsp; &nbsp; <B>What, devel of helle, sholde it elles be?</B><BR>
+1239 &nbsp; &nbsp; &nbsp; &nbsp; <B>Shaving of silver silver is, pardee!</B><BR>
+1240 &nbsp; &nbsp; &nbsp; &nbsp; <B>He putte his hand in and took up a teyne</B><BR>
+1241 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of silver fyn, and glad in every veyne</B><BR>
+1242 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was this preest, whan he saugh it was so.</B><BR>
+1243 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Goddes blessyng, and his moodres also,</B><BR>
+1244 &nbsp; &nbsp; &nbsp; &nbsp; <B>And alle halwes, have ye, sire chanoun,"</B><BR>
+1245 &nbsp; &nbsp; &nbsp; &nbsp; <B>Seyde the preest, "and I hir malisoun,</B><BR>
+1246 &nbsp; &nbsp; &nbsp; &nbsp; <B>But, and ye vouche-sauf to techen me</B><BR>
+1247 &nbsp; &nbsp; &nbsp; &nbsp; <B>This noble craft and this subtilitee,</B><BR>
+1248 &nbsp; &nbsp; &nbsp; &nbsp; <B>I wol be youre in al that evere I may."</B><BR>
+1249 &nbsp; &nbsp; &nbsp; &nbsp; <B>Quod the chanoun, "Yet wol I make assay</B><BR>
+1250 &nbsp; &nbsp; &nbsp; &nbsp; <B>The seconde tyme, that ye may taken heede</B><BR>
+1251 &nbsp; &nbsp; &nbsp; &nbsp; <B>And been expert of this, and in youre neede</B><BR>
+1252 &nbsp; &nbsp; &nbsp; &nbsp; <B>Another day assaye in myn absence</B><BR>
+1253 &nbsp; &nbsp; &nbsp; &nbsp; <B>This disciplyne and this crafty science.</B><BR>
+1254 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lat take another ounce," quod he tho,</B><BR>
+1255 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Of quyksilver, withouten wordes mo,</B><BR>
+1256 &nbsp; &nbsp; &nbsp; &nbsp; <B>And do therwith as ye han doon er this</B><BR>
+1257 &nbsp; &nbsp; &nbsp; &nbsp; <B>With that oother, which that now silver is."</B><BR>
+1258 &nbsp; &nbsp; &nbsp; &nbsp; <B>This preest hym bisieth in al that he kan</B><BR>
+1259 &nbsp; &nbsp; &nbsp; &nbsp; <B>To doon as this chanoun, this cursed man,</B><BR>
+1260 &nbsp; &nbsp; &nbsp; &nbsp; <B>Comanded hym, and faste blew the fir,</B><BR>
+1261 &nbsp; &nbsp; &nbsp; &nbsp; <B>For to come to th' effect of his desir.</B><BR>
+1262 &nbsp; &nbsp; &nbsp; &nbsp; <B>And this chanon, right in the meene while,</B><BR>
+1263 &nbsp; &nbsp; &nbsp; &nbsp; <B>Al redy was this preest eft to bigile,</B><BR>
+1264 &nbsp; &nbsp; &nbsp; &nbsp; <B>And for a contenaunce in his hand he bar</B><BR>
+1265 &nbsp; &nbsp; &nbsp; &nbsp; <B>An holwe stikke -- taak kep and be war! --</B><BR>
+1266 &nbsp; &nbsp; &nbsp; &nbsp; <B>In the ende of which an ounce, and namoore,</B><BR>
+1267 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of silver lemaille put was, as bifore</B><BR>
+1268 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was in his cole, and stopped with wex weel</B><BR>
+1269 &nbsp; &nbsp; &nbsp; &nbsp; <B>For to kepe in his lemaille every deel.</B><BR>
+1270 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whil this preest was in his bisynesse,</B><BR>
+1271 &nbsp; &nbsp; &nbsp; &nbsp; <B>This chanoun with his stikke gan hym dresse</B><BR>
+1272 &nbsp; &nbsp; &nbsp; &nbsp; <B>To hym anon, and his poudre caste in</B><BR>
+1273 &nbsp; &nbsp; &nbsp; &nbsp; <B>As he dide er -- the devel out of his skyn</B><BR>
+1274 &nbsp; &nbsp; &nbsp; &nbsp; <B>Hym terve, I pray to God, for his falshede!</B><BR>
+1275 &nbsp; &nbsp; &nbsp; &nbsp; <B>For he was evere fals in thoght and dede --</B><BR>
+1276 &nbsp; &nbsp; &nbsp; &nbsp; <B>And with this stikke, above the crosselet,</B><BR>
+1277 &nbsp; &nbsp; &nbsp; &nbsp; <B>That was ordeyned with that false jet,</B><BR>
+1278 &nbsp; &nbsp; &nbsp; &nbsp; <B>He stired the coles til relente gan</B><BR>
+1279 &nbsp; &nbsp; &nbsp; &nbsp; <B>The wex agayn the fir, as every man,</B><BR>
+1280 &nbsp; &nbsp; &nbsp; &nbsp; <B>But it a fool be, woot wel it moot nede,</B><BR>
+1281 &nbsp; &nbsp; &nbsp; &nbsp; <B>And al that in the stikke was out yede,</B><BR>
+1282 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in the crosselet hastily it fel.</B><BR>
+1283 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now, good sires, what wol ye bet than wel?</B><BR>
+1284 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan that this preest thus was bigiled ageyn,</B><BR>
+1285 &nbsp; &nbsp; &nbsp; &nbsp; <B>Supposynge noght but treuthe, sooth to seyn,</B><BR>
+1286 &nbsp; &nbsp; &nbsp; &nbsp; <B>He was so glad that I kan nat expresse</B><BR>
+1287 &nbsp; &nbsp; &nbsp; &nbsp; <B>In no manere his myrthe and his gladnesse;</B><BR>
+1288 &nbsp; &nbsp; &nbsp; &nbsp; <B>And to the chanoun he profred eftsoone</B><BR>
+1289 &nbsp; &nbsp; &nbsp; &nbsp; <B>Body and good. "Ye," quod the chanoun soone,</B><BR>
+1290 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Though poure I be, crafty thou shalt me fynde.</B><BR>
+1291 &nbsp; &nbsp; &nbsp; &nbsp; <B>I warne thee, yet is ther moore bihynde.</B><BR>
+1292 &nbsp; &nbsp; &nbsp; &nbsp; <B>Is ther any coper herinne?" seyde he.</B><BR>
+1293 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Ye," quod the preest, "sire, I trowe wel ther be."</B><BR>
+1294 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Elles go bye us som, and that as swithe;</B><BR>
+1295 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now, goode sire, go forth thy wey and hy the."</B><BR>
+1296 &nbsp; &nbsp; &nbsp; &nbsp; <B>He wente his wey, and with the coper cam,</B><BR>
+1297 &nbsp; &nbsp; &nbsp; &nbsp; <B>And this chanon it in his handes nam,</B><BR>
+1298 &nbsp; &nbsp; &nbsp; &nbsp; <B>And of that coper weyed out but an ounce.</B><BR>
+1299 &nbsp; &nbsp; &nbsp; &nbsp; <B>Al to symple is my tonge to pronounce,</B><BR>
+1300 &nbsp; &nbsp; &nbsp; &nbsp; <B>As ministre of my wit, the doublenesse</B><BR>
+1301 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of this chanoun, roote of alle cursednesse!</B><BR>
+1302 &nbsp; &nbsp; &nbsp; &nbsp; <B>He semed freendly to hem that knewe hym noght,</B><BR>
+1303 &nbsp; &nbsp; &nbsp; &nbsp; <B>But he was feendly bothe in werk and thoght.</B><BR>
+1304 &nbsp; &nbsp; &nbsp; &nbsp; <B>It weerieth me to telle of his falsnesse,</B><BR>
+1305 &nbsp; &nbsp; &nbsp; &nbsp; <B>And nathelees yet wol I it expresse,</B><BR>
+1306 &nbsp; &nbsp; &nbsp; &nbsp; <B>To th'entente that men may be war therby,</B><BR>
+1307 &nbsp; &nbsp; &nbsp; &nbsp; <B>And for noon oother cause, trewely.</B><BR>
+1308 &nbsp; &nbsp; &nbsp; &nbsp; <B>He putte this ounce of coper in the crosselet,</B><BR>
+1309 &nbsp; &nbsp; &nbsp; &nbsp; <B>And on the fir as swithe he hath it set,</B><BR>
+1310 &nbsp; &nbsp; &nbsp; &nbsp; <B>And caste in poudre, and made the preest to blowe,</B><BR>
+1311 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in his werkyng for to stoupe lowe,</B><BR>
+1312 &nbsp; &nbsp; &nbsp; &nbsp; <B>As he dide er -- and al nas but a jape;</B><BR>
+1313 &nbsp; &nbsp; &nbsp; &nbsp; <B>Right as hym liste, the preest he made his ape!</B><BR>
+1314 &nbsp; &nbsp; &nbsp; &nbsp; <B>And afterward in the ingot he it caste,</B><BR>
+1315 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in the panne putte it at the laste</B><BR>
+1316 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of water, and in he putte his owene hand,</B><BR>
+1317 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in his sleve (as ye biforen-hand</B><BR>
+1318 &nbsp; &nbsp; &nbsp; &nbsp; <B>Herde me telle) he hadde a silver teyne.</B><BR>
+1319 &nbsp; &nbsp; &nbsp; &nbsp; <B>He slyly took it out, this cursed heyne,</B><BR>
+1320 &nbsp; &nbsp; &nbsp; &nbsp; <B>Unwityng this preest of his false craft,</B><BR>
+1321 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in the pannes botme he hath it laft;</B><BR>
+1322 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in the water rombled to and fro,</B><BR>
+1323 &nbsp; &nbsp; &nbsp; &nbsp; <B>And wonder pryvely took up also</B><BR>
+1324 &nbsp; &nbsp; &nbsp; &nbsp; <B>The coper teyne, noght knowynge this preest,</B><BR>
+1325 &nbsp; &nbsp; &nbsp; &nbsp; <B>And hidde it, and hym hente by the breest,</B><BR>
+1326 &nbsp; &nbsp; &nbsp; &nbsp; <B>And to hym spak, and thus seyde in his game:</B><BR>
+1327 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Stoupeth adoun. By God, ye be to blame!</B><BR>
+1328 &nbsp; &nbsp; &nbsp; &nbsp; <B>Helpeth me now, as I dide yow whileer;</B><BR>
+1329 &nbsp; &nbsp; &nbsp; &nbsp; <B>Putte in youre hand, and looketh what is theer."</B><BR>
+1330 &nbsp; &nbsp; &nbsp; &nbsp; <B>This preest took up this silver teyne anon,</B><BR>
+1331 &nbsp; &nbsp; &nbsp; &nbsp; <B>And thanne seyde the chanoun, "Lat us gon</B><BR>
+1332 &nbsp; &nbsp; &nbsp; &nbsp; <B>With thise thre teynes, whiche that we han wroght,</B><BR>
+1333 &nbsp; &nbsp; &nbsp; &nbsp; <B>To som goldsmyth and wite if they been oght,</B><BR>
+1334 &nbsp; &nbsp; &nbsp; &nbsp; <B>For, by my feith, I nolde, for myn hood,</B><BR>
+1335 &nbsp; &nbsp; &nbsp; &nbsp; <B>But if that they were silver fyn and good,</B><BR>
+1336 &nbsp; &nbsp; &nbsp; &nbsp; <B>And that as swithe preeved it shal bee."</B><BR>
+1337 &nbsp; &nbsp; &nbsp; &nbsp; <B>Unto the goldsmyth with thise teynes three</B><BR>
+1338 &nbsp; &nbsp; &nbsp; &nbsp; <B>They wente and putte thise teynes in assay</B><BR>
+1339 &nbsp; &nbsp; &nbsp; &nbsp; <B>To fir and hamer; myghte no man seye nay,</B><BR>
+1340 &nbsp; &nbsp; &nbsp; &nbsp; <B>But that they weren as hem oghte be.</B><BR>
+1341 &nbsp; &nbsp; &nbsp; &nbsp; <B>This sotted preest, who was gladder than he?</B><BR>
+1342 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was nevere brid gladder agayn the day,</B><BR>
+1343 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne nyghtyngale, in the sesoun of May,</B><BR>
+1344 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was nevere noon that luste bet to synge;</B><BR>
+1345 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne lady lustier in carolynge,</B><BR>
+1346 &nbsp; &nbsp; &nbsp; &nbsp; <B>Or for to speke of love and wommanhede,</B><BR>
+1347 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne knyght in armes to doon an hardy dede,</B><BR>
+1348 &nbsp; &nbsp; &nbsp; &nbsp; <B>To stonden in grace of his lady deere,</B><BR>
+1349 &nbsp; &nbsp; &nbsp; &nbsp; <B>Than hadde this preest this soory craft to leere.</B><BR>
+1350 &nbsp; &nbsp; &nbsp; &nbsp; <B>And to the chanoun thus he spak and seyde:</B><BR>
+1351 &nbsp; &nbsp; &nbsp; &nbsp; <B>"For love of God, that for us alle deyde,</B><BR>
+1352 &nbsp; &nbsp; &nbsp; &nbsp; <B>And as I may deserve it unto yow,</B><BR>
+1353 &nbsp; &nbsp; &nbsp; &nbsp; <B>What shal this receite coste? Telleth now!"</B><BR>
+1354 &nbsp; &nbsp; &nbsp; &nbsp; <B>"By oure Lady," quod this chanon, "it is deere,</B><BR>
+1355 &nbsp; &nbsp; &nbsp; &nbsp; <B>I warne yow wel; for save I and a frere,</B><BR>
+1356 &nbsp; &nbsp; &nbsp; &nbsp; <B>In Engelond ther kan no man it make."</B><BR>
+1357 &nbsp; &nbsp; &nbsp; &nbsp; <B>"No fors," quod he, "now, sire, for Goddes sake,</B><BR>
+1358 &nbsp; &nbsp; &nbsp; &nbsp; <B>What shal I paye? Telleth me, I preye."</B><BR>
+1359 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Ywis," quod he, "it is ful deere, I seye.</B><BR>
+1360 &nbsp; &nbsp; &nbsp; &nbsp; <B>Sire, at o word, if that thee list it have,</B><BR>
+1361 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ye shul paye fourty pound, so God me save!</B><BR>
+1362 &nbsp; &nbsp; &nbsp; &nbsp; <B>And nere the freendshipe that ye dide er this</B><BR>
+1363 &nbsp; &nbsp; &nbsp; &nbsp; <B>To me, ye sholde paye moore, ywis."</B><BR>
+1364 &nbsp; &nbsp; &nbsp; &nbsp; <B>This preest the somme of fourty pound anon</B><BR>
+1365 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of nobles fette, and took hem everichon</B><BR>
+1366 &nbsp; &nbsp; &nbsp; &nbsp; <B>To this chanoun for this ilke receite.</B><BR>
+1367 &nbsp; &nbsp; &nbsp; &nbsp; <B>Al his werkyng nas but fraude and deceite.</B><BR>
+1368 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Sire preest," he seyde, "I kepe han no loos</B><BR>
+1369 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of my craft, for I wolde it kept were cloos;</B><BR>
+1370 &nbsp; &nbsp; &nbsp; &nbsp; <B>And, as ye love me, kepeth it secree.</B><BR>
+1371 &nbsp; &nbsp; &nbsp; &nbsp; <B>For, and men knewen al my soutiltee,</B><BR>
+1372 &nbsp; &nbsp; &nbsp; &nbsp; <B>By God, they wolden han so greet envye</B><BR>
+1373 &nbsp; &nbsp; &nbsp; &nbsp; <B>To me by cause of my philosophye</B><BR>
+1374 &nbsp; &nbsp; &nbsp; &nbsp; <B>I sholde be deed; ther were noon oother weye."</B><BR>
+1375 &nbsp; &nbsp; &nbsp; &nbsp; <B>"God it forbeede," quod the preest, "what sey ye?</B><BR>
+1376 &nbsp; &nbsp; &nbsp; &nbsp; <B>Yet hadde I levere spenden al the good</B><BR>
+1377 &nbsp; &nbsp; &nbsp; &nbsp; <B>Which that I have, and elles wexe I wood,</B><BR>
+1378 &nbsp; &nbsp; &nbsp; &nbsp; <B>Than that ye sholden falle in swich mescheef."</B><BR>
+1379 &nbsp; &nbsp; &nbsp; &nbsp; <B>"For youre good wyl, sire, have ye right good preef,"</B><BR>
+1380 &nbsp; &nbsp; &nbsp; &nbsp; <B>Quod the chanoun, "and farwel, grant mercy!"</B><BR>
+1381 &nbsp; &nbsp; &nbsp; &nbsp; <B>He wente his wey, and never the preest hym sy</B><BR>
+1382 &nbsp; &nbsp; &nbsp; &nbsp; <B>After that day; and whan that this preest shoolde</B><BR>
+1383 &nbsp; &nbsp; &nbsp; &nbsp; <B>Maken assay, at swich tyme as he wolde,</B><BR>
+1384 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of this receit, farwel! It wolde nat be.</B><BR>
+1385 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lo, thus byjaped and bigiled was he!</B><BR>
+1386 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thus maketh he his introduccioun,</B><BR>
+1387 &nbsp; &nbsp; &nbsp; &nbsp; <B>To brynge folk to hir destruccioun.</B><BR>
+1388 &nbsp; &nbsp; &nbsp; &nbsp; <B>Considereth, sires, how that, in ech estaat,</B><BR>
+1389 &nbsp; &nbsp; &nbsp; &nbsp; <B>Bitwixe men and gold ther is debaat</B><BR>
+1390 &nbsp; &nbsp; &nbsp; &nbsp; <B>So ferforth that unnethes is ther noon.</B><BR>
+1391 &nbsp; &nbsp; &nbsp; &nbsp; <B>This multiplying blent so many oon</B><BR>
+1392 &nbsp; &nbsp; &nbsp; &nbsp; <B>That in good feith I trowe that it bee</B><BR>
+1393 &nbsp; &nbsp; &nbsp; &nbsp; <B>The cause grettest of swich scarsetee.</B><BR>
+1394 &nbsp; &nbsp; &nbsp; &nbsp; <B>Philosophres speken so mystily</B><BR>
+1395 &nbsp; &nbsp; &nbsp; &nbsp; <B>In this craft that men kan nat come therby,</B><BR>
+1396 &nbsp; &nbsp; &nbsp; &nbsp; <B>For any wit that men han now-a-dayes.</B><BR>
+1397 &nbsp; &nbsp; &nbsp; &nbsp; <B>They mowe wel chiteren as doon jayes,</B><BR>
+1398 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in hir termes sette hir lust and peyne,</B><BR>
+1399 &nbsp; &nbsp; &nbsp; &nbsp; <B>But to hir purpos shul they nevere atteyne.</B><BR>
+1400 &nbsp; &nbsp; &nbsp; &nbsp; <B>A man may lightly lerne, if he have aught,</B><BR>
+1401 &nbsp; &nbsp; &nbsp; &nbsp; <B>To multiplie, and brynge his good to naught!</B><BR>
+1402 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lo! swich a lucre is in this lusty game,</B><BR>
+1403 &nbsp; &nbsp; &nbsp; &nbsp; <B>A mannes myrthe it wol turne unto grame,</B><BR>
+1404 &nbsp; &nbsp; &nbsp; &nbsp; <B>And empten also grete and hevye purses,</B><BR>
+1405 &nbsp; &nbsp; &nbsp; &nbsp; <B>And maken folk for to purchacen curses</B><BR>
+1406 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of hem that han hir good therto ylent.</B><BR>
+1407 &nbsp; &nbsp; &nbsp; &nbsp; <B>O, fy, for shame! They that han been brent,</B><BR>
+1408 &nbsp; &nbsp; &nbsp; &nbsp; <B>Allas, kan they nat flee the fires heete?</B><BR>
+1409 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ye that it use, I rede ye it leete,</B><BR>
+1410 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lest ye lese al; for bet than nevere is late.</B><BR>
+1411 &nbsp; &nbsp; &nbsp; &nbsp; <B>Nevere to thryve were to long a date.</B><BR>
+1412 &nbsp; &nbsp; &nbsp; &nbsp; <B>Though ye prolle ay, ye shul it nevere fynde.</B><BR>
+1413 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ye been as boold as is Bayard the blynde,</B><BR>
+1414 &nbsp; &nbsp; &nbsp; &nbsp; <B>That blondreth forth and peril casteth noon.</B><BR>
+1415 &nbsp; &nbsp; &nbsp; &nbsp; <B>He is as boold to renne agayn a stoon</B><BR>
+1416 &nbsp; &nbsp; &nbsp; &nbsp; <B>As for to goon bisides in the weye.</B><BR>
+1417 &nbsp; &nbsp; &nbsp; &nbsp; <B>So faren ye that multiplie, I seye.</B><BR>
+1418 &nbsp; &nbsp; &nbsp; &nbsp; <B>If that youre eyen kan nat seen aright,</B><BR>
+1419 &nbsp; &nbsp; &nbsp; &nbsp; <B>Looke that youre mynde lakke noght his sight.</B><BR>
+1420 &nbsp; &nbsp; &nbsp; &nbsp; <B>For though ye looken never so brode and stare,</B><BR>
+1421 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ye shul nothyng wynne on that chaffare,</B><BR>
+1422 &nbsp; &nbsp; &nbsp; &nbsp; <B>But wasten al that ye may rape and renne.</B><BR>
+1423 &nbsp; &nbsp; &nbsp; &nbsp; <B>Withdraweth the fir, lest it to faste brenne;</B><BR>
+1424 &nbsp; &nbsp; &nbsp; &nbsp; <B>Medleth namoore with that art, I mene,</B><BR>
+1425 &nbsp; &nbsp; &nbsp; &nbsp; <B>For if ye doon, youre thrift is goon ful clene.</B><BR>
+1426 &nbsp; &nbsp; &nbsp; &nbsp; <B>And right as swithe I wol yow tellen heere</B><BR>
+1427 &nbsp; &nbsp; &nbsp; &nbsp; <B>What philosophres seyn in this mateere.</B><BR>
+1428 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lo, thus seith Arnold of the Newe Toun,</B><BR>
+1429 &nbsp; &nbsp; &nbsp; &nbsp; <B>As his Rosarie maketh mencioun;</B><BR>
+1430 &nbsp; &nbsp; &nbsp; &nbsp; <B>He seith right thus, withouten any lye:</B><BR>
+1431 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Ther may no man mercurie mortifie</B><BR>
+1432 &nbsp; &nbsp; &nbsp; &nbsp; <B>But it be with his brother knowlechyng";</B><BR>
+1433 &nbsp; &nbsp; &nbsp; &nbsp; <B>How [be] that he which that first seyde this thyng</B><BR>
+1434 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of philosophres fader was, Hermes;</B><BR>
+1435 &nbsp; &nbsp; &nbsp; &nbsp; <B>He seith how that the dragon, doutelees,</B><BR>
+1436 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne dyeth nat but if that he be slayn</B><BR>
+1437 &nbsp; &nbsp; &nbsp; &nbsp; <B>With his brother; and that is for to sayn,</B><BR>
+1438 &nbsp; &nbsp; &nbsp; &nbsp; <B>By the dragon, Mercurie, and noon oother</B><BR>
+1439 &nbsp; &nbsp; &nbsp; &nbsp; <B>He understood, and brymstoon by his brother,</B><BR>
+1440 &nbsp; &nbsp; &nbsp; &nbsp; <B>That out of Sol and Luna were ydrawe.</B><BR>
+1441 &nbsp; &nbsp; &nbsp; &nbsp; <B>"And therfore," seyde he -- taak heede to my sawe --</B><BR>
+1442 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Lat no man bisye hym this art for to seche,</B><BR>
+1443 &nbsp; &nbsp; &nbsp; &nbsp; <B>But if that he th'entencioun and speche</B><BR>
+1444 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of philosophres understonde kan;</B><BR>
+1445 &nbsp; &nbsp; &nbsp; &nbsp; <B>And if he do, he is a lewed man.</B><BR>
+1446 &nbsp; &nbsp; &nbsp; &nbsp; <B>For this science and this konnyng," quod he,</B><BR>
+1447 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Is of the secree of the secretes, pardee."</B><BR>
+1448 &nbsp; &nbsp; &nbsp; &nbsp; <B>Also ther was a disciple of Plato,</B><BR>
+1449 &nbsp; &nbsp; &nbsp; &nbsp; <B>That on a tyme seyde his maister to,</B><BR>
+1450 &nbsp; &nbsp; &nbsp; &nbsp; <B>As his book Senior wol bere witnesse,</B><BR>
+1451 &nbsp; &nbsp; &nbsp; &nbsp; <B>And this was his demande in soothfastnesse:</B><BR>
+1452 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Telle me the name of the privee stoon."</B><BR>
+1453 &nbsp; &nbsp; &nbsp; &nbsp; <B>And Plato answerde unto hym anoon,</B><BR>
+1454 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Take the stoon that men name Titanos."</B><BR>
+1455 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Which is that?" quod he. "Magnasia is the same,"</B><BR>
+1456 &nbsp; &nbsp; &nbsp; &nbsp; <B>Seyde Plato. "Ye, sire, and is it thus?</B><BR>
+1457 &nbsp; &nbsp; &nbsp; &nbsp; <B>This is ignotum per ignocius.</B><BR>
+1458 &nbsp; &nbsp; &nbsp; &nbsp; <B>What is Magnasia, good sire, I yow preye?"</B><BR>
+1459 &nbsp; &nbsp; &nbsp; &nbsp; <B>"It is a water that is maad, I seye,</B><BR>
+1460 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of elementes foure," quod Plato.</B><BR>
+1461 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Telle me the roote, good sire," quod he tho,</B><BR>
+1462 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Of that water, if it be youre wil."</B><BR>
+1463 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Nay, nay," quod Plato, "certein, that I nyl.</B><BR>
+1464 &nbsp; &nbsp; &nbsp; &nbsp; <B>The philosophres sworn were everychoon</B><BR>
+1465 &nbsp; &nbsp; &nbsp; &nbsp; <B>That they sholden discovere it unto noon,</B><BR>
+1466 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne in no book it write in no manere.</B><BR>
+1467 &nbsp; &nbsp; &nbsp; &nbsp; <B>For unto Crist it is so lief and deere</B><BR>
+1468 &nbsp; &nbsp; &nbsp; &nbsp; <B>That he wol nat that it discovered bee,</B><BR>
+1469 &nbsp; &nbsp; &nbsp; &nbsp; <B>But where it liketh to his deitee</B><BR>
+1470 &nbsp; &nbsp; &nbsp; &nbsp; <B>Men for t'enspire, and eek for to deffende</B><BR>
+1471 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whom that hym liketh; lo, this is the ende."</B><BR>
+1472 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thanne conclude I thus, sith that God of hevene</B><BR>
+1473 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne wil nat that the philosophres nevene</B><BR>
+1474 &nbsp; &nbsp; &nbsp; &nbsp; <B>How that a man shal come unto this stoon,</B><BR>
+1475 &nbsp; &nbsp; &nbsp; &nbsp; <B>I rede, as for the beste, lete it goon.</B><BR>
+1476 &nbsp; &nbsp; &nbsp; &nbsp; <B>For whoso maketh God his adversarie,</B><BR>
+1477 &nbsp; &nbsp; &nbsp; &nbsp; <B>As for to werken any thyng in contrarie</B><BR>
+1478 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of his wil, certes, never shal he thryve,</B><BR>
+1479 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thogh that he multiplie terme of his lyve.</B><BR>
+1480 &nbsp; &nbsp; &nbsp; &nbsp; <B>And there a poynt, for ended is my tale.</B><BR>
+1481 &nbsp; &nbsp; &nbsp; &nbsp; <B>God sende every trewe man boote of his bale!</B><BR>

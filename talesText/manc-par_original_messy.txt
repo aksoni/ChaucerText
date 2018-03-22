@@ -1,0 +1,362 @@
+1	<B>&nbsp; &nbsp; &nbsp; &nbsp; Woot ye nat where ther stant a litel toun<BR></B>
+2	<B>&nbsp; &nbsp; &nbsp; &nbsp; Which that ycleped is Bobbe-up-and-doun,<BR></B>
+3	<B>&nbsp; &nbsp; &nbsp; &nbsp; Under the Blee, in Caunterbury Weye?<BR></B>
+4	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ther gan oure Hooste for to jape and pleye,<BR></B>
+5	<B>&nbsp; &nbsp; &nbsp; &nbsp; And seyde, "Sires, what! Dun is in the myre!<BR></B>
+6	<B>&nbsp; &nbsp; &nbsp; &nbsp; Is ther no man, for preyere ne for hyre,<BR></B>
+7	<B>&nbsp; &nbsp; &nbsp; &nbsp; That wole awake oure felawe al bihynde?<BR></B>
+8	<B>&nbsp; &nbsp; &nbsp; &nbsp; A theef myghte hym ful lightly robbe and bynde.<BR></B>
+9	<B>&nbsp; &nbsp; &nbsp; &nbsp; See how he nappeth! See how, for cokkes bones,<BR></B>
+10	<B>&nbsp; &nbsp; &nbsp; &nbsp; That he wol falle fro his hors atones!<BR></B>
+11	<B>&nbsp; &nbsp; &nbsp; &nbsp; Is that a cook of Londoun, with meschaunce?<BR></B>
+12	<B>&nbsp; &nbsp; &nbsp; &nbsp; Do hym come forth, he knoweth his penaunce;<BR></B>
+13	<B>&nbsp; &nbsp; &nbsp; &nbsp; For he shal telle a tale, by my fey,<BR></B>
+14	<B>&nbsp; &nbsp; &nbsp; &nbsp; Although it be nat worth a botel hey.<BR></B>
+15	<B>&nbsp; &nbsp; &nbsp; &nbsp; Awake, thou Cook," quod he, "God yeve thee sorwe!<BR></B>
+16	<B>&nbsp; &nbsp; &nbsp; &nbsp; What eyleth thee to slepe by the morwe?<BR></B>
+17	<B>&nbsp; &nbsp; &nbsp; &nbsp; Hastow had fleen al nyght, or artow dronke?<BR></B>
+18	<B>&nbsp; &nbsp; &nbsp; &nbsp; Or hastow with som quene al nyght yswonke,<BR></B>
+19	<B>&nbsp; &nbsp; &nbsp; &nbsp; So that thow mayst nat holden up thyn heed?"<BR></B>
+20	<B>&nbsp; &nbsp; &nbsp; &nbsp; This Cook, that was ful pale and no thyng reed,<BR></B>
+21	<B>&nbsp; &nbsp; &nbsp; &nbsp; Seyde to oure Hoost, "So God my soule blesse,<BR></B>
+22	<B>&nbsp; &nbsp; &nbsp; &nbsp; As ther is falle on me swich hevynesse,<BR></B>
+23	<B>&nbsp; &nbsp; &nbsp; &nbsp; Noot I nat why, that me were levere slepe<BR></B>
+24	<B>&nbsp; &nbsp; &nbsp; &nbsp; Than the beste galon wyn in Chepe."<BR></B>
+25	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Wel," quod the Maunciple, "if it may doon ese<BR></B>
+26	<B>&nbsp; &nbsp; &nbsp; &nbsp; To thee, sire Cook, and to no wight displese,<BR></B>
+27	<B>&nbsp; &nbsp; &nbsp; &nbsp; Which that heere rideth in this compaignye,<BR></B>
+28	<B>&nbsp; &nbsp; &nbsp; &nbsp; And that oure Hoost wole, of his curteisye,<BR></B>
+29	<B>&nbsp; &nbsp; &nbsp; &nbsp; I wol as now excuse thee of thy tale.<BR></B>
+30	<B>&nbsp; &nbsp; &nbsp; &nbsp; For, in good feith, thy visage is ful pale,<BR></B>
+31	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thyne eyen daswen eek, as that me thynketh,<BR></B>
+32	<B>&nbsp; &nbsp; &nbsp; &nbsp; And, wel I woot, thy breeth ful soure stynketh:<BR></B>
+33	<B>&nbsp; &nbsp; &nbsp; &nbsp; That sheweth wel thou art nat wel disposed.<BR></B>
+34	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of me, certeyn, thou shalt nat been yglosed.<BR></B>
+35	<B>&nbsp; &nbsp; &nbsp; &nbsp; See how he ganeth, lo, this dronken wight,<BR></B>
+36	<B>&nbsp; &nbsp; &nbsp; &nbsp; As though he wolde swolwe us anonright.<BR></B>
+37	<B>&nbsp; &nbsp; &nbsp; &nbsp; Hoold cloos thy mouth, man, by thy fader kyn!<BR></B>
+38	<B>&nbsp; &nbsp; &nbsp; &nbsp; The devel of helle sette his foot therin!<BR></B>
+39	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thy cursed breeth infecte wole us alle.<BR></B>
+40	<B>&nbsp; &nbsp; &nbsp; &nbsp; Fy, stynkyng swyn! Fy, foule moote thee falle!<BR></B>
+41	<B>&nbsp; &nbsp; &nbsp; &nbsp; A, taketh heede, sires, of this lusty man.<BR></B>
+42	<B>&nbsp; &nbsp; &nbsp; &nbsp; Now, sweete sire, wol ye justen atte fan?<BR></B>
+43	<B>&nbsp; &nbsp; &nbsp; &nbsp; Therto me thynketh ye been wel yshape!<BR></B>
+44	<B>&nbsp; &nbsp; &nbsp; &nbsp; I trowe that ye dronken han wyn ape,<BR></B>
+45	<B>&nbsp; &nbsp; &nbsp; &nbsp; And that is whan men pleyen with a straw."<BR></B>
+46	<B>&nbsp; &nbsp; &nbsp; &nbsp; And with this speche the Cook wax wrooth and wraw,<BR></B>
+47	<B>&nbsp; &nbsp; &nbsp; &nbsp; And on the Manciple he gan nodde faste<BR></B>
+48	<B>&nbsp; &nbsp; &nbsp; &nbsp; For lakke of speche, and doun the hors hym caste,<BR></B>
+49	<B>&nbsp; &nbsp; &nbsp; &nbsp; Where as he lay, til that men hym up took.<BR></B>
+50	<B>&nbsp; &nbsp; &nbsp; &nbsp; This was a fair chyvachee of a cook!<BR></B>
+51	<B>&nbsp; &nbsp; &nbsp; &nbsp; Allas, he nadde holde hym by his ladel!<BR></B>
+52	<B>&nbsp; &nbsp; &nbsp; &nbsp; And er that he agayn were in his sadel,<BR></B>
+53	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ther was greet showvyng bothe to and fro<BR></B>
+54	<B>&nbsp; &nbsp; &nbsp; &nbsp; To lifte hym up, and muchel care and wo,<BR></B>
+55	<B>&nbsp; &nbsp; &nbsp; &nbsp; So unweeldy was this sory palled goost.<BR></B>
+56	<B>&nbsp; &nbsp; &nbsp; &nbsp; And to the Manciple thanne spak oure Hoost:<BR></B>
+57	<B>&nbsp; &nbsp; &nbsp; &nbsp; "By cause drynke hath dominacioun<BR></B>
+58	<B>&nbsp; &nbsp; &nbsp; &nbsp; Upon this man, by my savacioun,<BR></B>
+59	<B>&nbsp; &nbsp; &nbsp; &nbsp; I trowe he lewedly wolde telle his tale.<BR></B>
+60	<B>&nbsp; &nbsp; &nbsp; &nbsp; For, were it wyn or oold or moysty ale<BR></B>
+61	<B>&nbsp; &nbsp; &nbsp; &nbsp; That he hath dronke, he speketh in his nose,<BR></B>
+62	<B>&nbsp; &nbsp; &nbsp; &nbsp; And fneseth faste, and eek he hath the pose.<BR></B>
+63	<B>&nbsp; &nbsp; &nbsp; &nbsp; "He hath also to do moore than ynough<BR></B>
+64	<B>&nbsp; &nbsp; &nbsp; &nbsp; To kepen hym and his capul out of the slough;<BR></B>
+65	<B>&nbsp; &nbsp; &nbsp; &nbsp; And if he falle from his capul eftsoone,<BR></B>
+66	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thanne shal we alle have ynogh to doone<BR></B>
+67	<B>&nbsp; &nbsp; &nbsp; &nbsp; In liftyng up his hevy dronken cors.<BR></B>
+68	<B>&nbsp; &nbsp; &nbsp; &nbsp; Telle on thy tale; of hym make I no fors.<BR></B>
+69	<B>&nbsp; &nbsp; &nbsp; &nbsp; "But yet, Manciple, in feith thou art to nyce,<BR></B>
+70	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thus openly repreve hym of his vice.<BR></B>
+71	<B>&nbsp; &nbsp; &nbsp; &nbsp; Another day he wole, peraventure,<BR></B>
+72	<B>&nbsp; &nbsp; &nbsp; &nbsp; Reclayme thee and brynge thee to lure;<BR></B>
+73	<B>&nbsp; &nbsp; &nbsp; &nbsp; I meene, he speke wole of smale thynges,<BR></B>
+74	<B>&nbsp; &nbsp; &nbsp; &nbsp; As for to pynchen at thy rekenynges,<BR></B>
+75	<B>&nbsp; &nbsp; &nbsp; &nbsp; That were nat honest, if it cam to preef."<BR></B>
+76	<B>&nbsp; &nbsp; &nbsp; &nbsp; "No," quod the Manciple, "that were a greet mescheef!<BR></B>
+77	<B>&nbsp; &nbsp; &nbsp; &nbsp; So myghte he lightly brynge me in the snare.<BR></B>
+78	<B>&nbsp; &nbsp; &nbsp; &nbsp; Yet hadde I levere payen for the mare<BR></B>
+79	<B>&nbsp; &nbsp; &nbsp; &nbsp; Which he rit on, than he sholde with me stryve.<BR></B>
+80	<B>&nbsp; &nbsp; &nbsp; &nbsp; I wol nat wratthen hym, also moot I thryve!<BR></B>
+81	<B>&nbsp; &nbsp; &nbsp; &nbsp; That that I spak, I seyde it in my bourde.<BR></B>
+82	<B>&nbsp; &nbsp; &nbsp; &nbsp; And wite ye what? I have heer in a gourde<BR></B>
+83	<B>&nbsp; &nbsp; &nbsp; &nbsp; A draghte of wyn, ye, of a ripe grape,<BR></B>
+84	<B>&nbsp; &nbsp; &nbsp; &nbsp; And right anon ye shul seen a good jape.<BR></B>
+85	<B>&nbsp; &nbsp; &nbsp; &nbsp; This Cook shal drynke therof, if I may.<BR></B>
+86	<B>&nbsp; &nbsp; &nbsp; &nbsp; Up peyne of deeth, he wol nat seye me nay."<BR></B>
+87	<B>&nbsp; &nbsp; &nbsp; &nbsp; And certeynly, to tellen as it was,<BR></B>
+88	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of this vessel the Cook drank faste, allas!<BR></B>
+89	<B>&nbsp; &nbsp; &nbsp; &nbsp; What neded hym? He drank ynough biforn.<BR></B>
+90	<B>&nbsp; &nbsp; &nbsp; &nbsp; And whan he hadde pouped in this horn,<BR></B>
+91	<B>&nbsp; &nbsp; &nbsp; &nbsp; To the Manciple he took the gourde agayn;<BR></B>
+92	<B>&nbsp; &nbsp; &nbsp; &nbsp; And of that drynke the Cook was wonder fayn,<BR></B>
+93	<B>&nbsp; &nbsp; &nbsp; &nbsp; And thanked hym in swich wise as he koude.<BR></B>
+94	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thanne gan oure Hoost to laughen wonder loude,<BR></B>
+95	<B>&nbsp; &nbsp; &nbsp; &nbsp; And seyde, "I se wel it is necessarie,<BR></B>
+96	<B>&nbsp; &nbsp; &nbsp; &nbsp; Where that we goon, good drynke with us carie;<BR></B>
+97	<B>&nbsp; &nbsp; &nbsp; &nbsp; For that wol turne rancour and disese<BR></B>
+98	<B>&nbsp; &nbsp; &nbsp; &nbsp; T' acord and love, and many a wrong apese.<BR></B>
+99	<B>&nbsp; &nbsp; &nbsp; &nbsp; "O Bacus, yblessed be thy name,<BR></B>
+100	<B>&nbsp; &nbsp; &nbsp; &nbsp; That so kanst turnen ernest into game!<BR></B>
+101	<B>&nbsp; &nbsp; &nbsp; &nbsp; Worshipe and thank be to thy deitee!<BR></B>
+102	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of that mateere ye gete namoore of me.<BR></B>
+103	<B>&nbsp; &nbsp; &nbsp; &nbsp; Telle on thy tale, Manciple, I thee preye."<BR></B>
+104	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Wel, sire," quod he, "now herkneth what I seye."<BR></B>
+105	<B>&nbsp; &nbsp; &nbsp; &nbsp; Whan Phebus dwelled heere in this erthe adoun,<BR></B>
+106	<B>&nbsp; &nbsp; &nbsp; &nbsp; As olde bookes maken mencioun,<BR></B>
+107	<B>&nbsp; &nbsp; &nbsp; &nbsp; He was the mooste lusty bachiler<BR></B>
+108	<B>&nbsp; &nbsp; &nbsp; &nbsp; In al this world, and eek the beste archer.<BR></B>
+109	<B>&nbsp; &nbsp; &nbsp; &nbsp; He slow Phitoun, the serpent, as he lay<BR></B>
+110	<B>&nbsp; &nbsp; &nbsp; &nbsp; Slepynge agayn the sonne upon a day;<BR></B>
+111	<B>&nbsp; &nbsp; &nbsp; &nbsp; And many another noble worthy dede<BR></B>
+112	<B>&nbsp; &nbsp; &nbsp; &nbsp; He with his bowe wroghte, as men may rede.<BR></B>
+113	<B>&nbsp; &nbsp; &nbsp; &nbsp; Pleyen he koude on every mynstralcie,<BR></B>
+114	<B>&nbsp; &nbsp; &nbsp; &nbsp; And syngen that it was a melodie<BR></B>
+115	<B>&nbsp; &nbsp; &nbsp; &nbsp; To heeren of his cleere voys the soun.<BR></B>
+116	<B>&nbsp; &nbsp; &nbsp; &nbsp; Certes the kyng of Thebes, Amphioun,<BR></B>
+117	<B>&nbsp; &nbsp; &nbsp; &nbsp; That with his syngyng walled that citee,<BR></B>
+118	<B>&nbsp; &nbsp; &nbsp; &nbsp; Koude nevere syngen half so wel as hee.<BR></B>
+119	<B>&nbsp; &nbsp; &nbsp; &nbsp; Therto he was the semelieste man<BR></B>
+120	<B>&nbsp; &nbsp; &nbsp; &nbsp; That is or was sith that the world bigan.<BR></B>
+121	<B>&nbsp; &nbsp; &nbsp; &nbsp; What nedeth it his fetures to discryve?<BR></B>
+122	<B>&nbsp; &nbsp; &nbsp; &nbsp; For in this world was noon so faire on-lyve.<BR></B>
+123	<B>&nbsp; &nbsp; &nbsp; &nbsp; He was therwith fulfild of gentillesse,<BR></B>
+124	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of honour, and of parfit worthynesse.<BR></B>
+125	<B>&nbsp; &nbsp; &nbsp; &nbsp; This Phebus, that was flour of bachilrie,<BR></B>
+126	<B>&nbsp; &nbsp; &nbsp; &nbsp; As wel in fredom as in chivalrie,<BR></B>
+127	<B>&nbsp; &nbsp; &nbsp; &nbsp; For his desport, in signe eek of victorie<BR></B>
+128	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of Phitoun, so as telleth us the storie,<BR></B>
+129	<B>&nbsp; &nbsp; &nbsp; &nbsp; Was wont to beren in his hand a bowe.<BR></B>
+130	<B>&nbsp; &nbsp; &nbsp; &nbsp; Now hadde this Phebus in his hous a crowe<BR></B>
+131	<B>&nbsp; &nbsp; &nbsp; &nbsp; Which in a cage he fostred many a day,<BR></B>
+132	<B>&nbsp; &nbsp; &nbsp; &nbsp; And taughte it speken, as men teche a jay.<BR></B>
+133	<B>&nbsp; &nbsp; &nbsp; &nbsp; Whit was this crowe as is a snow-whit swan,<BR></B>
+134	<B>&nbsp; &nbsp; &nbsp; &nbsp; And countrefete the speche of every man<BR></B>
+135	<B>&nbsp; &nbsp; &nbsp; &nbsp; He koude, whan he sholde telle a tale.<BR></B>
+136	<B>&nbsp; &nbsp; &nbsp; &nbsp; Therwith in al this world no nyghtyngale<BR></B>
+137	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ne koude, by an hondred thousand deel,<BR></B>
+138	<B>&nbsp; &nbsp; &nbsp; &nbsp; Syngen so wonder myrily and weel.<BR></B>
+139	<B>&nbsp; &nbsp; &nbsp; &nbsp; Now hadde this Phebus in his hous a wyf<BR></B>
+140	<B>&nbsp; &nbsp; &nbsp; &nbsp; Which that he lovede moore than his lyf,<BR></B>
+141	<B>&nbsp; &nbsp; &nbsp; &nbsp; And nyght and day dide evere his diligence<BR></B>
+142	<B>&nbsp; &nbsp; &nbsp; &nbsp; Hir for to plese and doon hire reverence,<BR></B>
+143	<B>&nbsp; &nbsp; &nbsp; &nbsp; Save oonly, if the sothe that I shal sayn,<BR></B>
+144	<B>&nbsp; &nbsp; &nbsp; &nbsp; Jalous he was, and wolde have kept hire fayn.<BR></B>
+145	<B>&nbsp; &nbsp; &nbsp; &nbsp; For hym were looth byjaped for to be,<BR></B>
+146	<B>&nbsp; &nbsp; &nbsp; &nbsp; And so is every wight in swich degree;<BR></B>
+147	<B>&nbsp; &nbsp; &nbsp; &nbsp; But al in ydel, for it availleth noght.<BR></B>
+148	<B>&nbsp; &nbsp; &nbsp; &nbsp; A good wyf, that is clene of werk and thoght,<BR></B>
+149	<B>&nbsp; &nbsp; &nbsp; &nbsp; Sholde nat been kept in noon awayt, certayn;<BR></B>
+150	<B>&nbsp; &nbsp; &nbsp; &nbsp; And trewely the labour is in vayn<BR></B>
+151	<B>&nbsp; &nbsp; &nbsp; &nbsp; To kepe a shrewe, for it wol nat bee.<BR></B>
+152	<B>&nbsp; &nbsp; &nbsp; &nbsp; This holde I for a verray nycetee,<BR></B>
+153	<B>&nbsp; &nbsp; &nbsp; &nbsp; To spille labour for to kepe wyves:<BR></B>
+154	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thus writen olde clerkes in hir lyves.<BR></B>
+155	<B>&nbsp; &nbsp; &nbsp; &nbsp; But now to purpos, as I first bigan:<BR></B>
+156	<B>&nbsp; &nbsp; &nbsp; &nbsp; This worthy Phebus dooth al that he kan<BR></B>
+157	<B>&nbsp; &nbsp; &nbsp; &nbsp; To plesen hire, wenynge for swich plesaunce,<BR></B>
+158	<B>&nbsp; &nbsp; &nbsp; &nbsp; And for his manhede and his governaunce,<BR></B>
+159	<B>&nbsp; &nbsp; &nbsp; &nbsp; That no man sholde han put hym from hir grace.<BR></B>
+160	<B>&nbsp; &nbsp; &nbsp; &nbsp; But God it woot, ther may no man embrace<BR></B>
+161	<B>&nbsp; &nbsp; &nbsp; &nbsp; As to destreyne a thyng which that nature<BR></B>
+162	<B>&nbsp; &nbsp; &nbsp; &nbsp; Hath natureelly set in a creature.<BR></B>
+163	<B>&nbsp; &nbsp; &nbsp; &nbsp; Taak any bryd, and put it in a cage,<BR></B>
+164	<B>&nbsp; &nbsp; &nbsp; &nbsp; And do al thyn entente and thy corage<BR></B>
+165	<B>&nbsp; &nbsp; &nbsp; &nbsp; To fostre it tendrely with mete and drynke<BR></B>
+166	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of alle deyntees that thou kanst bithynke,<BR></B>
+167	<B>&nbsp; &nbsp; &nbsp; &nbsp; And keep it al so clenly as thou may,<BR></B>
+168	<B>&nbsp; &nbsp; &nbsp; &nbsp; Although his cage of gold be never so gay,<BR></B>
+169	<B>&nbsp; &nbsp; &nbsp; &nbsp; Yet hath this brid, by twenty thousand foold,<BR></B>
+170	<B>&nbsp; &nbsp; &nbsp; &nbsp; Levere in a forest that is rude and coold<BR></B>
+171	<B>&nbsp; &nbsp; &nbsp; &nbsp; Goon ete wormes and swich wrecchednesse.<BR></B>
+172	<B>&nbsp; &nbsp; &nbsp; &nbsp; For evere this brid wol doon his bisynesse<BR></B>
+173	<B>&nbsp; &nbsp; &nbsp; &nbsp; To escape out of his cage, yif he may.<BR></B>
+174	<B>&nbsp; &nbsp; &nbsp; &nbsp; His libertee this brid desireth ay.<BR></B>
+175	<B>&nbsp; &nbsp; &nbsp; &nbsp; Lat take a cat, and fostre hym wel with milk<BR></B>
+176	<B>&nbsp; &nbsp; &nbsp; &nbsp; And tendre flessh, and make his couche of silk,<BR></B>
+177	<B>&nbsp; &nbsp; &nbsp; &nbsp; And lat hym seen a mous go by the wal,<BR></B>
+178	<B>&nbsp; &nbsp; &nbsp; &nbsp; Anon he weyveth milk and flessh and al,<BR></B>
+179	<B>&nbsp; &nbsp; &nbsp; &nbsp; And every deyntee that is in that hous,<BR></B>
+180	<B>&nbsp; &nbsp; &nbsp; &nbsp; Swich appetit hath he to ete a mous.<BR></B>
+181	<B>&nbsp; &nbsp; &nbsp; &nbsp; Lo, heere hath lust his dominacioun,<BR></B>
+182	<B>&nbsp; &nbsp; &nbsp; &nbsp; And appetit fleemeth discrecioun.<BR></B>
+183	<B>&nbsp; &nbsp; &nbsp; &nbsp; A she-wolf hath also a vileyns kynde.<BR></B>
+184	<B>&nbsp; &nbsp; &nbsp; &nbsp; The lewedeste wolf that she may fynde,<BR></B>
+185	<B>&nbsp; &nbsp; &nbsp; &nbsp; Or leest of reputacioun, wol she take,<BR></B>
+186	<B>&nbsp; &nbsp; &nbsp; &nbsp; In tyme whan hir lust to han a make.<BR></B>
+187	<B>&nbsp; &nbsp; &nbsp; &nbsp; Alle thise ensamples speke I by thise men<BR></B>
+188	<B>&nbsp; &nbsp; &nbsp; &nbsp; That been untrewe, and nothyng by wommen.<BR></B>
+189	<B>&nbsp; &nbsp; &nbsp; &nbsp; For men han evere a likerous appetit<BR></B>
+190	<B>&nbsp; &nbsp; &nbsp; &nbsp; On lower thyng to parfourne hire delit<BR></B>
+191	<B>&nbsp; &nbsp; &nbsp; &nbsp; Than on hire wyves, be they never so faire,<BR></B>
+192	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ne never so trewe, ne so debonaire.<BR></B>
+193	<B>&nbsp; &nbsp; &nbsp; &nbsp; Flessh is so newefangel, with meschaunce,<BR></B>
+194	<B>&nbsp; &nbsp; &nbsp; &nbsp; That we ne konne in nothyng han plesaunce<BR></B>
+195	<B>&nbsp; &nbsp; &nbsp; &nbsp; That sowneth into vertu any while.<BR></B>
+196	<B>&nbsp; &nbsp; &nbsp; &nbsp; This Phebus, which that thoghte upon no gile,<BR></B>
+197	<B>&nbsp; &nbsp; &nbsp; &nbsp; Deceyved was, for al his jolitee.<BR></B>
+198	<B>&nbsp; &nbsp; &nbsp; &nbsp; For under hym another hadde shee,<BR></B>
+199	<B>&nbsp; &nbsp; &nbsp; &nbsp; A man of litel reputacioun,<BR></B>
+200	<B>&nbsp; &nbsp; &nbsp; &nbsp; Nat worth to Phebus in comparisoun.<BR></B>
+201	<B>&nbsp; &nbsp; &nbsp; &nbsp; The moore harm is, it happeth ofte so,<BR></B>
+202	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of which ther cometh muchel harm and wo.<BR></B>
+203	<B>&nbsp; &nbsp; &nbsp; &nbsp; And so bifel, whan Phebus was absent,<BR></B>
+204	<B>&nbsp; &nbsp; &nbsp; &nbsp; His wyf anon hath for hir lemman sent.<BR></B>
+205	<B>&nbsp; &nbsp; &nbsp; &nbsp; Hir lemman? Certes, this is a knavyssh speche!<BR></B>
+206	<B>&nbsp; &nbsp; &nbsp; &nbsp; Foryeveth it me, and that I yow biseche.<BR></B>
+207	<B>&nbsp; &nbsp; &nbsp; &nbsp; The wise Plato seith, as ye may rede,<BR></B>
+208	<B>&nbsp; &nbsp; &nbsp; &nbsp; The word moot nede accorde with the dede.<BR></B>
+209	<B>&nbsp; &nbsp; &nbsp; &nbsp; If men shal telle proprely a thyng,<BR></B>
+210	<B>&nbsp; &nbsp; &nbsp; &nbsp; The word moot cosyn be to the werkyng.<BR></B>
+211	<B>&nbsp; &nbsp; &nbsp; &nbsp; I am a boystous man, right thus seye I:<BR></B>
+212	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ther nys no difference, trewely,<BR></B>
+213	<B>&nbsp; &nbsp; &nbsp; &nbsp; Bitwixe a wyf that is of heigh degree,<BR></B>
+214	<B>&nbsp; &nbsp; &nbsp; &nbsp; If of hir body dishonest she bee,<BR></B>
+215	<B>&nbsp; &nbsp; &nbsp; &nbsp; And a povre wenche, oother than this --<BR></B>
+216	<B>&nbsp; &nbsp; &nbsp; &nbsp; If it so be they werke bothe amys --<BR></B>
+217	<B>&nbsp; &nbsp; &nbsp; &nbsp; But that the gentile, in estaat above,<BR></B>
+218	<B>&nbsp; &nbsp; &nbsp; &nbsp; She shal be cleped his lady, as in love;<BR></B>
+219	<B>&nbsp; &nbsp; &nbsp; &nbsp; And for that oother is a povre womman,<BR></B>
+220	<B>&nbsp; &nbsp; &nbsp; &nbsp; She shal be cleped his wenche or his lemman.<BR></B>
+221	<B>&nbsp; &nbsp; &nbsp; &nbsp; And, God it woot, myn owene deere brother,<BR></B>
+222	<B>&nbsp; &nbsp; &nbsp; &nbsp; Men leyn that oon as lowe as lith that oother.<BR></B>
+223	<B>&nbsp; &nbsp; &nbsp; &nbsp; Right so bitwixe a titlelees tiraunt<BR></B>
+224	<B>&nbsp; &nbsp; &nbsp; &nbsp; And an outlawe or a theef erraunt,<BR></B>
+225	<B>&nbsp; &nbsp; &nbsp; &nbsp; The same I seye: ther is no difference.<BR></B>
+226	<B>&nbsp; &nbsp; &nbsp; &nbsp; To Alisaundre was toold this sentence,<BR></B>
+227	<B>&nbsp; &nbsp; &nbsp; &nbsp; That, for the tirant is of gretter myght<BR></B>
+228	<B>&nbsp; &nbsp; &nbsp; &nbsp; By force of meynee for to sleen dounright,<BR></B>
+229	<B>&nbsp; &nbsp; &nbsp; &nbsp; And brennen hous and hoom, and make al playn,<BR></B>
+230	<B>&nbsp; &nbsp; &nbsp; &nbsp; Lo, therfore is he cleped a capitayn;<BR></B>
+231	<B>&nbsp; &nbsp; &nbsp; &nbsp; And for the outlawe hath but smal meynee,<BR></B>
+232	<B>&nbsp; &nbsp; &nbsp; &nbsp; And may nat doon so greet an harm as he,<BR></B>
+233	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ne brynge a contree to so greet mescheef,<BR></B>
+234	<B>&nbsp; &nbsp; &nbsp; &nbsp; Men clepen hym an outlawe or a theef.<BR></B>
+235	<B>&nbsp; &nbsp; &nbsp; &nbsp; But for I am a man noght textueel,<BR></B>
+236	<B>&nbsp; &nbsp; &nbsp; &nbsp; I wol noght telle of textes never a deel;<BR></B>
+237	<B>&nbsp; &nbsp; &nbsp; &nbsp; I wol go to my tale, as I bigan.<BR></B>
+238	<B>&nbsp; &nbsp; &nbsp; &nbsp; Whan Phebus wyf had sent for hir lemman,<BR></B>
+239	<B>&nbsp; &nbsp; &nbsp; &nbsp; Anon they wroghten al hire lust volage.<BR></B>
+240	<B>&nbsp; &nbsp; &nbsp; &nbsp; The white crowe, that heeng ay in the cage,<BR></B>
+241	<B>&nbsp; &nbsp; &nbsp; &nbsp; Biheeld hire werk, and seyde never a word.<BR></B>
+242	<B>&nbsp; &nbsp; &nbsp; &nbsp; And whan that hoom was come Phebus, the lord,<BR></B>
+243	<B>&nbsp; &nbsp; &nbsp; &nbsp; This crowe sang "Cokkow! Cokkow! Cokkow!"<BR></B>
+244	<B>&nbsp; &nbsp; &nbsp; &nbsp; "What, bryd?" quod Phebus. "What song syngestow?<BR></B>
+245	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ne were thow wont so myrily to synge<BR></B>
+246	<B>&nbsp; &nbsp; &nbsp; &nbsp; That to myn herte it was a rejoysynge<BR></B>
+247	<B>&nbsp; &nbsp; &nbsp; &nbsp; To heere thy voys? Allas, what song is this?"<BR></B>
+248	<B>&nbsp; &nbsp; &nbsp; &nbsp; "By God," quod he, "I synge nat amys.<BR></B>
+249	<B>&nbsp; &nbsp; &nbsp; &nbsp; Phebus," quod he, "for al thy worthynesse,<BR></B>
+250	<B>&nbsp; &nbsp; &nbsp; &nbsp; For al thy beautee and thy gentilesse,<BR></B>
+251	<B>&nbsp; &nbsp; &nbsp; &nbsp; For al thy song and al thy mynstralcye,<BR></B>
+252	<B>&nbsp; &nbsp; &nbsp; &nbsp; For al thy waityng, blered is thyn ye<BR></B>
+253	<B>&nbsp; &nbsp; &nbsp; &nbsp; With oon of litel reputacioun,<BR></B>
+254	<B>&nbsp; &nbsp; &nbsp; &nbsp; Noght worth to thee, as in comparisoun,<BR></B>
+255	<B>&nbsp; &nbsp; &nbsp; &nbsp; The montance of a gnat, so moote I thryve!<BR></B>
+256	<B>&nbsp; &nbsp; &nbsp; &nbsp; For on thy bed thy wyf I saugh hym swyve."<BR></B>
+257	<B>&nbsp; &nbsp; &nbsp; &nbsp; What wol ye moore? The crowe anon hym tolde,<BR></B>
+258	<B>&nbsp; &nbsp; &nbsp; &nbsp; By sadde tokenes and by wordes bolde,<BR></B>
+259	<B>&nbsp; &nbsp; &nbsp; &nbsp; How that his wyf had doon hire lecherye,<BR></B>
+260	<B>&nbsp; &nbsp; &nbsp; &nbsp; Hym to greet shame and to greet vileynye,<BR></B>
+261	<B>&nbsp; &nbsp; &nbsp; &nbsp; And tolde hym ofte he saugh it with his yen.<BR></B>
+262	<B>&nbsp; &nbsp; &nbsp; &nbsp; This Phebus gan aweyward for to wryen,<BR></B>
+263	<B>&nbsp; &nbsp; &nbsp; &nbsp; And thoughte his sorweful herte brast atwo.<BR></B>
+264	<B>&nbsp; &nbsp; &nbsp; &nbsp; His bowe he bente, and sette therinne a flo,<BR></B>
+265	<B>&nbsp; &nbsp; &nbsp; &nbsp; And in his ire his wyf thanne hath he slayn.<BR></B>
+266	<B>&nbsp; &nbsp; &nbsp; &nbsp; This is th' effect; ther is namoore to sayn;<BR></B>
+267	<B>&nbsp; &nbsp; &nbsp; &nbsp; For sorwe of which he brak his mynstralcie,<BR></B>
+268	<B>&nbsp; &nbsp; &nbsp; &nbsp; Bothe harpe, and lute, and gyterne, and sautrie;<BR></B>
+269	<B>&nbsp; &nbsp; &nbsp; &nbsp; And eek he brak his arwes and his bowe,<BR></B>
+270	<B>&nbsp; &nbsp; &nbsp; &nbsp; And after that thus spak he to the crowe:<BR></B>
+271	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Traitour," quod he, "with tonge of scorpioun,<BR></B>
+272	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thou hast me broght to my confusioun;<BR></B>
+273	<B>&nbsp; &nbsp; &nbsp; &nbsp; Allas, that I was wroght! Why nere I deed?<BR></B>
+274	<B>&nbsp; &nbsp; &nbsp; &nbsp; O deere wyf! O gemme of lustiheed!<BR></B>
+275	<B>&nbsp; &nbsp; &nbsp; &nbsp; That were to me so sad and eek so trewe,<BR></B>
+276	<B>&nbsp; &nbsp; &nbsp; &nbsp; Now listow deed, with face pale of hewe,<BR></B>
+277	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ful giltelees, that dorste I swere, ywys!<BR></B>
+278	<B>&nbsp; &nbsp; &nbsp; &nbsp; O rakel hand, to doon so foule amys!<BR></B>
+279	<B>&nbsp; &nbsp; &nbsp; &nbsp; O trouble wit, O ire recchelees,<BR></B>
+280	<B>&nbsp; &nbsp; &nbsp; &nbsp; That unavysed smyteth gilteles!<BR></B>
+281	<B>&nbsp; &nbsp; &nbsp; &nbsp; O wantrust, ful of fals suspecion,<BR></B>
+282	<B>&nbsp; &nbsp; &nbsp; &nbsp; Where was thy wit and thy discrecion?<BR></B>
+283	<B>&nbsp; &nbsp; &nbsp; &nbsp; O every man, be war of rakelnesse!<BR></B>
+284	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ne trowe no thyng withouten strong witnesse.<BR></B>
+285	<B>&nbsp; &nbsp; &nbsp; &nbsp; Smyt nat to soone, er that ye witen why,<BR></B>
+286	<B>&nbsp; &nbsp; &nbsp; &nbsp; And beeth avysed wel and sobrely<BR></B>
+287	<B>&nbsp; &nbsp; &nbsp; &nbsp; Er ye doon any execucion<BR></B>
+288	<B>&nbsp; &nbsp; &nbsp; &nbsp; Upon youre ire for suspecion.<BR></B>
+289	<B>&nbsp; &nbsp; &nbsp; &nbsp; Allas, a thousand folk hath rakel ire<BR></B>
+290	<B>&nbsp; &nbsp; &nbsp; &nbsp; Fully fordoon, and broght hem in the mire.<BR></B>
+291	<B>&nbsp; &nbsp; &nbsp; &nbsp; Allas! For sorwe I wol myselven slee!"<BR></B>
+292	<B>&nbsp; &nbsp; &nbsp; &nbsp; And to the crowe, "O false theef!" seyde he,<BR></B>
+293	<B>&nbsp; &nbsp; &nbsp; &nbsp; "I wol thee quite anon thy false tale.<BR></B>
+294	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thou songe whilom lyk a nyghtyngale;<BR></B>
+295	<B>&nbsp; &nbsp; &nbsp; &nbsp; Now shaltow, false theef, thy song forgon,<BR></B>
+296	<B>&nbsp; &nbsp; &nbsp; &nbsp; And eek thy white fetheres everichon,<BR></B>
+297	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ne nevere in al thy lif ne shaltou speke.<BR></B>
+298	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thus shal men on a traytour been awreke;<BR></B>
+299	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thou and thyn ofspryng evere shul be blake,<BR></B>
+300	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ne nevere sweete noyse shul ye make,<BR></B>
+301	<B>&nbsp; &nbsp; &nbsp; &nbsp; But evere crie agayn tempest and rayn,<BR></B>
+302	<B>&nbsp; &nbsp; &nbsp; &nbsp; In tokenynge that thurgh thee my wyf is slayn."<BR></B>
+303	<B>&nbsp; &nbsp; &nbsp; &nbsp; And to the crowe he stirte, and that anon,<BR></B>
+304	<B>&nbsp; &nbsp; &nbsp; &nbsp; And pulled his white fetheres everychon,<BR></B>
+305	<B>&nbsp; &nbsp; &nbsp; &nbsp; And made hym blak, and refte hym al his song,<BR></B>
+306	<B>&nbsp; &nbsp; &nbsp; &nbsp; And eek his speche, and out at dore hym slong<BR></B>
+307	<B>&nbsp; &nbsp; &nbsp; &nbsp; Unto the devel, which I hym bitake;<BR></B>
+308	<B>&nbsp; &nbsp; &nbsp; &nbsp; And for this caas been alle crowes blake.<BR></B>
+309	<B>&nbsp; &nbsp; &nbsp; &nbsp; Lordynges, by this ensample I yow preye,<BR></B>
+310	<B>&nbsp; &nbsp; &nbsp; &nbsp; Beth war, and taketh kep what that ye seye:<BR></B>
+311	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ne telleth nevere no man in youre lyf<BR></B>
+312	<B>&nbsp; &nbsp; &nbsp; &nbsp; How that another man hath dight his wyf;<BR></B>
+313	<B>&nbsp; &nbsp; &nbsp; &nbsp; He wol yow haten mortally, certeyn.<BR></B>
+314	<B>&nbsp; &nbsp; &nbsp; &nbsp; Daun Salomon, as wise clerkes seyn,<BR></B>
+315	<B>&nbsp; &nbsp; &nbsp; &nbsp; Techeth a man to kepen his tonge weel.<BR></B>
+316	<B>&nbsp; &nbsp; &nbsp; &nbsp; But, as I seyde, I am noght textueel.<BR></B>
+317	<B>&nbsp; &nbsp; &nbsp; &nbsp; But nathelees, thus taughte me my dame:<BR></B>
+318	<B>&nbsp; &nbsp; &nbsp; &nbsp; "My sone, thenk on the crowe, a Goddes name!<BR></B>
+319	<B>&nbsp; &nbsp; &nbsp; &nbsp; My sone, keep wel thy tonge, and keep thy freend.<BR></B>
+320	<B>&nbsp; &nbsp; &nbsp; &nbsp; A wikked tonge is worse than a feend;<BR></B>
+321	<B>&nbsp; &nbsp; &nbsp; &nbsp; My sone, from a feend men may hem blesse.<BR></B>
+322	<B>&nbsp; &nbsp; &nbsp; &nbsp; My sone, God of his endelees goodnesse<BR></B>
+323	<B>&nbsp; &nbsp; &nbsp; &nbsp; Walled a tonge with teeth and lippes eke,<BR></B>
+324	<B>&nbsp; &nbsp; &nbsp; &nbsp; For man sholde hym avyse what he speeke.<BR></B>
+325	<B>&nbsp; &nbsp; &nbsp; &nbsp; My sone, ful ofte, for to muche speche<BR></B>
+326	<B>&nbsp; &nbsp; &nbsp; &nbsp; Hath many a man been spilt, as clerkes teche,<BR></B>
+327	<B>&nbsp; &nbsp; &nbsp; &nbsp; But for litel speche avysely<BR></B>
+328	<B>&nbsp; &nbsp; &nbsp; &nbsp; Is no man shent, to speke generally.<BR></B>
+329	<B>&nbsp; &nbsp; &nbsp; &nbsp; My sone, thy tonge sholdestow restreyne<BR></B>
+330	<B>&nbsp; &nbsp; &nbsp; &nbsp; At alle tymes, but whan thou doost thy peyne<BR></B>
+331	<B>&nbsp; &nbsp; &nbsp; &nbsp; To speke of God, in honour and preyere.<BR></B>
+332	<B>&nbsp; &nbsp; &nbsp; &nbsp; The firste vertu, sone, if thou wolt leere,<BR></B>
+333	<B>&nbsp; &nbsp; &nbsp; &nbsp; Is to restreyne and kepe wel thy tonge;<BR></B>
+334	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thus lerne children whan that they been yonge.<BR></B>
+335	<B>&nbsp; &nbsp; &nbsp; &nbsp; My sone, of muchel spekyng yvele avysed,<BR></B>
+336	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ther lasse spekyng hadde ynough suffised,<BR></B>
+337	<B>&nbsp; &nbsp; &nbsp; &nbsp; Comth muchel harm; thus was me toold and taught.<BR></B>
+338	<B>&nbsp; &nbsp; &nbsp; &nbsp; In muchel speche synne wanteth naught.<BR></B>
+339	<B>&nbsp; &nbsp; &nbsp; &nbsp; Wostow wherof a rakel tonge serveth?<BR></B>
+340	<B>&nbsp; &nbsp; &nbsp; &nbsp; Right as a swerd forkutteth and forkerveth<BR></B>
+341	<B>&nbsp; &nbsp; &nbsp; &nbsp; An arm a-two, my deere sone, right so<BR></B>
+342	<B>&nbsp; &nbsp; &nbsp; &nbsp; A tonge kutteth freendshipe al a-two.<BR></B>
+343	<B>&nbsp; &nbsp; &nbsp; &nbsp; A jangler is to God abhomynable.<BR></B>
+344	<B>&nbsp; &nbsp; &nbsp; &nbsp; Reed Salomon, so wys and honurable;<BR></B>
+345	<B>&nbsp; &nbsp; &nbsp; &nbsp; Reed David in his psalmes; reed Senekke.<BR></B>
+346	<B>&nbsp; &nbsp; &nbsp; &nbsp; My sone, spek nat, but with thyn heed thou bekke.<BR></B>
+347	<B>&nbsp; &nbsp; &nbsp; &nbsp; Dissimule as thou were deef, if that thou heere<BR></B>
+348	<B>&nbsp; &nbsp; &nbsp; &nbsp; A janglere speke of perilous mateere.<BR></B>
+349	<B>&nbsp; &nbsp; &nbsp; &nbsp; The Flemyng seith, and lerne it if thee leste,<BR></B>
+350	<B>&nbsp; &nbsp; &nbsp; &nbsp; That litel janglyng causeth muchel reste.<BR></B>
+351	<B>&nbsp; &nbsp; &nbsp; &nbsp; My sone, if thou no wikked word hast seyd,<BR></B>
+352	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thee thar nat drede for to be biwreyd;<BR></B>
+353	<B>&nbsp; &nbsp; &nbsp; &nbsp; But he that hath mysseyd, I dar wel sayn,<BR></B>
+354	<B>&nbsp; &nbsp; &nbsp; &nbsp; He may by no wey clepe his word agayn.<BR></B>
+355	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thyng that is seyd is seyd, and forth it gooth,<BR></B>
+356	<B>&nbsp; &nbsp; &nbsp; &nbsp; Though hym repente, or be hym nevere so looth.<BR></B>
+357	<B>&nbsp; &nbsp; &nbsp; &nbsp; He is his thral to whom that he hath sayd<BR></B>
+358	<B>&nbsp; &nbsp; &nbsp; &nbsp; A tale of which he is now yvele apayd.<BR></B>
+359	<B>&nbsp; &nbsp; &nbsp; &nbsp; My sone, be war, and be noon auctour newe<BR></B>
+360	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of tidynges, wheither they been false or trewe.<BR></B>
+361	<B>&nbsp; &nbsp; &nbsp; &nbsp; Whereso thou come, amonges hye or lowe,<BR></B>
+362	<B>&nbsp; &nbsp; &nbsp; &nbsp; Kepe wel thy tonge and thenk upon the crowe."<BR></B>

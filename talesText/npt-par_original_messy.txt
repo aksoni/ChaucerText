@@ -1,0 +1,696 @@
+2767	&nbsp; &nbsp; &nbsp; &nbsp; <B>"Hoo!" quod the Knyght, "good sire, namoore of this!</B><BR>
+2768	&nbsp; &nbsp; &nbsp; &nbsp; <B>That ye han seyd is right ynough, ywis,</B><BR>
+2769	&nbsp; &nbsp; &nbsp; &nbsp; <B>And muchel moore; for litel hevynesse</B><BR>
+2770	&nbsp; &nbsp; &nbsp; &nbsp; <B>Is right ynough to muche folk, I gesse.</B><BR>
+2771	&nbsp; &nbsp; &nbsp; &nbsp; <B>I seye for me, it is a greet disese,</B><BR>
+2772	&nbsp; &nbsp; &nbsp; &nbsp; <B>Whereas men han been in greet welthe and ese,</B><BR>
+2773	&nbsp; &nbsp; &nbsp; &nbsp; <B>To heeren of hire sodeyn fal, allas!</B><BR>
+2774	&nbsp; &nbsp; &nbsp; &nbsp; <B>And the contrarie is joye and greet solas,</B><BR>
+2775	&nbsp; &nbsp; &nbsp; &nbsp; <B>As whan a man hath been in povre estaat,</B><BR>
+2776	&nbsp; &nbsp; &nbsp; &nbsp; <B>And clymbeth up and wexeth fortunat,</B><BR>
+2777	&nbsp; &nbsp; &nbsp; &nbsp; <B>And there abideth in prosperitee.</B><BR>
+2778	&nbsp; &nbsp; &nbsp; &nbsp; <B>Swich thyng is gladsom, as it thynketh me,</B><BR>
+2779	&nbsp; &nbsp; &nbsp; &nbsp; <B>And of swich thyng were goodly for to telle."</B><BR>
+2780	&nbsp; &nbsp; &nbsp; &nbsp; <B>"Ye," quod oure Hooste, "by Seint Poules belle!</B><BR>
+2781	&nbsp; &nbsp; &nbsp; &nbsp; <B>Ye seye right sooth; this Monk he clappeth lowde.</B><BR>
+2782	&nbsp; &nbsp; &nbsp; &nbsp; <B>He spak how Fortune covered with a clowde</B><BR>
+2783	&nbsp; &nbsp; &nbsp; &nbsp; <B>I noot nevere what; and als of a tragedie</B><BR>
+2784	&nbsp; &nbsp; &nbsp; &nbsp; <B>Right now ye herde, and pardee, no remedie</B><BR>
+2785	&nbsp; &nbsp; &nbsp; &nbsp; <B>It is for to biwaille ne compleyne</B><BR>
+2786	&nbsp; &nbsp; &nbsp; &nbsp; <B>That that is doon, and als it is a peyne,</B><BR>
+2787	&nbsp; &nbsp; &nbsp; &nbsp; <B>As ye han seyd, to heere of hevynesse.</B><BR>
+2788	&nbsp; &nbsp; &nbsp; &nbsp; <B>"Sire Monk, namoore of this, so God yow blesse!</B><BR>
+2789	&nbsp; &nbsp; &nbsp; &nbsp; <B>Youre tale anoyeth al this compaignye.</B><BR>
+2790	&nbsp; &nbsp; &nbsp; &nbsp; <B>Swich talkyng is nat worth a boterflye,</B><BR>
+2791	&nbsp; &nbsp; &nbsp; &nbsp; <B>For therinne is ther no desport ne game.</B><BR>
+2792	&nbsp; &nbsp; &nbsp; &nbsp; <B>Wherfore, sire Monk, daun Piers by youre name,</B><BR>
+2793	&nbsp; &nbsp; &nbsp; &nbsp; <B>I pray yow hertely telle us somwhat elles;</B><BR>
+2794	&nbsp; &nbsp; &nbsp; &nbsp; <B>For sikerly, nere clynkyng of youre belles</B><BR>
+2795	&nbsp; &nbsp; &nbsp; &nbsp; <B>That on youre bridel hange on every syde,</B><BR>
+2796	&nbsp; &nbsp; &nbsp; &nbsp; <B>By hevene kyng that for us alle dyde,</B><BR>
+2797	&nbsp; &nbsp; &nbsp; &nbsp; <B>I sholde er this han fallen doun for sleep,</B><BR>
+2798	&nbsp; &nbsp; &nbsp; &nbsp; <B>Althogh the slough had never been so deep;</B><BR>
+2799	&nbsp; &nbsp; &nbsp; &nbsp; <B>Thanne hadde your tale al be toold in veyn.</B><BR>
+2800	&nbsp; &nbsp; &nbsp; &nbsp; <B>For certeinly, as that thise clerkes seyn,</B><BR>
+2801	&nbsp; &nbsp; &nbsp; &nbsp; <B>Whereas a man may have noon audience,</B><BR>
+2802	&nbsp; &nbsp; &nbsp; &nbsp; <B>Noght helpeth it to tellen his sentence.</B><BR>
+2803	&nbsp; &nbsp; &nbsp; &nbsp; <B>"And wel I woot the substance is in me,</B><BR>
+2804	&nbsp; &nbsp; &nbsp; &nbsp; <B>If any thyng shal wel reported be.</B><BR>
+2805	&nbsp; &nbsp; &nbsp; &nbsp; <B>Sir, sey somwhat of huntyng, I yow preye."</B><BR>
+2806	&nbsp; &nbsp; &nbsp; &nbsp; <B>"Nay," quod this Monk, "I have no lust to pleye.</B><BR>
+2807	&nbsp; &nbsp; &nbsp; &nbsp; <B>Now lat another telle, as I have toold."</B><BR>
+2808	&nbsp; &nbsp; &nbsp; &nbsp; <B>Thanne spak oure Hoost with rude speche and boold,</B><BR>
+2809	&nbsp; &nbsp; &nbsp; &nbsp; <B>And seyde unto the Nonnes Preest anon,</B><BR>
+2810	&nbsp; &nbsp; &nbsp; &nbsp; <B>"Com neer, thou preest, com hyder, thou sir John!</B><BR>
+2811	&nbsp; &nbsp; &nbsp; &nbsp; <B>Telle us swich thyng as may oure hertes glade.</B><BR>
+2812	&nbsp; &nbsp; &nbsp; &nbsp; <B>Be blithe, though thou ryde upon a jade.</B><BR>
+2813	&nbsp; &nbsp; &nbsp; &nbsp; <B>What thogh thyn hors be bothe foul and lene?</B><BR>
+2814	&nbsp; &nbsp; &nbsp; &nbsp; <B>If he wol serve thee, rekke nat a bene.</B><BR>
+2815	&nbsp; &nbsp; &nbsp; &nbsp; <B>Looke that thyn herte be murie everemo."</B><BR>
+2816	&nbsp; &nbsp; &nbsp; &nbsp; <B>"Yis, sir," quod he, "yis, Hoost, so moot I go,</B><BR>
+2817	&nbsp; &nbsp; &nbsp; &nbsp; <B>But I be myrie, ywis I wol be blamed."</B><BR>
+2818	&nbsp; &nbsp; &nbsp; &nbsp; <B>And right anon his tale he hath attamed,</B><BR>
+2819	&nbsp; &nbsp; &nbsp; &nbsp; <B>And thus he seyde unto us everichon,</B><BR>
+2820	&nbsp; &nbsp; &nbsp; &nbsp; <B>This sweete preest, this goodly man sir John.</B><BR>
+2821 &nbsp; &nbsp; &nbsp; &nbsp; <B>A povre wydwe, somdeel stape in age,</B><BR>
+2822 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was whilom dwellyng in a narwe cotage,</B><BR>
+2823 &nbsp; &nbsp; &nbsp; &nbsp; <B>Biside a grove, stondynge in a dale.</B><BR>
+2824 &nbsp; &nbsp; &nbsp; &nbsp; <B>This wydwe, of which I telle yow my tale,</B><BR>
+2825 &nbsp; &nbsp; &nbsp; &nbsp; <B>Syn thilke day that she was last a wyf</B><BR>
+2826 &nbsp; &nbsp; &nbsp; &nbsp; <B>In pacience ladde a ful symple lyf,</B><BR>
+2827 &nbsp; &nbsp; &nbsp; &nbsp; <B>For litel was hir catel and hir rente.</B><BR>
+2828 &nbsp; &nbsp; &nbsp; &nbsp; <B>By housbondrie of swich as God hire sente</B><BR>
+2829 &nbsp; &nbsp; &nbsp; &nbsp; <B>She foond hirself and eek hir doghtren two.</B><BR>
+2830 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thre large sowes hadde she, and namo,</B><BR>
+2831 &nbsp; &nbsp; &nbsp; &nbsp; <B>Three keen, and eek a sheep that highte Malle.</B><BR>
+2832 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ful sooty was hire bour and eek hir halle,</B><BR>
+2833 &nbsp; &nbsp; &nbsp; &nbsp; <B>In which she eet ful many a sklendre meel.</B><BR>
+2834 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of poynaunt sauce hir neded never a deel.</B><BR>
+2835 &nbsp; &nbsp; &nbsp; &nbsp; <B>No deyntee morsel passed thurgh hir throte; </B><BR>
+2836 &nbsp; &nbsp; &nbsp; &nbsp; <B>Hir diete was accordant to hir cote.</B><BR>
+2837 &nbsp; &nbsp; &nbsp; &nbsp; <B>Repleccioun ne made hire nevere sik; </B><BR>
+2838 &nbsp; &nbsp; &nbsp; &nbsp; <B>Attempree diete was al hir phisik,</B><BR>
+2839 &nbsp; &nbsp; &nbsp; &nbsp; <B>And exercise, and hertes suffisaunce.</B><BR>
+2840 &nbsp; &nbsp; &nbsp; &nbsp; <B>The goute lette hire nothyng for to daunce,</B><BR>
+2841 &nbsp; &nbsp; &nbsp; &nbsp; <B>N' apoplexie shente nat hir heed.</B><BR>
+2842 &nbsp; &nbsp; &nbsp; &nbsp; <B>No wyn ne drank she, neither whit ne reed; </B><BR>
+2843 &nbsp; &nbsp; &nbsp; &nbsp; <B>Hir bord was served moost with whit and blak --</B><BR>
+2844 &nbsp; &nbsp; &nbsp; &nbsp; <B>Milk and broun breed, in which she foond no lak,</B><BR>
+2845 &nbsp; &nbsp; &nbsp; &nbsp; <B>Seynd bacoun, and somtyme an ey or tweye,</B><BR>
+2846 &nbsp; &nbsp; &nbsp; &nbsp; <B>For she was, as it were, a maner deye.</B><BR>
+2847 &nbsp; &nbsp; &nbsp; &nbsp; <B>A yeerd she hadde, enclosed al aboute</B><BR>
+2848 &nbsp; &nbsp; &nbsp; &nbsp; <B>With stikkes, and a drye dych withoute,</B><BR>
+2849 &nbsp; &nbsp; &nbsp; &nbsp; <B>In which she hadde a cok, hight Chauntecleer.</B><BR>
+2850 &nbsp; &nbsp; &nbsp; &nbsp; <B>In al the land, of crowyng nas his peer.</B><BR>
+2851 &nbsp; &nbsp; &nbsp; &nbsp; <B>His voys was murier than the murie orgon</B><BR>
+2852 &nbsp; &nbsp; &nbsp; &nbsp; <B>On messe-dayes that in the chirche gon.</B><BR>
+2853 &nbsp; &nbsp; &nbsp; &nbsp; <B>Wel sikerer was his crowyng in his logge</B><BR>
+2854 &nbsp; &nbsp; &nbsp; &nbsp; <B>Than is a clokke or an abbey orlogge.</B><BR>
+2855 &nbsp; &nbsp; &nbsp; &nbsp; <B>By nature he knew ech ascencioun</B><BR>
+2856 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of the equynoxial in thilke toun; </B><BR>
+2857 &nbsp; &nbsp; &nbsp; &nbsp; <B>For whan degrees fiftene weren ascended,</B><BR>
+2858 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thanne crew he that it myghte nat been amended.</B><BR>
+2859 &nbsp; &nbsp; &nbsp; &nbsp; <B>His coomb was redder than the fyn coral,</B><BR>
+2860 &nbsp; &nbsp; &nbsp; &nbsp; <B>And batailled as it were a castel wal; </B><BR>
+2861 &nbsp; &nbsp; &nbsp; &nbsp; <B>His byle was blak, and as the jeet it shoon; </B><BR>
+2862 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lyk asure were his legges and his toon; </B><BR>
+2863 &nbsp; &nbsp; &nbsp; &nbsp; <B>His nayles whitter than the lylye flour,</B><BR>
+2864 &nbsp; &nbsp; &nbsp; &nbsp; <B>And lyk the burned gold was his colour.</B><BR>
+2865 &nbsp; &nbsp; &nbsp; &nbsp; <B>This gentil cok hadde in his governaunce</B><BR>
+2866 &nbsp; &nbsp; &nbsp; &nbsp; <B>Sevene hennes for to doon al his plesaunce,</B><BR>
+2867 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whiche were his sustres and his paramours,</B><BR>
+2868 &nbsp; &nbsp; &nbsp; &nbsp; <B>And wonder lyk to hym, as of colours; </B><BR>
+2869 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of whiche the faireste hewed on hir throte</B><BR>
+2870 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was cleped faire damoysele Pertelote.</B><BR>
+2871 &nbsp; &nbsp; &nbsp; &nbsp; <B>Curteys she was, discreet, and debonaire,</B><BR>
+2872 &nbsp; &nbsp; &nbsp; &nbsp; <B>And compaignable, and bar hyrself so faire</B><BR>
+2873 &nbsp; &nbsp; &nbsp; &nbsp; <B>Syn thilke day that she was seven nyght oold</B><BR>
+2874 &nbsp; &nbsp; &nbsp; &nbsp; <B>That trewely she hath the herte in hoold</B><BR>
+2875 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of Chauntecleer, loken in every lith; </B><BR>
+2876 &nbsp; &nbsp; &nbsp; &nbsp; <B>He loved hire so that wel was hym therwith.</B><BR>
+2877 &nbsp; &nbsp; &nbsp; &nbsp; <B>But swich a joye was it to here hem synge,</B><BR>
+2878 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan that the brighte sonne gan to sprynge,</B><BR>
+2879 &nbsp; &nbsp; &nbsp; &nbsp; <B>In sweete accord, "My lief is faren in londe!" --</B><BR>
+2880 &nbsp; &nbsp; &nbsp; &nbsp; <B>For thilke tyme, as I have understonde,</B><BR>
+2881 &nbsp; &nbsp; &nbsp; &nbsp; <B>Beestes and briddes koude speke and synge.</B><BR>
+2882 &nbsp; &nbsp; &nbsp; &nbsp; <B>And so bifel that in a dawenynge,</B><BR>
+2883 &nbsp; &nbsp; &nbsp; &nbsp; <B>As Chauntecleer among his wyves alle</B><BR>
+2884 &nbsp; &nbsp; &nbsp; &nbsp; <B>Sat on his perche, that was in the halle,</B><BR>
+2885 &nbsp; &nbsp; &nbsp; &nbsp; <B>And next hym sat this faire Pertelote,</B><BR>
+2886 &nbsp; &nbsp; &nbsp; &nbsp; <B>This Chauntecleer gan gronen in his throte,</B><BR>
+2887 &nbsp; &nbsp; &nbsp; &nbsp; <B>As man that in his dreem is drecched soore.</B><BR>
+2888 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whan that Pertelote thus herde hym roore,</B><BR>
+2889 &nbsp; &nbsp; &nbsp; &nbsp; <B>She was agast and seyde, "Herte deere,</B><BR>
+2890 &nbsp; &nbsp; &nbsp; &nbsp; <B>What eyleth yow, to grone in this manere?</B><BR>
+2891 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ye been a verray sleper; fy, for shame!"</B><BR>
+2892 &nbsp; &nbsp; &nbsp; &nbsp; <B>And he answerde, and seyde thus: "Madame,</B><BR>
+2893 &nbsp; &nbsp; &nbsp; &nbsp; <B>I pray yow that ye take it nat agrief.</B><BR>
+2894 &nbsp; &nbsp; &nbsp; &nbsp; <B>By God, me mette I was in swich meschief</B><BR>
+2895 &nbsp; &nbsp; &nbsp; &nbsp; <B>Right now that yet myn herte is soore afright.</B><BR>
+2896 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now God," quod he, "my swevene recche aright,</B><BR>
+2897 &nbsp; &nbsp; &nbsp; &nbsp; <B>And kepe my body out of foul prisoun!</B><BR>
+2898 &nbsp; &nbsp; &nbsp; &nbsp; <B>Me mette how that I romed up and doun</B><BR>
+2899 &nbsp; &nbsp; &nbsp; &nbsp; <B>Withinne our yeerd, wheer as I saugh a beest</B><BR>
+2900 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was lyk an hound, and wolde han maad areest</B><BR>
+2901 &nbsp; &nbsp; &nbsp; &nbsp; <B>Upon my body, and wolde han had me deed.</B><BR>
+2902 &nbsp; &nbsp; &nbsp; &nbsp; <B>His colour was bitwixe yelow and reed,</B><BR>
+2903 &nbsp; &nbsp; &nbsp; &nbsp; <B>And tipped was his tayl and bothe his eeris</B><BR>
+2904 &nbsp; &nbsp; &nbsp; &nbsp; <B>With blak, unlyk the remenant of his heeris; </B><BR>
+2905 &nbsp; &nbsp; &nbsp; &nbsp; <B>His snowte smal, with glowynge eyen tweye.</B><BR>
+2906 &nbsp; &nbsp; &nbsp; &nbsp; <B>Yet of his look for feere almoost I deye; </B><BR>
+2907 &nbsp; &nbsp; &nbsp; &nbsp; <B>This caused me my gronyng, doutelees."</B><BR>
+2908 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Avoy!" quod she, "fy on yow, hertelees!</B><BR>
+2909 &nbsp; &nbsp; &nbsp; &nbsp; <B>Allas," quod she, "for, by that God above,</B><BR>
+2910 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now han ye lost myn herte and al my love!</B><BR>
+2911 &nbsp; &nbsp; &nbsp; &nbsp; <B>I kan nat love a coward, by my feith!</B><BR>
+2912 &nbsp; &nbsp; &nbsp; &nbsp; <B>For certes, what so any womman seith,</B><BR>
+2913 &nbsp; &nbsp; &nbsp; &nbsp; <B>We alle desiren, if it myghte bee,</B><BR>
+2914 &nbsp; &nbsp; &nbsp; &nbsp; <B>To han housbondes hardy, wise, and free,</B><BR>
+2915 &nbsp; &nbsp; &nbsp; &nbsp; <B>And secree -- and no nygard, ne no fool,</B><BR>
+2916 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne hym that is agast of every tool,</B><BR>
+2917 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne noon avauntour, by that God above!</B><BR>
+2918 &nbsp; &nbsp; &nbsp; &nbsp; <B>How dorste ye seyn, for shame, unto youre love</B><BR>
+2919 &nbsp; &nbsp; &nbsp; &nbsp; <B>That any thyng myghte make yow aferd?</B><BR>
+2920 &nbsp; &nbsp; &nbsp; &nbsp; <B>Have ye no mannes herte, and han a berd?</B><BR>
+2921 &nbsp; &nbsp; &nbsp; &nbsp; <B>Allas! And konne ye been agast of swevenys?</B><BR>
+2922 &nbsp; &nbsp; &nbsp; &nbsp; <B>Nothyng, God woot, but vanitee in sweven is.</B><BR>
+2923 &nbsp; &nbsp; &nbsp; &nbsp; <B>Swevenes engendren of replecciouns,</B><BR>
+2924 &nbsp; &nbsp; &nbsp; &nbsp; <B>And ofte of fume and of complecciouns,</B><BR>
+2925 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan humours been to habundant in a wight.</B><BR>
+2926 &nbsp; &nbsp; &nbsp; &nbsp; <B>Certes this dreem, which ye han met to-nyght,</B><BR>
+2927 &nbsp; &nbsp; &nbsp; &nbsp; <B>Cometh of the greete superfluytee</B><BR>
+2928 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of youre rede colera, pardee,</B><BR>
+2929 &nbsp; &nbsp; &nbsp; &nbsp; <B>Which causeth folk to dreden in hir dremes</B><BR>
+2930 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of arwes, and of fyr with rede lemes,</B><BR>
+2931 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of rede beestes, that they wol hem byte,</B><BR>
+2932 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of contek, and of whelpes, grete and lyte; </B><BR>
+2933 &nbsp; &nbsp; &nbsp; &nbsp; <B>Right as the humour of malencolie</B><BR>
+2934 &nbsp; &nbsp; &nbsp; &nbsp; <B>Causeth ful many a man in sleep to crie</B><BR>
+2935 &nbsp; &nbsp; &nbsp; &nbsp; <B>For feere of blake beres, or boles blake,</B><BR>
+2936 &nbsp; &nbsp; &nbsp; &nbsp; <B>Or elles blake develes wole hem take.</B><BR>
+2937 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of othere humours koude I telle also</B><BR>
+2938 &nbsp; &nbsp; &nbsp; &nbsp; <B>That werken many a man sleep ful wo; </B><BR>
+2939 &nbsp; &nbsp; &nbsp; &nbsp; <B>But I wol passe as lightly as I kan.</B><BR>
+2940 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Lo Catoun, which that was so wys a man,</B><BR>
+2941 &nbsp; &nbsp; &nbsp; &nbsp; <B>Seyde he nat thus, `Ne do no fors of dremes'?</B><BR>
+2942 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Now sire," quod she, "whan we flee fro the bemes,</B><BR>
+2943 &nbsp; &nbsp; &nbsp; &nbsp; <B>For Goddes love, as taak som laxatyf.</B><BR>
+2944 &nbsp; &nbsp; &nbsp; &nbsp; <B>Up peril of my soule and of my lyf,</B><BR>
+2945 &nbsp; &nbsp; &nbsp; &nbsp; <B>I conseille yow the beste -- I wol nat lye --</B><BR>
+2946 &nbsp; &nbsp; &nbsp; &nbsp; <B>That bothe of colere and of malencolye</B><BR>
+2947 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ye purge yow; and for ye shal nat tarie,</B><BR>
+2948 &nbsp; &nbsp; &nbsp; &nbsp; <B>Though in this toun is noon apothecarie,</B><BR>
+2949 &nbsp; &nbsp; &nbsp; &nbsp; <B>I shal myself to herbes techen yow</B><BR>
+2950 &nbsp; &nbsp; &nbsp; &nbsp; <B>That shul been for youre hele and for youre prow; </B><BR>
+2951 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in oure yeerd tho herbes shal I fynde</B><BR>
+2952 &nbsp; &nbsp; &nbsp; &nbsp; <B>The whiche han of hire propretee by kynde</B><BR>
+2953 &nbsp; &nbsp; &nbsp; &nbsp; <B>To purge yow bynethe and eek above.</B><BR>
+2954 &nbsp; &nbsp; &nbsp; &nbsp; <B>Foryet nat this, for Goddes owene love!</B><BR>
+2955 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ye been ful coleryk of compleccioun; </B><BR>
+2956 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ware the sonne in his ascencioun</B><BR>
+2957 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne fynde yow nat repleet of humours hoote.</B><BR>
+2958 &nbsp; &nbsp; &nbsp; &nbsp; <B>And if it do, I dar wel leye a grote,</B><BR>
+2959 &nbsp; &nbsp; &nbsp; &nbsp; <B>That ye shul have a fevere terciane,</B><BR>
+2960 &nbsp; &nbsp; &nbsp; &nbsp; <B>Or an agu that may be youre bane.</B><BR>
+2961 &nbsp; &nbsp; &nbsp; &nbsp; <B>A day or two ye shul have digestyves</B><BR>
+2962 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of wormes, er ye take youre laxatyves</B><BR>
+2963 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of lawriol, centaure, and fumetere,</B><BR>
+2964 &nbsp; &nbsp; &nbsp; &nbsp; <B>Or elles of ellebor, that groweth there,</B><BR>
+2965 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of katapuce, or of gaitrys beryis,</B><BR>
+2966 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of herbe yve, growyng in oure yeerd, ther mery is; </B><BR>
+2967 &nbsp; &nbsp; &nbsp; &nbsp; <B>Pekke hem up right as they growe and ete hem yn.</B><BR>
+2968 &nbsp; &nbsp; &nbsp; &nbsp; <B>Be myrie, housbonde, for youre fader kyn!</B><BR>
+2969 &nbsp; &nbsp; &nbsp; &nbsp; <B>Dredeth no dreem; I kan sey yow namoore."</B><BR>
+2970 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Madame," quod he, "graunt mercy of youre loore.</B><BR>
+2971 &nbsp; &nbsp; &nbsp; &nbsp; <B>But nathelees, as touchyng daun Catoun,</B><BR>
+2972 &nbsp; &nbsp; &nbsp; &nbsp; <B>That hath of wysdom swich a greet renoun,</B><BR>
+2973 &nbsp; &nbsp; &nbsp; &nbsp; <B>Though that he bad no dremes for to drede,</B><BR>
+2974 &nbsp; &nbsp; &nbsp; &nbsp; <B>By God, men may in olde bookes rede</B><BR>
+2975 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of many a man moore of auctorite</B><BR>
+2976 &nbsp; &nbsp; &nbsp; &nbsp; <B>Than evere Caton was, so moot I thee,</B><BR>
+2977 &nbsp; &nbsp; &nbsp; &nbsp; <B>That al the revers seyn of this sentence,</B><BR>
+2978 &nbsp; &nbsp; &nbsp; &nbsp; <B>And han wel founden by experience</B><BR>
+2979 &nbsp; &nbsp; &nbsp; &nbsp; <B>That dremes been significaciouns</B><BR>
+2980 &nbsp; &nbsp; &nbsp; &nbsp; <B>As wel of joye as of tribulaciouns</B><BR>
+2981 &nbsp; &nbsp; &nbsp; &nbsp; <B>That folk enduren in this lif present.</B><BR>
+2982 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ther nedeth make of this noon argument; </B><BR>
+2983 &nbsp; &nbsp; &nbsp; &nbsp; <B>The verray preeve sheweth it in dede.</B><BR>
+2984 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Oon of the gretteste auctour that men rede</B><BR>
+2985 &nbsp; &nbsp; &nbsp; &nbsp; <B>Seith thus: that whilom two felawes wente</B><BR>
+2986 &nbsp; &nbsp; &nbsp; &nbsp; <B>On pilgrimage, in a ful good entente,</B><BR>
+2987 &nbsp; &nbsp; &nbsp; &nbsp; <B>And happed so, they coomen in a toun</B><BR>
+2988 &nbsp; &nbsp; &nbsp; &nbsp; <B>Wher as ther was swich congregacioun</B><BR>
+2989 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of peple, and eek so streit of herbergage,</B><BR>
+2990 &nbsp; &nbsp; &nbsp; &nbsp; <B>That they ne founde as muche as o cotage</B><BR>
+2991 &nbsp; &nbsp; &nbsp; &nbsp; <B>In which they bothe myghte ylogged bee.</B><BR>
+2992 &nbsp; &nbsp; &nbsp; &nbsp; <B>Wherfore they mosten of necessitee,</B><BR>
+2993 &nbsp; &nbsp; &nbsp; &nbsp; <B>As for that nyght, departen compaignye; </B><BR>
+2994 &nbsp; &nbsp; &nbsp; &nbsp; <B>And ech of hem gooth to his hostelrye,</B><BR>
+2995 &nbsp; &nbsp; &nbsp; &nbsp; <B>And took his loggyng as it wolde falle.</B><BR>
+2996 &nbsp; &nbsp; &nbsp; &nbsp; <B>That oon of hem was logged in a stalle,</B><BR>
+2997 &nbsp; &nbsp; &nbsp; &nbsp; <B>Fer in a yeerd, with oxen of the plough; </B><BR>
+2998 &nbsp; &nbsp; &nbsp; &nbsp; <B>That oother man was logged wel ynough,</B><BR>
+2999 &nbsp; &nbsp; &nbsp; &nbsp; <B>As was his aventure or his fortune,</B><BR>
+3000 &nbsp; &nbsp; &nbsp; &nbsp; <B>That us governeth alle as in commune.</B><BR>
+3001 &nbsp; &nbsp; &nbsp; &nbsp; <B>"And so bifel that, longe er it were day,</B><BR>
+3002 &nbsp; &nbsp; &nbsp; &nbsp; <B>This man mette in his bed, ther as he lay,</B><BR>
+3003 &nbsp; &nbsp; &nbsp; &nbsp; <B>How that his felawe gan upon hym calle,</B><BR>
+3004 &nbsp; &nbsp; &nbsp; &nbsp; <B>And seyde, `Allas, for in an oxes stalle</B><BR>
+3005 &nbsp; &nbsp; &nbsp; &nbsp; <B>This nyght I shal be mordred ther I lye!</B><BR>
+3006 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now help me, deere brother, or I dye.</B><BR>
+3007 &nbsp; &nbsp; &nbsp; &nbsp; <B>In alle haste com to me!' he sayde.</B><BR>
+3008 &nbsp; &nbsp; &nbsp; &nbsp; <B>This man out of his sleep for feere abrayde; </B><BR>
+3009 &nbsp; &nbsp; &nbsp; &nbsp; <B>But whan that he was wakened of his sleep,</B><BR>
+3010 &nbsp; &nbsp; &nbsp; &nbsp; <B>He turned hym and took of this no keep.</B><BR>
+3011 &nbsp; &nbsp; &nbsp; &nbsp; <B>Hym thoughte his dreem nas but a vanitee.</B><BR>
+3012 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thus twies in his slepyng dremed hee; </B><BR>
+3013 &nbsp; &nbsp; &nbsp; &nbsp; <B>And atte thridde tyme yet his felawe</B><BR>
+3014 &nbsp; &nbsp; &nbsp; &nbsp; <B>Cam, as hym thoughte, and seide, `I am now slawe.</B><BR>
+3015 &nbsp; &nbsp; &nbsp; &nbsp; <B>Bihoold my bloody woundes depe and wyde!</B><BR>
+3016 &nbsp; &nbsp; &nbsp; &nbsp; <B>Arys up erly in the morwe tyde,</B><BR>
+3017 &nbsp; &nbsp; &nbsp; &nbsp; <B>And at the west gate of the toun,' quod he,</B><BR>
+3018 &nbsp; &nbsp; &nbsp; &nbsp; <B>`A carte ful of dong ther shaltow se,</B><BR>
+3019 &nbsp; &nbsp; &nbsp; &nbsp; <B>In which my body is hid ful prively; </B><BR>
+3020 &nbsp; &nbsp; &nbsp; &nbsp; <B>Do thilke carte arresten boldely.</B><BR>
+3021 &nbsp; &nbsp; &nbsp; &nbsp; <B>My gold caused my mordre, sooth to sayn,'</B><BR>
+3022 &nbsp; &nbsp; &nbsp; &nbsp; <B>And tolde hym every point how he was slayn,</B><BR>
+3023 &nbsp; &nbsp; &nbsp; &nbsp; <B>With a ful pitous face, pale of hewe.</B><BR>
+3024 &nbsp; &nbsp; &nbsp; &nbsp; <B>And truste wel, his dreem he foond ful trewe,</B><BR>
+3025 &nbsp; &nbsp; &nbsp; &nbsp; <B>For on the morwe, as soone as it was day,</B><BR>
+3026 &nbsp; &nbsp; &nbsp; &nbsp; <B>To his felawes in he took the way; </B><BR>
+3027 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whan that he cam to this oxes stalle,</B><BR>
+3028 &nbsp; &nbsp; &nbsp; &nbsp; <B>After his felawe he bigan to calle.</B><BR>
+3029 &nbsp; &nbsp; &nbsp; &nbsp; <B>"The hostiler answerede hym anon,</B><BR>
+3030 &nbsp; &nbsp; &nbsp; &nbsp; <B>And seyde, `Sire, your felawe is agon.</B><BR>
+3031 &nbsp; &nbsp; &nbsp; &nbsp; <B>As soone as day he wente out of the toun.'</B><BR>
+3032 &nbsp; &nbsp; &nbsp; &nbsp; <B>"This man gan fallen in suspecioun,</B><BR>
+3033 &nbsp; &nbsp; &nbsp; &nbsp; <B>Remembrynge on his dremes that he mette,</B><BR>
+3034 &nbsp; &nbsp; &nbsp; &nbsp; <B>And forth he gooth -- no lenger wolde he lette --</B><BR>
+3035 &nbsp; &nbsp; &nbsp; &nbsp; <B>Unto the west gate of the toun, and fond</B><BR>
+3036 &nbsp; &nbsp; &nbsp; &nbsp; <B>A dong-carte, wente as it were to donge lond,</B><BR>
+3037 &nbsp; &nbsp; &nbsp; &nbsp; <B>That was arrayed in that same wise</B><BR>
+3038 &nbsp; &nbsp; &nbsp; &nbsp; <B>As ye han herd the dede man devyse.</B><BR>
+3039 &nbsp; &nbsp; &nbsp; &nbsp; <B>And with an hardy herte he gan to crye</B><BR>
+3040 &nbsp; &nbsp; &nbsp; &nbsp; <B>Vengeance and justice of this felonye:</B><BR>
+3041 &nbsp; &nbsp; &nbsp; &nbsp; <B>`My felawe mordred is this same nyght,</B><BR>
+3042 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in this carte he lith gapyng upright.</B><BR>
+3043 &nbsp; &nbsp; &nbsp; &nbsp; <B>I crye out on the ministres,' quod he,</B><BR>
+3044 &nbsp; &nbsp; &nbsp; &nbsp; <B>`That sholden kepe and reulen this citee.</B><BR>
+3045 &nbsp; &nbsp; &nbsp; &nbsp; <B>Harrow! Allas! Heere lith my felawe slayn!'</B><BR>
+3046 &nbsp; &nbsp; &nbsp; &nbsp; <B>What sholde I moore unto this tale sayn?</B><BR>
+3047 &nbsp; &nbsp; &nbsp; &nbsp; <B>The peple out sterte and caste the cart to grounde,</B><BR>
+3048 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in the myddel of the dong they founde</B><BR>
+3049 &nbsp; &nbsp; &nbsp; &nbsp; <B>The dede man, that mordred was al newe.</B><BR>
+3050 &nbsp; &nbsp; &nbsp; &nbsp; <B>"O blisful God, that art so just and trewe,</B><BR>
+3051 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lo, how that thou biwreyest mordre alway!</B><BR>
+3052 &nbsp; &nbsp; &nbsp; &nbsp; <B>Mordre wol out; that se we day by day.</B><BR>
+3053 &nbsp; &nbsp; &nbsp; &nbsp; <B>Mordre is so wlatsom and abhomynable</B><BR>
+3054 &nbsp; &nbsp; &nbsp; &nbsp; <B>To God, that is so just and resonable,</B><BR>
+3055 &nbsp; &nbsp; &nbsp; &nbsp; <B>That he ne wol nat suffre it heled be,</B><BR>
+3056 &nbsp; &nbsp; &nbsp; &nbsp; <B>Though it abyde a yeer, or two, or thre.</B><BR>
+3057 &nbsp; &nbsp; &nbsp; &nbsp; <B>Mordre wol out, this my conclusioun.</B><BR>
+3058 &nbsp; &nbsp; &nbsp; &nbsp; <B>And right anon, ministres of that toun</B><BR>
+3059 &nbsp; &nbsp; &nbsp; &nbsp; <B>Han hent the carter and so soore hym pyned,</B><BR>
+3060 &nbsp; &nbsp; &nbsp; &nbsp; <B>And eek the hostiler so soore engyned,</B><BR>
+3061 &nbsp; &nbsp; &nbsp; &nbsp; <B>That they biknewe hire wikkednesse anon,</B><BR>
+3062 &nbsp; &nbsp; &nbsp; &nbsp; <B>And were anhanged by the nekke-bon.</B><BR>
+3063 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Heere may men seen that dremes been to drede.</B><BR>
+3064 &nbsp; &nbsp; &nbsp; &nbsp; <B>And certes in the same book I rede,</B><BR>
+3065 &nbsp; &nbsp; &nbsp; &nbsp; <B>Right in the nexte chapitre after this --</B><BR>
+3066 &nbsp; &nbsp; &nbsp; &nbsp; <B>I gabbe nat, so have I joye or blis --</B><BR>
+3067 &nbsp; &nbsp; &nbsp; &nbsp; <B>Two men that wolde han passed over see,</B><BR>
+3068 &nbsp; &nbsp; &nbsp; &nbsp; <B>For certeyn cause, into a fer contree,</B><BR>
+3069 &nbsp; &nbsp; &nbsp; &nbsp; <B>If that the wynd ne hadde been contrarie,</B><BR>
+3070 &nbsp; &nbsp; &nbsp; &nbsp; <B>That made hem in a citee for to tarie</B><BR>
+3071 &nbsp; &nbsp; &nbsp; &nbsp; <B>That stood ful myrie upon an haven-syde; </B><BR>
+3072 &nbsp; &nbsp; &nbsp; &nbsp; <B>But on a day, agayn the even-tyde,</B><BR>
+3073 &nbsp; &nbsp; &nbsp; &nbsp; <B>The wynd gan chaunge, and blew right as hem leste.</B><BR>
+3074 &nbsp; &nbsp; &nbsp; &nbsp; <B>Jolif and glad they wente unto hir reste,</B><BR>
+3075 &nbsp; &nbsp; &nbsp; &nbsp; <B>And casten hem ful erly for to saille.</B><BR>
+3076 &nbsp; &nbsp; &nbsp; &nbsp; <B>But herkneth! To that o man fil a greet mervaille:</B><BR>
+3077 &nbsp; &nbsp; &nbsp; &nbsp; <B>That oon of hem, in slepyng as he lay,</B><BR>
+3078 &nbsp; &nbsp; &nbsp; &nbsp; <B>Hym mette a wonder dreem agayn the day.</B><BR>
+3079 &nbsp; &nbsp; &nbsp; &nbsp; <B>Hym thoughte a man stood by his beddes syde,</B><BR>
+3080 &nbsp; &nbsp; &nbsp; &nbsp; <B>And hym comanded that he sholde abyde,</B><BR>
+3081 &nbsp; &nbsp; &nbsp; &nbsp; <B>And seyde hym thus: `If thou tomorwe wende,</B><BR>
+3082 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thow shalt be dreynt; my tale is at an ende.'</B><BR>
+3083 &nbsp; &nbsp; &nbsp; &nbsp; <B>He wook, and tolde his felawe what he mette,</B><BR>
+3084 &nbsp; &nbsp; &nbsp; &nbsp; <B>And preyde hym his viage for to lette; </B><BR>
+3085 &nbsp; &nbsp; &nbsp; &nbsp; <B>As for that day, he preyde hym to byde.</B><BR>
+3086 &nbsp; &nbsp; &nbsp; &nbsp; <B>His felawe, that lay by his beddes syde,</B><BR>
+3087 &nbsp; &nbsp; &nbsp; &nbsp; <B>Gan for to laughe, and scorned him ful faste.</B><BR>
+3088 &nbsp; &nbsp; &nbsp; &nbsp; <B>`No dreem,' quod he, `may so myn herte agaste</B><BR>
+3089 &nbsp; &nbsp; &nbsp; &nbsp; <B>That I wol lette for to do my thynges.</B><BR>
+3090 &nbsp; &nbsp; &nbsp; &nbsp; <B>I sette nat a straw by thy dremynges,</B><BR>
+3091 &nbsp; &nbsp; &nbsp; &nbsp; <B>For swevenes been but vanytees and japes.</B><BR>
+3092 &nbsp; &nbsp; &nbsp; &nbsp; <B>Men dreme alday of owles and of apes,</B><BR>
+3093 &nbsp; &nbsp; &nbsp; &nbsp; <B>And of many a maze therwithal; </B><BR>
+3094 &nbsp; &nbsp; &nbsp; &nbsp; <B>Men dreme of thyng that nevere was ne shal.</B><BR>
+3095 &nbsp; &nbsp; &nbsp; &nbsp; <B>But sith I see that thou wolt heere abyde,</B><BR>
+3096 &nbsp; &nbsp; &nbsp; &nbsp; <B>And thus forslewthen wilfully thy tyde,</B><BR>
+3097 &nbsp; &nbsp; &nbsp; &nbsp; <B>God woot, it reweth me; and have good day!'</B><BR>
+3098 &nbsp; &nbsp; &nbsp; &nbsp; <B>And thus he took his leve, and wente his way.</B><BR>
+3099 &nbsp; &nbsp; &nbsp; &nbsp; <B>But er that he hadde half his cours yseyled,</B><BR>
+3100 &nbsp; &nbsp; &nbsp; &nbsp; <B>Noot I nat why, ne what myschaunce it eyled,</B><BR>
+3101 &nbsp; &nbsp; &nbsp; &nbsp; <B>But casuelly the shippes botme rente,</B><BR>
+3102 &nbsp; &nbsp; &nbsp; &nbsp; <B>And ship and man under the water wente</B><BR>
+3103 &nbsp; &nbsp; &nbsp; &nbsp; <B>In sighte of othere shippes it bisyde,</B><BR>
+3104 &nbsp; &nbsp; &nbsp; &nbsp; <B>That with hem seyled at the same tyde.</B><BR>
+3105 &nbsp; &nbsp; &nbsp; &nbsp; <B>And therfore, faire Pertelote so deere,</B><BR>
+3106 &nbsp; &nbsp; &nbsp; &nbsp; <B>By swiche ensamples olde maistow leere</B><BR>
+3107 &nbsp; &nbsp; &nbsp; &nbsp; <B>That no man sholde been to recchelees</B><BR>
+3108 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of dremes; for I seye thee, doutelees,</B><BR>
+3109 &nbsp; &nbsp; &nbsp; &nbsp; <B>That many a dreem ful soore is for to drede.</B><BR>
+3110 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Lo, in the lyf of Seint Kenelm I rede,</B><BR>
+3111 &nbsp; &nbsp; &nbsp; &nbsp; <B>That was Kenulphus sone, the noble kyng</B><BR>
+3112 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of Mercenrike, how Kenelm mette a thyng.</B><BR>
+3113 &nbsp; &nbsp; &nbsp; &nbsp; <B>A lite er he was mordred, on a day,</B><BR>
+3114 &nbsp; &nbsp; &nbsp; &nbsp; <B>His mordre in his avysioun he say.</B><BR>
+3115 &nbsp; &nbsp; &nbsp; &nbsp; <B>His norice hym expowned every deel</B><BR>
+3116 &nbsp; &nbsp; &nbsp; &nbsp; <B>His sweven, and bad hym for to kepe hym weel</B><BR>
+3117 &nbsp; &nbsp; &nbsp; &nbsp; <B>For traisoun; but he nas but seven yeer oold,</B><BR>
+3118 &nbsp; &nbsp; &nbsp; &nbsp; <B>And therfore litel tale hath he toold</B><BR>
+3119 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of any dreem, so hooly was his herte.</B><BR>
+3120 &nbsp; &nbsp; &nbsp; &nbsp; <B>By God! I hadde levere than my sherte</B><BR>
+3121 &nbsp; &nbsp; &nbsp; &nbsp; <B>That ye hadde rad his legende, as have I.</B><BR>
+3122 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Dame Pertelote, I sey yow trewely,</B><BR>
+3123 &nbsp; &nbsp; &nbsp; &nbsp; <B>Macrobeus, that writ the avisioun</B><BR>
+3124 &nbsp; &nbsp; &nbsp; &nbsp; <B>In Affrike of the worthy Cipioun,</B><BR>
+3125 &nbsp; &nbsp; &nbsp; &nbsp; <B>Affermeth dremes, and seith that they been</B><BR>
+3126 &nbsp; &nbsp; &nbsp; &nbsp; <B>Warnynge of thynges that men after seen.</B><BR>
+3127 &nbsp; &nbsp; &nbsp; &nbsp; <B>And forthermoore, I pray yow, looketh wel</B><BR>
+3128 &nbsp; &nbsp; &nbsp; &nbsp; <B>In the olde testament, of Daniel,</B><BR>
+3129 &nbsp; &nbsp; &nbsp; &nbsp; <B>If he heeld dremes any vanitee.</B><BR>
+3130 &nbsp; &nbsp; &nbsp; &nbsp; <B>Reed eek of Joseph, and ther shul ye see</B><BR>
+3131 &nbsp; &nbsp; &nbsp; &nbsp; <B>Wher dremes be somtyme -- I sey nat alle --</B><BR>
+3132 &nbsp; &nbsp; &nbsp; &nbsp; <B>Warnynge of thynges that shul after falle.</B><BR>
+3133 &nbsp; &nbsp; &nbsp; &nbsp; <B>Looke of Egipte the kyng, daun Pharao,</B><BR>
+3134 &nbsp; &nbsp; &nbsp; &nbsp; <B>His bakere and his butiller also,</B><BR>
+3135 &nbsp; &nbsp; &nbsp; &nbsp; <B>Wher they ne felte noon effect in dremes.</B><BR>
+3136 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whoso wol seken actes of sondry remes</B><BR>
+3137 &nbsp; &nbsp; &nbsp; &nbsp; <B>May rede of dremes many a wonder thyng.</B><BR>
+3138 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lo Cresus, which that was of Lyde kyng,</B><BR>
+3139 &nbsp; &nbsp; &nbsp; &nbsp; <B>Mette he nat that he sat upon a tree,</B><BR>
+3140 &nbsp; &nbsp; &nbsp; &nbsp; <B>Which signified he sholde anhanged bee?</B><BR>
+3141 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lo heere Andromacha, Ectores wyf,</B><BR>
+3142 &nbsp; &nbsp; &nbsp; &nbsp; <B>That day that Ector sholde lese his lyf,</B><BR>
+3143 &nbsp; &nbsp; &nbsp; &nbsp; <B>She dremed on the same nyght biforn</B><BR>
+3144 &nbsp; &nbsp; &nbsp; &nbsp; <B>How that the lyf of Ector sholde be lorn,</B><BR>
+3145 &nbsp; &nbsp; &nbsp; &nbsp; <B>If thilke day he wente into bataille.</B><BR>
+3146 &nbsp; &nbsp; &nbsp; &nbsp; <B>She warned hym, but it myghte nat availle; </B><BR>
+3147 &nbsp; &nbsp; &nbsp; &nbsp; <B>He wente for to fighte natheles,</B><BR>
+3148 &nbsp; &nbsp; &nbsp; &nbsp; <B>But he was slayn anon of Achilles.</B><BR>
+3149 &nbsp; &nbsp; &nbsp; &nbsp; <B>But thilke tale is al to longe to telle,</B><BR>
+3150 &nbsp; &nbsp; &nbsp; &nbsp; <B>And eek it is ny day; I may nat dwelle.</B><BR>
+3151 &nbsp; &nbsp; &nbsp; &nbsp; <B>Shortly I seye, as for conclusioun,</B><BR>
+3152 &nbsp; &nbsp; &nbsp; &nbsp; <B>That I shal han of this avisioun</B><BR>
+3153 &nbsp; &nbsp; &nbsp; &nbsp; <B>Adversitee; and I seye forthermoor</B><BR>
+3154 &nbsp; &nbsp; &nbsp; &nbsp; <B>That I ne telle of laxatyves no stoor,</B><BR>
+3155 &nbsp; &nbsp; &nbsp; &nbsp; <B>For they been venymes, I woot it weel; </B><BR>
+3156 &nbsp; &nbsp; &nbsp; &nbsp; <B>I hem diffye, I love hem never a deel!</B><BR>
+3157 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Now let us speke of myrthe, and stynte al this.</B><BR>
+3158 &nbsp; &nbsp; &nbsp; &nbsp; <B>Madame Pertelote, so have I blis,</B><BR>
+3159 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of o thyng God hath sent me large grace; </B><BR>
+3160 &nbsp; &nbsp; &nbsp; &nbsp; <B>For whan I se the beautee of youre face,</B><BR>
+3161 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ye been so scarlet reed aboute youre yen,</B><BR>
+3162 &nbsp; &nbsp; &nbsp; &nbsp; <B>It maketh al my drede for to dyen; </B><BR>
+3163 &nbsp; &nbsp; &nbsp; &nbsp; <B>For al so siker as In principio,</B><BR>
+3164 &nbsp; &nbsp; &nbsp; &nbsp; <B>Mulier est hominis confusio --</B><BR>
+3165 &nbsp; &nbsp; &nbsp; &nbsp; <B>Madame, the sentence of this Latyn is,</B><BR>
+3166 &nbsp; &nbsp; &nbsp; &nbsp; <B>`Womman is mannes joye and al his blis.'</B><BR>
+3167 &nbsp; &nbsp; &nbsp; &nbsp; <B>For whan I feele a-nyght your softe syde --</B><BR>
+3168 &nbsp; &nbsp; &nbsp; &nbsp; <B>Al be it that I may nat on yow ryde,</B><BR>
+3169 &nbsp; &nbsp; &nbsp; &nbsp; <B>For that oure perche is maad so narwe, allas --</B><BR>
+3170 &nbsp; &nbsp; &nbsp; &nbsp; <B>I am so ful of joye and of solas,</B><BR>
+3171 &nbsp; &nbsp; &nbsp; &nbsp; <B>That I diffye bothe sweven and dreem."</B><BR>
+3172 &nbsp; &nbsp; &nbsp; &nbsp; <B>And with that word he fley doun fro the beem,</B><BR>
+3173 &nbsp; &nbsp; &nbsp; &nbsp; <B>For it was day, and eke his hennes alle,</B><BR>
+3174 &nbsp; &nbsp; &nbsp; &nbsp; <B>And with a chuk he gan hem for to calle,</B><BR>
+3175 &nbsp; &nbsp; &nbsp; &nbsp; <B>For he hadde founde a corn, lay in the yerd.</B><BR>
+3176 &nbsp; &nbsp; &nbsp; &nbsp; <B>Real he was, he was namoore aferd.</B><BR>
+3177 &nbsp; &nbsp; &nbsp; &nbsp; <B>He fethered Pertelote twenty tyme,</B><BR>
+3178 &nbsp; &nbsp; &nbsp; &nbsp; <B>And trad hire eke as ofte, er it was pryme.</B><BR>
+3179 &nbsp; &nbsp; &nbsp; &nbsp; <B>He looketh as it were a grym leoun,</B><BR>
+3180 &nbsp; &nbsp; &nbsp; &nbsp; <B>And on his toos he rometh up and doun; </B><BR>
+3181 &nbsp; &nbsp; &nbsp; &nbsp; <B>Hym deigned nat to sette his foot to grounde.</B><BR>
+3182 &nbsp; &nbsp; &nbsp; &nbsp; <B>He chukketh whan he hath a corn yfounde,</B><BR>
+3183 &nbsp; &nbsp; &nbsp; &nbsp; <B>And to hym rennen thanne his wyves alle.</B><BR>
+3184 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thus roial, as a prince is in his halle,</B><BR>
+3185 &nbsp; &nbsp; &nbsp; &nbsp; <B>Leve I this Chauntecleer in his pasture,</B><BR>
+3186 &nbsp; &nbsp; &nbsp; &nbsp; <B>And after wol I telle his aventure.</B><BR>
+3187 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan that the month in which the world bigan,</B><BR>
+3188 &nbsp; &nbsp; &nbsp; &nbsp; <B>That highte March, whan God first maked man,</B><BR>
+3189 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was compleet, and passed were also,</B><BR>
+3190 &nbsp; &nbsp; &nbsp; &nbsp; <B>Syn March [was gon], thritty dayes and two,</B><BR>
+3191 &nbsp; &nbsp; &nbsp; &nbsp; <B>Bifel that Chauntecleer in al his pryde,</B><BR>
+3192 &nbsp; &nbsp; &nbsp; &nbsp; <B>His sevene wyves walkynge by his syde,</B><BR>
+3193 &nbsp; &nbsp; &nbsp; &nbsp; <B>Caste up his eyen to the brighte sonne,</B><BR>
+3194 &nbsp; &nbsp; &nbsp; &nbsp; <B>That in the signe of Taurus hadde yronne</B><BR>
+3195 &nbsp; &nbsp; &nbsp; &nbsp; <B>Twenty degrees and oon, and somwhat moore,</B><BR>
+3196 &nbsp; &nbsp; &nbsp; &nbsp; <B>And knew by kynde, and by noon oother loore,</B><BR>
+3197 &nbsp; &nbsp; &nbsp; &nbsp; <B>That it was pryme, and crew with blisful stevene.</B><BR>
+3198 &nbsp; &nbsp; &nbsp; &nbsp; <B>"The sonne," he seyde, "is clomben up on hevene</B><BR>
+3199 &nbsp; &nbsp; &nbsp; &nbsp; <B>Fourty degrees and oon, and moore ywis.</B><BR>
+3200 &nbsp; &nbsp; &nbsp; &nbsp; <B>Madame Pertelote, my worldes blis,</B><BR>
+3201 &nbsp; &nbsp; &nbsp; &nbsp; <B>Herkneth thise blisful briddes how they synge,</B><BR>
+3202 &nbsp; &nbsp; &nbsp; &nbsp; <B>And se the fresshe floures how they sprynge; </B><BR>
+3203 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ful is myn herte of revel and solas!"</B><BR>
+3204 &nbsp; &nbsp; &nbsp; &nbsp; <B>But sodeynly hym fil a sorweful cas,</B><BR>
+3205 &nbsp; &nbsp; &nbsp; &nbsp; <B>For evere the latter ende of joye is wo.</B><BR>
+3206 &nbsp; &nbsp; &nbsp; &nbsp; <B>God woot that worldly joye is soone ago; </B><BR>
+3207 &nbsp; &nbsp; &nbsp; &nbsp; <B>And if a rethor koude faire endite,</B><BR>
+3208 &nbsp; &nbsp; &nbsp; &nbsp; <B>He in a cronycle saufly myghte it write</B><BR>
+3209 &nbsp; &nbsp; &nbsp; &nbsp; <B>As for a sovereyn notabilitee.</B><BR>
+3210 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now every wys man, lat him herkne me; </B><BR>
+3211 &nbsp; &nbsp; &nbsp; &nbsp; <B>This storie is also trewe, I undertake,</B><BR>
+3212 &nbsp; &nbsp; &nbsp; &nbsp; <B>As is the book of Launcelot de Lake,</B><BR>
+3213 &nbsp; &nbsp; &nbsp; &nbsp; <B>That wommen holde in ful greet reverence.</B><BR>
+3214 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now wol I torne agayn to my sentence.</B><BR>
+3215 &nbsp; &nbsp; &nbsp; &nbsp; <B>A col-fox, ful of sly iniquitee,</B><BR>
+3216 &nbsp; &nbsp; &nbsp; &nbsp; <B>That in the grove hadde woned yeres three,</B><BR>
+3217 &nbsp; &nbsp; &nbsp; &nbsp; <B>By heigh ymaginacioun forncast,</B><BR>
+3218 &nbsp; &nbsp; &nbsp; &nbsp; <B>The same nyght thurghout the hegges brast</B><BR>
+3219 &nbsp; &nbsp; &nbsp; &nbsp; <B>Into the yerd ther Chauntecleer the faire</B><BR>
+3220 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was wont, and eek his wyves, to repaire; </B><BR>
+3221 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in a bed of wortes stille he lay</B><BR>
+3222 &nbsp; &nbsp; &nbsp; &nbsp; <B>Til it was passed undren of the day,</B><BR>
+3223 &nbsp; &nbsp; &nbsp; &nbsp; <B>Waitynge his tyme on Chauntecleer to falle,</B><BR>
+3224 &nbsp; &nbsp; &nbsp; &nbsp; <B>As gladly doon thise homycides alle</B><BR>
+3225 &nbsp; &nbsp; &nbsp; &nbsp; <B>That in await liggen to mordre men.</B><BR>
+3226 &nbsp; &nbsp; &nbsp; &nbsp; <B>O false mordrour, lurkynge in thy den!</B><BR>
+3227 &nbsp; &nbsp; &nbsp; &nbsp; <B>O newe Scariot, newe Genylon,</B><BR>
+3228 &nbsp; &nbsp; &nbsp; &nbsp; <B>False dissymulour, o Greek Synon,</B><BR>
+3229 &nbsp; &nbsp; &nbsp; &nbsp; <B>That broghtest Troye al outrely to sorwe!</B><BR>
+3230 &nbsp; &nbsp; &nbsp; &nbsp; <B>O Chauntecleer, acursed be that morwe</B><BR>
+3231 &nbsp; &nbsp; &nbsp; &nbsp; <B>That thou into that yerd flaugh fro the bemes!</B><BR>
+3232 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thou were ful wel ywarned by thy dremes</B><BR>
+3233 &nbsp; &nbsp; &nbsp; &nbsp; <B>That thilke day was perilous to thee; </B><BR>
+3234 &nbsp; &nbsp; &nbsp; &nbsp; <B>But what that God forwoot moot nedes bee,</B><BR>
+3235 &nbsp; &nbsp; &nbsp; &nbsp; <B>After the opinioun of certein clerkis.</B><BR>
+3236 &nbsp; &nbsp; &nbsp; &nbsp; <B>Witnesse on hym that any parfit clerk is,</B><BR>
+3237 &nbsp; &nbsp; &nbsp; &nbsp; <B>That in scole is greet altercacioun</B><BR>
+3238 &nbsp; &nbsp; &nbsp; &nbsp; <B>In this mateere, and greet disputisoun,</B><BR>
+3239 &nbsp; &nbsp; &nbsp; &nbsp; <B>And hath been of an hundred thousand men.</B><BR>
+3240 &nbsp; &nbsp; &nbsp; &nbsp; <B>But I ne kan nat bulte it to the bren</B><BR>
+3241 &nbsp; &nbsp; &nbsp; &nbsp; <B>As kan the hooly doctour Augustyn,</B><BR>
+3242 &nbsp; &nbsp; &nbsp; &nbsp; <B>Or Boece, or the Bisshop Bradwardyn,</B><BR>
+3243 &nbsp; &nbsp; &nbsp; &nbsp; <B>Wheither that Goddes worthy forwityng</B><BR>
+3244 &nbsp; &nbsp; &nbsp; &nbsp; <B>Streyneth me nedely for to doon a thyng --</B><BR>
+3245 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Nedely" clepe I symple necessitee --</B><BR>
+3246 &nbsp; &nbsp; &nbsp; &nbsp; <B>Or elles, if free choys be graunted me</B><BR>
+3247 &nbsp; &nbsp; &nbsp; &nbsp; <B>To do that same thyng, or do it noght,</B><BR>
+3248 &nbsp; &nbsp; &nbsp; &nbsp; <B>Though God forwoot it er that I was wroght; </B><BR>
+3249 &nbsp; &nbsp; &nbsp; &nbsp; <B>Or if his wityng streyneth never a deel</B><BR>
+3250 &nbsp; &nbsp; &nbsp; &nbsp; <B>But by necessitee condicioneel.</B><BR>
+3251 &nbsp; &nbsp; &nbsp; &nbsp; <B>I wol nat han to do of swich mateere; </B><BR>
+3252 &nbsp; &nbsp; &nbsp; &nbsp; <B>My tale is of a cok, as ye may heere,</B><BR>
+3253 &nbsp; &nbsp; &nbsp; &nbsp; <B>That tok his conseil of his wyf, with sorwe,</B><BR>
+3254 &nbsp; &nbsp; &nbsp; &nbsp; <B>To walken in the yerd upon that morwe</B><BR>
+3255 &nbsp; &nbsp; &nbsp; &nbsp; <B>That he hadde met that dreem that I yow tolde.</B><BR>
+3256 &nbsp; &nbsp; &nbsp; &nbsp; <B>Wommennes conseils been ful ofte colde; </B><BR>
+3257 &nbsp; &nbsp; &nbsp; &nbsp; <B>Wommannes conseil broghte us first to wo</B><BR>
+3258 &nbsp; &nbsp; &nbsp; &nbsp; <B>And made Adam fro Paradys to go,</B><BR>
+3259 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ther as he was ful myrie and wel at ese.</B><BR>
+3260 &nbsp; &nbsp; &nbsp; &nbsp; <B>But for I noot to whom it myght displese,</B><BR>
+3261 &nbsp; &nbsp; &nbsp; &nbsp; <B>If I conseil of wommen wolde blame,</B><BR>
+3262 &nbsp; &nbsp; &nbsp; &nbsp; <B>Passe over, for I seyde it in my game.</B><BR>
+3263 &nbsp; &nbsp; &nbsp; &nbsp; <B>Rede auctours, where they trete of swich mateere,</B><BR>
+3264 &nbsp; &nbsp; &nbsp; &nbsp; <B>And what they seyn of wommen ye may heere.</B><BR>
+3265 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thise been the cokkes wordes, and nat myne; </B><BR>
+3266 &nbsp; &nbsp; &nbsp; &nbsp; <B>I kan noon harm of no womman divyne.</B><BR>
+3267 &nbsp; &nbsp; &nbsp; &nbsp; <B>Faire in the soond, to bathe hire myrily,</B><BR>
+3268 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lith Pertelote, and alle hire sustres by,</B><BR>
+3269 &nbsp; &nbsp; &nbsp; &nbsp; <B>Agayn the sonne, and Chauntecleer so free</B><BR>
+3270 &nbsp; &nbsp; &nbsp; &nbsp; <B>Soong murier than the mermayde in the see</B><BR>
+3271 &nbsp; &nbsp; &nbsp; &nbsp; <B>(For Phisiologus seith sikerly</B><BR>
+3272 &nbsp; &nbsp; &nbsp; &nbsp; <B>How that they syngen wel and myrily).</B><BR>
+3273 &nbsp; &nbsp; &nbsp; &nbsp; <B>And so bifel that, as he caste his ye</B><BR>
+3274 &nbsp; &nbsp; &nbsp; &nbsp; <B>Among the wortes on a boterflye,</B><BR>
+3275 &nbsp; &nbsp; &nbsp; &nbsp; <B>He was war of this fox, that lay ful lowe.</B><BR>
+3276 &nbsp; &nbsp; &nbsp; &nbsp; <B>Nothyng ne liste hym thanne for to crowe,</B><BR>
+3277 &nbsp; &nbsp; &nbsp; &nbsp; <B>But cride anon, "Cok! cok!" and up he sterte</B><BR>
+3278 &nbsp; &nbsp; &nbsp; &nbsp; <B>As man that was affrayed in his herte.</B><BR>
+3279 &nbsp; &nbsp; &nbsp; &nbsp; <B>For natureelly a beest desireth flee</B><BR>
+3280 &nbsp; &nbsp; &nbsp; &nbsp; <B>Fro his contrarie, if he may it see,</B><BR>
+3281 &nbsp; &nbsp; &nbsp; &nbsp; <B>Though he never erst hadde seyn it with his ye.</B><BR>
+3282 &nbsp; &nbsp; &nbsp; &nbsp; <B>This Chauntecleer, whan he gan hym espye,</B><BR>
+3283 &nbsp; &nbsp; &nbsp; &nbsp; <B>He wolde han fled, but that the fox anon</B><BR>
+3284 &nbsp; &nbsp; &nbsp; &nbsp; <B>Seyde, "Gentil sire, allas, wher wol ye gon?</B><BR>
+3285 &nbsp; &nbsp; &nbsp; &nbsp; <B>Be ye affrayed of me that am youre freend?</B><BR>
+3286 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now, certes, I were worse than a feend,</B><BR>
+3287 &nbsp; &nbsp; &nbsp; &nbsp; <B>If I to yow wolde harm or vileynye!</B><BR>
+3288 &nbsp; &nbsp; &nbsp; &nbsp; <B>I am nat come youre conseil for t' espye,</B><BR>
+3289 &nbsp; &nbsp; &nbsp; &nbsp; <B>But trewely, the cause of my comynge</B><BR>
+3290 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was oonly for to herkne how that ye synge.</B><BR>
+3291 &nbsp; &nbsp; &nbsp; &nbsp; <B>For trewely, ye have as myrie a stevene</B><BR>
+3292 &nbsp; &nbsp; &nbsp; &nbsp; <B>As any aungel hath that is in hevene.</B><BR>
+3293 &nbsp; &nbsp; &nbsp; &nbsp; <B>Therwith ye han in musyk moore feelynge</B><BR>
+3294 &nbsp; &nbsp; &nbsp; &nbsp; <B>Than hadde Boece, or any that kan synge.</B><BR>
+3295 &nbsp; &nbsp; &nbsp; &nbsp; <B>My lord youre fader -- God his soule blesse! --</B><BR>
+3296 &nbsp; &nbsp; &nbsp; &nbsp; <B>And eek youre mooder, of hire gentillesse,</B><BR>
+3297 &nbsp; &nbsp; &nbsp; &nbsp; <B>Han in myn hous ybeen to my greet ese; </B><BR>
+3298 &nbsp; &nbsp; &nbsp; &nbsp; <B>And certes, sire, ful fayn wolde I yow plese.</B><BR>
+3299 &nbsp; &nbsp; &nbsp; &nbsp; <B>But, for men speke of syngyng, I wol seye --</B><BR>
+3300 &nbsp; &nbsp; &nbsp; &nbsp; <B>So moote I brouke wel myne eyen tweye --</B><BR>
+3301 &nbsp; &nbsp; &nbsp; &nbsp; <B>Save yow, I herde nevere man so synge</B><BR>
+3302 &nbsp; &nbsp; &nbsp; &nbsp; <B>As dide youre fader in the morwenynge.</B><BR>
+3303 &nbsp; &nbsp; &nbsp; &nbsp; <B>Certes, it was of herte, al that he song.</B><BR>
+3304 &nbsp; &nbsp; &nbsp; &nbsp; <B>And for to make his voys the moore strong,</B><BR>
+3305 &nbsp; &nbsp; &nbsp; &nbsp; <B>He wolde so peyne hym that with bothe his yen</B><BR>
+3306 &nbsp; &nbsp; &nbsp; &nbsp; <B>He moste wynke, so loude he wolde cryen,</B><BR>
+3307 &nbsp; &nbsp; &nbsp; &nbsp; <B>And stonden on his tiptoon therwithal,</B><BR>
+3308 &nbsp; &nbsp; &nbsp; &nbsp; <B>And strecche forth his nekke long and smal.</B><BR>
+3309 &nbsp; &nbsp; &nbsp; &nbsp; <B>And eek he was of swich discrecioun</B><BR>
+3310 &nbsp; &nbsp; &nbsp; &nbsp; <B>That ther nas no man in no regioun</B><BR>
+3311 &nbsp; &nbsp; &nbsp; &nbsp; <B>That hym in song or wisedom myghte passe.</B><BR>
+3312 &nbsp; &nbsp; &nbsp; &nbsp; <B>I have wel rad in `Daun Burnel the Asse,'</B><BR>
+3313 &nbsp; &nbsp; &nbsp; &nbsp; <B>Among his vers, how that ther was a cok,</B><BR>
+3314 &nbsp; &nbsp; &nbsp; &nbsp; <B>For that a preestes sone yaf hym a knok</B><BR>
+3315 &nbsp; &nbsp; &nbsp; &nbsp; <B>Upon his leg whil he was yong and nyce,</B><BR>
+3316 &nbsp; &nbsp; &nbsp; &nbsp; <B>He made hym for to lese his benefice.</B><BR>
+3317 &nbsp; &nbsp; &nbsp; &nbsp; <B>But certeyn, ther nys no comparisoun</B><BR>
+3318 &nbsp; &nbsp; &nbsp; &nbsp; <B>Bitwixe the wisedom and discrecioun</B><BR>
+3319 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of youre fader and of his subtiltee.</B><BR>
+3320 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now syngeth, sire, for seinte charitee; </B><BR>
+3321 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lat se; konne ye youre fader countrefete?"</B><BR>
+3322 &nbsp; &nbsp; &nbsp; &nbsp; <B>This Chauntecleer his wynges gan to bete,</B><BR>
+3323 &nbsp; &nbsp; &nbsp; &nbsp; <B>As man that koude his traysoun nat espie,</B><BR>
+3324 &nbsp; &nbsp; &nbsp; &nbsp; <B>So was he ravysshed with his flaterie.</B><BR>
+3325 &nbsp; &nbsp; &nbsp; &nbsp; <B>Allas, ye lordes, many a fals flatour</B><BR>
+3326 &nbsp; &nbsp; &nbsp; &nbsp; <B>Is in youre courtes, and many a losengeour,</B><BR>
+3327 &nbsp; &nbsp; &nbsp; &nbsp; <B>That plesen yow wel moore, by my feith,</B><BR>
+3328 &nbsp; &nbsp; &nbsp; &nbsp; <B>Than he that soothfastnesse unto yow seith.</B><BR>
+3329 &nbsp; &nbsp; &nbsp; &nbsp; <B>Redeth Ecclesiaste of flaterye; </B><BR>
+3330 &nbsp; &nbsp; &nbsp; &nbsp; <B>Beth war, ye lordes, of hir trecherye.</B><BR>
+3331 &nbsp; &nbsp; &nbsp; &nbsp; <B>This Chauntecleer stood hye upon his toos,</B><BR>
+3332 &nbsp; &nbsp; &nbsp; &nbsp; <B>Strecchynge his nekke, and heeld his eyen cloos,</B><BR>
+3333 &nbsp; &nbsp; &nbsp; &nbsp; <B>And gan to crowe loude for the nones.</B><BR>
+3334 &nbsp; &nbsp; &nbsp; &nbsp; <B>And daun Russell the fox stirte up atones,</B><BR>
+3335 &nbsp; &nbsp; &nbsp; &nbsp; <B>And by the gargat hente Chauntecleer,</B><BR>
+3336 &nbsp; &nbsp; &nbsp; &nbsp; <B>And on his bak toward the wode hym beer,</B><BR>
+3337 &nbsp; &nbsp; &nbsp; &nbsp; <B>For yet ne was ther no man that hym sewed.</B><BR>
+3338 &nbsp; &nbsp; &nbsp; &nbsp; <B>O destinee, that mayst nat been eschewed!</B><BR>
+3339 &nbsp; &nbsp; &nbsp; &nbsp; <B>Allas, that Chauntecleer fleigh fro the bemes!</B><BR>
+3340 &nbsp; &nbsp; &nbsp; &nbsp; <B>Allas, his wyf ne roghte nat of dremes!</B><BR>
+3341 &nbsp; &nbsp; &nbsp; &nbsp; <B>And on a Friday fil al this meschaunce.</B><BR>
+3342 &nbsp; &nbsp; &nbsp; &nbsp; <B>O Venus, that art goddesse of plesaunce,</B><BR>
+3343 &nbsp; &nbsp; &nbsp; &nbsp; <B>Syn that thy servant was this Chauntecleer,</B><BR>
+3344 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in thy servyce dide al his poweer,</B><BR>
+3345 &nbsp; &nbsp; &nbsp; &nbsp; <B>Moore for delit than world to multiplye,</B><BR>
+3346 &nbsp; &nbsp; &nbsp; &nbsp; <B>Why woldestow suffre hym on thy day to dye?</B><BR>
+3347 &nbsp; &nbsp; &nbsp; &nbsp; <B>O Gaufred, deere maister soverayn,</B><BR>
+3348 &nbsp; &nbsp; &nbsp; &nbsp; <B>That whan thy worthy kyng Richard was slayn</B><BR>
+3349 &nbsp; &nbsp; &nbsp; &nbsp; <B>With shot, compleynedest his deeth so soore,</B><BR>
+3350 &nbsp; &nbsp; &nbsp; &nbsp; <B>Why ne hadde I now thy sentence and thy loore,</B><BR>
+3351 &nbsp; &nbsp; &nbsp; &nbsp; <B>The Friday for to chide, as diden ye?</B><BR>
+3352 &nbsp; &nbsp; &nbsp; &nbsp; <B>For on a Friday, soothly, slayn was he.</B><BR>
+3353 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thanne wolde I shewe yow how that I koude pleyne</B><BR>
+3354 &nbsp; &nbsp; &nbsp; &nbsp; <B>For Chauntecleres drede and for his peyne.</B><BR>
+3355 &nbsp; &nbsp; &nbsp; &nbsp; <B>Certes, swich cry ne lamentacion</B><BR>
+3356 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was nevere of ladyes maad whan Ylion</B><BR>
+3357 &nbsp; &nbsp; &nbsp; &nbsp; <B>Was wonne, and Pirrus with his streite swerd,</B><BR>
+3358 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan he hadde hent kyng Priam by the berd,</B><BR>
+3359 &nbsp; &nbsp; &nbsp; &nbsp; <B>And slayn hym, as seith us Eneydos,</B><BR>
+3360 &nbsp; &nbsp; &nbsp; &nbsp; <B>As maden alle the hennes in the clos,</B><BR>
+3361 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan they had seyn of Chauntecleer the sighte.</B><BR>
+3362 &nbsp; &nbsp; &nbsp; &nbsp; <B>But sovereynly dame Pertelote shrighte</B><BR>
+3363 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ful louder than dide Hasdrubales wyf,</B><BR>
+3364 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan that hir housbonde hadde lost his lyf</B><BR>
+3365 &nbsp; &nbsp; &nbsp; &nbsp; <B>And that the Romayns hadde brend Cartage.</B><BR>
+3366 &nbsp; &nbsp; &nbsp; &nbsp; <B>She was so ful of torment and of rage</B><BR>
+3367 &nbsp; &nbsp; &nbsp; &nbsp; <B>That wilfully into the fyr she sterte</B><BR>
+3368 &nbsp; &nbsp; &nbsp; &nbsp; <B>And brende hirselven with a stedefast herte.</B><BR>
+3369 &nbsp; &nbsp; &nbsp; &nbsp; <B>O woful hennes, right so criden ye</B><BR>
+3370 &nbsp; &nbsp; &nbsp; &nbsp; <B>As whan that Nero brende the citee</B><BR>
+3371 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of Rome cryden senatoures wyves</B><BR>
+3372 &nbsp; &nbsp; &nbsp; &nbsp; <B>For that hir husbondes losten alle hir lyves --</B><BR>
+3373 &nbsp; &nbsp; &nbsp; &nbsp; <B>Withouten gilt this Nero hath hem slayn.</B><BR>
+3374 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now wole I turne to my tale agayn.</B><BR>
+3375 &nbsp; &nbsp; &nbsp; &nbsp; <B>This sely wydwe and eek hir doghtres two</B><BR>
+3376 &nbsp; &nbsp; &nbsp; &nbsp; <B>Herden thise hennes crie and maken wo,</B><BR>
+3377 &nbsp; &nbsp; &nbsp; &nbsp; <B>And out at dores stirten they anon,</B><BR>
+3378 &nbsp; &nbsp; &nbsp; &nbsp; <B>And syen the fox toward the grove gon,</B><BR>
+3379 &nbsp; &nbsp; &nbsp; &nbsp; <B>And bar upon his bak the cok away,</B><BR>
+3380 &nbsp; &nbsp; &nbsp; &nbsp; <B>And cryden, "Out! Harrow and weylaway!</B><BR>
+3381 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ha, ha! The fox!" and after hym they ran,</B><BR>
+3382 &nbsp; &nbsp; &nbsp; &nbsp; <B>And eek with staves many another man.</B><BR>
+3383 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ran Colle oure dogge, and Talbot and Gerland,</B><BR>
+3384 &nbsp; &nbsp; &nbsp; &nbsp; <B>And Malkyn, with a dystaf in hir hand; </B><BR>
+3385 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ran cow and calf, and eek the verray hogges,</B><BR>
+3386 &nbsp; &nbsp; &nbsp; &nbsp; <B>So fered for the berkyng of the dogges</B><BR>
+3387 &nbsp; &nbsp; &nbsp; &nbsp; <B>And shoutyng of the men and wommen eeke</B><BR>
+3388 &nbsp; &nbsp; &nbsp; &nbsp; <B>They ronne so hem thoughte hir herte breeke.</B><BR>
+3389 &nbsp; &nbsp; &nbsp; &nbsp; <B>They yolleden as feendes doon in helle; </B><BR>
+3390 &nbsp; &nbsp; &nbsp; &nbsp; <B>The dokes cryden as men wolde hem quelle; </B><BR>
+3391 &nbsp; &nbsp; &nbsp; &nbsp; <B>The gees for feere flowen over the trees; </B><BR>
+3392 &nbsp; &nbsp; &nbsp; &nbsp; <B>Out of the hyve cam the swarm of bees.</B><BR>
+3393 &nbsp; &nbsp; &nbsp; &nbsp; <B>So hydous was the noyse -- a, benedicitee! --</B><BR>
+3394 &nbsp; &nbsp; &nbsp; &nbsp; <B>Certes, he Jakke Straw and his meynee</B><BR>
+3395 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne made nevere shoutes half so shrille</B><BR>
+3396 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan that they wolden any Flemyng kille,</B><BR>
+3397 &nbsp; &nbsp; &nbsp; &nbsp; <B>As thilke day was maad upon the fox.</B><BR>
+3398 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of bras they broghten bemes, and of box,</B><BR>
+3399 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of horn, of boon, in whiche they blewe and powped,</B><BR>
+3400 &nbsp; &nbsp; &nbsp; &nbsp; <B>And therwithal they skriked and they howped.</B><BR>
+3401 &nbsp; &nbsp; &nbsp; &nbsp; <B>It semed as that hevene sholde falle.</B><BR>
+3402 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now, goode men, I prey yow herkneth alle:</B><BR>
+3403 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lo, how Fortune turneth sodeynly</B><BR>
+3404 &nbsp; &nbsp; &nbsp; &nbsp; <B>The hope and pryde eek of hir enemy!</B><BR>
+3405 &nbsp; &nbsp; &nbsp; &nbsp; <B>This cok, that lay upon the foxes bak,</B><BR>
+3406 &nbsp; &nbsp; &nbsp; &nbsp; <B>In al his drede unto the fox he spak,</B><BR>
+3407 &nbsp; &nbsp; &nbsp; &nbsp; <B>And seyde, "Sire, if that I were as ye,</B><BR>
+3408 &nbsp; &nbsp; &nbsp; &nbsp; <B>Yet sholde I seyn, as wys God helpe me,</B><BR>
+3409 &nbsp; &nbsp; &nbsp; &nbsp; <B>`Turneth agayn, ye proude cherles alle!</B><BR>
+3410 &nbsp; &nbsp; &nbsp; &nbsp; <B>A verray pestilence upon yow falle!</B><BR>
+3411 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now I am come unto the wodes syde; </B><BR>
+3412 &nbsp; &nbsp; &nbsp; &nbsp; <B>Maugree youre heed, the cok shal heere abyde.</B><BR>
+3413 &nbsp; &nbsp; &nbsp; &nbsp; <B>I wol hym ete, in feith, and that anon!'"</B><BR>
+3414 &nbsp; &nbsp; &nbsp; &nbsp; <B>The fox answerde, "In feith, it shal be don."</B><BR>
+3415 &nbsp; &nbsp; &nbsp; &nbsp; <B>And as he spak that word, al sodeynly</B><BR>
+3416 &nbsp; &nbsp; &nbsp; &nbsp; <B>This cok brak from his mouth delyverly,</B><BR>
+3417 &nbsp; &nbsp; &nbsp; &nbsp; <B>And heighe upon a tree he fleigh anon.</B><BR>
+3418 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whan the fox saugh that the cok was gon,</B><BR>
+3419 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Allas!" quod he, "O Chauntecleer, allas!</B><BR>
+3420 &nbsp; &nbsp; &nbsp; &nbsp; <B>I have to yow," quod he, "ydoon trespas,</B><BR>
+3421 &nbsp; &nbsp; &nbsp; &nbsp; <B>In as muche as I maked yow aferd</B><BR>
+3422 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan I yow hente and broghte out of the yerd.</B><BR>
+3423 &nbsp; &nbsp; &nbsp; &nbsp; <B>But, sire, I dide it in no wikke entente.</B><BR>
+3424 &nbsp; &nbsp; &nbsp; &nbsp; <B>Com doun, and I shal telle yow what I mente; </B><BR>
+3425 &nbsp; &nbsp; &nbsp; &nbsp; <B>I shal seye sooth to yow, God help me so!"</B><BR>
+3426 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Nay thanne," quod he, "I shrewe us bothe two.</B><BR>
+3427 &nbsp; &nbsp; &nbsp; &nbsp; <B>And first I shrewe myself, bothe blood and bones,</B><BR>
+3428 &nbsp; &nbsp; &nbsp; &nbsp; <B>If thou bigyle me ofter than ones.</B><BR>
+3429 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thou shalt namoore thurgh thy flaterye</B><BR>
+3430 &nbsp; &nbsp; &nbsp; &nbsp; <B>Do me to synge and wynke with myn ye; </B><BR>
+3431 &nbsp; &nbsp; &nbsp; &nbsp; <B>For he that wynketh, whan he sholde see,</B><BR>
+3432 &nbsp; &nbsp; &nbsp; &nbsp; <B>Al wilfully, God lat him nevere thee!"</B><BR>
+3433 &nbsp; &nbsp; &nbsp; &nbsp; <B>"Nay," quod the fox, "but God yeve hym meschaunce,</B><BR>
+3434 &nbsp; &nbsp; &nbsp; &nbsp; <B>That is so undiscreet of governaunce</B><BR>
+3435 &nbsp; &nbsp; &nbsp; &nbsp; <B>That jangleth whan he sholde holde his pees."</B><BR>
+3436 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lo, swich it is for to be recchelees</B><BR>
+3437 &nbsp; &nbsp; &nbsp; &nbsp; <B>And necligent, and truste on flaterye.</B><BR>
+3438 &nbsp; &nbsp; &nbsp; &nbsp; <B>But ye that holden this tale a folye,</B><BR>
+3439 &nbsp; &nbsp; &nbsp; &nbsp; <B>As of a fox, or of a cok and hen,</B><BR>
+3440 &nbsp; &nbsp; &nbsp; &nbsp; <B>Taketh the moralite, goode men.</B><BR>
+3441 &nbsp; &nbsp; &nbsp; &nbsp; <B>For Seint Paul seith that al that writen is,</B><BR>
+3442 &nbsp; &nbsp; &nbsp; &nbsp; <B>To oure doctrine it is ywrite, ywis; </B><BR>
+3443 &nbsp; &nbsp; &nbsp; &nbsp; <B>Taketh the fruyt, and lat the chaf be stille.</B><BR>
+3444 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now, goode God, if that it be thy wille,</B><BR>
+3445 &nbsp; &nbsp; &nbsp; &nbsp; <B>As seith my lord, so make us alle goode men,</B><BR>
+3446 &nbsp; &nbsp; &nbsp; &nbsp; <B>And brynge us to his heighe blisse! Amen.</B><BR>
+3447	&nbsp; &nbsp; &nbsp; &nbsp; <B>["Sire Nonnes Preest," oure Hooste seide anoon,</B><BR>
+3448	&nbsp; &nbsp; &nbsp; &nbsp; <B>"I-blessed be thy breche, and every stoon!</B><BR>
+3449	&nbsp; &nbsp; &nbsp; &nbsp; <B>This was a murie tale of Chauntecleer.</B><BR>
+3450	&nbsp; &nbsp; &nbsp; &nbsp; <B>But by my trouthe, if thou were seculer,</B><BR>
+3451	&nbsp; &nbsp; &nbsp; &nbsp; <B>Thou woldest ben a trede-foul aright.</B><BR>
+3452	&nbsp; &nbsp; &nbsp; &nbsp; <B>For if thou have corage as thou hast myght,</B><BR>
+3453	&nbsp; &nbsp; &nbsp; &nbsp; <B>Thee were nede of hennes, as I wene,</B><BR>
+3454	&nbsp; &nbsp; &nbsp; &nbsp; <B>Ya, moo than seven tymes seventene.</B><BR>
+3455	&nbsp; &nbsp; &nbsp; &nbsp; <B>See, whiche braunes hath this gentil preest,</B><BR>
+3456	&nbsp; &nbsp; &nbsp; &nbsp; <B>So gret a nekke, and swich a large breest!</B><BR>
+3457	&nbsp; &nbsp; &nbsp; &nbsp; <B>He loketh as a sperhauk with his yen;</B><BR>
+3458	&nbsp; &nbsp; &nbsp; &nbsp; <B>Him nedeth nat his colour for to dyen</B><BR>
+3459	&nbsp; &nbsp; &nbsp; &nbsp; <B>With brasile ne with greyn of Portyngale.</B><BR>
+3460	&nbsp; &nbsp; &nbsp; &nbsp; <B>Now, sire, faire falle yow for youre tale!"</B><BR>
+3461	&nbsp; &nbsp; &nbsp; &nbsp; <B>And after that he, with ful merie chere,</B><BR>
+3462	&nbsp; &nbsp; &nbsp; &nbsp; <B>Seide unto another, as ye shuln heere.]</B><BR>

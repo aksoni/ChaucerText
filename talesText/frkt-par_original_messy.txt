@@ -1,0 +1,916 @@
+709 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thise olde gentil Britouns in hir dayes</b><BR>
+710 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of diverse aventures maden layes,</b><BR>
+711 &nbsp; &nbsp; &nbsp; &nbsp; <b>Rymeyed in hir firste Briton tonge,</b><BR>
+712 &nbsp; &nbsp; &nbsp; &nbsp; <b>Whiche layes with hir instrumentz they songe</b><BR>
+713 &nbsp; &nbsp; &nbsp; &nbsp; <b>Or elles redden hem for hir plesaunce;</b><BR>
+714 &nbsp; &nbsp; &nbsp; &nbsp; <b>And oon of hem have I in remembraunce,</b><BR>
+715 &nbsp; &nbsp; &nbsp; &nbsp; <b>Which I shal seyn with good wyl as I kan.</b><BR>
+716 &nbsp; &nbsp; &nbsp; &nbsp; <b>But, sires, by cause I am a burel man,</b><BR>
+717 &nbsp; &nbsp; &nbsp; &nbsp; <b>At my bigynnyng first I yow biseche,</b><BR>
+718 &nbsp; &nbsp; &nbsp; &nbsp; <b>Have me excused of my rude speche.</b><BR>
+719 &nbsp; &nbsp; &nbsp; &nbsp; <b>I lerned nevere rethorik, certeyn;</b><BR>
+720 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thyng that I speke, it moot be bare and pleyn.</b><BR>
+721 &nbsp; &nbsp; &nbsp; &nbsp; <b>I sleep nevere on the Mount of Pernaso,</b><BR>
+722 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ne lerned Marcus Tullius Scithero.</b><BR>
+723 &nbsp; &nbsp; &nbsp; &nbsp; <b>Colours ne knowe I none, withouten drede,</b><BR>
+724 &nbsp; &nbsp; &nbsp; &nbsp; <b>But swiche colours as growen in the mede,</b><BR>
+725 &nbsp; &nbsp; &nbsp; &nbsp; <b>Or elles swiche as men dye or peynte.</b><BR>
+726 &nbsp; &nbsp; &nbsp; &nbsp; <b>Colours of rethoryk been to me queynte;</b><BR>
+727 &nbsp; &nbsp; &nbsp; &nbsp; <b>My spirit feeleth noght of swich mateere.</b><BR>
+728 &nbsp; &nbsp; &nbsp; &nbsp; <b>But if yow list, my tale shul ye heere.</b><BR>
+729 &nbsp; &nbsp; &nbsp; &nbsp; <b>In Armorik, that called is Britayne,</b><BR>
+730 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ther was a knyght that loved and dide his payne</b><BR>
+731 &nbsp; &nbsp; &nbsp; &nbsp; <b>To serve a lady in his beste wise;</b><BR>
+732 &nbsp; &nbsp; &nbsp; &nbsp; <b>And many a labour, many a greet emprise,</b><BR>
+733 &nbsp; &nbsp; &nbsp; &nbsp; <b>He for his lady wroghte er she were wonne.</b><BR>
+734 &nbsp; &nbsp; &nbsp; &nbsp; <b>For she was oon the faireste under sonne,</b><BR>
+735 &nbsp; &nbsp; &nbsp; &nbsp; <b>And eek therto comen of so heigh kynrede</b><BR>
+736 &nbsp; &nbsp; &nbsp; &nbsp; <b>That wel unnethes dorste this knyght, for drede,</b><BR>
+737 &nbsp; &nbsp; &nbsp; &nbsp; <b>Telle hire his wo, his peyne, and his distresse.</b><BR>
+738 &nbsp; &nbsp; &nbsp; &nbsp; <b>But atte laste she, for his worthynesse,</b><BR>
+739 &nbsp; &nbsp; &nbsp; &nbsp; <b>And namely for his meke obeysaunce,</b><BR>
+740 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hath swich a pitee caught of his penaunce</b><BR>
+741 &nbsp; &nbsp; &nbsp; &nbsp; <b>That pryvely she fil of his accord</b><BR>
+742 &nbsp; &nbsp; &nbsp; &nbsp; <b>To take hym for hir housbonde and hir lord,</b><BR>
+743 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of swich lordshipe as men han over hir wyves.</b><BR>
+744 &nbsp; &nbsp; &nbsp; &nbsp; <b>And for to lede the moore in blisse hir lyves,</b><BR>
+745 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of his free wyl he swoor hire as a knyght</b><BR>
+746 &nbsp; &nbsp; &nbsp; &nbsp; <b>That nevere in al his lyf he, day ne nyght,</b><BR>
+747 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ne sholde upon hym take no maistrie</b><BR>
+748 &nbsp; &nbsp; &nbsp; &nbsp; <b>Agayn hir wyl, ne kithe hire jalousie,</b><BR>
+749 &nbsp; &nbsp; &nbsp; &nbsp; <b>But hire obeye, and folwe hir wyl in al,</b><BR>
+750 &nbsp; &nbsp; &nbsp; &nbsp; <b>As any lovere to his lady shal,</b><BR>
+751 &nbsp; &nbsp; &nbsp; &nbsp; <b>Save that the name of soveraynetee,</b><BR>
+752 &nbsp; &nbsp; &nbsp; &nbsp; <b>That wolde he have for shame of his degree.</b><BR>
+753 &nbsp; &nbsp; &nbsp; &nbsp; <b>She thanked hym, and with ful greet humblesse</b><BR>
+754 &nbsp; &nbsp; &nbsp; &nbsp; <b>She seyde, "Sire, sith of youre gentillesse</b><BR>
+755 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ye profre me to have so large a reyne,</b><BR>
+756 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ne wolde nevere God bitwixe us tweyne,</b><BR>
+757 &nbsp; &nbsp; &nbsp; &nbsp; <b>As in my gilt, were outher werre or stryf.</b><BR>
+758 &nbsp; &nbsp; &nbsp; &nbsp; <b>Sire, I wol be youre humble trewe wyf --</b><BR>
+759 &nbsp; &nbsp; &nbsp; &nbsp; <b>Have heer my trouthe -- til that myn herte breste."</b><BR>
+760 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thus been they bothe in quiete and in reste.</b><BR>
+761 &nbsp; &nbsp; &nbsp; &nbsp; <b>For o thyng, sires, saufly dar I seye,</b><BR>
+762 &nbsp; &nbsp; &nbsp; &nbsp; <b>That freendes everych oother moot obeye,</b><BR>
+763 &nbsp; &nbsp; &nbsp; &nbsp; <b>If they wol longe holden compaignye.</b><BR>
+764 &nbsp; &nbsp; &nbsp; &nbsp; <b>Love wol nat been constreyned by maistrye.</b><BR>
+765 &nbsp; &nbsp; &nbsp; &nbsp; <b>Whan maistrie comth, the God of Love anon</b><BR>
+766 &nbsp; &nbsp; &nbsp; &nbsp; <b>Beteth his wynges, and farewel, he is gon!</b><BR>
+767 &nbsp; &nbsp; &nbsp; &nbsp; <b>Love is a thyng as any spirit free.</b><BR>
+768 &nbsp; &nbsp; &nbsp; &nbsp; <b>Wommen, of kynde, desiren libertee,</b><BR>
+769 &nbsp; &nbsp; &nbsp; &nbsp; <b>And nat to been constreyned as a thral;</b><BR>
+770 &nbsp; &nbsp; &nbsp; &nbsp; <b>And so doon men, if I sooth seyen shal.</b><BR>
+771 &nbsp; &nbsp; &nbsp; &nbsp; <b>Looke who that is moost pacient in love,</b><BR>
+772 &nbsp; &nbsp; &nbsp; &nbsp; <b>He is at his avantage al above.</b><BR>
+773 &nbsp; &nbsp; &nbsp; &nbsp; <b>Pacience is an heigh vertu, certeyn,</b><BR>
+774 &nbsp; &nbsp; &nbsp; &nbsp; <b>For it venquysseth, as thise clerkes seyn,</b><BR>
+775 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thynges that rigour sholde nevere atteyne.</b><BR>
+776 &nbsp; &nbsp; &nbsp; &nbsp; <b>For every word men may nat chide or pleyne.</b><BR>
+777 &nbsp; &nbsp; &nbsp; &nbsp; <b>Lerneth to suffre, or elles, so moot I goon,</b><BR>
+778 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ye shul it lerne, wher so ye wole or noon;</b><BR>
+779 &nbsp; &nbsp; &nbsp; &nbsp; <b>For in this world, certein, ther no wight is</b><BR>
+780 &nbsp; &nbsp; &nbsp; &nbsp; <b>That he ne dooth or seith somtyme amys.</b><BR>
+781 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ire, siknesse, or constellacioun,</b><BR>
+782 &nbsp; &nbsp; &nbsp; &nbsp; <b>Wyn, wo, or chaungynge of complexioun</b><BR>
+783 &nbsp; &nbsp; &nbsp; &nbsp; <b>Causeth ful ofte to doon amys or speken.</b><BR>
+784 &nbsp; &nbsp; &nbsp; &nbsp; <b>On every wrong a man may nat be wreken.</b><BR>
+785 &nbsp; &nbsp; &nbsp; &nbsp; <b>After the tyme moste be temperaunce</b><BR>
+786 &nbsp; &nbsp; &nbsp; &nbsp; <b>To every wight that kan on governaunce.</b><BR>
+787 &nbsp; &nbsp; &nbsp; &nbsp; <b>And therfore hath this wise, worthy knyght,</b><BR>
+788 &nbsp; &nbsp; &nbsp; &nbsp; <b>To lyve in ese, suffrance hire bihight,</b><BR>
+789 &nbsp; &nbsp; &nbsp; &nbsp; <b>And she to hym ful wisly gan to swere</b><BR>
+790 &nbsp; &nbsp; &nbsp; &nbsp; <b>That nevere sholde ther be defaute in here.</b><BR>
+791 &nbsp; &nbsp; &nbsp; &nbsp; <b>Heere may men seen an humble, wys accord;</b><BR>
+792 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thus hath she take hir servant and hir lord --</b><BR>
+793 &nbsp; &nbsp; &nbsp; &nbsp; <b>Servant in love, and lord in mariage.</b><BR>
+794 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thanne was he bothe in lordshipe and servage.</b><BR>
+795 &nbsp; &nbsp; &nbsp; &nbsp; <b>Servage? Nay, but in lordshipe above,</b><BR>
+796 &nbsp; &nbsp; &nbsp; &nbsp; <b>Sith he hath bothe his lady and his love;</b><BR>
+797 &nbsp; &nbsp; &nbsp; &nbsp; <b>His lady, certes, and his wyf also,</b><BR>
+798 &nbsp; &nbsp; &nbsp; &nbsp; <b>The which that lawe of love acordeth to.</b><BR>
+799 &nbsp; &nbsp; &nbsp; &nbsp; <b>And whan he was in this prosperitee,</b><BR>
+800 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hoom with his wyf he gooth to his contree,</b><BR>
+801 &nbsp; &nbsp; &nbsp; &nbsp; <b>Nat fer fro Pedmark, ther his dwellyng was,</b><BR>
+802 &nbsp; &nbsp; &nbsp; &nbsp; <b>Where as he lyveth in blisse and in solas.</b><BR>
+803 &nbsp; &nbsp; &nbsp; &nbsp; <b>Who koude telle, but he hadde wedded be,</b><BR>
+804 &nbsp; &nbsp; &nbsp; &nbsp; <b>The joye, the ese, and the prosperitee</b><BR>
+805 &nbsp; &nbsp; &nbsp; &nbsp; <b>That is bitwixe an housbonde and his wyf?</b><BR>
+806 &nbsp; &nbsp; &nbsp; &nbsp; <b>A yeer and moore lasted this blisful lyf,</b><BR>
+807 &nbsp; &nbsp; &nbsp; &nbsp; <b>Til that the knyght of which I speke of thus,</b><BR>
+808 &nbsp; &nbsp; &nbsp; &nbsp; <b>That of Kayrrud was cleped Arveragus,</b><BR>
+809 &nbsp; &nbsp; &nbsp; &nbsp; <b>Shoop hym to goon and dwelle a yeer or tweyne</b><BR>
+810 &nbsp; &nbsp; &nbsp; &nbsp; <b>In Engelond, that cleped was eek Briteyne,</b><BR>
+811 &nbsp; &nbsp; &nbsp; &nbsp; <b>To seke in armes worshipe and honour --</b><BR>
+812 &nbsp; &nbsp; &nbsp; &nbsp; <b>For al his lust he sette in swich labour --</b><BR>
+813 &nbsp; &nbsp; &nbsp; &nbsp; <b>And dwelled there two yeer; the book seith thus.</b><BR>
+814 &nbsp; &nbsp; &nbsp; &nbsp; <b>Now wol I stynten of this Arveragus,</b><BR>
+815 &nbsp; &nbsp; &nbsp; &nbsp; <b>And speken I wole of Dorigen his wyf,</b><BR>
+816 &nbsp; &nbsp; &nbsp; &nbsp; <b>That loveth hire housbonde as hire hertes lyf.</b><BR>
+817 &nbsp; &nbsp; &nbsp; &nbsp; <b>For his absence wepeth she and siketh,</b><BR>
+818 &nbsp; &nbsp; &nbsp; &nbsp; <b>As doon thise noble wyves whan hem liketh.</b><BR>
+819 &nbsp; &nbsp; &nbsp; &nbsp; <b>She moorneth, waketh, wayleth, fasteth, pleyneth;</b><BR>
+820 &nbsp; &nbsp; &nbsp; &nbsp; <b>Desir of his presence hire so destreyneth</b><BR>
+821 &nbsp; &nbsp; &nbsp; &nbsp; <b>That al this wyde world she sette at noght.</b><BR>
+822 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hire freendes, whiche that knewe hir hevy thoght,</b><BR>
+823 &nbsp; &nbsp; &nbsp; &nbsp; <b>Conforten hire in al that ever they may.</b><BR>
+824 &nbsp; &nbsp; &nbsp; &nbsp; <b>They prechen hire, they telle hire nyght and day</b><BR>
+825 &nbsp; &nbsp; &nbsp; &nbsp; <b>That causelees she sleeth hirself, allas!</b><BR>
+826 &nbsp; &nbsp; &nbsp; &nbsp; <b>And every confort possible in this cas</b><BR>
+827 &nbsp; &nbsp; &nbsp; &nbsp; <b>They doon to hire with al hire bisynesse,</b><BR>
+828 &nbsp; &nbsp; &nbsp; &nbsp; <b>Al for to make hire leve hire hevynesse.</b><BR>
+829 &nbsp; &nbsp; &nbsp; &nbsp; <b>By proces, as ye knowen everichoon,</b><BR>
+830 &nbsp; &nbsp; &nbsp; &nbsp; <b>Men may so longe graven in a stoon</b><BR>
+831 &nbsp; &nbsp; &nbsp; &nbsp; <b>Til som figure therinne emprented be.</b><BR>
+832 &nbsp; &nbsp; &nbsp; &nbsp; <b>So longe han they conforted hire til she</b><BR>
+833 &nbsp; &nbsp; &nbsp; &nbsp; <b>Receyved hath, by hope and by resoun,</b><BR>
+834 &nbsp; &nbsp; &nbsp; &nbsp; <b>The emprentyng of hire consolacioun,</b><BR>
+835 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thurgh which hir grete sorwe gan aswage;</b><BR>
+836 &nbsp; &nbsp; &nbsp; &nbsp; <b>She may nat alwey duren in swich rage.</b><BR>
+837 &nbsp; &nbsp; &nbsp; &nbsp; <b>And eek Arveragus, in al this care,</b><BR>
+838 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hath sent hire lettres hoom of his welfare,</b><BR>
+839 &nbsp; &nbsp; &nbsp; &nbsp; <b>And that he wol come hastily agayn;</b><BR>
+840 &nbsp; &nbsp; &nbsp; &nbsp; <b>Or elles hadde this sorwe hir herte slayn.</b><BR>
+841 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hire freendes sawe hir sorwe gan to slake</b><BR>
+842 &nbsp; &nbsp; &nbsp; &nbsp; <b>And preyde hire on knees, for Goddes sake,</b><BR>
+843 &nbsp; &nbsp; &nbsp; &nbsp; <b>To come and romen hire in compaignye,</b><BR>
+844 &nbsp; &nbsp; &nbsp; &nbsp; <b>Awey to dryve hire derke fantasye.</b><BR>
+845 &nbsp; &nbsp; &nbsp; &nbsp; <b>And finally she graunted that requeste,</b><BR>
+846 &nbsp; &nbsp; &nbsp; &nbsp; <b>For wel she saugh that it was for the beste.</b><BR>
+847 &nbsp; &nbsp; &nbsp; &nbsp; <b>Now stood hire castel faste by the see,</b><BR>
+848 &nbsp; &nbsp; &nbsp; &nbsp; <b>And often with hire freendes walketh shee</b><BR>
+849 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hire to disporte upon the bank an heigh,</b><BR>
+850 &nbsp; &nbsp; &nbsp; &nbsp; <b>Where as she many a ship and barge seigh</b><BR>
+851 &nbsp; &nbsp; &nbsp; &nbsp; <b>Seillynge hir cours, where as hem liste go.</b><BR>
+852 &nbsp; &nbsp; &nbsp; &nbsp; <b>But thanne was that a parcel of hire wo,</b><BR>
+853 &nbsp; &nbsp; &nbsp; &nbsp; <b>For to hirself ful ofte, "Allas!" seith she,</b><BR>
+854 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Is ther no ship, of so manye as I se,</b><BR>
+855 &nbsp; &nbsp; &nbsp; &nbsp; <b>Wol bryngen hom my lord? Thanne were myn herte</b><BR>
+856 &nbsp; &nbsp; &nbsp; &nbsp; <b>Al warisshed of his bittre peynes smerte."</b><BR>
+857 &nbsp; &nbsp; &nbsp; &nbsp; <b>Another tyme ther wolde she sitte and thynke,</b><BR>
+858 &nbsp; &nbsp; &nbsp; &nbsp; <b>And caste hir eyen dounward fro the brynke.</b><BR>
+859 &nbsp; &nbsp; &nbsp; &nbsp; <b>But whan she saugh the grisly rokkes blake,</b><BR>
+860 &nbsp; &nbsp; &nbsp; &nbsp; <b>For verray feere so wolde hir herte quake</b><BR>
+861 &nbsp; &nbsp; &nbsp; &nbsp; <b>That on hire feet she myghte hire noght sustene.</b><BR>
+862 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thanne wolde she sitte adoun upon the grene,</b><BR>
+863 &nbsp; &nbsp; &nbsp; &nbsp; <b>And pitously into the see biholde,</b><BR>
+864 &nbsp; &nbsp; &nbsp; &nbsp; <b>And seyn right thus, with sorweful sikes colde:</b><BR>
+865 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Eterne God, that thurgh thy purveiaunce</b><BR>
+866 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ledest the world by certein governaunce,</b><BR>
+867 &nbsp; &nbsp; &nbsp; &nbsp; <b>In ydel, as men seyn, ye no thyng make.</b><BR>
+868 &nbsp; &nbsp; &nbsp; &nbsp; <b>But, Lord, thise grisly feendly rokkes blake,</b><BR>
+869 &nbsp; &nbsp; &nbsp; &nbsp; <b>That semen rather a foul confusion</b><BR>
+870 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of werk than any fair creacion</b><BR>
+871 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of swich a parfit wys God and a stable,</b><BR>
+872 &nbsp; &nbsp; &nbsp; &nbsp; <b>Why han ye wroght this werk unresonable?</b><BR>
+873 &nbsp; &nbsp; &nbsp; &nbsp; <b>For by this werk, south, north, ne west, ne eest,</b><BR>
+874 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ther nys yfostred man, ne bryd, ne beest;</b><BR>
+875 &nbsp; &nbsp; &nbsp; &nbsp; <b>It dooth no good, to my wit, but anoyeth.</b><BR>
+876 &nbsp; &nbsp; &nbsp; &nbsp; <b>Se ye nat, Lord, how mankynde it destroyeth?</b><BR>
+877 &nbsp; &nbsp; &nbsp; &nbsp; <b>An hundred thousand bodyes of mankynde</b><BR>
+878 &nbsp; &nbsp; &nbsp; &nbsp; <b>Han rokkes slayn, al be they nat in mynde,</b><BR>
+879 &nbsp; &nbsp; &nbsp; &nbsp; <b>Which mankynde is so fair part of thy werk</b><BR>
+880 &nbsp; &nbsp; &nbsp; &nbsp; <b>That thou it madest lyk to thyn owene merk.</b><BR>
+881 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thanne semed it ye hadde a greet chiertee</b><BR>
+882 &nbsp; &nbsp; &nbsp; &nbsp; <b>Toward mankynde; but how thanne may it bee</b><BR>
+883 &nbsp; &nbsp; &nbsp; &nbsp; <b>That ye swiche meenes make it to destroyen,</b><BR>
+884 &nbsp; &nbsp; &nbsp; &nbsp; <b>Whiche meenes do no good, but evere anoyen?</b><BR>
+885 &nbsp; &nbsp; &nbsp; &nbsp; <b>I woot wel clerkes wol seyn as hem leste,</b><BR>
+886 &nbsp; &nbsp; &nbsp; &nbsp; <b>By argumentz, that al is for the beste,</b><BR>
+887 &nbsp; &nbsp; &nbsp; &nbsp; <b>Though I ne kan the causes nat yknowe.</b><BR>
+888 &nbsp; &nbsp; &nbsp; &nbsp; <b>But thilke God that made wynd to blowe</b><BR>
+889 &nbsp; &nbsp; &nbsp; &nbsp; <b>As kepe my lord! This my conclusion.</b><BR>
+890 &nbsp; &nbsp; &nbsp; &nbsp; <b>To clerkes lete I al disputison.</b><BR>
+891 &nbsp; &nbsp; &nbsp; &nbsp; <b>But wolde God that alle thise rokkes blake</b><BR>
+892 &nbsp; &nbsp; &nbsp; &nbsp; <b>Were sonken into helle for his sake!</b><BR>
+893 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thise rokkes sleen myn herte for the feere."</b><BR>
+894 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thus wolde she seyn, with many a pitous teere.</b><BR>
+895 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hire freendes sawe that it was no disport</b><BR>
+896 &nbsp; &nbsp; &nbsp; &nbsp; <b>To romen by the see, but disconfort,</b><BR>
+897 &nbsp; &nbsp; &nbsp; &nbsp; <b>And shopen for to pleyen somwher elles.</b><BR>
+898 &nbsp; &nbsp; &nbsp; &nbsp; <b>They leden hire by ryveres and by welles,</b><BR>
+899 &nbsp; &nbsp; &nbsp; &nbsp; <b>And eek in othere places delitables;</b><BR>
+900 &nbsp; &nbsp; &nbsp; &nbsp; <b>They dauncen and they pleyen at ches and tables.</b><BR>
+901 &nbsp; &nbsp; &nbsp; &nbsp; <b>So on a day, right in the morwe-tyde,</b><BR>
+902 &nbsp; &nbsp; &nbsp; &nbsp; <b>Unto a gardyn that was ther bisyde,</b><BR>
+903 &nbsp; &nbsp; &nbsp; &nbsp; <b>In which that they hadde maad hir ordinaunce</b><BR>
+904 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of vitaille and of oother purveiaunce,</b><BR>
+905 &nbsp; &nbsp; &nbsp; &nbsp; <b>They goon and pleye hem al the longe day.</b><BR>
+906 &nbsp; &nbsp; &nbsp; &nbsp; <b>And this was on the sixte morwe of May,</b><BR>
+907 &nbsp; &nbsp; &nbsp; &nbsp; <b>Which May hadde peynted with his softe shoures</b><BR>
+908 &nbsp; &nbsp; &nbsp; &nbsp; <b>This gardyn ful of leves and of floures;</b><BR>
+909 &nbsp; &nbsp; &nbsp; &nbsp; <b>And craft of mannes hand so curiously</b><BR>
+910 &nbsp; &nbsp; &nbsp; &nbsp; <b>Arrayed hadde this gardyn, trewely,</b><BR>
+911 &nbsp; &nbsp; &nbsp; &nbsp; <b>That nevere was ther gardyn of swich prys</b><BR>
+912 &nbsp; &nbsp; &nbsp; &nbsp; <b>But if it were the verray paradys.</b><BR>
+913 &nbsp; &nbsp; &nbsp; &nbsp; <b>The odour of floures and the fresshe sighte</b><BR>
+914 &nbsp; &nbsp; &nbsp; &nbsp; <b>Wolde han maked any herte lighte</b><BR>
+915 &nbsp; &nbsp; &nbsp; &nbsp; <b>That evere was born, but if to greet siknesse</b><BR>
+916 &nbsp; &nbsp; &nbsp; &nbsp; <b>Or to greet sorwe helde it in distresse,</b><BR>
+917 &nbsp; &nbsp; &nbsp; &nbsp; <b>So ful it was of beautee with plesaunce.</b><BR>
+918 &nbsp; &nbsp; &nbsp; &nbsp; <b>At after-dyner gonne they to daunce,</b><BR>
+919 &nbsp; &nbsp; &nbsp; &nbsp; <b>And synge also, save Dorigen allone,</b><BR>
+920 &nbsp; &nbsp; &nbsp; &nbsp; <b>Which made alwey hir compleint and hir moone,</b><BR>
+921 &nbsp; &nbsp; &nbsp; &nbsp; <b>For she ne saugh hym on the daunce go</b><BR>
+922 &nbsp; &nbsp; &nbsp; &nbsp; <b>That was hir housbonde and hir love also.</b><BR>
+923 &nbsp; &nbsp; &nbsp; &nbsp; <b>But nathelees she moste a tyme abyde</b><BR>
+924 &nbsp; &nbsp; &nbsp; &nbsp; <b>And with good hope lete hir sorwe slyde.</b><BR>
+925 &nbsp; &nbsp; &nbsp; &nbsp; <b>Upon this daunce, amonges othere men,</b><BR>
+926 &nbsp; &nbsp; &nbsp; &nbsp; <b>Daunced a squier biforn Dorigen,</b><BR>
+927 &nbsp; &nbsp; &nbsp; &nbsp; <b>That fressher was and jolyer of array,</b><BR>
+928 &nbsp; &nbsp; &nbsp; &nbsp; <b>As to my doom, than is the month of May.</b><BR>
+929 &nbsp; &nbsp; &nbsp; &nbsp; <b>He syngeth, daunceth, passynge any man</b><BR>
+930 &nbsp; &nbsp; &nbsp; &nbsp; <b>That is, or was, sith that the world bigan.</b><BR>
+931 &nbsp; &nbsp; &nbsp; &nbsp; <b>Therwith he was, if men sholde hym discryve,</b><BR>
+932 &nbsp; &nbsp; &nbsp; &nbsp; <b>Oon of the beste farynge man on lyve;</b><BR>
+933 &nbsp; &nbsp; &nbsp; &nbsp; <b>Yong, strong, right vertuous, and riche, and wys,</b><BR>
+934 &nbsp; &nbsp; &nbsp; &nbsp; <b>And wel biloved, and holden in greet prys.</b><BR>
+935 &nbsp; &nbsp; &nbsp; &nbsp; <b>And shortly, if the sothe I tellen shal,</b><BR>
+936 &nbsp; &nbsp; &nbsp; &nbsp; <b>Unwityng of this Dorigen at al,</b><BR>
+937 &nbsp; &nbsp; &nbsp; &nbsp; <b>This lusty squier, servant to Venus,</b><BR>
+938 &nbsp; &nbsp; &nbsp; &nbsp; <b>Which that ycleped was Aurelius,</b><BR>
+939 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hadde loved hire best of any creature</b><BR>
+940 &nbsp; &nbsp; &nbsp; &nbsp; <b>Two yeer and moore, as was his aventure,</b><BR>
+941 &nbsp; &nbsp; &nbsp; &nbsp; <b>But nevere dorste he tellen hire his grevaunce.</b><BR>
+942 &nbsp; &nbsp; &nbsp; &nbsp; <b>Withouten coppe he drank al his penaunce.</b><BR>
+943 &nbsp; &nbsp; &nbsp; &nbsp; <b>He was despeyred; no thyng dorste he seye,</b><BR>
+944 &nbsp; &nbsp; &nbsp; &nbsp; <b>Save in his songes somwhat wolde he wreye</b><BR>
+945 &nbsp; &nbsp; &nbsp; &nbsp; <b>His wo, as in a general compleynyng;</b><BR>
+946 &nbsp; &nbsp; &nbsp; &nbsp; <b>He seyde he lovede and was biloved no thyng.</b><BR>
+947 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of swich matere made he manye layes,</b><BR>
+948 &nbsp; &nbsp; &nbsp; &nbsp; <b>Songes, compleintes, roundels, virelayes,</b><BR>
+949 &nbsp; &nbsp; &nbsp; &nbsp; <b>How that he dorste nat his sorwe telle,</b><BR>
+950 &nbsp; &nbsp; &nbsp; &nbsp; <b>But langwissheth as a furye dooth in helle;</b><BR>
+951 &nbsp; &nbsp; &nbsp; &nbsp; <b>And dye he moste, he seyde, as dide Ekko</b><BR>
+952 &nbsp; &nbsp; &nbsp; &nbsp; <b>For Narcisus, that dorste nat telle hir wo.</b><BR>
+953 &nbsp; &nbsp; &nbsp; &nbsp; <b>In oother manere than ye heere me seye,</b><BR>
+954 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ne dorste he nat to hire his wo biwreye,</b><BR>
+955 &nbsp; &nbsp; &nbsp; &nbsp; <b>Save that, paraventure, somtyme at daunces,</b><BR>
+956 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ther yonge folk kepen hir observaunces,</b><BR>
+957 &nbsp; &nbsp; &nbsp; &nbsp; <b>It may wel be he looked on hir face</b><BR>
+958 &nbsp; &nbsp; &nbsp; &nbsp; <b>In swich a wise as man that asketh grace;</b><BR>
+959 &nbsp; &nbsp; &nbsp; &nbsp; <b>But nothyng wiste she of his entente.</b><BR>
+960 &nbsp; &nbsp; &nbsp; &nbsp; <b>Nathelees it happed, er they thennes wente,</b><BR>
+961 &nbsp; &nbsp; &nbsp; &nbsp; <b>By cause that he was hire neighebour,</b><BR>
+962 &nbsp; &nbsp; &nbsp; &nbsp; <b>And was a man of worshipe and honour,</b><BR>
+963 &nbsp; &nbsp; &nbsp; &nbsp; <b>And hadde yknowen hym of tyme yoore,</b><BR>
+964 &nbsp; &nbsp; &nbsp; &nbsp; <b>They fille in speche; and forth, moore and moore,</b><BR>
+965 &nbsp; &nbsp; &nbsp; &nbsp; <b>Unto his purpos drough Aurelius,</b><BR>
+966 &nbsp; &nbsp; &nbsp; &nbsp; <b>And whan he saugh his tyme, he seyde thus:</b><BR>
+967 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Madame," quod he, "by God that this world made,</b><BR>
+968 &nbsp; &nbsp; &nbsp; &nbsp; <b>So that I wiste it myghte youre herte glade,</b><BR>
+969 &nbsp; &nbsp; &nbsp; &nbsp; <b>I wolde that day that youre Arveragus</b><BR>
+970 &nbsp; &nbsp; &nbsp; &nbsp; <b>Wente over the see, that I, Aurelius,</b><BR>
+971 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hadde went ther nevere I sholde have come agayn.</b><BR>
+972 &nbsp; &nbsp; &nbsp; &nbsp; <b>For wel I woot my servyce is in vayn;</b><BR>
+973 &nbsp; &nbsp; &nbsp; &nbsp; <b>My gerdon is but brestyng of myn herte.</b><BR>
+974 &nbsp; &nbsp; &nbsp; &nbsp; <b>Madame, reweth upon my peynes smerte;</b><BR>
+975 &nbsp; &nbsp; &nbsp; &nbsp; <b>For with a word ye may me sleen or save.</b><BR>
+976 &nbsp; &nbsp; &nbsp; &nbsp; <b>Heere at youre feet God wolde that I were grave!</b><BR>
+977 &nbsp; &nbsp; &nbsp; &nbsp; <b>I ne have as now no leyser moore to seye;</b><BR>
+978 &nbsp; &nbsp; &nbsp; &nbsp; <b>Have mercy, sweete, or ye wol do me deye!"</b><BR>
+979 &nbsp; &nbsp; &nbsp; &nbsp; <b>She gan to looke upon Aurelius;</b><BR>
+980 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Is this youre wyl," quod she, "and sey ye thus?</b><BR>
+981 &nbsp; &nbsp; &nbsp; &nbsp; <b>Nevere erst," quod she, "ne wiste I what ye mente.</b><BR>
+982 &nbsp; &nbsp; &nbsp; &nbsp; <b>But now, Aurelie, I knowe youre entente,</b><BR>
+983 &nbsp; &nbsp; &nbsp; &nbsp; <b>By thilke God that yaf me soule and lyf,</b><BR>
+984 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ne shal I nevere been untrewe wyf</b><BR>
+985 &nbsp; &nbsp; &nbsp; &nbsp; <b>In word ne werk, as fer as I have wit;</b><BR>
+986 &nbsp; &nbsp; &nbsp; &nbsp; <b>I wol been his to whom that I am knyt.</b><BR>
+987 &nbsp; &nbsp; &nbsp; &nbsp; <b>Taak this for fynal answere as of me."</b><BR>
+988 &nbsp; &nbsp; &nbsp; &nbsp; <b>But after that in pley thus seyde she:</b><BR>
+989 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Aurelie," quod she, "by heighe God above,</b><BR>
+990 &nbsp; &nbsp; &nbsp; &nbsp; <b>Yet wolde I graunte yow to been youre love,</b><BR>
+991 &nbsp; &nbsp; &nbsp; &nbsp; <b>Syn I yow se so pitously complayne.</b><BR>
+992 &nbsp; &nbsp; &nbsp; &nbsp; <b>Looke what day that endelong Britayne</b><BR>
+993 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ye remoeve alle the rokkes, stoon by stoon,</b><BR>
+994 &nbsp; &nbsp; &nbsp; &nbsp; <b>That they ne lette ship ne boot to goon --</b><BR>
+995 &nbsp; &nbsp; &nbsp; &nbsp; <b>I seye, whan ye han maad the coost so clene</b><BR>
+996 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of rokkes that ther nys no stoon ysene,</b><BR>
+997 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thanne wol I love yow best of any man;</b><BR>
+998 &nbsp; &nbsp; &nbsp; &nbsp; <b>Have heer my trouthe, in al that evere I kan."</b><BR>
+999 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Is ther noon oother grace in yow?" quod he.</b><BR>
+1000 &nbsp; &nbsp; &nbsp; &nbsp; <b>"No, by that Lord," quod she, "that maked me!</b><BR>
+1001 &nbsp; &nbsp; &nbsp; &nbsp; <b>For wel I woot that it shal never bityde.</b><BR>
+1002 &nbsp; &nbsp; &nbsp; &nbsp; <b>Lat swiche folies out of youre herte slyde.</b><BR>
+1003 &nbsp; &nbsp; &nbsp; &nbsp; <b>What deyntee sholde a man han in his lyf</b><BR>
+1004 &nbsp; &nbsp; &nbsp; &nbsp; <b>For to go love another mannes wyf,</b><BR>
+1005 &nbsp; &nbsp; &nbsp; &nbsp; <b>That hath hir body whan so that hym liketh?"</b><BR>
+1006 &nbsp; &nbsp; &nbsp; &nbsp; <b>Aurelius ful ofte soore siketh;</b><BR>
+1007 &nbsp; &nbsp; &nbsp; &nbsp; <b>Wo was Aurelie whan that he this herde,</b><BR>
+1008 &nbsp; &nbsp; &nbsp; &nbsp; <b>And with a sorweful herte he thus answerde:</b><BR>
+1009 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Madame," quod he, "this were an inpossible!</b><BR>
+1010 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thanne moot I dye of sodeyn deth horrible."</b><BR>
+1011 &nbsp; &nbsp; &nbsp; &nbsp; <b>And with that word he turned hym anon.</b><BR>
+1012 &nbsp; &nbsp; &nbsp; &nbsp; <b>Tho coome hir othere freendes many oon,</b><BR>
+1013 &nbsp; &nbsp; &nbsp; &nbsp; <b>And in the aleyes romeden up and doun,</b><BR>
+1014 &nbsp; &nbsp; &nbsp; &nbsp; <b>And nothyng wiste of this conclusioun,</b><BR>
+1015 &nbsp; &nbsp; &nbsp; &nbsp; <b>But sodeynly bigonne revel newe</b><BR>
+1016 &nbsp; &nbsp; &nbsp; &nbsp; <b>Til that the brighte sonne loste his hewe;</b><BR>
+1017 &nbsp; &nbsp; &nbsp; &nbsp; <b>For th' orisonte hath reft the sonne his lyght --</b><BR>
+1018 &nbsp; &nbsp; &nbsp; &nbsp; <b>This is as muche to seye as it was nyght --</b><BR>
+1019 &nbsp; &nbsp; &nbsp; &nbsp; <b>And hoom they goon in joye and in solas,</b><BR>
+1020 &nbsp; &nbsp; &nbsp; &nbsp; <b>Save oonly wrecche Aurelius, allas!</b><BR>
+1021 &nbsp; &nbsp; &nbsp; &nbsp; <b>He to his hous is goon with sorweful herte.</b><BR>
+1022 &nbsp; &nbsp; &nbsp; &nbsp; <b>He seeth he may nat fro his deeth asterte;</b><BR>
+1023 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hym semed that he felte his herte colde.</b><BR>
+1024 &nbsp; &nbsp; &nbsp; &nbsp; <b>Up to the hevene his handes he gan holde,</b><BR>
+1025 &nbsp; &nbsp; &nbsp; &nbsp; <b>And on his knowes bare he sette hym doun,</b><BR>
+1026 &nbsp; &nbsp; &nbsp; &nbsp; <b>And in his ravyng seyde his orisoun.</b><BR>
+1027 &nbsp; &nbsp; &nbsp; &nbsp; <b>For verray wo out of his wit he breyde.</b><BR>
+1028 &nbsp; &nbsp; &nbsp; &nbsp; <b>He nyste what he spak, but thus he seyde;</b><BR>
+1029 &nbsp; &nbsp; &nbsp; &nbsp; <b>With pitous herte his pleynt hath he bigonne</b><BR>
+1030 &nbsp; &nbsp; &nbsp; &nbsp; <b>Unto the goddes, and first unto the sonne:</b><BR>
+1031 &nbsp; &nbsp; &nbsp; &nbsp; <b>He seyde, "Appollo, god and governour</b><BR>
+1032 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of every plaunte, herbe, tree, and flour,</b><BR>
+1033 &nbsp; &nbsp; &nbsp; &nbsp; <b>That yevest, after thy declinacion,</b><BR>
+1034 &nbsp; &nbsp; &nbsp; &nbsp; <b>To ech of hem his tyme and his seson,</b><BR>
+1035 &nbsp; &nbsp; &nbsp; &nbsp; <b>As thyn herberwe chaungeth lowe or heighe,</b><BR>
+1036 &nbsp; &nbsp; &nbsp; &nbsp; <b>Lord Phebus, cast thy merciable eighe</b><BR>
+1037 &nbsp; &nbsp; &nbsp; &nbsp; <b>On wrecche Aurelie, which that am but lorn.</b><BR>
+1038 &nbsp; &nbsp; &nbsp; &nbsp; <b>Lo, lord! My lady hath my deeth ysworn</b><BR>
+1039 &nbsp; &nbsp; &nbsp; &nbsp; <b>Withoute gilt, but thy benignytee</b><BR>
+1040 &nbsp; &nbsp; &nbsp; &nbsp; <b>Upon my dedly herte have som pitee.</b><BR>
+1041 &nbsp; &nbsp; &nbsp; &nbsp; <b>For wel I woot, lord Phebus, if yow lest,</b><BR>
+1042 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ye may me helpen, save my lady, best.</b><BR>
+1043 &nbsp; &nbsp; &nbsp; &nbsp; <b>Now voucheth sauf that I may yow devyse</b><BR>
+1044 &nbsp; &nbsp; &nbsp; &nbsp; <b>How that I may been holpen and in what wyse.</b><BR>
+1045 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Youre blisful suster, Lucina the sheene,</b><BR>
+1046 &nbsp; &nbsp; &nbsp; &nbsp; <b>That of the see is chief goddesse and queene</b><BR>
+1047 &nbsp; &nbsp; &nbsp; &nbsp; <b>(Though Neptunus have deitee in the see,</b><BR>
+1048 &nbsp; &nbsp; &nbsp; &nbsp; <b>Yet emperisse aboven hym is she),</b><BR>
+1049 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ye knowen wel, lord, that right as hir desir</b><BR>
+1050 &nbsp; &nbsp; &nbsp; &nbsp; <b>Is to be quyked and lighted of youre fir,</b><BR>
+1051 &nbsp; &nbsp; &nbsp; &nbsp; <b>For which she folweth yow ful bisily,</b><BR>
+1052 &nbsp; &nbsp; &nbsp; &nbsp; <b>Right so the see desireth naturelly</b><BR>
+1053 &nbsp; &nbsp; &nbsp; &nbsp; <b>To folwen hire, as she that is goddesse</b><BR>
+1054 &nbsp; &nbsp; &nbsp; &nbsp; <b>Bothe in the see and ryveres moore and lesse.</b><BR>
+1055 &nbsp; &nbsp; &nbsp; &nbsp; <b>Wherfore, lord Phebus, this is my requeste --</b><BR>
+1056 &nbsp; &nbsp; &nbsp; &nbsp; <b>Do this miracle, or do myn herte breste --</b><BR>
+1057 &nbsp; &nbsp; &nbsp; &nbsp; <b>That now next at this opposicion</b><BR>
+1058 &nbsp; &nbsp; &nbsp; &nbsp; <b>Which in the signe shal be of the Leon,</b><BR>
+1059 &nbsp; &nbsp; &nbsp; &nbsp; <b>As preieth hire so greet a flood to brynge</b><BR>
+1060 &nbsp; &nbsp; &nbsp; &nbsp; <b>That fyve fadme at the leeste it oversprynge</b><BR>
+1061 &nbsp; &nbsp; &nbsp; &nbsp; <b>The hyeste rokke in Armorik Briteyne;</b><BR>
+1062 &nbsp; &nbsp; &nbsp; &nbsp; <b>And lat this flood endure yeres tweyne.</b><BR>
+1063 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thanne certes to my lady may I seye,</b><BR>
+1064 &nbsp; &nbsp; &nbsp; &nbsp; <b>`Holdeth youre heste, the rokkes been aweye.'</b><BR>
+1065 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Lord Phebus, dooth this miracle for me.</b><BR>
+1066 &nbsp; &nbsp; &nbsp; &nbsp; <b>Preye hire she go no faster cours than ye;</b><BR>
+1067 &nbsp; &nbsp; &nbsp; &nbsp; <b>I seye, preyeth your suster that she go</b><BR>
+1068 &nbsp; &nbsp; &nbsp; &nbsp; <b>No faster cours than ye thise yeres two.</b><BR>
+1069 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thanne shal she been evene atte fulle alway,</b><BR>
+1070 &nbsp; &nbsp; &nbsp; &nbsp; <b>And spryng flood laste bothe nyght and day.</b><BR>
+1071 &nbsp; &nbsp; &nbsp; &nbsp; <b>And but she vouche sauf in swich manere</b><BR>
+1072 &nbsp; &nbsp; &nbsp; &nbsp; <b>To graunte me my sovereyn lady deere,</b><BR>
+1073 &nbsp; &nbsp; &nbsp; &nbsp; <b>Prey hire to synken every rok adoun</b><BR>
+1074 &nbsp; &nbsp; &nbsp; &nbsp; <b>Into hir owene dirke regioun</b><BR>
+1075 &nbsp; &nbsp; &nbsp; &nbsp; <b>Under the ground, ther Pluto dwelleth inne,</b><BR>
+1076 &nbsp; &nbsp; &nbsp; &nbsp; <b>Or nevere mo shal I my lady wynne.</b><BR>
+1077 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thy temple in Delphos wol I barefoot seke.</b><BR>
+1078 &nbsp; &nbsp; &nbsp; &nbsp; <b>Lord Phebus, se the teeris on my cheke,</b><BR>
+1079 &nbsp; &nbsp; &nbsp; &nbsp; <b>And of my peyne have som compassioun."</b><BR>
+1080 &nbsp; &nbsp; &nbsp; &nbsp; <b>And with that word in swowne he fil adoun,</b><BR>
+1081 &nbsp; &nbsp; &nbsp; &nbsp; <b>And longe tyme he lay forth in a traunce.</b><BR>
+1082 &nbsp; &nbsp; &nbsp; &nbsp; <b>His brother, which that knew of his penaunce,</b><BR>
+1083 &nbsp; &nbsp; &nbsp; &nbsp; <b>Up caughte hym and to bedde he hath hym broght.</b><BR>
+1084 &nbsp; &nbsp; &nbsp; &nbsp; <b>Dispeyred in this torment and this thoght</b><BR>
+1085 &nbsp; &nbsp; &nbsp; &nbsp; <b>Lete I this woful creature lye;</b><BR>
+1086 &nbsp; &nbsp; &nbsp; &nbsp; <b>Chese he, for me, wheither he wol lyve or dye.</b><BR>
+1087 &nbsp; &nbsp; &nbsp; &nbsp; <b>Arveragus, with heele and greet honour,</b><BR>
+1088 &nbsp; &nbsp; &nbsp; &nbsp; <b>As he that was of chivalrie the flour,</b><BR>
+1089 &nbsp; &nbsp; &nbsp; &nbsp; <b>Is comen hoom, and othere worthy men.</b><BR>
+1090 &nbsp; &nbsp; &nbsp; &nbsp; <b>O blisful artow now, thou Dorigen,</b><BR>
+1091 &nbsp; &nbsp; &nbsp; &nbsp; <b>That hast thy lusty housbonde in thyne armes,</b><BR>
+1092 &nbsp; &nbsp; &nbsp; &nbsp; <b>The fresshe knyght, the worthy man of armes,</b><BR>
+1093 &nbsp; &nbsp; &nbsp; &nbsp; <b>That loveth thee as his owene hertes lyf.</b><BR>
+1094 &nbsp; &nbsp; &nbsp; &nbsp; <b>No thyng list hym to been ymaginatyf,</b><BR>
+1095 &nbsp; &nbsp; &nbsp; &nbsp; <b>If any wight hadde spoke, whil he was oute,</b><BR>
+1096 &nbsp; &nbsp; &nbsp; &nbsp; <b>To hire of love; he hadde of it no doute.</b><BR>
+1097 &nbsp; &nbsp; &nbsp; &nbsp; <b>He noght entendeth to no swich mateere,</b><BR>
+1098 &nbsp; &nbsp; &nbsp; &nbsp; <b>But daunceth, justeth, maketh hire good cheere;</b><BR>
+1099 &nbsp; &nbsp; &nbsp; &nbsp; <b>And thus in joye and blisse I lete hem dwelle,</b><BR>
+1100 &nbsp; &nbsp; &nbsp; &nbsp; <b>And of the sike Aurelius wol I telle.</b><BR>
+1101 &nbsp; &nbsp; &nbsp; &nbsp; <b>In langour and in torment furyus</b><BR>
+1102 &nbsp; &nbsp; &nbsp; &nbsp; <b>Two yeer and moore lay wrecche Aurelyus,</b><BR>
+1103 &nbsp; &nbsp; &nbsp; &nbsp; <b>Er any foot he myghte on erthe gon;</b><BR>
+1104 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ne confort in this tyme hadde he noon,</b><BR>
+1105 &nbsp; &nbsp; &nbsp; &nbsp; <b>Save of his brother, which that was a clerk.</b><BR>
+1106 &nbsp; &nbsp; &nbsp; &nbsp; <b>He knew of al this wo and al this werk,</b><BR>
+1107 &nbsp; &nbsp; &nbsp; &nbsp; <b>For to noon oother creature, certeyn,</b><BR>
+1108 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of this matere he dorste no word seyn.</b><BR>
+1109 &nbsp; &nbsp; &nbsp; &nbsp; <b>Under his brest he baar it moore secree</b><BR>
+1110 &nbsp; &nbsp; &nbsp; &nbsp; <b>Than evere dide Pamphilus for Galathee.</b><BR>
+1111 &nbsp; &nbsp; &nbsp; &nbsp; <b>His brest was hool, withoute for to sene,</b><BR>
+1112 &nbsp; &nbsp; &nbsp; &nbsp; <b>But in his herte ay was the arwe kene.</b><BR>
+1113 &nbsp; &nbsp; &nbsp; &nbsp; <b>And wel ye knowe that of a sursanure</b><BR>
+1114 &nbsp; &nbsp; &nbsp; &nbsp; <b>In surgerye is perilous the cure,</b><BR>
+1115 &nbsp; &nbsp; &nbsp; &nbsp; <b>But men myghte touche the arwe or come therby.</b><BR>
+1116 &nbsp; &nbsp; &nbsp; &nbsp; <b>His brother weep and wayled pryvely,</b><BR>
+1117 &nbsp; &nbsp; &nbsp; &nbsp; <b>Til atte laste hym fil in remembraunce,</b><BR>
+1118 &nbsp; &nbsp; &nbsp; &nbsp; <b>That whiles he was at Orliens in Fraunce --</b><BR>
+1119 &nbsp; &nbsp; &nbsp; &nbsp; <b>As yonge clerkes that been lykerous</b><BR>
+1120 &nbsp; &nbsp; &nbsp; &nbsp; <b>To reden artes that been curious</b><BR>
+1121 &nbsp; &nbsp; &nbsp; &nbsp; <b>Seken in every halke and every herne</b><BR>
+1122 &nbsp; &nbsp; &nbsp; &nbsp; <b>Particuler sciences for to lerne --</b><BR>
+1123 &nbsp; &nbsp; &nbsp; &nbsp; <b>He hym remembred that, upon a day,</b><BR>
+1124 &nbsp; &nbsp; &nbsp; &nbsp; <b>At Orliens in studie a book he say</b><BR>
+1125 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of magyk natureel, which his felawe,</b><BR>
+1126 &nbsp; &nbsp; &nbsp; &nbsp; <b>That was that tyme a bacheler of lawe,</b><BR>
+1127 &nbsp; &nbsp; &nbsp; &nbsp; <b>Al were he ther to lerne another craft,</b><BR>
+1128 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hadde prively upon his desk ylaft;</b><BR>
+1129 &nbsp; &nbsp; &nbsp; &nbsp; <b>Which book spak muchel of the operaciouns</b><BR>
+1130 &nbsp; &nbsp; &nbsp; &nbsp; <b>Touchynge the eighte and twenty mansiouns</b><BR>
+1131 &nbsp; &nbsp; &nbsp; &nbsp; <b>That longen to the moone, and swich folye</b><BR>
+1132 &nbsp; &nbsp; &nbsp; &nbsp; <b>As in oure dayes is nat worth a flye --</b><BR>
+1133 &nbsp; &nbsp; &nbsp; &nbsp; <b>For hooly chirches feith in oure bileve</b><BR>
+1134 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ne suffreth noon illusioun us to greve.</b><BR>
+1135 &nbsp; &nbsp; &nbsp; &nbsp; <b>And whan this book was in his remembraunce,</b><BR>
+1136 &nbsp; &nbsp; &nbsp; &nbsp; <b>Anon for joye his herte gan to daunce,</b><BR>
+1137 &nbsp; &nbsp; &nbsp; &nbsp; <b>And to hymself he seyde pryvely:</b><BR>
+1138 &nbsp; &nbsp; &nbsp; &nbsp; <b>"My brother shal be warisshed hastily;</b><BR>
+1139 &nbsp; &nbsp; &nbsp; &nbsp; <b>For I am siker that ther be sciences</b><BR>
+1140 &nbsp; &nbsp; &nbsp; &nbsp; <b>By whiche men make diverse apparences,</b><BR>
+1141 &nbsp; &nbsp; &nbsp; &nbsp; <b>Swiche as thise subtile tregetoures pleye.</b><BR>
+1142 &nbsp; &nbsp; &nbsp; &nbsp; <b>For ofte at feestes have I wel herd seye</b><BR>
+1143 &nbsp; &nbsp; &nbsp; &nbsp; <b>That tregetours withinne an halle large</b><BR>
+1144 &nbsp; &nbsp; &nbsp; &nbsp; <b>Have maad come in a water and a barge,</b><BR>
+1145 &nbsp; &nbsp; &nbsp; &nbsp; <b>And in the halle rowen up and doun.</b><BR>
+1146 &nbsp; &nbsp; &nbsp; &nbsp; <b>Somtyme hath semed come a grym leoun;</b><BR>
+1147 &nbsp; &nbsp; &nbsp; &nbsp; <b>And somtyme floures sprynge as in a mede;</b><BR>
+1148 &nbsp; &nbsp; &nbsp; &nbsp; <b>Somtyme a vyne, and grapes white and rede;</b><BR>
+1149 &nbsp; &nbsp; &nbsp; &nbsp; <b>Somtyme a castel, al of lym and stoon;</b><BR>
+1150 &nbsp; &nbsp; &nbsp; &nbsp; <b>And whan hem lyked, voyded it anon.</b><BR>
+1151 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thus semed it to every mannes sighte.</b><BR>
+1152 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Now thanne conclude I thus: that if I myghte</b><BR>
+1153 &nbsp; &nbsp; &nbsp; &nbsp; <b>At Orliens som oold felawe yfynde</b><BR>
+1154 &nbsp; &nbsp; &nbsp; &nbsp; <b>That hadde thise moones mansions in mynde,</b><BR>
+1155 &nbsp; &nbsp; &nbsp; &nbsp; <b>Or oother magyk natureel above,</b><BR>
+1156 &nbsp; &nbsp; &nbsp; &nbsp; <b>He sholde wel make my brother han his love.</b><BR>
+1157 &nbsp; &nbsp; &nbsp; &nbsp; <b>For with an apparence a clerk may make,</b><BR>
+1158 &nbsp; &nbsp; &nbsp; &nbsp; <b>To mannes sighte, that alle the rokkes blake</b><BR>
+1159 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of Britaigne weren yvoyded everichon,</b><BR>
+1160 &nbsp; &nbsp; &nbsp; &nbsp; <b>And shippes by the brynke comen and gon,</b><BR>
+1161 &nbsp; &nbsp; &nbsp; &nbsp; <b>And in swich forme enduren a wowke or two.</b><BR>
+1162 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thanne were my brother warisshed of his wo;</b><BR>
+1163 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thanne moste she nedes holden hire biheste,</b><BR>
+1164 &nbsp; &nbsp; &nbsp; &nbsp; <b>Or elles he shal shame hire atte leeste."</b><BR>
+1165 &nbsp; &nbsp; &nbsp; &nbsp; <b>What sholde I make a lenger tale of this?</b><BR>
+1166 &nbsp; &nbsp; &nbsp; &nbsp; <b>Unto his brotheres bed he comen is,</b><BR>
+1167 &nbsp; &nbsp; &nbsp; &nbsp; <b>And swich confort he yaf hym for to gon</b><BR>
+1168 &nbsp; &nbsp; &nbsp; &nbsp; <b>To Orliens that he up stirte anon,</b><BR>
+1169 &nbsp; &nbsp; &nbsp; &nbsp; <b>And on his wey forthward thanne is he fare</b><BR>
+1170 &nbsp; &nbsp; &nbsp; &nbsp; <b>In hope for to been lissed of his care.</b><BR>
+1171 &nbsp; &nbsp; &nbsp; &nbsp; <b>Whan they were come almoost to that citee,</b><BR>
+1172 &nbsp; &nbsp; &nbsp; &nbsp; <b>But if it were a two furlong or thre,</b><BR>
+1173 &nbsp; &nbsp; &nbsp; &nbsp; <b>A yong clerk romynge by hymself they mette,</b><BR>
+1174 &nbsp; &nbsp; &nbsp; &nbsp; <b>Which that in Latyn thriftily hem grette,</b><BR>
+1175 &nbsp; &nbsp; &nbsp; &nbsp; <b>And after that he seyde a wonder thyng:</b><BR>
+1176 &nbsp; &nbsp; &nbsp; &nbsp; <b>"I knowe," quod he, "the cause of youre comyng."</b><BR>
+1177 &nbsp; &nbsp; &nbsp; &nbsp; <b>And er they ferther any foote wente,</b><BR>
+1178 &nbsp; &nbsp; &nbsp; &nbsp; <b>He tolde hem al that was in hire entente.</b><BR>
+1179 &nbsp; &nbsp; &nbsp; &nbsp; <b>This Briton clerk hym asked of felawes</b><BR>
+1180 &nbsp; &nbsp; &nbsp; &nbsp; <b>The whiche that he had knowe in olde dawes,</b><BR>
+1181 &nbsp; &nbsp; &nbsp; &nbsp; <b>And he answerde hym that they dede were,</b><BR>
+1182 &nbsp; &nbsp; &nbsp; &nbsp; <b>For which he weep ful ofte many a teere.</b><BR>
+1183 &nbsp; &nbsp; &nbsp; &nbsp; <b>Doun of his hors Aurelius lighte anon,</b><BR>
+1184 &nbsp; &nbsp; &nbsp; &nbsp; <b>And with this magicien forth is he gon</b><BR>
+1185 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hoom to his hous, and maden hem wel at ese.</b><BR>
+1186 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hem lakked no vitaille that myghte hem plese.</b><BR>
+1187 &nbsp; &nbsp; &nbsp; &nbsp; <b>So wel arrayed hous as ther was oon</b><BR>
+1188 &nbsp; &nbsp; &nbsp; &nbsp; <b>Aurelius in his lyf saugh nevere noon.</b><BR>
+1189 &nbsp; &nbsp; &nbsp; &nbsp; <b>He shewed hym, er he wente to sopeer,</b><BR>
+1190 &nbsp; &nbsp; &nbsp; &nbsp; <b>Forestes, parkes ful of wilde deer;</b><BR>
+1191 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ther saugh he hertes with hir hornes hye,</b><BR>
+1192 &nbsp; &nbsp; &nbsp; &nbsp; <b>The gretteste that evere were seyn with ye.</b><BR>
+1193 &nbsp; &nbsp; &nbsp; &nbsp; <b>He saugh of hem an hondred slayn with houndes,</b><BR>
+1194 &nbsp; &nbsp; &nbsp; &nbsp; <b>And somme with arwes blede of bittre woundes.</b><BR>
+1195 &nbsp; &nbsp; &nbsp; &nbsp; <b>He saugh, whan voyded were thise wilde deer,</b><BR>
+1196 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thise fauconers upon a fair ryver,</b><BR>
+1197 &nbsp; &nbsp; &nbsp; &nbsp; <b>That with hir haukes han the heron slayn.</b><BR>
+1198 &nbsp; &nbsp; &nbsp; &nbsp; <b>Tho saugh he knyghtes justyng in a playn;</b><BR>
+1199 &nbsp; &nbsp; &nbsp; &nbsp; <b>And after this he dide hym swich plesaunce</b><BR>
+1200 &nbsp; &nbsp; &nbsp; &nbsp; <b>That he hym shewed his lady on a daunce,</b><BR>
+1201 &nbsp; &nbsp; &nbsp; &nbsp; <b>On which hymself he daunced, as hym thoughte.</b><BR>
+1202 &nbsp; &nbsp; &nbsp; &nbsp; <b>And whan this maister that this magyk wroughte</b><BR>
+1203 &nbsp; &nbsp; &nbsp; &nbsp; <b>Saugh it was tyme, he clapte his handes two,</b><BR>
+1204 &nbsp; &nbsp; &nbsp; &nbsp; <b>And farewel! Al oure revel was ago.</b><BR>
+1205 &nbsp; &nbsp; &nbsp; &nbsp; <b>And yet remoeved they nevere out of the hous,</b><BR>
+1206 &nbsp; &nbsp; &nbsp; &nbsp; <b>Whil they saugh al this sighte merveillous,</b><BR>
+1207 &nbsp; &nbsp; &nbsp; &nbsp; <b>But in his studie, ther as his bookes be,</b><BR>
+1208 &nbsp; &nbsp; &nbsp; &nbsp; <b>They seten stille, and no wight but they thre.</b><BR>
+1209 &nbsp; &nbsp; &nbsp; &nbsp; <b>To hym this maister called his squier,</b><BR>
+1210 &nbsp; &nbsp; &nbsp; &nbsp; <b>And seyde hym thus: "Is redy oure soper?</b><BR>
+1211 &nbsp; &nbsp; &nbsp; &nbsp; <b>Almoost an houre it is, I undertake,</b><BR>
+1212 &nbsp; &nbsp; &nbsp; &nbsp; <b>Sith I yow bad oure soper for to make,</b><BR>
+1213 &nbsp; &nbsp; &nbsp; &nbsp; <b>Whan that thise worthy men wenten with me</b><BR>
+1214 &nbsp; &nbsp; &nbsp; &nbsp; <b>Into my studie, ther as my bookes be."</b><BR>
+1215 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Sire," quod this squier, "whan it liketh yow,</b><BR>
+1216 &nbsp; &nbsp; &nbsp; &nbsp; <b>It is al redy, though ye wol right now."</b><BR>
+1217 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Go we thanne soupe," quod he, "as for the beste.</b><BR>
+1218 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thise amorous folk somtyme moote han hir reste."</b><BR>
+1219 &nbsp; &nbsp; &nbsp; &nbsp; <b>At after-soper fille they in tretee</b><BR>
+1220 &nbsp; &nbsp; &nbsp; &nbsp; <b>What somme sholde this maistres gerdon be</b><BR>
+1221 &nbsp; &nbsp; &nbsp; &nbsp; <b>To remoeven alle the rokkes of Britayne,</b><BR>
+1222 &nbsp; &nbsp; &nbsp; &nbsp; <b>And eek from Gerounde to the mouth of Sayne.</b><BR>
+1223 &nbsp; &nbsp; &nbsp; &nbsp; <b>He made it straunge, and swoor, so God hym save,</b><BR>
+1224 &nbsp; &nbsp; &nbsp; &nbsp; <b>Lasse than a thousand pound he wolde nat have,</b><BR>
+1225 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ne gladly for that somme he wolde nat goon.</b><BR>
+1226 &nbsp; &nbsp; &nbsp; &nbsp; <b>Aurelius, with blisful herte anoon,</b><BR>
+1227 &nbsp; &nbsp; &nbsp; &nbsp; <b>Answerde thus: "Fy on a thousand pound!</b><BR>
+1228 &nbsp; &nbsp; &nbsp; &nbsp; <b>This wyde world, which that men seye is round,</b><BR>
+1229 &nbsp; &nbsp; &nbsp; &nbsp; <b>I wolde it yeve, if I were lord of it.</b><BR>
+1230 &nbsp; &nbsp; &nbsp; &nbsp; <b>This bargayn is ful dryve, for we been knyt.</b><BR>
+1231 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ye shal be payed trewely, by my trouthe!</b><BR>
+1232 &nbsp; &nbsp; &nbsp; &nbsp; <b>But looketh now, for no necligence or slouthe</b><BR>
+1233 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ye tarie us heere no lenger than to-morwe."</b><BR>
+1234 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Nay," quod this clerk, "have heer my feith to borwe."</b><BR>
+1235 &nbsp; &nbsp; &nbsp; &nbsp; <b>To bedde is goon Aurelius whan hym leste,</b><BR>
+1236 &nbsp; &nbsp; &nbsp; &nbsp; <b>And wel ny al that nyght he hadde his reste.</b><BR>
+1237 &nbsp; &nbsp; &nbsp; &nbsp; <b>What for his labour and his hope of blisse,</b><BR>
+1238 &nbsp; &nbsp; &nbsp; &nbsp; <b>His woful herte of penaunce hadde a lisse.</b><BR>
+1239 &nbsp; &nbsp; &nbsp; &nbsp; <b>Upon the morwe, whan that it was day,</b><BR>
+1240 &nbsp; &nbsp; &nbsp; &nbsp; <b>To Britaigne tooke they the righte way,</b><BR>
+1241 &nbsp; &nbsp; &nbsp; &nbsp; <b>Aurelius and this magicien bisyde,</b><BR>
+1242 &nbsp; &nbsp; &nbsp; &nbsp; <b>And been descended ther they wolde abyde.</b><BR>
+1243 &nbsp; &nbsp; &nbsp; &nbsp; <b>And this was, as thise bookes me remembre,</b><BR>
+1244 &nbsp; &nbsp; &nbsp; &nbsp; <b>The colde, frosty seson of Decembre.</b><BR>
+1245 &nbsp; &nbsp; &nbsp; &nbsp; <b>Phebus wax old, and hewed lyk laton,</b><BR>
+1246 &nbsp; &nbsp; &nbsp; &nbsp; <b>That in his hoote declynacion</b><BR>
+1247 &nbsp; &nbsp; &nbsp; &nbsp; <b>Shoon as the burned gold with stremes brighte;</b><BR>
+1248 &nbsp; &nbsp; &nbsp; &nbsp; <b>But now in Capricorn adoun he lighte,</b><BR>
+1249 &nbsp; &nbsp; &nbsp; &nbsp; <b>Where as he shoon ful pale, I dar wel seyn.</b><BR>
+1250 &nbsp; &nbsp; &nbsp; &nbsp; <b>The bittre frostes, with the sleet and reyn,</b><BR>
+1251 &nbsp; &nbsp; &nbsp; &nbsp; <b>Destroyed hath the grene in every yerd.</b><BR>
+1252 &nbsp; &nbsp; &nbsp; &nbsp; <b>Janus sit by the fyr, with double berd,</b><BR>
+1253 &nbsp; &nbsp; &nbsp; &nbsp; <b>And drynketh of his bugle horn the wyn;</b><BR>
+1254 &nbsp; &nbsp; &nbsp; &nbsp; <b>Biforn hym stant brawen of the tusked swyn,</b><BR>
+1255 &nbsp; &nbsp; &nbsp; &nbsp; <b>And "Nowel" crieth every lusty man.</b><BR>
+1256 &nbsp; &nbsp; &nbsp; &nbsp; <b>Aurelius in al that evere he kan</b><BR>
+1257 &nbsp; &nbsp; &nbsp; &nbsp; <b>Dooth to this maister chiere and reverence,</b><BR>
+1258 &nbsp; &nbsp; &nbsp; &nbsp; <b>And preyeth hym to doon his diligence</b><BR>
+1259 &nbsp; &nbsp; &nbsp; &nbsp; <b>To bryngen hym out of his peynes smerte,</b><BR>
+1260 &nbsp; &nbsp; &nbsp; &nbsp; <b>Or with a swerd that he wolde slitte his herte.</b><BR>
+1261 &nbsp; &nbsp; &nbsp; &nbsp; <b>This subtil clerk swich routhe had of this man</b><BR>
+1262 &nbsp; &nbsp; &nbsp; &nbsp; <b>That nyght and day he spedde hym that he kan</b><BR>
+1263 &nbsp; &nbsp; &nbsp; &nbsp; <b>To wayten a tyme of his conclusioun;</b><BR>
+1264 &nbsp; &nbsp; &nbsp; &nbsp; <b>This is to seye, to maken illusioun,</b><BR>
+1265 &nbsp; &nbsp; &nbsp; &nbsp; <b>By swich an apparence or jogelrye --</b><BR>
+1266 &nbsp; &nbsp; &nbsp; &nbsp; <b>I ne kan no termes of astrologye --</b><BR>
+1267 &nbsp; &nbsp; &nbsp; &nbsp; <b>That she and every wight sholde wene and seye</b><BR>
+1268 &nbsp; &nbsp; &nbsp; &nbsp; <b>That of Britaigne the rokkes were aweye,</b><BR>
+1269 &nbsp; &nbsp; &nbsp; &nbsp; <b>Or ellis they were sonken under grounde.</b><BR>
+1270 &nbsp; &nbsp; &nbsp; &nbsp; <b>So atte laste he hath his tyme yfounde</b><BR>
+1271 &nbsp; &nbsp; &nbsp; &nbsp; <b>To maken his japes and his wrecchednesse</b><BR>
+1272 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of swich a supersticious cursednesse.</b><BR>
+1273 &nbsp; &nbsp; &nbsp; &nbsp; <b>His tables Tolletanes forth he brought,</b><BR>
+1274 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ful wel corrected, ne ther lakked nought,</b><BR>
+1275 &nbsp; &nbsp; &nbsp; &nbsp; <b>Neither his collect ne his expans yeeris,</b><BR>
+1276 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ne his rootes, ne his othere geeris,</b><BR>
+1277 &nbsp; &nbsp; &nbsp; &nbsp; <b>As been his centris and his argumentz</b><BR>
+1278 &nbsp; &nbsp; &nbsp; &nbsp; <b>And his proporcioneles convenientz</b><BR>
+1279 &nbsp; &nbsp; &nbsp; &nbsp; <b>For his equacions in every thyng.</b><BR>
+1280 &nbsp; &nbsp; &nbsp; &nbsp; <b>And by his eighte speere in his wirkyng</b><BR>
+1281 &nbsp; &nbsp; &nbsp; &nbsp; <b>He knew ful wel how fer Alnath was shove</b><BR>
+1282 &nbsp; &nbsp; &nbsp; &nbsp; <b>Fro the heed of thilke fixe Aries above,</b><BR>
+1283 &nbsp; &nbsp; &nbsp; &nbsp; <b>That in the ninthe speere considered is;</b><BR>
+1284 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ful subtilly he kalkuled al this.</b><BR>
+1285 &nbsp; &nbsp; &nbsp; &nbsp; <b>Whan he hadde founde his firste mansioun,</b><BR>
+1286 &nbsp; &nbsp; &nbsp; &nbsp; <b>He knew the remenaunt by proporcioun,</b><BR>
+1287 &nbsp; &nbsp; &nbsp; &nbsp; <b>And knew the arisyng of his moone weel,</b><BR>
+1288 &nbsp; &nbsp; &nbsp; &nbsp; <b>And in whos face, and terme, and everydeel;</b><BR>
+1289 &nbsp; &nbsp; &nbsp; &nbsp; <b>And knew ful weel the moones mansioun</b><BR>
+1290 &nbsp; &nbsp; &nbsp; &nbsp; <b>Acordaunt to his operacioun,</b><BR>
+1291 &nbsp; &nbsp; &nbsp; &nbsp; <b>And knew also his othere observaunces</b><BR>
+1292 &nbsp; &nbsp; &nbsp; &nbsp; <b>For swiche illusiouns and swiche meschaunces</b><BR>
+1293 &nbsp; &nbsp; &nbsp; &nbsp; <b>As hethen folk useden in thilke dayes.</b><BR>
+1294 &nbsp; &nbsp; &nbsp; &nbsp; <b>For which no lenger maked he delayes,</b><BR>
+1295 &nbsp; &nbsp; &nbsp; &nbsp; <b>But thurgh his magik, for a wyke or tweye,</b><BR>
+1296 &nbsp; &nbsp; &nbsp; &nbsp; <b>It semed that alle the rokkes were aweye.</b><BR>
+1297 &nbsp; &nbsp; &nbsp; &nbsp; <b>Aurelius, which that yet despeired is</b><BR>
+1298 &nbsp; &nbsp; &nbsp; &nbsp; <b>Wher he shal han his love or fare amys,</b><BR>
+1299 &nbsp; &nbsp; &nbsp; &nbsp; <b>Awaiteth nyght and day on this myracle;</b><BR>
+1300 &nbsp; &nbsp; &nbsp; &nbsp; <b>And whan he knew that ther was noon obstacle,</b><BR>
+1301 &nbsp; &nbsp; &nbsp; &nbsp; <b>That voyded were thise rokkes everychon,</b><BR>
+1302 &nbsp; &nbsp; &nbsp; &nbsp; <b>Doun to his maistres feet he fil anon,</b><BR>
+1303 &nbsp; &nbsp; &nbsp; &nbsp; <b>And seyde, "I woful wrecche, Aurelius,</b><BR>
+1304 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thanke yow, lord, and lady myn Venus,</b><BR>
+1305 &nbsp; &nbsp; &nbsp; &nbsp; <b>That me han holpen fro my cares colde."</b><BR>
+1306 &nbsp; &nbsp; &nbsp; &nbsp; <b>And to the temple his wey forth hath he holde,</b><BR>
+1307 &nbsp; &nbsp; &nbsp; &nbsp; <b>Where as he knew he sholde his lady see.</b><BR>
+1308 &nbsp; &nbsp; &nbsp; &nbsp; <b>And whan he saugh his tyme, anon-right hee,</b><BR>
+1309 &nbsp; &nbsp; &nbsp; &nbsp; <b>With dredful herte and with ful humble cheere,</b><BR>
+1310 &nbsp; &nbsp; &nbsp; &nbsp; <b>Salewed hath his sovereyn lady deere:</b><BR>
+1311 &nbsp; &nbsp; &nbsp; &nbsp; <b>"My righte lady," quod this woful man,</b><BR>
+1312 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Whom I moost drede and love as I best kan,</b><BR>
+1313 &nbsp; &nbsp; &nbsp; &nbsp; <b>And lothest were of al this world displese,</b><BR>
+1314 &nbsp; &nbsp; &nbsp; &nbsp; <b>Nere it that I for yow have swich disese</b><BR>
+1315 &nbsp; &nbsp; &nbsp; &nbsp; <b>That I moste dyen heere at youre foot anon,</b><BR>
+1316 &nbsp; &nbsp; &nbsp; &nbsp; <b>Noght wolde I telle how me is wo bigon.</b><BR>
+1317 &nbsp; &nbsp; &nbsp; &nbsp; <b>But certes outher moste I dye or pleyne;</b><BR>
+1318 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ye sle me giltelees for verray peyne.</b><BR>
+1319 &nbsp; &nbsp; &nbsp; &nbsp; <b>But of my deeth thogh that ye have no routhe,</b><BR>
+1320 &nbsp; &nbsp; &nbsp; &nbsp; <b>Avyseth yow er that ye breke youre trouthe.</b><BR>
+1321 &nbsp; &nbsp; &nbsp; &nbsp; <b>Repenteth yow, for thilke God above,</b><BR>
+1322 &nbsp; &nbsp; &nbsp; &nbsp; <b>Er ye me sleen by cause that I yow love.</b><BR>
+1323 &nbsp; &nbsp; &nbsp; &nbsp; <b>For, madame, wel ye woot what ye han hight --</b><BR>
+1324 &nbsp; &nbsp; &nbsp; &nbsp; <b>Nat that I chalange any thyng of right</b><BR>
+1325 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of yow, my sovereyn lady, but youre grace --</b><BR>
+1326 &nbsp; &nbsp; &nbsp; &nbsp; <b>But in a gardyn yond, at swich a place,</b><BR>
+1327 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ye woot right wel what ye bihighten me;</b><BR>
+1328 &nbsp; &nbsp; &nbsp; &nbsp; <b>And in myn hand youre trouthe plighten ye</b><BR>
+1329 &nbsp; &nbsp; &nbsp; &nbsp; <b>To love me best -- God woot, ye seyde so,</b><BR>
+1330 &nbsp; &nbsp; &nbsp; &nbsp; <b>Al be that I unworthy am therto.</b><BR>
+1331 &nbsp; &nbsp; &nbsp; &nbsp; <b>Madame, I speke it for the honour of yow</b><BR>
+1332 &nbsp; &nbsp; &nbsp; &nbsp; <b>Moore than to save myn hertes lyf right now --</b><BR>
+1333 &nbsp; &nbsp; &nbsp; &nbsp; <b>I have do so as ye comanded me;</b><BR>
+1334 &nbsp; &nbsp; &nbsp; &nbsp; <b>And if ye vouche sauf, ye may go see.</b><BR>
+1335 &nbsp; &nbsp; &nbsp; &nbsp; <b>Dooth as yow list; have youre biheste in mynde,</b><BR>
+1336 &nbsp; &nbsp; &nbsp; &nbsp; <b>For, quyk or deed, right there ye shal me fynde.</b><BR>
+1337 &nbsp; &nbsp; &nbsp; &nbsp; <b>In yow lith al to do me lyve or deye --</b><BR>
+1338 &nbsp; &nbsp; &nbsp; &nbsp; <b>But wel I woot the rokkes been aweye."</b><BR>
+1339 &nbsp; &nbsp; &nbsp; &nbsp; <b>He taketh his leve, and she astoned stood;</b><BR>
+1340 &nbsp; &nbsp; &nbsp; &nbsp; <b>In al hir face nas a drope of blood.</b><BR>
+1341 &nbsp; &nbsp; &nbsp; &nbsp; <b>She wende nevere han come in swich a trappe.</b><BR>
+1342 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Allas," quod she, "that evere this sholde happe!</b><BR>
+1343 &nbsp; &nbsp; &nbsp; &nbsp; <b>For wende I nevere by possibilitee</b><BR>
+1344 &nbsp; &nbsp; &nbsp; &nbsp; <b>That swich a monstre or merveille myghte be!</b><BR>
+1345 &nbsp; &nbsp; &nbsp; &nbsp; <b>It is agayns the proces of nature."</b><BR>
+1346 &nbsp; &nbsp; &nbsp; &nbsp; <b>And hoom she goth a sorweful creature;</b><BR>
+1347 &nbsp; &nbsp; &nbsp; &nbsp; <b>For verray feere unnethe may she go.</b><BR>
+1348 &nbsp; &nbsp; &nbsp; &nbsp; <b>She wepeth, wailleth, al a day or two,</b><BR>
+1349 &nbsp; &nbsp; &nbsp; &nbsp; <b>And swowneth, that it routhe was to see.</b><BR>
+1350 &nbsp; &nbsp; &nbsp; &nbsp; <b>But why it was to no wight tolde shee,</b><BR>
+1351 &nbsp; &nbsp; &nbsp; &nbsp; <b>For out of towne was goon Arveragus.</b><BR>
+1352 &nbsp; &nbsp; &nbsp; &nbsp; <b>But to hirself she spak, and seyde thus,</b><BR>
+1353 &nbsp; &nbsp; &nbsp; &nbsp; <b>With face pale and with ful sorweful cheere,</b><BR>
+1354 &nbsp; &nbsp; &nbsp; &nbsp; <b>In hire compleynt, as ye shal after heere:</b><BR>
+1355 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Allas," quod she, "on thee, Fortune, I pleyne,</b><BR>
+1356 &nbsp; &nbsp; &nbsp; &nbsp; <b>That unwar wrapped hast me in thy cheyne,</b><BR>
+1357 &nbsp; &nbsp; &nbsp; &nbsp; <b>Fro which t' escape woot I no socour,</b><BR>
+1358 &nbsp; &nbsp; &nbsp; &nbsp; <b>Save oonly deeth or elles dishonour;</b><BR>
+1359 &nbsp; &nbsp; &nbsp; &nbsp; <b>Oon of thise two bihoveth me to chese.</b><BR>
+1360 &nbsp; &nbsp; &nbsp; &nbsp; <b>But nathelees, yet have I levere to lese</b><BR>
+1361 &nbsp; &nbsp; &nbsp; &nbsp; <b>My lif than of my body to have a shame,</b><BR>
+1362 &nbsp; &nbsp; &nbsp; &nbsp; <b>Or knowe myselven fals, or lese my name;</b><BR>
+1363 &nbsp; &nbsp; &nbsp; &nbsp; <b>And with my deth I may be quyt, ywis.</b><BR>
+1364 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hath ther nat many a noble wyf er this,</b><BR>
+1365 &nbsp; &nbsp; &nbsp; &nbsp; <b>And many a mayde, yslayn hirself, allas,</b><BR>
+1366 &nbsp; &nbsp; &nbsp; &nbsp; <b>Rather than with hir body doon trespas?</b><BR>
+1367 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Yis, certes, lo, thise stories beren witnesse:</b><BR>
+1368 &nbsp; &nbsp; &nbsp; &nbsp; <b>Whan thritty tirauntz, ful of cursednesse,</b><BR>
+1369 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hadde slayn Phidon in Atthenes atte feste,</b><BR>
+1370 &nbsp; &nbsp; &nbsp; &nbsp; <b>They comanded his doghtres for t' areste</b><BR>
+1371 &nbsp; &nbsp; &nbsp; &nbsp; <b>And bryngen hem biforn hem in despit,</b><BR>
+1372 &nbsp; &nbsp; &nbsp; &nbsp; <b>Al naked, to fulfille hir foul delit,</b><BR>
+1373 &nbsp; &nbsp; &nbsp; &nbsp; <b>And in hir fadres blood they made hem daunce</b><BR>
+1374 &nbsp; &nbsp; &nbsp; &nbsp; <b>Upon the pavement, God yeve hem meschaunce!</b><BR>
+1375 &nbsp; &nbsp; &nbsp; &nbsp; <b>For which thise woful maydens, ful of drede,</b><BR>
+1376 &nbsp; &nbsp; &nbsp; &nbsp; <b>Rather than they wolde lese hir maydenhede,</b><BR>
+1377 &nbsp; &nbsp; &nbsp; &nbsp; <b>They prively been stirt into a welle</b><BR>
+1378 &nbsp; &nbsp; &nbsp; &nbsp; <b>And dreynte hemselven, as the bookes telle.</b><BR>
+1379 &nbsp; &nbsp; &nbsp; &nbsp; <b>"They of Mecene leete enquere and seke</b><BR>
+1380 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of Lacedomye fifty maydens eke,</b><BR>
+1381 &nbsp; &nbsp; &nbsp; &nbsp; <b>On whiche they wolden doon hir lecherye.</b><BR>
+1382 &nbsp; &nbsp; &nbsp; &nbsp; <b>But was ther noon of al that compaignye</b><BR>
+1383 &nbsp; &nbsp; &nbsp; &nbsp; <b>That she nas slayn, and with a good entente</b><BR>
+1384 &nbsp; &nbsp; &nbsp; &nbsp; <b>Chees rather for to dye than assente</b><BR>
+1385 &nbsp; &nbsp; &nbsp; &nbsp; <b>To been oppressed of hir maydenhede.</b><BR>
+1386 &nbsp; &nbsp; &nbsp; &nbsp; <b>Why sholde I thanne to dye been in drede?</b><BR>
+1387 &nbsp; &nbsp; &nbsp; &nbsp; <b>Lo, eek, the tiraunt Aristoclides,</b><BR>
+1388 &nbsp; &nbsp; &nbsp; &nbsp; <b>That loved a mayden, heet Stymphalides,</b><BR>
+1389 &nbsp; &nbsp; &nbsp; &nbsp; <b>Whan that hir fader slayn was on a nyght,</b><BR>
+1390 &nbsp; &nbsp; &nbsp; &nbsp; <b>Unto Dianes temple goth she right,</b><BR>
+1391 &nbsp; &nbsp; &nbsp; &nbsp; <b>And hente the ymage in hir handes two,</b><BR>
+1392 &nbsp; &nbsp; &nbsp; &nbsp; <b>Fro which ymage wolde she nevere go.</b><BR>
+1393 &nbsp; &nbsp; &nbsp; &nbsp; <b>No wight ne myghte hir handes of it arace</b><BR>
+1394 &nbsp; &nbsp; &nbsp; &nbsp; <b>Til she was slayn, right in the selve place.</b><BR>
+1395 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Now sith that maydens hadden swich despit</b><BR>
+1396 &nbsp; &nbsp; &nbsp; &nbsp; <b>To been defouled with mannes foul delit,</b><BR>
+1397 &nbsp; &nbsp; &nbsp; &nbsp; <b>Wel oghte a wyf rather hirselven slee</b><BR>
+1398 &nbsp; &nbsp; &nbsp; &nbsp; <b>Than be defouled, as it thynketh me.</b><BR>
+1399 &nbsp; &nbsp; &nbsp; &nbsp; <b>What shal I seyn of Hasdrubales wyf,</b><BR>
+1400 &nbsp; &nbsp; &nbsp; &nbsp; <b>That at Cartage birafte hirself hir lyf?</b><BR>
+1401 &nbsp; &nbsp; &nbsp; &nbsp; <b>For whan she saugh that Romayns wan the toun,</b><BR>
+1402 &nbsp; &nbsp; &nbsp; &nbsp; <b>She took hir children alle, and skipte adoun</b><BR>
+1403 &nbsp; &nbsp; &nbsp; &nbsp; <b>Into the fyr, and chees rather to dye</b><BR>
+1404 &nbsp; &nbsp; &nbsp; &nbsp; <b>Than any Romayn dide hire vileynye.</b><BR>
+1405 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hath nat Lucresse yslayn hirself, allas,</b><BR>
+1406 &nbsp; &nbsp; &nbsp; &nbsp; <b>At Rome, whan that she oppressed was</b><BR>
+1407 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of Tarquyn, for hire thoughte it was a shame</b><BR>
+1408 &nbsp; &nbsp; &nbsp; &nbsp; <b>To lyven whan she hadde lost hir name?</b><BR>
+1409 &nbsp; &nbsp; &nbsp; &nbsp; <b>The sevene maydens of Milesie also</b><BR>
+1410 &nbsp; &nbsp; &nbsp; &nbsp; <b>Han slayn hemself, for verrey drede and wo,</b><BR>
+1411 &nbsp; &nbsp; &nbsp; &nbsp; <b>Rather than folk of Gawle hem sholde oppresse.</b><BR>
+1412 &nbsp; &nbsp; &nbsp; &nbsp; <b>Mo than a thousand stories, as I gesse,</b><BR>
+1413 &nbsp; &nbsp; &nbsp; &nbsp; <b>Koude I now telle as touchynge this mateere.</b><BR>
+1414 &nbsp; &nbsp; &nbsp; &nbsp; <b>Whan Habradate was slayn, his wyf so deere</b><BR>
+1415 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hirselven slow, and leet hir blood to glyde</b><BR>
+1416 &nbsp; &nbsp; &nbsp; &nbsp; <b>In Habradates woundes depe and wyde,</b><BR>
+1417 &nbsp; &nbsp; &nbsp; &nbsp; <b>And seyde, `My body, at the leeste way,</b><BR>
+1418 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ther shal no wight defoulen, if I may."</b><BR>
+1419 &nbsp; &nbsp; &nbsp; &nbsp; <b>"What sholde I mo ensamples heerof sayn,</b><BR>
+1420 &nbsp; &nbsp; &nbsp; &nbsp; <b>Sith that so manye han hemselven slayn</b><BR>
+1421 &nbsp; &nbsp; &nbsp; &nbsp; <b>Wel rather than they wolde defouled be?</b><BR>
+1422 &nbsp; &nbsp; &nbsp; &nbsp; <b>I wol conclude that it is bet for me</b><BR>
+1423 &nbsp; &nbsp; &nbsp; &nbsp; <b>To sleen myself than been defouled thus.</b><BR>
+1424 &nbsp; &nbsp; &nbsp; &nbsp; <b>I wol be trewe unto Arveragus,</b><BR>
+1425 &nbsp; &nbsp; &nbsp; &nbsp; <b>Or rather sleen myself in som manere,</b><BR>
+1426 &nbsp; &nbsp; &nbsp; &nbsp; <b>As dide Demociones doghter deere</b><BR>
+1427 &nbsp; &nbsp; &nbsp; &nbsp; <b>By cause that she wolde nat defouled be.</b><BR>
+1428 &nbsp; &nbsp; &nbsp; &nbsp; <b>O Cedasus, it is ful greet pitee</b><BR>
+1429 &nbsp; &nbsp; &nbsp; &nbsp; <b>To reden how thy doghtren deyde, allas,</b><BR>
+1430 &nbsp; &nbsp; &nbsp; &nbsp; <b>That slowe hemself for swich manere cas.</b><BR>
+1431 &nbsp; &nbsp; &nbsp; &nbsp; <b>As greet a pitee was it, or wel moore,</b><BR>
+1432 &nbsp; &nbsp; &nbsp; &nbsp; <b>The Theban mayden that for Nichanore</b><BR>
+1433 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hirselven slow, right for swich manere wo.</b><BR>
+1434 &nbsp; &nbsp; &nbsp; &nbsp; <b>Another Theban mayden dide right so;</b><BR>
+1435 &nbsp; &nbsp; &nbsp; &nbsp; <b>For oon of Macidonye hadde hire oppressed,</b><BR>
+1436 &nbsp; &nbsp; &nbsp; &nbsp; <b>She with hire deeth hir maydenhede redressed.</b><BR>
+1437 &nbsp; &nbsp; &nbsp; &nbsp; <b>What shal I seye of Nicerates wyf,</b><BR>
+1438 &nbsp; &nbsp; &nbsp; &nbsp; <b>That for swich cas birafte hirself hir lyf?</b><BR>
+1439 &nbsp; &nbsp; &nbsp; &nbsp; <b>How trewe eek was to Alcebiades</b><BR>
+1440 &nbsp; &nbsp; &nbsp; &nbsp; <b>His love, that rather for to dyen chees</b><BR>
+1441 &nbsp; &nbsp; &nbsp; &nbsp; <b>Than for to suffre his body unburyed be.</b><BR>
+1442 &nbsp; &nbsp; &nbsp; &nbsp; <b>Lo, which a wyf was Alceste," quod she.</b><BR>
+1443 &nbsp; &nbsp; &nbsp; &nbsp; <b>"What seith Omer of goode Penalopee?</b><BR>
+1444 &nbsp; &nbsp; &nbsp; &nbsp; <b>Al Grece knoweth of hire chastitee.</b><BR>
+1445 &nbsp; &nbsp; &nbsp; &nbsp; <b>Pardee, of Laodomya is writen thus,</b><BR>
+1446 &nbsp; &nbsp; &nbsp; &nbsp; <b>That whan at Troie was slayn Protheselaus,</b><BR>
+1447 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ne lenger wolde she lyve after his day.</b><BR>
+1448 &nbsp; &nbsp; &nbsp; &nbsp; <b>The same of noble Porcia telle I may;</b><BR>
+1449 &nbsp; &nbsp; &nbsp; &nbsp; <b>Withoute Brutus koude she nat lyve,</b><BR>
+1450 &nbsp; &nbsp; &nbsp; &nbsp; <b>To whom she hadde al hool hir herte yive.</b><BR>
+1451 &nbsp; &nbsp; &nbsp; &nbsp; <b>The parfit wyfhod of Arthemesie</b><BR>
+1452 &nbsp; &nbsp; &nbsp; &nbsp; <b>Honured is thurgh al the Barbarie.</b><BR>
+1453 &nbsp; &nbsp; &nbsp; &nbsp; <b>O Teuta, queene, thy wyfly chastitee</b><BR>
+1454 &nbsp; &nbsp; &nbsp; &nbsp; <b>To alle wyves may a mirour bee.</b><BR>
+1455 &nbsp; &nbsp; &nbsp; &nbsp; <b>The same thyng I seye of Bilyea,</b><BR>
+1456 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of Rodogone, and eek Valeria."</b><BR>
+1457 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thus pleyned Dorigen a day or tweye,</b><BR>
+1458 &nbsp; &nbsp; &nbsp; &nbsp; <b>Purposynge evere that she wolde deye.</b><BR>
+1459 &nbsp; &nbsp; &nbsp; &nbsp; <b>But nathelees, upon the thridde nyght,</b><BR>
+1460 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hoom cam Arveragus, this worthy knyght,</b><BR>
+1461 &nbsp; &nbsp; &nbsp; &nbsp; <b>And asked hire why that she weep so soore;</b><BR>
+1462 &nbsp; &nbsp; &nbsp; &nbsp; <b>And she gan wepen ever lenger the moore.</b><BR>
+1463 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Allas," quod she, "that evere was I born!</b><BR>
+1464 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thus have I seyd," quod she, "thus have I sworn" --</b><BR>
+1465 &nbsp; &nbsp; &nbsp; &nbsp; <b>And toold hym al as ye han herd bifore;</b><BR>
+1466 &nbsp; &nbsp; &nbsp; &nbsp; <b>It nedeth nat reherce it yow namoore.</b><BR>
+1467 &nbsp; &nbsp; &nbsp; &nbsp; <b>This housbonde, with glad chiere, in freendly wyse</b><BR>
+1468 &nbsp; &nbsp; &nbsp; &nbsp; <b>Answerde and seyde as I shal yow devyse:</b><BR>
+1469 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Is ther oght elles, Dorigen, but this?"</b><BR>
+1470 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Nay, nay," quod she, "God helpe me so as wys!</b><BR>
+1471 &nbsp; &nbsp; &nbsp; &nbsp; <b>This is to muche, and it were Goddes wille."</b><BR>
+1472 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Ye, wyf," quod he, "lat slepen that is stille.</b><BR>
+1473 &nbsp; &nbsp; &nbsp; &nbsp; <b>It may be wel, paraventure, yet to day.</b><BR>
+1474 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ye shul youre trouthe holden, by my fay!</b><BR>
+1475 &nbsp; &nbsp; &nbsp; &nbsp; <b>For God so wisly have mercy upon me,</b><BR>
+1476 &nbsp; &nbsp; &nbsp; &nbsp; <b>I hadde wel levere ystiked for to be</b><BR>
+1477 &nbsp; &nbsp; &nbsp; &nbsp; <b>For verray love which that I to yow have,</b><BR>
+1478 &nbsp; &nbsp; &nbsp; &nbsp; <b>But if ye sholde youre trouthe kepe and save.</b><BR>
+1479 &nbsp; &nbsp; &nbsp; &nbsp; <b>Trouthe is the hyeste thyng that man may kepe" --</b><BR>
+1480 &nbsp; &nbsp; &nbsp; &nbsp; <b>But with that word he brast anon to wepe,</b><BR>
+1481 &nbsp; &nbsp; &nbsp; &nbsp; <b>And seyde, "I yow forbede, up peyne of deeth,</b><BR>
+1482 &nbsp; &nbsp; &nbsp; &nbsp; <b>That nevere, whil thee lasteth lyf ne breeth,</b><BR>
+1483 &nbsp; &nbsp; &nbsp; &nbsp; <b>To no wight telle thou of this aventure --</b><BR>
+1484 &nbsp; &nbsp; &nbsp; &nbsp; <b>As I may best, I wol my wo endure --</b><BR>
+1485 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ne make no contenance of hevynesse,</b><BR>
+1486 &nbsp; &nbsp; &nbsp; &nbsp; <b>That folk of yow may demen harm or gesse."</b><BR>
+1487 &nbsp; &nbsp; &nbsp; &nbsp; <b>And forth he cleped a squier and a mayde:</b><BR>
+1488 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Gooth forth anon with Dorigen," he sayde,</b><BR>
+1489 &nbsp; &nbsp; &nbsp; &nbsp; <b>"And bryngeth hire to swich a place anon."</b><BR>
+1490 &nbsp; &nbsp; &nbsp; &nbsp; <b>They take hir leve, and on hir wey they gon,</b><BR>
+1491 &nbsp; &nbsp; &nbsp; &nbsp; <b>But they ne wiste why she thider wente.</b><BR>
+1492 &nbsp; &nbsp; &nbsp; &nbsp; <b>He nolde no wight tellen his entente.</b><BR>
+1493 &nbsp; &nbsp; &nbsp; &nbsp; <b>Paraventure an heep of yow, ywis,</b><BR>
+1494 &nbsp; &nbsp; &nbsp; &nbsp; <b>Wol holden hym a lewed man in this</b><BR>
+1495 &nbsp; &nbsp; &nbsp; &nbsp; <b>That he wol putte his wyf in jupartie.</b><BR>
+1496 &nbsp; &nbsp; &nbsp; &nbsp; <b>Herkneth the tale er ye upon hire crie.</b><BR>
+1497 &nbsp; &nbsp; &nbsp; &nbsp; <b>She may have bettre fortune than yow semeth;</b><BR>
+1498 &nbsp; &nbsp; &nbsp; &nbsp; <b>And whan that ye han herd the tale, demeth.</b><BR>
+1499 &nbsp; &nbsp; &nbsp; &nbsp; <b>This squier, which that highte Aurelius,</b><BR>
+1500 &nbsp; &nbsp; &nbsp; &nbsp; <b>On Dorigen that was so amorus,</b><BR>
+1501 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of aventure happed hire to meete</b><BR>
+1502 &nbsp; &nbsp; &nbsp; &nbsp; <b>Amydde the toun, right in the quykkest strete,</b><BR>
+1503 &nbsp; &nbsp; &nbsp; &nbsp; <b>As she was bown to goon the wey forth right</b><BR>
+1504 &nbsp; &nbsp; &nbsp; &nbsp; <b>Toward the gardyn ther as she had hight.</b><BR>
+1505 &nbsp; &nbsp; &nbsp; &nbsp; <b>And he was to the gardyn-ward also;</b><BR>
+1506 &nbsp; &nbsp; &nbsp; &nbsp; <b>For wel he spyed whan she wolde go</b><BR>
+1507 &nbsp; &nbsp; &nbsp; &nbsp; <b>Out of hir hous to any maner place.</b><BR>
+1508 &nbsp; &nbsp; &nbsp; &nbsp; <b>But thus they mette, of aventure or grace,</b><BR>
+1509 &nbsp; &nbsp; &nbsp; &nbsp; <b>And he saleweth hire with glad entente,</b><BR>
+1510 &nbsp; &nbsp; &nbsp; &nbsp; <b>And asked of hire whiderward she wente;</b><BR>
+1511 &nbsp; &nbsp; &nbsp; &nbsp; <b>And she answerde, half as she were mad,</b><BR>
+1512 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Unto the gardyn, as myn housbonde bad,</b><BR>
+1513 &nbsp; &nbsp; &nbsp; &nbsp; <b>My trouthe for to holde -- allas, allas!"</b><BR>
+1514 &nbsp; &nbsp; &nbsp; &nbsp; <b>Aurelius gan wondren on this cas,</b><BR>
+1515 &nbsp; &nbsp; &nbsp; &nbsp; <b>And in his herte hadde greet compassioun</b><BR>
+1516 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of hire and of hire lamentacioun,</b><BR>
+1517 &nbsp; &nbsp; &nbsp; &nbsp; <b>And of Arveragus, the worthy knyght,</b><BR>
+1518 &nbsp; &nbsp; &nbsp; &nbsp; <b>That bad hire holden al that she had hight,</b><BR>
+1519 &nbsp; &nbsp; &nbsp; &nbsp; <b>So looth hym was his wyf sholde breke hir trouthe;</b><BR>
+1520 &nbsp; &nbsp; &nbsp; &nbsp; <b>And in his herte he caughte of this greet routhe,</b><BR>
+1521 &nbsp; &nbsp; &nbsp; &nbsp; <b>Considerynge the beste on every syde,</b><BR>
+1522 &nbsp; &nbsp; &nbsp; &nbsp; <b>That fro his lust yet were hym levere abyde</b><BR>
+1523 &nbsp; &nbsp; &nbsp; &nbsp; <b>Than doon so heigh a cherlyssh wrecchednesse</b><BR>
+1524 &nbsp; &nbsp; &nbsp; &nbsp; <b>Agayns franchise and alle gentillesse;</b><BR>
+1525 &nbsp; &nbsp; &nbsp; &nbsp; <b>For which in fewe wordes seyde he thus:</b><BR>
+1526 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Madame, seyth to youre lord Arveragus</b><BR>
+1527 &nbsp; &nbsp; &nbsp; &nbsp; <b>That sith I se his grete gentillesse</b><BR>
+1528 &nbsp; &nbsp; &nbsp; &nbsp; <b>To yow, and eek I se wel youre distresse,</b><BR>
+1529 &nbsp; &nbsp; &nbsp; &nbsp; <b>That him were levere han shame (and that were routhe)</b><BR>
+1530 &nbsp; &nbsp; &nbsp; &nbsp; <b>Than ye to me sholde breke thus youre trouthe,</b><BR>
+1531 &nbsp; &nbsp; &nbsp; &nbsp; <b>I have wel levere evere to suffre wo</b><BR>
+1532 &nbsp; &nbsp; &nbsp; &nbsp; <b>Than I departe the love bitwix yow two.</b><BR>
+1533 &nbsp; &nbsp; &nbsp; &nbsp; <b>I yow relesse, madame, into youre hond</b><BR>
+1534 &nbsp; &nbsp; &nbsp; &nbsp; <b>Quyt every serement and every bond</b><BR>
+1535 &nbsp; &nbsp; &nbsp; &nbsp; <b>That ye han maad to me as heerbiforn,</b><BR>
+1536 &nbsp; &nbsp; &nbsp; &nbsp; <b>Sith thilke tyme which that ye were born.</b><BR>
+1537 &nbsp; &nbsp; &nbsp; &nbsp; <b>My trouthe I plighte, I shal yow never repreve</b><BR>
+1538 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of no biheste, and heere I take my leve,</b><BR>
+1539 &nbsp; &nbsp; &nbsp; &nbsp; <b>As of the treweste and the beste wyf</b><BR>
+1540 &nbsp; &nbsp; &nbsp; &nbsp; <b>That evere yet I knew in al my lyf.</b><BR>
+1541 &nbsp; &nbsp; &nbsp; &nbsp; <b>But every wyf be war of hire biheeste!</b><BR>
+1542 &nbsp; &nbsp; &nbsp; &nbsp; <b>On Dorigen remembreth, atte leeste.</b><BR>
+1543 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thus kan a squier doon a gentil dede</b><BR>
+1544 &nbsp; &nbsp; &nbsp; &nbsp; <b>As wel as kan a knyght, withouten drede."</b><BR>
+1545 &nbsp; &nbsp; &nbsp; &nbsp; <b>She thonketh hym upon hir knees al bare,</b><BR>
+1546 &nbsp; &nbsp; &nbsp; &nbsp; <b>And hoom unto hir housbonde is she fare,</b><BR>
+1547 &nbsp; &nbsp; &nbsp; &nbsp; <b>And tolde hym al, as ye han herd me sayd;</b><BR>
+1548 &nbsp; &nbsp; &nbsp; &nbsp; <b>And be ye siker, he was so weel apayd</b><BR>
+1549 &nbsp; &nbsp; &nbsp; &nbsp; <b>That it were impossible me to wryte.</b><BR>
+1550 &nbsp; &nbsp; &nbsp; &nbsp; <b>What sholde I lenger of this cas endyte?</b><BR>
+1551 &nbsp; &nbsp; &nbsp; &nbsp; <b>Arveragus and Dorigen his wyf</b><BR>
+1552 &nbsp; &nbsp; &nbsp; &nbsp; <b>In sovereyn blisse leden forth hir lyf.</b><BR>
+1553 &nbsp; &nbsp; &nbsp; &nbsp; <b>Nevere eft ne was ther angre hem bitwene.</b><BR>
+1554 &nbsp; &nbsp; &nbsp; &nbsp; <b>He cherisseth hire as though she were a queene,</b><BR>
+1555 &nbsp; &nbsp; &nbsp; &nbsp; <b>And she was to hym trewe for everemoore.</b><BR>
+1556 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of thise two folk ye gete of me namoore.</b><BR>
+1557 &nbsp; &nbsp; &nbsp; &nbsp; <b>Aurelius, that his cost hath al forlorn,</b><BR>
+1558 &nbsp; &nbsp; &nbsp; &nbsp; <b>Curseth the tyme that evere he was born:</b><BR>
+1559 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Allas!" quod he. "Allas, that I bihighte</b><BR>
+1560 &nbsp; &nbsp; &nbsp; &nbsp; <b>Of pured gold a thousand pound of wighte</b><BR>
+1561 &nbsp; &nbsp; &nbsp; &nbsp; <b>Unto this philosophre! How shal I do?</b><BR>
+1562 &nbsp; &nbsp; &nbsp; &nbsp; <b>I se namoore but that I am fordo.</b><BR>
+1563 &nbsp; &nbsp; &nbsp; &nbsp; <b>Myn heritage moot I nedes selle,</b><BR>
+1564 &nbsp; &nbsp; &nbsp; &nbsp; <b>And been a beggere; heere may I nat dwelle</b><BR>
+1565 &nbsp; &nbsp; &nbsp; &nbsp; <b>And shamen al my kynrede in this place,</b><BR>
+1566 &nbsp; &nbsp; &nbsp; &nbsp; <b>But I of hym may gete bettre grace.</b><BR>
+1567 &nbsp; &nbsp; &nbsp; &nbsp; <b>But nathelees, I wole of hym assaye,</b><BR>
+1568 &nbsp; &nbsp; &nbsp; &nbsp; <b>At certeyn dayes, yeer by yeer, to paye,</b><BR>
+1569 &nbsp; &nbsp; &nbsp; &nbsp; <b>And thanke hym of his grete curteisye.</b><BR>
+1570 &nbsp; &nbsp; &nbsp; &nbsp; <b>My trouthe wol I kepe, I wol nat lye."</b><BR>
+1571 &nbsp; &nbsp; &nbsp; &nbsp; <b>With herte soor he gooth unto his cofre,</b><BR>
+1572 &nbsp; &nbsp; &nbsp; &nbsp; <b>And broghte gold unto this philosophre,</b><BR>
+1573 &nbsp; &nbsp; &nbsp; &nbsp; <b>The value of fyve hundred pound, I gesse,</b><BR>
+1574 &nbsp; &nbsp; &nbsp; &nbsp; <b>And hym bisecheth, of his gentillesse,</b><BR>
+1575 &nbsp; &nbsp; &nbsp; &nbsp; <b>To graunte hym dayes of the remenaunt;</b><BR>
+1576 &nbsp; &nbsp; &nbsp; &nbsp; <b>And seyde, "Maister, I dar wel make avaunt,</b><BR>
+1577 &nbsp; &nbsp; &nbsp; &nbsp; <b>I failled nevere of my trouthe as yit.</b><BR>
+1578 &nbsp; &nbsp; &nbsp; &nbsp; <b>For sikerly my dette shal be quyt</b><BR>
+1579 &nbsp; &nbsp; &nbsp; &nbsp; <b>Towardes yow, howevere that I fare</b><BR>
+1580 &nbsp; &nbsp; &nbsp; &nbsp; <b>To goon a-begged in my kirtle bare.</b><BR>
+1581 &nbsp; &nbsp; &nbsp; &nbsp; <b>But wolde ye vouche sauf, upon seuretee,</b><BR>
+1582 &nbsp; &nbsp; &nbsp; &nbsp; <b>Two yeer or thre for to respiten me,</b><BR>
+1583 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thanne were I wel; for elles moot I selle</b><BR>
+1584 &nbsp; &nbsp; &nbsp; &nbsp; <b>Myn heritage; ther is namoore to telle."</b><BR>
+1585 &nbsp; &nbsp; &nbsp; &nbsp; <b>This philosophre sobrely answerde,</b><BR>
+1586 &nbsp; &nbsp; &nbsp; &nbsp; <b>And seyde thus, whan he thise wordes herde:</b><BR>
+1587 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Have I nat holden covenant unto thee?"</b><BR>
+1588 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Yes, certes, wel and trewely," quod he.</b><BR>
+1589 &nbsp; &nbsp; &nbsp; &nbsp; <b>"Hastow nat had thy lady as thee liketh?"</b><BR>
+1590 &nbsp; &nbsp; &nbsp; &nbsp; <b>"No, no," quod he, and sorwefully he siketh.</b><BR>
+1591 &nbsp; &nbsp; &nbsp; &nbsp; <b>"What was the cause? Tel me if thou kan."</b><BR>
+1592 &nbsp; &nbsp; &nbsp; &nbsp; <b>Aurelius his tale anon bigan,</b><BR>
+1593 &nbsp; &nbsp; &nbsp; &nbsp; <b>And tolde hym al, as ye han herd bifoore;</b><BR>
+1594 &nbsp; &nbsp; &nbsp; &nbsp; <b>It nedeth nat to yow reherce it moore.</b><BR>
+1595 &nbsp; &nbsp; &nbsp; &nbsp; <b>He seide, "Arveragus, of gentillesse,</b><BR>
+1596 &nbsp; &nbsp; &nbsp; &nbsp; <b>Hadde levere dye in sorwe and in distresse</b><BR>
+1597 &nbsp; &nbsp; &nbsp; &nbsp; <b>Than that his wyf were of hir trouthe fals."</b><BR>
+1598 &nbsp; &nbsp; &nbsp; &nbsp; <b>The sorwe of Dorigen he tolde hym als;</b><BR>
+1599 &nbsp; &nbsp; &nbsp; &nbsp; <b>How looth hire was to been a wikked wyf,</b><BR>
+1600 &nbsp; &nbsp; &nbsp; &nbsp; <b>And that she levere had lost that day hir lyf,</b><BR>
+1601 &nbsp; &nbsp; &nbsp; &nbsp; <b>And that hir trouthe she swoor thurgh innocence,</b><BR>
+1602 &nbsp; &nbsp; &nbsp; &nbsp; <b>She nevere erst hadde herde speke of apparence.</b><BR>
+1603 &nbsp; &nbsp; &nbsp; &nbsp; <b>"That made me han of hire so greet pitee;</b><BR>
+1604 &nbsp; &nbsp; &nbsp; &nbsp; <b>And right as frely as he sente hire me,</b><BR>
+1605 &nbsp; &nbsp; &nbsp; &nbsp; <b>As frely sente I hire to hym ageyn.</b><BR>
+1606 &nbsp; &nbsp; &nbsp; &nbsp; <b>This al and som; ther is namoore to seyn."</b><BR>
+1607 &nbsp; &nbsp; &nbsp; &nbsp; <b>This philosophre answerde, "Leeve brother,</b><BR>
+1608 &nbsp; &nbsp; &nbsp; &nbsp; <b>Everich of yow dide gentilly til oother.</b><BR>
+1609 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thou art a squier, and he is a knyght;</b><BR>
+1610 &nbsp; &nbsp; &nbsp; &nbsp; <b>But God forbede, for his blisful myght,</b><BR>
+1611 &nbsp; &nbsp; &nbsp; &nbsp; <b>But if a clerk koude doon a gentil dede</b><BR>
+1612 &nbsp; &nbsp; &nbsp; &nbsp; <b>As wel as any of yow, it is no drede!</b><BR>
+1613 &nbsp; &nbsp; &nbsp; &nbsp; <b>Sire, I releesse thee thy thousand pound,</b><BR>
+1614 &nbsp; &nbsp; &nbsp; &nbsp; <b>As thou right now were cropen out of the ground,</b><BR>
+1615 &nbsp; &nbsp; &nbsp; &nbsp; <b>Ne nevere er now ne haddest knowen me.</b><BR>
+1616 &nbsp; &nbsp; &nbsp; &nbsp; <b>For, sire, I wol nat taken a peny of thee</b><BR>
+1617 &nbsp; &nbsp; &nbsp; &nbsp; <b>For al my craft, ne noght for my travaille.</b><BR>
+1618 &nbsp; &nbsp; &nbsp; &nbsp; <b>Thou hast ypayed wel for my vitaille.</b><BR>
+1619 &nbsp; &nbsp; &nbsp; &nbsp; <b>It is ynogh, and farewel, have good day!"</b><BR>
+1620 &nbsp; &nbsp; &nbsp; &nbsp; <b>And took his hors, and forth he goth his way.</b><BR>
+1621 &nbsp; &nbsp; &nbsp; &nbsp; <b>Lordynges, this question, thanne, wol I aske now,</b><BR>
+1622 &nbsp; &nbsp; &nbsp; &nbsp; <b>Which was the mooste fre, as thynketh yow?</b><BR>
+1623 &nbsp; &nbsp; &nbsp; &nbsp; <b>Now telleth me, er that ye ferther wende.</b><BR>
+1624 &nbsp; &nbsp; &nbsp; &nbsp; <b>I kan namoore; my tale is at an ende.</b><BR>
