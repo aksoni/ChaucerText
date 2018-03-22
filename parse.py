@@ -1,4 +1,5 @@
 import sys
+from bs4 import BeautifulSoup
 
 with open("tales/gp-par.htm") as file:
     i = 1
