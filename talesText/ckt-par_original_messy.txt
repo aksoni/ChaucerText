@@ -1,0 +1,98 @@
+4325	&nbsp; &nbsp; &nbsp; &nbsp;<B>The Cook of Londoun, whil the Reve spak,</B><BR>
+4326	&nbsp; &nbsp; &nbsp; &nbsp;<B>For joye him thoughte he clawed him on the bak.</B><BR>
+4327	&nbsp; &nbsp; &nbsp; &nbsp;<B>"Ha! ha!" quod he, "For Cristes passion,</B><BR>
+4328	&nbsp; &nbsp; &nbsp; &nbsp;<B>This millere hadde a sharp conclusion</B><BR>
+4329	&nbsp; &nbsp; &nbsp; &nbsp;<B>Upon his argument of herbergage!</B><BR>
+4330	&nbsp; &nbsp; &nbsp; &nbsp;<B>Wel seyde Salomon in his langage,</B><BR>
+4331	&nbsp; &nbsp; &nbsp; &nbsp;<B>`Ne bryng nat every man into thyn hous,'</B><BR>
+4332	&nbsp; &nbsp; &nbsp; &nbsp;<B>For herberwynge by nyghte is perilous.</B><BR>
+4333	&nbsp; &nbsp; &nbsp; &nbsp;<B>Wel oghte a man avysed for to be</B><BR>
+4334	&nbsp; &nbsp; &nbsp; &nbsp;<B>Whom that he broghte into his pryvetee.</B><BR>
+4335	&nbsp; &nbsp; &nbsp; &nbsp;<B>I pray to God, so yeve me sorwe and care</B><BR>
+4336	&nbsp; &nbsp; &nbsp; &nbsp;<B>If evere, sitthe I highte Hogge of Ware,</B><BR>
+4337	&nbsp; &nbsp; &nbsp; &nbsp;<B>Herde I a millere bettre yset a-werk.</B><BR>
+4338	&nbsp; &nbsp; &nbsp; &nbsp;<B>He hadde a jape of malice in the derk.</B><BR>
+4339	&nbsp; &nbsp; &nbsp; &nbsp;<B>But God forbede that we stynte heere;</B><BR>
+4340	&nbsp; &nbsp; &nbsp; &nbsp;<B>And therfore, if ye vouche-sauf to heere</B><BR>
+4341	&nbsp; &nbsp; &nbsp; &nbsp;<B>A tale of me, that am a povre man,</B><BR>
+4342	&nbsp; &nbsp; &nbsp; &nbsp;<B>I wol yow telle, as wel as evere I kan,</B><BR>
+4343	&nbsp; &nbsp; &nbsp; &nbsp;<B>A litel jape that fil in oure citee."</B><BR>
+4344	&nbsp; &nbsp; &nbsp; &nbsp;<B>Oure Hoost answerde and seide, "I graunte it thee.</B><BR>
+4345	&nbsp; &nbsp; &nbsp; &nbsp;<B>Now telle on, Roger; looke that it be good,</B><BR>
+4346	&nbsp; &nbsp; &nbsp; &nbsp;<B>For many a pastee hastow laten blood,</B><BR>
+4347	&nbsp; &nbsp; &nbsp; &nbsp;<B>And many a Jakke of Dovere hastow soold</B><BR>
+4348	&nbsp; &nbsp; &nbsp; &nbsp;<B>That hath been twies hoot and twies coold.</B><BR>
+4349	&nbsp; &nbsp; &nbsp; &nbsp;<B>Of many a pilgrym hastow Cristes curs,</B><BR>
+4350	&nbsp; &nbsp; &nbsp; &nbsp;<B>For of thy percely yet they fare the wors,</B><BR>
+4351	&nbsp; &nbsp; &nbsp; &nbsp;<B>That they han eten with thy stubbel goos,</B><BR>
+4352	&nbsp; &nbsp; &nbsp; &nbsp;<B>For in thy shoppe is many a flye loos.</B><BR>
+4353	&nbsp; &nbsp; &nbsp; &nbsp;<B>Now telle on, gentil Roger by thy name.</B><BR>
+4354	&nbsp; &nbsp; &nbsp; &nbsp;<B>But yet I pray thee, be nat wroth for game;</B><BR>
+4355	&nbsp; &nbsp; &nbsp; &nbsp;<B>A man may seye ful sooth in game and pley."</B><BR>
+4356	&nbsp; &nbsp; &nbsp; &nbsp;<B>"Thou seist ful sooth," quod Roger, "by my fey!</B><BR>
+4357	&nbsp; &nbsp; &nbsp; &nbsp;<B>But `sooth pley, quaad pley,' as the Flemyng seith.</B><BR>
+4358	&nbsp; &nbsp; &nbsp; &nbsp;<B>And therfore, Herry Bailly, by thy feith,</B><BR>
+4359	&nbsp; &nbsp; &nbsp; &nbsp;<B>Be thou nat wrooth, er we departen heer,</B><BR>
+4360	&nbsp; &nbsp; &nbsp; &nbsp;<B>Though that my tale be of an hostileer.</B><BR>
+4361	&nbsp; &nbsp; &nbsp; &nbsp;<B>But nathelees I wol nat telle it yit;</B><BR>
+4362	&nbsp; &nbsp; &nbsp; &nbsp;<B>But er we parte, ywis, thou shalt be quit."</B><BR>
+4363	&nbsp; &nbsp; &nbsp; &nbsp;<B>And therwithal he lough and made cheere,</B><BR>
+4364	&nbsp; &nbsp; &nbsp; &nbsp;<B>And seyde his tale, as ye shul after heere.</B><BR>
+4365	&nbsp; &nbsp; &nbsp; &nbsp;<B>A prentys whilom dwelled in oure citee,</B><BR>
+4366	&nbsp; &nbsp; &nbsp; &nbsp;<B>And of a craft of vitailliers was hee.</B><BR>
+4367	&nbsp; &nbsp; &nbsp; &nbsp;<B>Gaillard he was as goldfynch in the shawe,</B><BR>
+4368	&nbsp; &nbsp; &nbsp; &nbsp;<B>Broun as a berye, a propre short felawe,</B><BR>
+4369	&nbsp; &nbsp; &nbsp; &nbsp;<B>With lokkes blake, ykembd ful fetisly.</B><BR>
+4370	&nbsp; &nbsp; &nbsp; &nbsp;<B>Dauncen he koude so wel and jolily</B><BR>
+4371	&nbsp; &nbsp; &nbsp; &nbsp;<B>That he was cleped Perkyn Revelour.</B><BR>
+4372	&nbsp; &nbsp; &nbsp; &nbsp;<B>He was as ful of love and paramour</B><BR>
+4373	&nbsp; &nbsp; &nbsp; &nbsp;<B>As is the hyve ful of hony sweete;</B><BR>
+4374	&nbsp; &nbsp; &nbsp; &nbsp;<B>Wel was the wenche with hym myghte meete.</B><BR>
+4375	&nbsp; &nbsp; &nbsp; &nbsp;<B>At every bridale wolde he synge and hoppe;</B><BR>
+4376	&nbsp; &nbsp; &nbsp; &nbsp;<B>He loved bet the taverne than the shoppe.</B><BR>
+4377	&nbsp; &nbsp; &nbsp; &nbsp;<B>For whan ther any ridyng was in Chepe,</B><BR>
+4378	&nbsp; &nbsp; &nbsp; &nbsp;<B>Out of the shoppe thider wolde he lepe --</B><BR>
+4379	&nbsp; &nbsp; &nbsp; &nbsp;<B>Til that he hadde al the sighte yseyn,</B><BR>
+4380	&nbsp; &nbsp; &nbsp; &nbsp;<B>And daunced wel, he wolde nat come ayeyn --</B><BR>
+4381	&nbsp; &nbsp; &nbsp; &nbsp;<B>And gadered hym a meynee of his sort</B><BR>
+4382	&nbsp; &nbsp; &nbsp; &nbsp;<B>To hoppe and synge and maken swich disport;</B><BR>
+4383	&nbsp; &nbsp; &nbsp; &nbsp;<B>And ther they setten stevene for to meete,</B><BR>
+4384	&nbsp; &nbsp; &nbsp; &nbsp;<B>To pleyen at the dys in swich a streete.</B><BR>
+4385	&nbsp; &nbsp; &nbsp; &nbsp;<B>For in the toune nas ther no prentys</B><BR>
+4386	&nbsp; &nbsp; &nbsp; &nbsp;<B>That fairer koude caste a paire of dys</B><BR>
+4387	&nbsp; &nbsp; &nbsp; &nbsp;<B>Than Perkyn koude, and therto he was free</B><BR>
+4388	&nbsp; &nbsp; &nbsp; &nbsp;<B>Of his dispense, in place of pryvetee.</B><BR>
+4389	&nbsp; &nbsp; &nbsp; &nbsp;<B>That fond his maister wel in his chaffare,</B><BR>
+4390	&nbsp; &nbsp; &nbsp; &nbsp;<B>For often tyme he foond his box ful bare.</B><BR>
+4391	&nbsp; &nbsp; &nbsp; &nbsp;<B>For sikerly a prentys revelour</B><BR>
+4392	&nbsp; &nbsp; &nbsp; &nbsp;<B>That haunteth dys, riot, or paramour,</B><BR>
+4393	&nbsp; &nbsp; &nbsp; &nbsp;<B>His maister shal it in his shoppe abye,</B><BR>
+4394	&nbsp; &nbsp; &nbsp; &nbsp;<B>Al have he no part of the mynstralcye.</B><BR>
+4395	&nbsp; &nbsp; &nbsp; &nbsp;<B>For thefte and riot, they been convertible,</B><BR>
+4396	&nbsp; &nbsp; &nbsp; &nbsp;<B>Al konne he pleye on gyterne or ribible.</B><BR>
+4397	&nbsp; &nbsp; &nbsp; &nbsp;<B>Revel and trouthe, as in a lowe degree,</B><BR>
+4398	&nbsp; &nbsp; &nbsp; &nbsp;<B>They been ful wrothe al day, as men may see.</B><BR>
+4399	&nbsp; &nbsp; &nbsp; &nbsp;<B>This joly prentys with his maister bood,</B><BR>
+4400	&nbsp; &nbsp; &nbsp; &nbsp;<B>Til he were ny out of his prentishood,</B><BR>
+4401	&nbsp; &nbsp; &nbsp; &nbsp;<B>Al were he snybbed bothe erly and late,</B><BR>
+4402	&nbsp; &nbsp; &nbsp; &nbsp;<B>And somtyme lad with revel to Newegate.</B><BR>
+4403	&nbsp; &nbsp; &nbsp; &nbsp;<B>But atte laste his maister hym bithoghte,</B><BR>
+4404	&nbsp; &nbsp; &nbsp; &nbsp;<B>Upon a day, whan he his papir soghte,</B><BR>
+4405	&nbsp; &nbsp; &nbsp; &nbsp;<B>Of a proverbe that seith this same word:</B><BR>
+4406	&nbsp; &nbsp; &nbsp; &nbsp;<B>"Wel bet is roten appul out of hoord</B><BR>
+4407	&nbsp; &nbsp; &nbsp; &nbsp;<B>Than that it rotie al the remenaunt."</B><BR>
+4408	&nbsp; &nbsp; &nbsp; &nbsp;<B>So fareth it by a riotous servaunt;</B><BR>
+4409	&nbsp; &nbsp; &nbsp; &nbsp;<B>It is ful lasse harm to lete hym pace,</B><BR>
+4410	&nbsp; &nbsp; &nbsp; &nbsp;<B>Than he shende alle the servantz in the place.</B><BR>
+4411	&nbsp; &nbsp; &nbsp; &nbsp;<B>Therfore his maister yaf hym acquitance,</B><BR>
+4412	&nbsp; &nbsp; &nbsp; &nbsp;<B>And bad hym go, with sorwe and with meschance!</B><BR>
+4413	&nbsp; &nbsp; &nbsp; &nbsp;<B>And thus this joly prentys hadde his leve.</B><BR>
+4414	&nbsp; &nbsp; &nbsp; &nbsp;<B>Now lat hym riote al the nyght or leve.</B><BR>
+4415	&nbsp; &nbsp; &nbsp; &nbsp;<B>And for ther is no theef withoute a lowke,</B><BR>
+4416	&nbsp; &nbsp; &nbsp; &nbsp;<B>That helpeth hym to wasten and to sowke</B><BR>
+4417	&nbsp; &nbsp; &nbsp; &nbsp;<B>Of that he brybe kan or borwe may,</B><BR>
+4418	&nbsp; &nbsp; &nbsp; &nbsp;<B>Anon he sente his bed and his array</B><BR>
+4419	&nbsp; &nbsp; &nbsp; &nbsp;<B>Unto a compeer of his owene sort,</B><BR>
+4420	&nbsp; &nbsp; &nbsp; &nbsp;<B>That lovede dys, and revel, and disport,</B><BR>
+4421	&nbsp; &nbsp; &nbsp; &nbsp;<B>And hadde a wyf that heeld for contenance</B><BR>
+4422	&nbsp; &nbsp; &nbsp; &nbsp;<B>A shoppe, and swyved for hir sustenance.</B><BR>

@@ -40,7 +40,7 @@ for htmlFile in filesList:
             
             if readingText == True and line[0].isdigit():
                 fOut.write(line)
-                fOut3.write(line)
+            #fOut3.write(line)
                 #print("first line")
                 #print(line)
             # i += 1
@@ -55,5 +55,5 @@ for htmlFile in filesList:
         fOut.close()
         fOut2.close()
 
-fOut3.close()
+#fOut3.close()
 fOut4.close()

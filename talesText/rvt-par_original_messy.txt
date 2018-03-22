@@ -1,0 +1,470 @@
+3855	<B>&nbsp; &nbsp; &nbsp; &nbsp; Whan folk hadde laughen at this nyce cas</B><BR>
+3856	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of Absolon and hende Nicholas,</B><BR>
+3857	<B>&nbsp; &nbsp; &nbsp; &nbsp; Diverse folk diversely they seyde,</B><BR>
+3858	<B>&nbsp; &nbsp; &nbsp; &nbsp; But for the moore part they loughe and pleyde.</B><BR>
+3859	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ne at this tale I saugh no man hym greve,</B><BR>
+3860	<B>&nbsp; &nbsp; &nbsp; &nbsp; But it were oonly Osewold the Reve.</B><BR>
+3861	<B>&nbsp; &nbsp; &nbsp; &nbsp; By cause he was of carpenteris craft,</B><BR>
+3862	<B>&nbsp; &nbsp; &nbsp; &nbsp; A litel ire is in his herte ylaft;</B><BR>
+3863	<B>&nbsp; &nbsp; &nbsp; &nbsp; He gan to grucche, and blamed it a lite.</B><BR>
+3864	<B>&nbsp; &nbsp; &nbsp; &nbsp; "So theek," quod he, "ful wel koude I thee quite</B><BR>
+3865	<B>&nbsp; &nbsp; &nbsp; &nbsp; With bleryng of a proud milleres ye,</B><BR>
+3866	<B>&nbsp; &nbsp; &nbsp; &nbsp; If that me liste speke of ribaudye.</B><BR>
+3867	<B>&nbsp; &nbsp; &nbsp; &nbsp; But ik am oold; me list not pley for age;</B><BR>
+3868	<B>&nbsp; &nbsp; &nbsp; &nbsp; Gras tyme is doon; my fodder is now forage;</B><BR>
+3869	<B>&nbsp; &nbsp; &nbsp; &nbsp; This white top writeth myne olde yeris;</B><BR>
+3870	<B>&nbsp; &nbsp; &nbsp; &nbsp; Myn herte is also mowled as myne heris,</B><BR>
+3871	<B>&nbsp; &nbsp; &nbsp; &nbsp; But if I fare as dooth an open-ers --</B><BR>
+3872	<B>&nbsp; &nbsp; &nbsp; &nbsp; That ilke fruyt is ever lenger the wers,</B><BR>
+3873	<B>&nbsp; &nbsp; &nbsp; &nbsp; Til it be roten in mullok or in stree.</B><BR>
+3874	<B>&nbsp; &nbsp; &nbsp; &nbsp; We olde men, I drede, so fare we:</B><BR>
+3875	<B>&nbsp; &nbsp; &nbsp; &nbsp; Til we be roten, kan we nat be rype;</B><BR>
+3876	<B>&nbsp; &nbsp; &nbsp; &nbsp; We hoppen alwey whil that the world wol pype.</B><BR>
+3877	<B>&nbsp; &nbsp; &nbsp; &nbsp; For in oure wyl ther stiketh evere a nayl,</B><BR>
+3878	<B>&nbsp; &nbsp; &nbsp; &nbsp; To have an hoor heed and a grene tayl,</B><BR>
+3879	<B>&nbsp; &nbsp; &nbsp; &nbsp; As hath a leek; for thogh oure myght be goon,</B><BR>
+3880	<B>&nbsp; &nbsp; &nbsp; &nbsp; Oure wyl desireth folie evere in oon.</B><BR>
+3881	<B>&nbsp; &nbsp; &nbsp; &nbsp; For whan we may nat doon, than wol we speke;</B><BR>
+3882	<B>&nbsp; &nbsp; &nbsp; &nbsp; Yet in oure asshen olde is fyr yreke.</B><BR>
+3883	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Foure gleedes han we, which I shal devyse --</B><BR>
+3884	<B>&nbsp; &nbsp; &nbsp; &nbsp; Avauntyng, liyng, anger, coveitise;</B><BR>
+3885	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thise foure sparkles longen unto eelde.</B><BR>
+3886	<B>&nbsp; &nbsp; &nbsp; &nbsp; Oure olde lemes mowe wel been unweelde,</B><BR>
+3887	<B>&nbsp; &nbsp; &nbsp; &nbsp; But wyl ne shal nat faillen, that is sooth.</B><BR>
+3888	<B>&nbsp; &nbsp; &nbsp; &nbsp; And yet ik have alwey a coltes tooth,</B><BR>
+3889	<B>&nbsp; &nbsp; &nbsp; &nbsp; As many a yeer as it is passed henne</B><BR>
+3890	<B>&nbsp; &nbsp; &nbsp; &nbsp; Syn that my tappe of lif bigan to renne.</B><BR>
+3891	<B>&nbsp; &nbsp; &nbsp; &nbsp; For sikerly, whan I was bore, anon</B><BR>
+3892	<B>&nbsp; &nbsp; &nbsp; &nbsp; Deeth drough the tappe of lyf and leet it gon,</B><BR>
+3893	<B>&nbsp; &nbsp; &nbsp; &nbsp; And ever sithe hath so the tappe yronne</B><BR>
+3894	<B>&nbsp; &nbsp; &nbsp; &nbsp; Til that almoost al empty is the tonne.</B><BR>
+3895	<B>&nbsp; &nbsp; &nbsp; &nbsp; The streem of lyf now droppeth on the chymbe.</B><BR>
+3896	<B>&nbsp; &nbsp; &nbsp; &nbsp; The sely tonge may wel rynge and chymbe</B><BR>
+3897	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of wrecchednesse that passed is ful yoore;</B><BR>
+3898	<B>&nbsp; &nbsp; &nbsp; &nbsp; With olde folk, save dotage, is namoore!"</B><BR>
+3899	<B>&nbsp; &nbsp; &nbsp; &nbsp; Whan that oure Hoost hadde herd this sermonyng,</B><BR>
+3900	<B>&nbsp; &nbsp; &nbsp; &nbsp; He gan to speke as lordly as a kyng.</B><BR>
+3901	<B>&nbsp; &nbsp; &nbsp; &nbsp; He seide, "What amounteth al this wit?</B><BR>
+3902	<B>&nbsp; &nbsp; &nbsp; &nbsp; What shul we speke alday of hooly writ?</B><BR>
+3903	<B>&nbsp; &nbsp; &nbsp; &nbsp; The devel made a reve for to preche,</B><BR>
+3904	<B>&nbsp; &nbsp; &nbsp; &nbsp; Or of a soutere a shipman or a leche.</B><BR>
+3905	<B>&nbsp; &nbsp; &nbsp; &nbsp; Sey forth thy tale, and tarie nat the tyme.</B><BR>
+3906	<B>&nbsp; &nbsp; &nbsp; &nbsp; Lo Depeford, and it is half-wey pryme!</B><BR>
+3907	<B>&nbsp; &nbsp; &nbsp; &nbsp; Lo Grenewych, ther many a shrewe is inne!</B><BR>
+3908	<B>&nbsp; &nbsp; &nbsp; &nbsp; It were al tyme thy tale to bigynne."</B><BR>
+3909	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Now, sires," quod this Osewold the Reve,</B><BR>
+3910	<B>&nbsp; &nbsp; &nbsp; &nbsp; "I pray yow alle that ye nat yow greve,</B><BR>
+3911	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thogh I answere, and somdeel sette his howve;</B><BR>
+3912	<B>&nbsp; &nbsp; &nbsp; &nbsp; For leveful is with force force of-showve.</B><BR>
+3913	<B>&nbsp; &nbsp; &nbsp; &nbsp; "This dronke Millere hath ytoold us heer</B><BR>
+3914	<B>&nbsp; &nbsp; &nbsp; &nbsp; How that bigyled was a carpenteer,</B><BR>
+3915	<B>&nbsp; &nbsp; &nbsp; &nbsp; Peraventure in scorn, for I am oon.</B><BR>
+3916	<B>&nbsp; &nbsp; &nbsp; &nbsp; And, by youre leve, I shal hym quite anoon;</B><BR>
+3917	<B>&nbsp; &nbsp; &nbsp; &nbsp; Right in his cherles termes wol I speke.</B><BR>
+3918	<B>&nbsp; &nbsp; &nbsp; &nbsp; I pray to God his nekke mote to-breke;</B><BR>
+3919	<B>&nbsp; &nbsp; &nbsp; &nbsp; He kan wel in myn eye seen a stalke,</B><BR>
+3920	<B>&nbsp; &nbsp; &nbsp; &nbsp; But in his owene he kan nat seen a balke."</B><BR>
+3921	<B>&nbsp; &nbsp; &nbsp; &nbsp; At Trumpyngtoun, nat fer fro Cantebrigge,</B><BR>
+3922	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ther gooth a brook, and over that a brigge,</B><BR>
+3923	<B>&nbsp; &nbsp; &nbsp; &nbsp; Upon the whiche brook ther stant a melle;</B><BR>
+3924	<B>&nbsp; &nbsp; &nbsp; &nbsp; And this is verray sooth that I yow telle:</B><BR>
+3925	<B>&nbsp; &nbsp; &nbsp; &nbsp; A millere was ther dwellynge many a day.</B><BR>
+3926	<B>&nbsp; &nbsp; &nbsp; &nbsp; As any pecok he was proud and gay.</B><BR>
+3927	<B>&nbsp; &nbsp; &nbsp; &nbsp; Pipen he koude and fisshe, and nettes beete,</B><BR>
+3928	<B>&nbsp; &nbsp; &nbsp; &nbsp; And turne coppes, and wel wrastle and sheete;</B><BR>
+3929	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ay by his belt he baar a long panade,</B><BR>
+3930	<B>&nbsp; &nbsp; &nbsp; &nbsp; And of a swerd ful trenchant was the blade.</B><BR>
+3931	<B>&nbsp; &nbsp; &nbsp; &nbsp; A joly poppere baar he in his pouche;</B><BR>
+3932	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ther was no man, for peril, dorste hym touche.</B><BR>
+3933	<B>&nbsp; &nbsp; &nbsp; &nbsp; A Sheffeld thwitel baar he in his hose.</B><BR>
+3934	<B>&nbsp; &nbsp; &nbsp; &nbsp; Round was his face, and camus was his nose;</B><BR>
+3935	<B>&nbsp; &nbsp; &nbsp; &nbsp; As piled as an ape was his skulle.</B><BR>
+3936	<B>&nbsp; &nbsp; &nbsp; &nbsp; He was a market-betere atte fulle.</B><BR>
+3937	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ther dorste no wight hand upon hym legge,</B><BR>
+3938	<B>&nbsp; &nbsp; &nbsp; &nbsp; That he ne swoor he sholde anon abegge.</B><BR>
+3939	<B>&nbsp; &nbsp; &nbsp; &nbsp; A theef he was for sothe of corn and mele,</B><BR>
+3940	<B>&nbsp; &nbsp; &nbsp; &nbsp; And that a sly, and usaunt for to stele.</B><BR>
+3941	<B>&nbsp; &nbsp; &nbsp; &nbsp; His name was hoote deynous Symkyn.</B><BR>
+3942	<B>&nbsp; &nbsp; &nbsp; &nbsp; A wyf he hadde, ycomen of noble kyn;</B><BR>
+3943	<B>&nbsp; &nbsp; &nbsp; &nbsp; The person of the toun hir fader was.</B><BR>
+3944	<B>&nbsp; &nbsp; &nbsp; &nbsp; With hire he yaf ful many a panne of bras,</B><BR>
+3945	<B>&nbsp; &nbsp; &nbsp; &nbsp; For that Symkyn sholde in his blood allye.</B><BR>
+3946	<B>&nbsp; &nbsp; &nbsp; &nbsp; She was yfostred in a nonnerye;</B><BR>
+3947	<B>&nbsp; &nbsp; &nbsp; &nbsp; For Symkyn wolde no wyf, as he sayde,</B><BR>
+3948	<B>&nbsp; &nbsp; &nbsp; &nbsp; But she were wel ynorissed and a mayde,</B><BR>
+3949	<B>&nbsp; &nbsp; &nbsp; &nbsp; To saven his estaat of yomanrye.</B><BR>
+3950	<B>&nbsp; &nbsp; &nbsp; &nbsp; And she was proud, and peert as is a pye.</B><BR>
+3951	<B>&nbsp; &nbsp; &nbsp; &nbsp; A ful fair sighte was it upon hem two;</B><BR>
+3952	<B>&nbsp; &nbsp; &nbsp; &nbsp; On halydayes biforn hire wolde he go</B><BR>
+3953	<B>&nbsp; &nbsp; &nbsp; &nbsp; With his typet wounde aboute his heed,</B><BR>
+3954	<B>&nbsp; &nbsp; &nbsp; &nbsp; And she cam after in a gyte of reed;</B><BR>
+3955	<B>&nbsp; &nbsp; &nbsp; &nbsp; And Symkyn hadde hosen of the same.</B><BR>
+3956	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ther dorste no wight clepen hire but "dame";</B><BR>
+3957	<B>&nbsp; &nbsp; &nbsp; &nbsp; Was noon so hardy that wente by the weye</B><BR>
+3958	<B>&nbsp; &nbsp; &nbsp; &nbsp; That with hire dorste rage or ones pleye,</B><BR>
+3959	<B>&nbsp; &nbsp; &nbsp; &nbsp; But if he wolde be slayn of Symkyn</B><BR>
+3960	<B>&nbsp; &nbsp; &nbsp; &nbsp; With panade, or with knyf, or boidekyn.</B><BR>
+3961	<B>&nbsp; &nbsp; &nbsp; &nbsp; For jalous folk ben perilous everemo --</B><BR>
+3962	<B>&nbsp; &nbsp; &nbsp; &nbsp; Algate they wolde hire wyves wenden so.</B><BR>
+3963	<B>&nbsp; &nbsp; &nbsp; &nbsp; And eek, for she was somdel smoterlich,</B><BR>
+3964	<B>&nbsp; &nbsp; &nbsp; &nbsp; She was as digne as water in a dich,</B><BR>
+3965	<B>&nbsp; &nbsp; &nbsp; &nbsp; And ful of hoker and of bisemare.</B><BR>
+3966	<B>&nbsp; &nbsp; &nbsp; &nbsp; Hir thoughte that a lady sholde hire spare,</B><BR>
+3967	<B>&nbsp; &nbsp; &nbsp; &nbsp; What for hire kynrede and hir nortelrie</B><BR>
+3968	<B>&nbsp; &nbsp; &nbsp; &nbsp; That she hadde lerned in the nonnerie.</B><BR>
+3969	<B>&nbsp; &nbsp; &nbsp; &nbsp; A doghter hadde they bitwixe hem two</B><BR>
+3970	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of twenty yeer, withouten any mo,</B><BR>
+3971	<B>&nbsp; &nbsp; &nbsp; &nbsp; Savynge a child that was of half yeer age;</B><BR>
+3972	<B>&nbsp; &nbsp; &nbsp; &nbsp; In cradel it lay and was a propre page.</B><BR>
+3973	<B>&nbsp; &nbsp; &nbsp; &nbsp; This wenche thikke and wel ygrowen was,</B><BR>
+3974	<B>&nbsp; &nbsp; &nbsp; &nbsp; With kamus nose and eyen greye as glas,</B><BR>
+3975	<B>&nbsp; &nbsp; &nbsp; &nbsp; With buttokes brode and brestes rounde and hye.</B><BR>
+3976	<B>&nbsp; &nbsp; &nbsp; &nbsp; But right fair was hire heer; I wol nat lye.</B><BR>
+3977	<B>&nbsp; &nbsp; &nbsp; &nbsp; This person of the toun, for she was feir,</B><BR>
+3978	<B>&nbsp; &nbsp; &nbsp; &nbsp; In purpos was to maken hire his heir,</B><BR>
+3979	<B>&nbsp; &nbsp; &nbsp; &nbsp; Bothe of his catel and his mesuage,</B><BR>
+3980	<B>&nbsp; &nbsp; &nbsp; &nbsp; And straunge he made it of hir mariage.</B><BR>
+3981	<B>&nbsp; &nbsp; &nbsp; &nbsp; His purpos was for to bistowe hire hye</B><BR>
+3982	<B>&nbsp; &nbsp; &nbsp; &nbsp; Into som worthy blood of auncetrye;</B><BR>
+3983	<B>&nbsp; &nbsp; &nbsp; &nbsp; For hooly chirches good moot been despended</B><BR>
+3984	<B>&nbsp; &nbsp; &nbsp; &nbsp; On hooly chirches blood, that is descended.</B><BR>
+3985	<B>&nbsp; &nbsp; &nbsp; &nbsp; Therfore he wolde his hooly blood honoure,</B><BR>
+3986	<B>&nbsp; &nbsp; &nbsp; &nbsp; Though that he hooly chirche sholde devoure.</B><BR>
+3987	<B>&nbsp; &nbsp; &nbsp; &nbsp; Greet sokene hath this millere, out of doute,</B><BR>
+3988	<B>&nbsp; &nbsp; &nbsp; &nbsp; With whete and malt of al the land aboute;</B><BR>
+3989	<B>&nbsp; &nbsp; &nbsp; &nbsp; And nameliche ther was a greet collegge</B><BR>
+3990	<B>&nbsp; &nbsp; &nbsp; &nbsp; Men clepen the Soler Halle at Cantebregge;</B><BR>
+3991	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ther was hir whete and eek hir malt ygrounde.</B><BR>
+3992	<B>&nbsp; &nbsp; &nbsp; &nbsp; And on a day it happed, in a stounde,</B><BR>
+3993	<B>&nbsp; &nbsp; &nbsp; &nbsp; Sik lay the maunciple on a maladye;</B><BR>
+3994	<B>&nbsp; &nbsp; &nbsp; &nbsp; Men wenden wisly that he sholde dye.</B><BR>
+3995	<B>&nbsp; &nbsp; &nbsp; &nbsp; For which this millere stal bothe mele and corn</B><BR>
+3996	<B>&nbsp; &nbsp; &nbsp; &nbsp; An hundred tyme moore than biforn;</B><BR>
+3997	<B>&nbsp; &nbsp; &nbsp; &nbsp; For therbiforn he stal but curteisly,</B><BR>
+3998	<B>&nbsp; &nbsp; &nbsp; &nbsp; But now he was a theef outrageously,</B><BR>
+3999	<B>&nbsp; &nbsp; &nbsp; &nbsp; For which the wardeyn chidde and made fare.</B><BR>
+4000	<B>&nbsp; &nbsp; &nbsp; &nbsp; But therof sette the millere nat a tare;</B><BR>
+4001	<B>&nbsp; &nbsp; &nbsp; &nbsp; He craketh boost, and swoor it was nat so.</B><BR>
+4002	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thanne were ther yonge povre scolers two,</B><BR>
+4003	<B>&nbsp; &nbsp; &nbsp; &nbsp; That dwelten in this halle, of which I seye.</B><BR>
+4004	<B>&nbsp; &nbsp; &nbsp; &nbsp; Testif they were, and lusty for to pleye,</B><BR>
+4005	<B>&nbsp; &nbsp; &nbsp; &nbsp; And, oonly for hire myrthe and revelrye,</B><BR>
+4006	<B>&nbsp; &nbsp; &nbsp; &nbsp; Upon the wardeyn bisily they crye</B><BR>
+4007	<B>&nbsp; &nbsp; &nbsp; &nbsp; To yeve hem leve, but a litel stounde,</B><BR>
+4008	<B>&nbsp; &nbsp; &nbsp; &nbsp; To goon to mille and seen hir corn ygrounde;</B><BR>
+4009	<B>&nbsp; &nbsp; &nbsp; &nbsp; And hardily they dorste leye hir nekke</B><BR>
+4010	<B>&nbsp; &nbsp; &nbsp; &nbsp; The millere sholde not stele hem half a pekke</B><BR>
+4011	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of corn by sleighte, ne by force hem reve;</B><BR>
+4012	<B>&nbsp; &nbsp; &nbsp; &nbsp; And at the laste the wardeyn yaf hem leve.</B><BR>
+4013	<B>&nbsp; &nbsp; &nbsp; &nbsp; John highte that oon, and Aleyn highte that oother;</B><BR>
+4014	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of o toun were they born, that highte Strother,</B><BR>
+4015	<B>&nbsp; &nbsp; &nbsp; &nbsp; Fer in the north; I kan nat telle where.</B><BR>
+4016	<B>&nbsp; &nbsp; &nbsp; &nbsp; This Aleyn maketh redy al his gere,</B><BR>
+4017	<B>&nbsp; &nbsp; &nbsp; &nbsp; And on an hors the sak he caste anon.</B><BR>
+4018	<B>&nbsp; &nbsp; &nbsp; &nbsp; Forth goth Aleyn the clerk, and also John,</B><BR>
+4019	<B>&nbsp; &nbsp; &nbsp; &nbsp; With good swerd and with bokeler by hir syde.</B><BR>
+4020	<B>&nbsp; &nbsp; &nbsp; &nbsp; John knew the wey -- hem nedede no gyde --</B><BR>
+4021	<B>&nbsp; &nbsp; &nbsp; &nbsp; And at the mille the sak adoun he layth.</B><BR>
+4022	<B>&nbsp; &nbsp; &nbsp; &nbsp; Aleyn spak first: "Al hayl, Symond, y-fayth!</B><BR>
+4023	<B>&nbsp; &nbsp; &nbsp; &nbsp; Hou fares thy faire doghter and thy wyf?"</B><BR>
+4024	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Aleyn, welcome," quod Symkyn, "by my lyf!</B><BR>
+4025	<B>&nbsp; &nbsp; &nbsp; &nbsp; And John also, how now, what do ye heer?"</B><BR>
+4026	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Symond," quod John, "by God, nede has na peer.</B><BR>
+4027	<B>&nbsp; &nbsp; &nbsp; &nbsp; Hym boes serve hymself that has na swayn,</B><BR>
+4028	<B>&nbsp; &nbsp; &nbsp; &nbsp; Or elles he is a fool, as clerkes sayn.</B><BR>
+4029	<B>&nbsp; &nbsp; &nbsp; &nbsp; Oure manciple, I hope he wil be deed,</B><BR>
+4030	<B>&nbsp; &nbsp; &nbsp; &nbsp; Swa werkes ay the wanges in his heed;</B><BR>
+4031	<B>&nbsp; &nbsp; &nbsp; &nbsp; And forthy is I come, and eek Alayn,</B><BR>
+4032	<B>&nbsp; &nbsp; &nbsp; &nbsp; To grynde oure corn and carie it ham agayn;</B><BR>
+4033	<B>&nbsp; &nbsp; &nbsp; &nbsp; I pray yow spede us heythen that ye may."</B><BR>
+4034	<B>&nbsp; &nbsp; &nbsp; &nbsp; "It shal be doon," quod Symkyn, "by my fay!</B><BR>
+4035	<B>&nbsp; &nbsp; &nbsp; &nbsp; What wol ye doon whil that it is in hande?"</B><BR>
+4036	<B>&nbsp; &nbsp; &nbsp; &nbsp; "By God, right by the hopur wil I stande,"</B><BR>
+4037	<B>&nbsp; &nbsp; &nbsp; &nbsp; Quod John, "and se howgates the corn gas in.</B><BR>
+4038	<B>&nbsp; &nbsp; &nbsp; &nbsp; Yet saugh I nevere, by my fader kyn,</B><BR>
+4039	<B>&nbsp; &nbsp; &nbsp; &nbsp; How that the hopur wagges til and fra."</B><BR>
+4040	<B>&nbsp; &nbsp; &nbsp; &nbsp; Aleyn answerde, "John, and wiltow swa?</B><BR>
+4041	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thanne wil I be bynethe, by my croun,</B><BR>
+4042	<B>&nbsp; &nbsp; &nbsp; &nbsp; And se how that the mele falles doun</B><BR>
+4043	<B>&nbsp; &nbsp; &nbsp; &nbsp; Into the trough; that sal be my disport.</B><BR>
+4044	<B>&nbsp; &nbsp; &nbsp; &nbsp; For John, y-faith, I may been of youre sort;</B><BR>
+4045	<B>&nbsp; &nbsp; &nbsp; &nbsp; I is as ille a millere as ar ye."</B><BR>
+4046	<B>&nbsp; &nbsp; &nbsp; &nbsp; This millere smyled of hir nycetee,</B><BR>
+4047	<B>&nbsp; &nbsp; &nbsp; &nbsp; And thoghte, "Al this nys doon but for a wyle.</B><BR>
+4048	<B>&nbsp; &nbsp; &nbsp; &nbsp; They wene that no man may hem bigyle,</B><BR>
+4049	<B>&nbsp; &nbsp; &nbsp; &nbsp; But by my thrift, yet shal I blere hir ye,</B><BR>
+4050	<B>&nbsp; &nbsp; &nbsp; &nbsp; For al the sleighte in hir philosophye.</B><BR>
+4051	<B>&nbsp; &nbsp; &nbsp; &nbsp; The moore queynte crekes that they make,</B><BR>
+4052	<B>&nbsp; &nbsp; &nbsp; &nbsp; The moore wol I stele whan I take.</B><BR>
+4053	<B>&nbsp; &nbsp; &nbsp; &nbsp; In stide of flour yet wol I yeve hem bren.</B><BR>
+4054	<B>&nbsp; &nbsp; &nbsp; &nbsp; `The gretteste clerkes been noght wisest men,'</B><BR>
+4055	<B>&nbsp; &nbsp; &nbsp; &nbsp; As whilom to the wolf thus spak the mare.</B><BR>
+4056	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of al hir art counte I noght a tare."</B><BR>
+4057	<B>&nbsp; &nbsp; &nbsp; &nbsp; Out at the dore he gooth ful pryvely,</B><BR>
+4058	<B>&nbsp; &nbsp; &nbsp; &nbsp; Whan that he saugh his tyme, softely.</B><BR>
+4059	<B>&nbsp; &nbsp; &nbsp; &nbsp; He looketh up and doun til he hath founde</B><BR>
+4060	<B>&nbsp; &nbsp; &nbsp; &nbsp; The clerkes hors, ther as it stood ybounde</B><BR>
+4061	<B>&nbsp; &nbsp; &nbsp; &nbsp; Bihynde the mille, under a levesel;</B><BR>
+4062	<B>&nbsp; &nbsp; &nbsp; &nbsp; And to the hors he goth hym faire and wel;</B><BR>
+4063	<B>&nbsp; &nbsp; &nbsp; &nbsp; He strepeth of the brydel right anon.</B><BR>
+4064	<B>&nbsp; &nbsp; &nbsp; &nbsp; And whan the hors was laus, he gynneth gon</B><BR>
+4065	<B>&nbsp; &nbsp; &nbsp; &nbsp; Toward the fen, ther wilde mares renne,</B><BR>
+4066	<B>&nbsp; &nbsp; &nbsp; &nbsp; And forth with "wehee," thurgh thikke and thurgh thenne.</B><BR>
+4067	<B>&nbsp; &nbsp; &nbsp; &nbsp; This millere gooth agayn, no word he seyde,</B><BR>
+4068	<B>&nbsp; &nbsp; &nbsp; &nbsp; But dooth his note, and with the clerkes pleyde</B><BR>
+4069	<B>&nbsp; &nbsp; &nbsp; &nbsp; Til that hir corn was faire and weel ygrounde.</B><BR>
+4070	<B>&nbsp; &nbsp; &nbsp; &nbsp; And whan the mele is sakked and ybounde,</B><BR>
+4071	<B>&nbsp; &nbsp; &nbsp; &nbsp; This John goth out and fynt his hors away,</B><BR>
+4072	<B>&nbsp; &nbsp; &nbsp; &nbsp; And gan to crie "Harrow!" and "Weylaway!</B><BR>
+4073	<B>&nbsp; &nbsp; &nbsp; &nbsp; Oure hors is lorn, Alayn, for Goddes banes,</B><BR>
+4074	<B>&nbsp; &nbsp; &nbsp; &nbsp; Step on thy feet! Com of, man, al atanes!</B><BR>
+4075	<B>&nbsp; &nbsp; &nbsp; &nbsp; Allas, our wardeyn has his palfrey lorn."</B><BR>
+4076	<B>&nbsp; &nbsp; &nbsp; &nbsp; This Aleyn al forgat, bothe mele and corn;</B><BR>
+4077	<B>&nbsp; &nbsp; &nbsp; &nbsp; Al was out of his mynde his housbondrie.</B><BR>
+4078	<B>&nbsp; &nbsp; &nbsp; &nbsp; "What, whilk way is he geen?" he gan to crie.</B><BR>
+4079	<B>&nbsp; &nbsp; &nbsp; &nbsp; The wyf cam lepynge inward with a ren.</B><BR>
+4080	<B>&nbsp; &nbsp; &nbsp; &nbsp; She seyde, "Allas! youre hors goth to the fen</B><BR>
+4081	<B>&nbsp; &nbsp; &nbsp; &nbsp; With wilde mares, as faste as he may go.</B><BR>
+4082	<B>&nbsp; &nbsp; &nbsp; &nbsp; Unthank come on his hand that boond hym so,</B><BR>
+4083	<B>&nbsp; &nbsp; &nbsp; &nbsp; And he that bettre sholde han knyt the reyne!"</B><BR>
+4084	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Allas," quod John, "Aleyn, for Cristes peyne</B><BR>
+4085	<B>&nbsp; &nbsp; &nbsp; &nbsp; Lay doun thy swerd, and I wil myn alswa.</B><BR>
+4086	<B>&nbsp; &nbsp; &nbsp; &nbsp; I is ful wight, God waat, as is a raa;</B><BR>
+4087	<B>&nbsp; &nbsp; &nbsp; &nbsp; By Goddes herte, he sal nat scape us bathe!</B><BR>
+4088	<B>&nbsp; &nbsp; &nbsp; &nbsp; Why ne had thow pit the capul in the lathe?</B><BR>
+4089	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ilhayl! By God, Alayn, thou is a fonne!"</B><BR>
+4090	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thise sely clerkes han ful faste yronne</B><BR>
+4091	<B>&nbsp; &nbsp; &nbsp; &nbsp; Toward the fen, bothe Aleyn and eek John.</B><BR>
+4092	<B>&nbsp; &nbsp; &nbsp; &nbsp; And whan the millere saugh that they were gon,</B><BR>
+4093	<B>&nbsp; &nbsp; &nbsp; &nbsp; He half a busshel of hir flour hath take,</B><BR>
+4094	<B>&nbsp; &nbsp; &nbsp; &nbsp; And bad his wyf go knede it in a cake.</B><BR>
+4095	<B>&nbsp; &nbsp; &nbsp; &nbsp; He seyde, "I trowe the clerkes were aferd.</B><BR>
+4096	<B>&nbsp; &nbsp; &nbsp; &nbsp; Yet kan a millere make a clerkes berd,</B><BR>
+4097	<B>&nbsp; &nbsp; &nbsp; &nbsp; For al his art; now lat hem goon hir weye!</B><BR>
+4098	<B>&nbsp; &nbsp; &nbsp; &nbsp; Lo, wher he gooth! Ye, lat the children pleye.</B><BR>
+4099	<B>&nbsp; &nbsp; &nbsp; &nbsp; They gete hym nat so lightly, by my croun."</B><BR>
+4100	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thise sely clerkes rennen up and doun</B><BR>
+4101	<B>&nbsp; &nbsp; &nbsp; &nbsp; With "Keep! Keep! Stand! Stand! Jossa, warderere,</B><BR>
+4102	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ga whistle thou, and I shal kepe hym heere!"</B><BR>
+4103	<B>&nbsp; &nbsp; &nbsp; &nbsp; But shortly, til that it was verray nyght,</B><BR>
+4104	<B>&nbsp; &nbsp; &nbsp; &nbsp; They koude nat, though they dide al hir myght,</B><BR>
+4105	<B>&nbsp; &nbsp; &nbsp; &nbsp; Hir capul cacche, he ran alwey so faste,</B><BR>
+4106	<B>&nbsp; &nbsp; &nbsp; &nbsp; Til in a dych they caughte hym atte laste.</B><BR>
+4107	<B>&nbsp; &nbsp; &nbsp; &nbsp; Wery and weet, as beest is in the reyn,</B><BR>
+4108	<B>&nbsp; &nbsp; &nbsp; &nbsp; Comth sely John, and with him comth Aleyn.</B><BR>
+4109	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Allas," quod John, "the day that I was born!</B><BR>
+4110	<B>&nbsp; &nbsp; &nbsp; &nbsp; Now are we dryve til hethyng and til scorn.</B><BR>
+4111	<B>&nbsp; &nbsp; &nbsp; &nbsp; Oure corn is stoln; men wil us fooles calle,</B><BR>
+4112	<B>&nbsp; &nbsp; &nbsp; &nbsp; Bathe the wardeyn and oure felawes alle,</B><BR>
+4113	<B>&nbsp; &nbsp; &nbsp; &nbsp; And namely the millere, weylaway!"</B><BR>
+4114	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thus pleyneth John as he gooth by the way</B><BR>
+4115	<B>&nbsp; &nbsp; &nbsp; &nbsp; Toward the mille, and Bayard in his hond.</B><BR>
+4116	<B>&nbsp; &nbsp; &nbsp; &nbsp; The millere sittynge by the fyr he fond,</B><BR>
+4117	<B>&nbsp; &nbsp; &nbsp; &nbsp; For it was nyght, and forther myghte they noght;</B><BR>
+4118	<B>&nbsp; &nbsp; &nbsp; &nbsp; But for the love of God they hym bisoght</B><BR>
+4119	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of herberwe and of ese, as for hir peny.</B><BR>
+4120	<B>&nbsp; &nbsp; &nbsp; &nbsp; The millere seyde agayn, "If ther be eny,</B><BR>
+4121	<B>&nbsp; &nbsp; &nbsp; &nbsp; Swich as it is, yet shal ye have youre part.</B><BR>
+4122	<B>&nbsp; &nbsp; &nbsp; &nbsp; Myn hous is streit, but ye han lerned art;</B><BR>
+4123	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ye konne by argumentes make a place</B><BR>
+4124	<B>&nbsp; &nbsp; &nbsp; &nbsp; A myle brood of twenty foot of space.</B><BR>
+4125	<B>&nbsp; &nbsp; &nbsp; &nbsp; Lat se now if this place may suffise,</B><BR>
+4126	<B>&nbsp; &nbsp; &nbsp; &nbsp; Or make it rowm with speche, as is youre gise."</B><BR>
+4127	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Now, Symond," seyde John, "by Seint Cutberd,</B><BR>
+4128	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ay is thou myrie, and this is faire answerd.</B><BR>
+4129	<B>&nbsp; &nbsp; &nbsp; &nbsp; I have herd seyd, `Man sal taa of twa thynges:</B><BR>
+4130	<B>&nbsp; &nbsp; &nbsp; &nbsp; Slyk as he fyndes, or taa slyk as he brynges.'</B><BR>
+4131	<B>&nbsp; &nbsp; &nbsp; &nbsp; But specially I pray thee, hooste deere,</B><BR>
+4132	<B>&nbsp; &nbsp; &nbsp; &nbsp; Get us som mete and drynke, and make us cheere,</B><BR>
+4133	<B>&nbsp; &nbsp; &nbsp; &nbsp; And we wil payen trewely atte fulle.</B><BR>
+4134	<B>&nbsp; &nbsp; &nbsp; &nbsp; With empty hand men may na haukes tulle;</B><BR>
+4135	<B>&nbsp; &nbsp; &nbsp; &nbsp; Loo, heere oure silver, redy for to spende."</B><BR>
+4136	<B>&nbsp; &nbsp; &nbsp; &nbsp; This millere into toun his doghter sende</B><BR>
+4137	<B>&nbsp; &nbsp; &nbsp; &nbsp; For ale and breed, and rosted hem a goos,</B><BR>
+4138	<B>&nbsp; &nbsp; &nbsp; &nbsp; And boond hire hors, it sholde namoore go loos,</B><BR>
+4139	<B>&nbsp; &nbsp; &nbsp; &nbsp; And in his owene chambre hem made a bed,</B><BR>
+4140	<B>&nbsp; &nbsp; &nbsp; &nbsp; With sheetes and with chalons faire yspred</B><BR>
+4141	<B>&nbsp; &nbsp; &nbsp; &nbsp; Noght from his owene bed ten foot or twelve.</B><BR>
+4142	<B>&nbsp; &nbsp; &nbsp; &nbsp; His doghter hadde a bed, al by hirselve,</B><BR>
+4143	<B>&nbsp; &nbsp; &nbsp; &nbsp; Right in the same chambre by and by.</B><BR>
+4144	<B>&nbsp; &nbsp; &nbsp; &nbsp; It myghte be no bet, and cause why?</B><BR>
+4145	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ther was no roumer herberwe in the place.</B><BR>
+4146	<B>&nbsp; &nbsp; &nbsp; &nbsp; They soupen and they speke, hem to solace,</B><BR>
+4147	<B>&nbsp; &nbsp; &nbsp; &nbsp; And drynken evere strong ale atte beste.</B><BR>
+4148	<B>&nbsp; &nbsp; &nbsp; &nbsp; Aboute mydnyght wente they to reste.</B><BR>
+4149	<B>&nbsp; &nbsp; &nbsp; &nbsp; Wel hath this millere vernysshed his heed;</B><BR>
+4150	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ful pale he was for dronken, and nat reed.</B><BR>
+4151	<B>&nbsp; &nbsp; &nbsp; &nbsp; He yexeth, and he speketh thurgh the nose</B><BR>
+4152	<B>&nbsp; &nbsp; &nbsp; &nbsp; As he were on the quakke, or on the pose.</B><BR>
+4153	<B>&nbsp; &nbsp; &nbsp; &nbsp; To bedde he goth, and with hym goth his wyf.</B><BR>
+4154	<B>&nbsp; &nbsp; &nbsp; &nbsp; As any jay she light was and jolyf,</B><BR>
+4155	<B>&nbsp; &nbsp; &nbsp; &nbsp; So was hir joly whistle wel ywet.</B><BR>
+4156	<B>&nbsp; &nbsp; &nbsp; &nbsp; The cradel at hir beddes feet is set,</B><BR>
+4157	<B>&nbsp; &nbsp; &nbsp; &nbsp; To rokken, and to yeve the child to sowke.</B><BR>
+4158	<B>&nbsp; &nbsp; &nbsp; &nbsp; And whan that dronken al was in the crowke,</B><BR>
+4159	<B>&nbsp; &nbsp; &nbsp; &nbsp; To bedde wente the doghter right anon;</B><BR>
+4160	<B>&nbsp; &nbsp; &nbsp; &nbsp; To bedde goth Aleyn and also John;</B><BR>
+4161	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ther nas na moore -- hem nedede no dwale.</B><BR>
+4162	<B>&nbsp; &nbsp; &nbsp; &nbsp; This millere hath so wisely bibbed ale</B><BR>
+4163	<B>&nbsp; &nbsp; &nbsp; &nbsp; That as an hors he fnorteth in his sleep,</B><BR>
+4164	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ne of his tayl bihynde he took no keep.</B><BR>
+4165	<B>&nbsp; &nbsp; &nbsp; &nbsp; His wyf bar hym a burdon, a ful strong;</B><BR>
+4166	<B>&nbsp; &nbsp; &nbsp; &nbsp; Men myghte hir rowtyng heere two furlong;</B><BR>
+4167	<B>&nbsp; &nbsp; &nbsp; &nbsp; The wenche rowteth eek, par compaignye.</B><BR>
+4168	<B>&nbsp; &nbsp; &nbsp; &nbsp; Aleyn the clerk, that herde this melodye,</B><BR>
+4169	<B>&nbsp; &nbsp; &nbsp; &nbsp; He poked John, and seyde, "Slepestow?</B><BR>
+4170	<B>&nbsp; &nbsp; &nbsp; &nbsp; Herdestow evere slyk a sang er now?</B><BR>
+4171	<B>&nbsp; &nbsp; &nbsp; &nbsp; Lo, swilk a complyn is ymel hem alle;</B><BR>
+4172	<B>&nbsp; &nbsp; &nbsp; &nbsp; A wilde fyr upon thair bodyes falle!</B><BR>
+4173	<B>&nbsp; &nbsp; &nbsp; &nbsp; Wha herkned evere slyk a ferly thyng?</B><BR>
+4174	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ye, they sal have the flour of il endyng.</B><BR>
+4175	<B>&nbsp; &nbsp; &nbsp; &nbsp; This lange nyght ther tydes me na reste;</B><BR>
+4176	<B>&nbsp; &nbsp; &nbsp; &nbsp; But yet, na fors, al sal be for the beste.</B><BR>
+4177	<B>&nbsp; &nbsp; &nbsp; &nbsp; For, John," seyde he, "als evere moot I thryve,</B><BR>
+4178	<B>&nbsp; &nbsp; &nbsp; &nbsp; If that I may, yon wenche wil I swyve.</B><BR>
+4179	<B>&nbsp; &nbsp; &nbsp; &nbsp; Som esement has lawe yshapen us,</B><BR>
+4180	<B>&nbsp; &nbsp; &nbsp; &nbsp; For, John, ther is a lawe that says thus:</B><BR>
+4181	<B>&nbsp; &nbsp; &nbsp; &nbsp; That gif a man in a point be agreved,</B><BR>
+4182	<B>&nbsp; &nbsp; &nbsp; &nbsp; That in another he sal be releved.</B><BR>
+4183	<B>&nbsp; &nbsp; &nbsp; &nbsp; Oure corn is stoln, sothly, it is na nay,</B><BR>
+4184	<B>&nbsp; &nbsp; &nbsp; &nbsp; And we han had an il fit al this day;</B><BR>
+4185	<B>&nbsp; &nbsp; &nbsp; &nbsp; And syn I sal have neen amendement</B><BR>
+4186	<B>&nbsp; &nbsp; &nbsp; &nbsp; Agayn my los, I will have esement.</B><BR>
+4187	<B>&nbsp; &nbsp; &nbsp; &nbsp; By Goddes sale, it sal neen other bee!"</B><BR>
+4188	<B>&nbsp; &nbsp; &nbsp; &nbsp; This John answerde, "Alayn, avyse thee!</B><BR>
+4189	<B>&nbsp; &nbsp; &nbsp; &nbsp; The millere is a perilous man," he seyde,</B><BR>
+4190	<B>&nbsp; &nbsp; &nbsp; &nbsp; "And gif that he out of his sleep abreyde,</B><BR>
+4191	<B>&nbsp; &nbsp; &nbsp; &nbsp; He myghte doon us bathe a vileynye."</B><BR>
+4192	<B>&nbsp; &nbsp; &nbsp; &nbsp; Aleyn answerde, "I counte hym nat a flye."</B><BR>
+4193	<B>&nbsp; &nbsp; &nbsp; &nbsp; And up he rist, and by the wenche he crepte.</B><BR>
+4194	<B>&nbsp; &nbsp; &nbsp; &nbsp; This wenche lay uprighte and faste slepte,</B><BR>
+4195	<B>&nbsp; &nbsp; &nbsp; &nbsp; Til he so ny was, er she myghte espie,</B><BR>
+4196	<B>&nbsp; &nbsp; &nbsp; &nbsp; That it had been to late for to crie,</B><BR>
+4197	<B>&nbsp; &nbsp; &nbsp; &nbsp; And shortly for to seyn, they were aton.</B><BR>
+4198	<B>&nbsp; &nbsp; &nbsp; &nbsp; Now pley, Aleyn, for I wol speke of John.</B><BR>
+4199	<B>&nbsp; &nbsp; &nbsp; &nbsp; This John lith stille a furlong wey or two,</B><BR>
+4200	<B>&nbsp; &nbsp; &nbsp; &nbsp; And to hymself he maketh routhe and wo.</B><BR>
+4201	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Allas!" quod he, "this is a wikked jape;</B><BR>
+4202	<B>&nbsp; &nbsp; &nbsp; &nbsp; Now may I seyn that I is but an ape.</B><BR>
+4203	<B>&nbsp; &nbsp; &nbsp; &nbsp; Yet has my felawe somwhat for his harm;</B><BR>
+4204	<B>&nbsp; &nbsp; &nbsp; &nbsp; He has the milleris doghter in his arm.</B><BR>
+4205	<B>&nbsp; &nbsp; &nbsp; &nbsp; He auntred hym, and has his nedes sped,</B><BR>
+4206	<B>&nbsp; &nbsp; &nbsp; &nbsp; And I lye as a draf-sak in my bed;</B><BR>
+4207	<B>&nbsp; &nbsp; &nbsp; &nbsp; And when this jape is tald another day,</B><BR>
+4208	<B>&nbsp; &nbsp; &nbsp; &nbsp; I sal been halde a daf, a cokenay!</B><BR>
+4209	<B>&nbsp; &nbsp; &nbsp; &nbsp; I wil arise and auntre it, by my fayth!</B><BR>
+4210	<B>&nbsp; &nbsp; &nbsp; &nbsp; `Unhardy is unseely,' thus men sayth."</B><BR>
+4211	<B>&nbsp; &nbsp; &nbsp; &nbsp; And up he roos, and softely he wente</B><BR>
+4212	<B>&nbsp; &nbsp; &nbsp; &nbsp; Unto the cradel, and in his hand it hente,</B><BR>
+4213	<B>&nbsp; &nbsp; &nbsp; &nbsp; And baar it softe unto his beddes feet.</B><BR>
+4214	<B>&nbsp; &nbsp; &nbsp; &nbsp; Soone after this the wyf hir rowtyng leet,</B><BR>
+4215	<B>&nbsp; &nbsp; &nbsp; &nbsp; And gan awake, and wente hire out to pisse,</B><BR>
+4216	<B>&nbsp; &nbsp; &nbsp; &nbsp; And cam agayn, and gan hir cradel mysse,</B><BR>
+4217	<B>&nbsp; &nbsp; &nbsp; &nbsp; And groped heer and ther, but she foond noon.</B><BR>
+4218	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Allas!" quod she, "I hadde almoost mysgoon;</B><BR>
+4219	<B>&nbsp; &nbsp; &nbsp; &nbsp; I hadde almoost goon to the clerkes bed.</B><BR>
+4220	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ey, benedicite! Thanne hadde I foule ysped!"</B><BR>
+4221	<B>&nbsp; &nbsp; &nbsp; &nbsp; And forth she gooth til she the cradel fond.</B><BR>
+4222	<B>&nbsp; &nbsp; &nbsp; &nbsp; She gropeth alwey forther with hir hond,</B><BR>
+4223	<B>&nbsp; &nbsp; &nbsp; &nbsp; And foond the bed, and thoghte noght but good,</B><BR>
+4224	<B>&nbsp; &nbsp; &nbsp; &nbsp; By cause that the cradel by it stood,</B><BR>
+4225	<B>&nbsp; &nbsp; &nbsp; &nbsp; And nyste wher she was, for it was derk;</B><BR>
+4226	<B>&nbsp; &nbsp; &nbsp; &nbsp; But faire and wel she creep in to the clerk,</B><BR>
+4227	<B>&nbsp; &nbsp; &nbsp; &nbsp; And lith ful stille, and wolde han caught a sleep.</B><BR>
+4228	<B>&nbsp; &nbsp; &nbsp; &nbsp; Withinne a while this John the clerk up leep,</B><BR>
+4229	<B>&nbsp; &nbsp; &nbsp; &nbsp; And on this goode wyf he leith on soore.</B><BR>
+4230	<B>&nbsp; &nbsp; &nbsp; &nbsp; So myrie a fit ne hadde she nat ful yoore;</B><BR>
+4231	<B>&nbsp; &nbsp; &nbsp; &nbsp; He priketh harde and depe as he were mad.</B><BR>
+4232	<B>&nbsp; &nbsp; &nbsp; &nbsp; This joly lyf han thise two clerkes lad</B><BR>
+4233	<B>&nbsp; &nbsp; &nbsp; &nbsp; Til that the thridde cok bigan to synge.</B><BR>
+4234	<B>&nbsp; &nbsp; &nbsp; &nbsp; Aleyn wax wery in the dawenynge,</B><BR>
+4235	<B>&nbsp; &nbsp; &nbsp; &nbsp; For he had swonken al the longe nyght,</B><BR>
+4236	<B>&nbsp; &nbsp; &nbsp; &nbsp; And seyde, "Fare weel, Malyne, sweete wight!</B><BR>
+4237	<B>&nbsp; &nbsp; &nbsp; &nbsp; The day is come; I may no lenger byde;</B><BR>
+4238	<B>&nbsp; &nbsp; &nbsp; &nbsp; But everemo, wher so I go or ryde,</B><BR>
+4239	<B>&nbsp; &nbsp; &nbsp; &nbsp; I is thyn awen clerk, swa have I seel!"</B><BR>
+4240	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Now, deere lemman," quod she, "go, far weel!</B><BR>
+4241	<B>&nbsp; &nbsp; &nbsp; &nbsp; But er thow go, o thyng I wol thee telle:</B><BR>
+4242	<B>&nbsp; &nbsp; &nbsp; &nbsp; Whan that thou wendest homward by the melle,</B><BR>
+4243	<B>&nbsp; &nbsp; &nbsp; &nbsp; Right at the entree of the dore bihynde</B><BR>
+4244	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thou shalt a cake of half a busshel fynde</B><BR>
+4245	<B>&nbsp; &nbsp; &nbsp; &nbsp; That was ymaked of thyn owene mele,</B><BR>
+4246	<B>&nbsp; &nbsp; &nbsp; &nbsp; Which that I heelp my sire for to stele.</B><BR>
+4247	<B>&nbsp; &nbsp; &nbsp; &nbsp; And, goode lemman, God thee save and kepe!"</B><BR>
+4248	<B>&nbsp; &nbsp; &nbsp; &nbsp; And with that word almoost she gan to wepe.</B><BR>
+4249	<B>&nbsp; &nbsp; &nbsp; &nbsp; Aleyn up rist, and thoughte, "Er that it dawe,</B><BR>
+4250	<B>&nbsp; &nbsp; &nbsp; &nbsp; I wol go crepen in by my felawe,"</B><BR>
+4251	<B>&nbsp; &nbsp; &nbsp; &nbsp; And fond the cradel with his hand anon.</B><BR>
+4252	<B>&nbsp; &nbsp; &nbsp; &nbsp; "By God," thoughte he, "al wrang I have mysgon.</B><BR>
+4253	<B>&nbsp; &nbsp; &nbsp; &nbsp; Myn heed is toty of my swynk to-nyght,</B><BR>
+4254	<B>&nbsp; &nbsp; &nbsp; &nbsp; That makes me that I ga nat aright.</B><BR>
+4255	<B>&nbsp; &nbsp; &nbsp; &nbsp; I woot wel by the cradel I have mysgo;</B><BR>
+4256	<B>&nbsp; &nbsp; &nbsp; &nbsp; Heere lith the millere and his wyf also."</B><BR>
+4257	<B>&nbsp; &nbsp; &nbsp; &nbsp; And forth he goth, a twenty devel way,</B><BR>
+4258	<B>&nbsp; &nbsp; &nbsp; &nbsp; Unto the bed ther as the millere lay.</B><BR>
+4259	<B>&nbsp; &nbsp; &nbsp; &nbsp; He wende have cropen by his felawe John,</B><BR>
+4260	<B>&nbsp; &nbsp; &nbsp; &nbsp; And by the millere in he creep anon,</B><BR>
+4261	<B>&nbsp; &nbsp; &nbsp; &nbsp; And caughte hym by the nekke, and softe he spak.</B><BR>
+4262	<B>&nbsp; &nbsp; &nbsp; &nbsp; He seyde, "Thou John, thou swynes-heed, awak,</B><BR>
+4263	<B>&nbsp; &nbsp; &nbsp; &nbsp; For Cristes saule, and heer a noble game.</B><BR>
+4264	<B>&nbsp; &nbsp; &nbsp; &nbsp; For by that lord that called is Seint Jame,</B><BR>
+4265	<B>&nbsp; &nbsp; &nbsp; &nbsp; As I have thries in this shorte nyght</B><BR>
+4266	<B>&nbsp; &nbsp; &nbsp; &nbsp; Swyved the milleres doghter bolt upright,</B><BR>
+4267	<B>&nbsp; &nbsp; &nbsp; &nbsp; Whil thow hast, as a coward, been agast."</B><BR>
+4268	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Ye, false harlot," quod the millere, "hast?</B><BR>
+4269	<B>&nbsp; &nbsp; &nbsp; &nbsp; A, false traitour! False clerk!" quod he,</B><BR>
+4270	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Thow shalt be deed, by Goddes dignitee!</B><BR>
+4271	<B>&nbsp; &nbsp; &nbsp; &nbsp; Who dorste be so boold to disparage</B><BR>
+4272	<B>&nbsp; &nbsp; &nbsp; &nbsp; My doghter, that is come of swich lynage?"</B><BR>
+4273	<B>&nbsp; &nbsp; &nbsp; &nbsp; And by the throte-bolle he caughte Alayn,</B><BR>
+4274	<B>&nbsp; &nbsp; &nbsp; &nbsp; And he hente hym despitously agayn,</B><BR>
+4275	<B>&nbsp; &nbsp; &nbsp; &nbsp; And on the nose he smoot hym with his fest.</B><BR>
+4276	<B>&nbsp; &nbsp; &nbsp; &nbsp; Doun ran the blody streem upon his brest;</B><BR>
+4277	<B>&nbsp; &nbsp; &nbsp; &nbsp; And in the floor, with nose and mouth tobroke,</B><BR>
+4278	<B>&nbsp; &nbsp; &nbsp; &nbsp; They walwe as doon two pigges in a poke;</B><BR>
+4279	<B>&nbsp; &nbsp; &nbsp; &nbsp; And up they goon, and doun agayn anon,</B><BR>
+4280	<B>&nbsp; &nbsp; &nbsp; &nbsp; Til that the millere sporned at a stoon,</B><BR>
+4281	<B>&nbsp; &nbsp; &nbsp; &nbsp; And doun he fil bakward upon his wyf,</B><BR>
+4282	<B>&nbsp; &nbsp; &nbsp; &nbsp; That wiste no thyng of this nyce stryf;</B><BR>
+4283	<B>&nbsp; &nbsp; &nbsp; &nbsp; For she was falle aslepe a lite wight</B><BR>
+4284	<B>&nbsp; &nbsp; &nbsp; &nbsp; With John the clerk, that waked hadde al nyght,</B><BR>
+4285	<B>&nbsp; &nbsp; &nbsp; &nbsp; And with the fal out of hir sleep she breyde.</B><BR>
+4286	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Help! hooly croys of Bromeholm," she seyde,</B><BR>
+4287	<B>&nbsp; &nbsp; &nbsp; &nbsp; "In manus tuas! Lord, to thee I calle!</B><BR>
+4288	<B>&nbsp; &nbsp; &nbsp; &nbsp; Awak, Symond! The feend is on me falle.</B><BR>
+4289	<B>&nbsp; &nbsp; &nbsp; &nbsp; Myn herte is broken; help! I nam but deed!</B><BR>
+4290	<B>&nbsp; &nbsp; &nbsp; &nbsp; Ther lyth oon upon my wombe and on myn heed.</B><BR>
+4291	<B>&nbsp; &nbsp; &nbsp; &nbsp; Help, Symkyn, for the false clerkes fighte!"</B><BR>
+4292	<B>&nbsp; &nbsp; &nbsp; &nbsp; This John stirte up as faste as ever he myghte,</B><BR>
+4293	<B>&nbsp; &nbsp; &nbsp; &nbsp; And graspeth by the walles to and fro,</B><BR>
+4294	<B>&nbsp; &nbsp; &nbsp; &nbsp; To fynde a staf; and she stirte up also,</B><BR>
+4295	<B>&nbsp; &nbsp; &nbsp; &nbsp; And knew the estres bet than dide this John,</B><BR>
+4296	<B>&nbsp; &nbsp; &nbsp; &nbsp; And by the wal a staf she foond anon,</B><BR>
+4297	<B>&nbsp; &nbsp; &nbsp; &nbsp; And saugh a litel shymeryng of a light,</B><BR>
+4298	<B>&nbsp; &nbsp; &nbsp; &nbsp; For at an hole in shoon the moone bright,</B><BR>
+4299	<B>&nbsp; &nbsp; &nbsp; &nbsp; And by that light she saugh hem bothe two,</B><BR>
+4300	<B>&nbsp; &nbsp; &nbsp; &nbsp; But sikerly she nyste who was who,</B><BR>
+4301	<B>&nbsp; &nbsp; &nbsp; &nbsp; But as she saugh a whit thyng in hir ye.</B><BR>
+4302	<B>&nbsp; &nbsp; &nbsp; &nbsp; And whan she gan this white thyng espye,</B><BR>
+4303	<B>&nbsp; &nbsp; &nbsp; &nbsp; She wende the clerk hadde wered a volupeer,</B><BR>
+4304	<B>&nbsp; &nbsp; &nbsp; &nbsp; And with the staf she drow ay neer and neer,</B><BR>
+4305	<B>&nbsp; &nbsp; &nbsp; &nbsp; And wende han hit this Aleyn at the fulle,</B><BR>
+4306	<B>&nbsp; &nbsp; &nbsp; &nbsp; And smoot the millere on the pyled skulle,</B><BR>
+4307	<B>&nbsp; &nbsp; &nbsp; &nbsp; That doun he gooth, and cride, "Harrow! I dye!"</B><BR>
+4308	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thise clerkes beete hym weel and lete hym lye,</B><BR>
+4309	<B>&nbsp; &nbsp; &nbsp; &nbsp; And greythen hem, and tooke hir hors anon,</B><BR>
+4310	<B>&nbsp; &nbsp; &nbsp; &nbsp; And eek hire mele, and on hir wey they gon.</B><BR>
+4311	<B>&nbsp; &nbsp; &nbsp; &nbsp; And at the mille yet they tooke hir cake</B><BR>
+4312	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of half a busshel flour, ful wel ybake.</B><BR>
+4313	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thus is the proude millere wel ybete,</B><BR>
+4314	<B>&nbsp; &nbsp; &nbsp; &nbsp; And hath ylost the gryndynge of the whete,</B><BR>
+4315	<B>&nbsp; &nbsp; &nbsp; &nbsp; And payed for the soper everideel</B><BR>
+4316	<B>&nbsp; &nbsp; &nbsp; &nbsp; Of Aleyn and of John, that bette hym weel.</B><BR>
+4317	<B>&nbsp; &nbsp; &nbsp; &nbsp; His wyf is swyved, and his doghter als.</B><BR>
+4318	<B>&nbsp; &nbsp; &nbsp; &nbsp; Lo, swich it is a millere to be fals!</B><BR>
+4319	<B>&nbsp; &nbsp; &nbsp; &nbsp; And therfore this proverbe is seyd ful sooth,</B><BR>
+4320	<B>&nbsp; &nbsp; &nbsp; &nbsp; "Hym thar nat wene wel that yvele dooth."</B><BR>
+4321	<B>&nbsp; &nbsp; &nbsp; &nbsp; A gylour shal hymself bigyled be.</B><BR>
+4322	<B>&nbsp; &nbsp; &nbsp; &nbsp; And God, that sitteth heighe in magestee,</B><BR>
+4323	<B>&nbsp; &nbsp; &nbsp; &nbsp; Save al this compaignye, grete and smale!</B><BR>
+4324	<B>&nbsp; &nbsp; &nbsp; &nbsp; Thus have I quyt the Millere in my tale.</B><BR>
