@@ -17,7 +17,7 @@ def pywalker(path):
 
 top = os.getcwd()
 pywalker(top)
-fOut3 = open('talesText/allOriginalText_messy.txt', 'w')
+#fOut3 = open('talesText/allOriginalText_messy.txt', 'w')
 fOut4 = open('talesText/allModernText_clean.txt', 'w')
 print(filesList)
 for htmlFile in filesList:
