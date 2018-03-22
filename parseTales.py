@@ -17,7 +17,8 @@ def pywalker(path):
 
 top = os.getcwd()
 pywalker(top)
-
+fOut3 = open('talesText/allOriginalText_messy.txt', 'w')
+fOut4 = open('talesText/allModernText_clean.txt', 'w')
 print(filesList)
 for htmlFile in filesList:
     with open(htmlFile) as file:
@@ -31,6 +32,7 @@ for htmlFile in filesList:
         #fOut2 = open('talesText/gpModernClean.txt', 'w')
         fOut = open(originalFile, 'w')
         fOut2 = open(modernFile, 'w')
+
         for n, line in enumerate(file):
     
             if line[0].isdigit():# and i == int(line[0]):
@@ -38,6 +40,7 @@ for htmlFile in filesList:
             
             if readingText == True and line[0].isdigit():
                 fOut.write(line)
+                fOut3.write(line)
                 #print("first line")
                 #print(line)
             # i += 1
@@ -45,8 +48,12 @@ for htmlFile in filesList:
                 for word in delete_list:
                    line = line.replace(word, "")
                 fOut2.write(line.lstrip())
+                fOut4.write(line.lstrip())
                 #print("second line")
                 #print(line)
 
         fOut.close()
         fOut2.close()
+
+fOut3.close()
+fOut4.close()
