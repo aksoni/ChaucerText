@@ -18,7 +18,7 @@ def pywalker(path):
 
 top = os.getcwd()
 pywalker(top)
-print(filesList)
+#print(filesList)
 i = 1
 fOut2 = open('talesText/allOriginalText_clean.txt', 'w')
 for textFile in filesList:
@@ -29,18 +29,15 @@ for textFile in filesList:
    
     for b in soup.findAll('b'):
         #b.getText()
-        if textFile == "talesText/clkt-par_original_messy.txt":
-            print("b string")
-            print(b.getText())
         if b.string is not None:
             fOut.write(b.string.lstrip())
             fOut.write('\n')
             fOut2.write(b.string.lstrip())
             fOut2.write('\n')
         elif b.getText() is not None:
-            fOut.write(b.getText())
+            fOut.write(b.getText().lstrip())
             fOut.write('\n')
-            fOut2.write(b.getText())
+            fOut2.write(b.getText().lstrip())
             fOut2.write('\n')
     
         
