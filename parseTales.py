@@ -1,38 +1,52 @@
-import lxml.html.soupparser as soupparser
-import lxml.html
-import io
 import sys
-import re
-import nltk
+import os
+from bs4 import BeautifulSoup
 
-from django.utils.encoding import smart_str
+delete_list = ["&nbsp;", '\t', "<nobr>", "<BR>"]
 
-file = open(sys.argv[1])
-html = file.read()
-file.close()
+filesList = []
 
-tree = soupparser.parse(io.BytesIO(html))
+def pywalker(path):
+    for root, dirs, files in os.walk(path):
+        for file_ in files:
+            if file_.endswith(".htm"):
+                htmlFileName = "talesHTML/" + file_
+                filesList.append(htmlFileName)
+#print(file_)
+# print( os.path.join(root, file_) )
 
-original = ""
-modern = ""
-for t in tree.xpath('//*[name()="div"]'):    
-    if t.text is not None:
-        if 'class' in t.attrib :
-            if t.attrib['class'] == 'original-line' :
-                oline = t.text.replace('\n', ' ')
-                oline = smart_str(re.sub(r'\s+', ' ', oline))
-                original += " " + oline
+top = os.getcwd()
+pywalker(top)
 
-                
-            elif t.attrib['class'] == 'modern-line' :
-                mline = t.text.replace('\n', ' ')
-                mline = smart_str(re.sub(r'\s+', ' ', mline))
-                modern += " " + mline
-                
-oSentences = nltk.sent_tokenize(original)
-for s in oSentences:
-    print '[O]' + s
+print(filesList)
+for htmlFile in filesList:
+    with open(htmlFile) as file:
+    #with open("tales/gp-par.htm") as file:
+        i = 1
+        readingText = False
+        htmlFile = htmlFile.split('/')[1]
+        originalFile = "talesText/" + htmlFile.split('.')[0] + "_original_messy.txt"
+        modernFile = "talesText/" + htmlFile.split('.')[0] + "_modern_clean.txt"
+        #fOut = open('talesText/gpOriginalMessy.txt', 'w')
+        #fOut2 = open('talesText/gpModernClean.txt', 'w')
+        fOut = open(originalFile, 'w')
+        fOut2 = open(modernFile, 'w')
+        for n, line in enumerate(file):
 
-mSentences = nltk.sent_tokenize(modern)
-for s in mSentences:
-    print '[M]' + s
+            if line[0].isdigit() and i == int(line[0]):
+                readingText = True
+            
+            if readingText == True and line[0].isdigit():
+                fOut.write(line)
+                #print("first line")
+                #print(line)
+            # i += 1
+            elif readingText == True and line[0] is '&':
+                for word in delete_list:
+                   line = line.replace(word, "")
+                fOut2.write(line.lstrip())
+                #print("second line")
+                #print(line)
+
+        fOut.close()
+        fOut2.close()

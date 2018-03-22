@@ -1,0 +1,602 @@
+1881 &nbsp; &nbsp; &nbsp; &nbsp;<B>I trowe men wolde deme it necligence</B><BR>
+1882 &nbsp; &nbsp; &nbsp; &nbsp;<B>If I foryete to tellen the dispence</B><BR>
+1883 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of Theseus, that gooth so bisily</B><BR>
+1884 &nbsp; &nbsp; &nbsp; &nbsp;<B>To maken up the lystes roially,</B><BR>
+1885 &nbsp; &nbsp; &nbsp; &nbsp;<B>That swich a noble theatre as it was</B><BR>
+1886 &nbsp; &nbsp; &nbsp; &nbsp;<B>I dar wel seyen in this world ther nas.</B><BR>
+1887 &nbsp; &nbsp; &nbsp; &nbsp;<B>The circuit a myle was aboute,</B><BR>
+1888 &nbsp; &nbsp; &nbsp; &nbsp;<B>Walled of stoon, and dyched al withoute.</B><BR>
+1889 &nbsp; &nbsp; &nbsp; &nbsp;<B>Round was the shap, in manere of compas,</B><BR>
+1890 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ful of degrees, the heighte of sixty pas,</B><BR>
+1891 &nbsp; &nbsp; &nbsp; &nbsp;<B>That whan a man was set on o degree,</B><BR>
+1892 &nbsp; &nbsp; &nbsp; &nbsp;<B>He letted nat his felawe for to see.</B><BR>
+1893 &nbsp; &nbsp; &nbsp; &nbsp;<B>Estward ther stood a gate of marbul whit,</B><BR>
+1894 &nbsp; &nbsp; &nbsp; &nbsp;<B>Westward right swich another in the opposit.</B><BR>
+1895 &nbsp; &nbsp; &nbsp; &nbsp;<B>And shortly to concluden, swich a place</B><BR>
+1896 &nbsp; &nbsp; &nbsp; &nbsp;<B>Was noon in erthe, as in so litel space;</B><BR>
+1897 &nbsp; &nbsp; &nbsp; &nbsp;<B>For in the lond ther was no crafty man</B><BR>
+1898 &nbsp; &nbsp; &nbsp; &nbsp;<B>That geometrie or ars-metrike kan,</B><BR>
+1899 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ne portreyour, ne kervere of ymages,</B><BR>
+1900 &nbsp; &nbsp; &nbsp; &nbsp;<B>That Theseus ne yaf him mete and wages</B><BR>
+1901 &nbsp; &nbsp; &nbsp; &nbsp;<B>The theatre for to maken and devyse.</B><BR>
+1902 &nbsp; &nbsp; &nbsp; &nbsp;<B>And for to doon his ryte and sacrifise,</B><BR>
+1903 &nbsp; &nbsp; &nbsp; &nbsp;<B>He estward hath, upon the gate above,</B><BR>
+1904 &nbsp; &nbsp; &nbsp; &nbsp;<B>In worshipe of Venus, goddesse of love,</B><BR>
+1905 &nbsp; &nbsp; &nbsp; &nbsp;<B>Doon make an auter and an oratorie;</B><BR>
+1906 &nbsp; &nbsp; &nbsp; &nbsp;<B>And on the gate westward, in memorie</B><BR>
+1907 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of Mars, he maked hath right swich another,</B><BR>
+1908 &nbsp; &nbsp; &nbsp; &nbsp;<B>That coste largely of gold a fother.</B><BR>
+1909 &nbsp; &nbsp; &nbsp; &nbsp;<B>And northward, in a touret on the wal,</B><BR>
+1910 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of alabastre whit and reed coral,</B><BR>
+1911 &nbsp; &nbsp; &nbsp; &nbsp;<B>An oratorie, riche for to see,</B><BR>
+1912 &nbsp; &nbsp; &nbsp; &nbsp;<B>In worshipe of Dyane of chastitee,</B><BR>
+1913 &nbsp; &nbsp; &nbsp; &nbsp;<B>Hath Theseus doon wroght in noble wyse.</B><BR>
+1914 &nbsp; &nbsp; &nbsp; &nbsp;<B>But yet hadde I foryeten to devyse</B><BR>
+1915 &nbsp; &nbsp; &nbsp; &nbsp;<B>The noble kervyng and the portreitures,</B><BR>
+1916 &nbsp; &nbsp; &nbsp; &nbsp;<B>The shap, the contenaunce, and the figures</B><BR>
+1917 &nbsp; &nbsp; &nbsp; &nbsp;<B>That weren in thise oratories thre.</B><BR>
+1918 &nbsp; &nbsp; &nbsp; &nbsp;<B>First in the temple of Venus maystow se</B><BR>
+1919 &nbsp; &nbsp; &nbsp; &nbsp;<B>Wroght on the wal, ful pitous to biholde,</B><BR>
+1920 &nbsp; &nbsp; &nbsp; &nbsp;<B>The broken slepes, and the sikes colde,</B><BR>
+1921 &nbsp; &nbsp; &nbsp; &nbsp;<B>The sacred teeris, and the waymentynge,</B><BR>
+1922 &nbsp; &nbsp; &nbsp; &nbsp;<B>The firy strokes of the desirynge</B><BR>
+1923 &nbsp; &nbsp; &nbsp; &nbsp;<B>That loves servantz in this lyf enduren;</B><BR>
+1924 &nbsp; &nbsp; &nbsp; &nbsp;<B>The othes that hir covenantz assuren;</B><BR>
+1925 &nbsp; &nbsp; &nbsp; &nbsp;<B>Pleasance and Hope, Desir, Foolhardynesse,</B><BR>
+1926 &nbsp; &nbsp; &nbsp; &nbsp;<B>Beautee and Youthe, Bauderie, Richesse,</B><BR>
+1927 &nbsp; &nbsp; &nbsp; &nbsp;<B>Charmes and Force, Lesynges, Flaterye,</B><BR>
+1928 &nbsp; &nbsp; &nbsp; &nbsp;<B>Despense, Bisynesse, and Jalousye,</B><BR>
+1929 &nbsp; &nbsp; &nbsp; &nbsp;<B>That wered of yelewe gooldes a gerland,</B><BR>
+1930 &nbsp; &nbsp; &nbsp; &nbsp;<B>And a cokkow sittynge on hir hand;</B><BR>
+1931 &nbsp; &nbsp; &nbsp; &nbsp;<B>Festes, instrumentz, caroles, daunces,</B><BR>
+1932 &nbsp; &nbsp; &nbsp; &nbsp;<B>Lust and array, and alle the circumstaunces</B><BR>
+1933 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of love, which that I rekned and rekne shal,</B><BR>
+1934 &nbsp; &nbsp; &nbsp; &nbsp;<B>By ordre weren peynted on the wal,</B><BR>
+1935 &nbsp; &nbsp; &nbsp; &nbsp;<B>And mo than I kan make of mencioun.</B><BR>
+1936 &nbsp; &nbsp; &nbsp; &nbsp;<B>For soothly al the mount of Citheroun,</B><BR>
+1937 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther Venus hath hir principal dwellynge,</B><BR>
+1938 &nbsp; &nbsp; &nbsp; &nbsp;<B>Was shewed on the wal in portreyynge,</B><BR>
+1939 &nbsp; &nbsp; &nbsp; &nbsp;<B>With al the gardyn and the lustynesse.</B><BR>
+1940 &nbsp; &nbsp; &nbsp; &nbsp;<B>Nat was foryeten the porter, Ydelnesse,</B><BR>
+1941 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ne Narcisus the faire of yore agon,</B><BR>
+1942 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ne yet the folye of kyng Salomon,</B><BR>
+1943 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ne yet the grete strengthe of Ercules --</B><BR>
+1944 &nbsp; &nbsp; &nbsp; &nbsp;<B>Th'enchauntementz of Medea and Circes --</B><BR>
+1945 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ne of Turnus, with the hardy fiers corage,</B><BR>
+1946 &nbsp; &nbsp; &nbsp; &nbsp;<B>The riche Cresus, kaytyf in servage.</B><BR>
+1947 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thus may ye seen that wysdom ne richesse,</B><BR>
+1948 &nbsp; &nbsp; &nbsp; &nbsp;<B>Beautee ne sleighte, strengthe ne hardynesse,</B><BR>
+1949 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ne may with Venus holde champartie,</B><BR>
+1950 &nbsp; &nbsp; &nbsp; &nbsp;<B>For as hir list the world than may she gye.</B><BR>
+1951 &nbsp; &nbsp; &nbsp; &nbsp;<B>Lo, alle thise folk so caught were in hir las,</B><BR>
+1952 &nbsp; &nbsp; &nbsp; &nbsp;<B>Til they for wo ful ofte seyde "allas!"</B><BR>
+1953 &nbsp; &nbsp; &nbsp; &nbsp;<B>Suffiseth heere ensamples oon or two,</B><BR>
+1954 &nbsp; &nbsp; &nbsp; &nbsp;<B>And though I koude rekene a thousand mo.</B><BR>
+1955 &nbsp; &nbsp; &nbsp; &nbsp;<B>The statue of Venus, glorious for to se,</B><BR>
+1956 &nbsp; &nbsp; &nbsp; &nbsp;<B>Was naked, fletynge in the large see,</B><BR>
+1957 &nbsp; &nbsp; &nbsp; &nbsp;<B>And fro the navele doun al covered was</B><BR>
+1958 &nbsp; &nbsp; &nbsp; &nbsp;<B>With wawes grene, and brighte as any glas.</B><BR>
+1959 &nbsp; &nbsp; &nbsp; &nbsp;<B>A citole in hir right hand hadde she,</B><BR>
+1960 &nbsp; &nbsp; &nbsp; &nbsp;<B>And on hir heed, ful semely for to se,</B><BR>
+1961 &nbsp; &nbsp; &nbsp; &nbsp;<B>A rose gerland, fressh and wel smellynge;</B><BR>
+1962 &nbsp; &nbsp; &nbsp; &nbsp;<B>Above hir heed hir dowves flikerynge.</B><BR>
+1963 &nbsp; &nbsp; &nbsp; &nbsp;<B>Biforn hire stood hir sone Cupido;</B><BR>
+1964 &nbsp; &nbsp; &nbsp; &nbsp;<B>Upon his shuldres wynges hadde he two,</B><BR>
+1965 &nbsp; &nbsp; &nbsp; &nbsp;<B>And blynd he was, as it is often seene;</B><BR>
+1966 &nbsp; &nbsp; &nbsp; &nbsp;<B>A bowe he bar and arwes brighte and kene.</B><BR>
+1967 &nbsp; &nbsp; &nbsp; &nbsp;<B>Why sholde I noght as wel eek telle yow al</B><BR>
+1968 &nbsp; &nbsp; &nbsp; &nbsp;<B>The portreiture that was upon the wal</B><BR>
+1969 &nbsp; &nbsp; &nbsp; &nbsp;<B>Withinne the temple of myghty Mars the rede?</B><BR>
+1970 &nbsp; &nbsp; &nbsp; &nbsp;<B>Al peynted was the wal, in lengthe and brede,</B><BR>
+1971 &nbsp; &nbsp; &nbsp; &nbsp;<B>Lyk to the estres of the grisly place</B><BR>
+1972 &nbsp; &nbsp; &nbsp; &nbsp;<B>That highte the grete temple of Mars in Trace,</B><BR>
+1973 &nbsp; &nbsp; &nbsp; &nbsp;<B>In thilke colde, frosty regioun</B><BR>
+1974 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther as Mars hath his sovereyn mansioun.</B><BR>
+1975 &nbsp; &nbsp; &nbsp; &nbsp;<B>First on the wal was peynted a forest,</B><BR>
+1976 &nbsp; &nbsp; &nbsp; &nbsp;<B>In which ther dwelleth neither man ne best,</B><BR>
+1977 &nbsp; &nbsp; &nbsp; &nbsp;<B>With knotty, knarry, bareyne trees olde,</B><BR>
+1978 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of stubbes sharpe and hidouse to biholde,</B><BR>
+1979 &nbsp; &nbsp; &nbsp; &nbsp;<B>In which ther ran a rumbel in a swough,</B><BR>
+1980 &nbsp; &nbsp; &nbsp; &nbsp;<B>As though a storm sholde bresten every bough.</B><BR>
+1981 &nbsp; &nbsp; &nbsp; &nbsp;<B>And dounward from an hille, under a bente,</B><BR>
+1982 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther stood the temple of Mars armypotente,</B><BR>
+1983 &nbsp; &nbsp; &nbsp; &nbsp;<B>Wroght al of burned steel, of which the entree</B><BR>
+1984 &nbsp; &nbsp; &nbsp; &nbsp;<B>Was long and streit, and gastly for to se.</B><BR>
+1985 &nbsp; &nbsp; &nbsp; &nbsp;<B>And therout came a rage and swich a veze</B><BR>
+1986 &nbsp; &nbsp; &nbsp; &nbsp;<B>That it made al the gate for to rese.</B><BR>
+1987 &nbsp; &nbsp; &nbsp; &nbsp;<B>The northren lyght in at the dores shoon,</B><BR>
+1988 &nbsp; &nbsp; &nbsp; &nbsp;<B>For wyndowe on the wal ne was ther noon,</B><BR>
+1989 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thurgh which men myghten any light discerne.</B><BR>
+1990 &nbsp; &nbsp; &nbsp; &nbsp;<B>The dore was al of adamant eterne,</B><BR>
+1991 &nbsp; &nbsp; &nbsp; &nbsp;<B>Yclenched overthwart and endelong</B><BR>
+1992 &nbsp; &nbsp; &nbsp; &nbsp;<B>With iren tough; and for to make it strong,</B><BR>
+1993 &nbsp; &nbsp; &nbsp; &nbsp;<B>Every pyler, the temple to sustene,</B><BR>
+1994 &nbsp; &nbsp; &nbsp; &nbsp;<B>Was tonne-greet, of iren bright and shene.</B><BR>
+1995 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther saugh I first the derke ymaginyng</B><BR>
+1996 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of Felonye, and al the compassyng;</B><BR>
+1997 &nbsp; &nbsp; &nbsp; &nbsp;<B>The crueel Ire, reed as any gleede;</B><BR>
+1998 &nbsp; &nbsp; &nbsp; &nbsp;<B>The pykepurs, and eek the pale Drede;</B><BR>
+1999 &nbsp; &nbsp; &nbsp; &nbsp;<B>The smylere with the knyf under the cloke;</B><BR>
+2000 &nbsp; &nbsp; &nbsp; &nbsp;<B>The shepne brennynge with the blake smoke;</B><BR>
+2001 &nbsp; &nbsp; &nbsp; &nbsp;<B>The tresoun of the mordrynge in the bedde;</B><BR>
+2002 &nbsp; &nbsp; &nbsp; &nbsp;<B>The open werre, with woundes al bibledde;</B><BR>
+2003 &nbsp; &nbsp; &nbsp; &nbsp;<B>Contek, with blody knyf and sharp manace.</B><BR>
+2004 &nbsp; &nbsp; &nbsp; &nbsp;<B>Al ful of chirkyng was that sory place.</B><BR>
+2005 &nbsp; &nbsp; &nbsp; &nbsp;<B>The sleere of hymself yet saugh I ther --</B><BR>
+2006 &nbsp; &nbsp; &nbsp; &nbsp;<B>His herte-blood hath bathed al his heer --</B><BR>
+2007 &nbsp; &nbsp; &nbsp; &nbsp;<B>The nayl ydryven in the shode anyght;</B><BR>
+2008 &nbsp; &nbsp; &nbsp; &nbsp;<B>The colde deeth, with mouth gapyng upright.</B><BR>
+2009 &nbsp; &nbsp; &nbsp; &nbsp;<B>Amyddes of the temple sat Meschaunce,</B><BR>
+2010 &nbsp; &nbsp; &nbsp; &nbsp;<B>With disconfort and sory contenaunce.</B><BR>
+2011 &nbsp; &nbsp; &nbsp; &nbsp;<B>Yet saugh I Woodnesse, laughynge in his rage,</B><BR>
+2012 &nbsp; &nbsp; &nbsp; &nbsp;<B>Armed Compleint, Outhees, and fiers Outrage;</B><BR>
+2013 &nbsp; &nbsp; &nbsp; &nbsp;<B>The careyne in the busk, with throte ycorve;</B><BR>
+2014 &nbsp; &nbsp; &nbsp; &nbsp;<B>A thousand slayn, and nat of qualm ystorve;</B><BR>
+2015 &nbsp; &nbsp; &nbsp; &nbsp;<B>The tiraunt, with the pray by force yraft;</B><BR>
+2016 &nbsp; &nbsp; &nbsp; &nbsp;<B>The toun destroyed, ther was no thyng laft.</B><BR>
+2017 &nbsp; &nbsp; &nbsp; &nbsp;<B>Yet saugh I brent the shippes hoppesteres;</B><BR>
+2018 &nbsp; &nbsp; &nbsp; &nbsp;<B>The hunte strangled with the wilde beres;</B><BR>
+2019 &nbsp; &nbsp; &nbsp; &nbsp;<B>The sowe freten the child right in the cradel;</B><BR>
+2020 &nbsp; &nbsp; &nbsp; &nbsp;<B>The cook yscalded, for al his longe ladel.</B><BR>
+2021 &nbsp; &nbsp; &nbsp; &nbsp;<B>Noght was foryeten by the infortune of Marte.</B><BR>
+2022 &nbsp; &nbsp; &nbsp; &nbsp;<B>The cartere overryden with his carte --</B><BR>
+2023 &nbsp; &nbsp; &nbsp; &nbsp;<B>Under the wheel ful lowe he lay adoun.</B><BR>
+2024 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther were also, of Martes divisioun,</B><BR>
+2025 &nbsp; &nbsp; &nbsp; &nbsp;<B>The barbour, and the bocher, and the smyth,</B><BR>
+2026 &nbsp; &nbsp; &nbsp; &nbsp;<B>That forgeth sharpe swerdes on his styth.</B><BR>
+2027 &nbsp; &nbsp; &nbsp; &nbsp;<B>And al above, depeynted in a tour,</B><BR>
+2028 &nbsp; &nbsp; &nbsp; &nbsp;<B>Saugh I Conquest, sittynge in greet honour,</B><BR>
+2029 &nbsp; &nbsp; &nbsp; &nbsp;<B>With the sharpe swerd over his heed</B><BR>
+2030 &nbsp; &nbsp; &nbsp; &nbsp;<B>Hangynge by a soutil twynes threed.</B><BR>
+2031 &nbsp; &nbsp; &nbsp; &nbsp;<B>Depeynted was the slaughtre of Julius,</B><BR>
+2032 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of grete Nero, and of Antonius;</B><BR>
+2033 &nbsp; &nbsp; &nbsp; &nbsp;<B>Al be that thilke tyme they were unborn,</B><BR>
+2034 &nbsp; &nbsp; &nbsp; &nbsp;<B>Yet was hir deth depeynted ther-biforn</B><BR>
+2035 &nbsp; &nbsp; &nbsp; &nbsp;<B>By manasynge of Mars, right by figure;</B><BR>
+2036 &nbsp; &nbsp; &nbsp; &nbsp;<B>So was it shewed in that portreiture,</B><BR>
+2037 &nbsp; &nbsp; &nbsp; &nbsp;<B>As is depeynted in the sterres above</B><BR>
+2038 &nbsp; &nbsp; &nbsp; &nbsp;<B>Who shal be slayn or elles deed for love.</B><BR>
+2039 &nbsp; &nbsp; &nbsp; &nbsp;<B>Suffiseth oon ensample in stories olde;</B><BR>
+2040 &nbsp; &nbsp; &nbsp; &nbsp;<B>I may nat rekene hem alle though I wolde.</B><BR>
+2041 &nbsp; &nbsp; &nbsp; &nbsp;<B>The statue of Mars upon a carte stood</B><BR>
+2042 &nbsp; &nbsp; &nbsp; &nbsp;<B>Armed, and looked grym as he were wood;</B><BR>
+2043 &nbsp; &nbsp; &nbsp; &nbsp;<B>And over his heed ther shynen two figures</B><BR>
+2044 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of sterres, that been cleped in scriptures,</B><BR>
+2045 &nbsp; &nbsp; &nbsp; &nbsp;<B>That oon Puella, that oother Rubeus --</B><BR>
+2046 &nbsp; &nbsp; &nbsp; &nbsp;<B>This god of armes was arrayed thus.</B><BR>
+2047 &nbsp; &nbsp; &nbsp; &nbsp;<B>A wolf ther stood biforn hym at his feet</B><BR>
+2048 &nbsp; &nbsp; &nbsp; &nbsp;<B>With eyen rede, and of a man he eet;</B><BR>
+2049 &nbsp; &nbsp; &nbsp; &nbsp;<B>With soutil pencel was depeynted this storie</B><BR>
+2050 &nbsp; &nbsp; &nbsp; &nbsp;<B>In redoutynge of Mars and of his glorie.</B><BR>
+2051 &nbsp; &nbsp; &nbsp; &nbsp;<B>Now to the temple of Dyane the chaste,</B><BR>
+2052 &nbsp; &nbsp; &nbsp; &nbsp;<B>As shortly as I kan, I wol me haste,</B><BR>
+2053 &nbsp; &nbsp; &nbsp; &nbsp;<B>To telle yow al the descripsioun.</B><BR>
+2054 &nbsp; &nbsp; &nbsp; &nbsp;<B>Depeynted been the walles up and doun</B><BR>
+2055 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of huntyng and of shamefast chastitee.</B><BR>
+2056 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther saugh I how woful Calistopee,</B><BR>
+2057 &nbsp; &nbsp; &nbsp; &nbsp;<B>Whan that Diane agreved was with here,</B><BR>
+2058 &nbsp; &nbsp; &nbsp; &nbsp;<B>Was turned from a womman til a bere,</B><BR>
+2059 &nbsp; &nbsp; &nbsp; &nbsp;<B>And after was she maad the loode-sterre.</B><BR>
+2060 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thus was it peynted; I kan sey yow no ferre.</B><BR>
+2061 &nbsp; &nbsp; &nbsp; &nbsp;<B>Hir sone is eek a sterre, as men may see.</B><BR>
+2062 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther saugh I Dane, yturned til a tree --</B><BR>
+2063 &nbsp; &nbsp; &nbsp; &nbsp;<B>I mene nat the goddesse Diane,</B><BR>
+2064 &nbsp; &nbsp; &nbsp; &nbsp;<B>But Penneus doghter, which that highte Dane.</B><BR>
+2065 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther saugh I Attheon an hert ymaked,</B><BR>
+2066 &nbsp; &nbsp; &nbsp; &nbsp;<B>For vengeaunce that he saugh Diane al naked;</B><BR>
+2067 &nbsp; &nbsp; &nbsp; &nbsp;<B>I saugh how that his houndes have hym caught</B><BR>
+2068 &nbsp; &nbsp; &nbsp; &nbsp;<B>And freeten hym, for that they knewe hym naught.</B><BR>
+2069 &nbsp; &nbsp; &nbsp; &nbsp;<B>Yet peynted was a litel forther moor</B><BR>
+2070 &nbsp; &nbsp; &nbsp; &nbsp;<B>How Atthalante hunted the wilde boor,</B><BR>
+2071 &nbsp; &nbsp; &nbsp; &nbsp;<B>And Meleagre, and many another mo,</B><BR>
+2072 &nbsp; &nbsp; &nbsp; &nbsp;<B>For which Dyane wroghte hym care and wo.</B><BR>
+2073 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther saugh I many another wonder storie,</B><BR>
+2074 &nbsp; &nbsp; &nbsp; &nbsp;<B>The which me list nat drawen to memorie.</B><BR>
+2075 &nbsp; &nbsp; &nbsp; &nbsp;<B>This goddesse on an hert ful hye seet,</B><BR>
+2076 &nbsp; &nbsp; &nbsp; &nbsp;<B>With smale houndes al aboute hir feet,</B><BR>
+2077 &nbsp; &nbsp; &nbsp; &nbsp;<B>And undernethe hir feet she hadde a moone --</B><BR>
+2078 &nbsp; &nbsp; &nbsp; &nbsp;<B>Wexynge it was and sholde wanye soone.</B><BR>
+2079 &nbsp; &nbsp; &nbsp; &nbsp;<B>In gaude grene hir statue clothed was,</B><BR>
+2080 &nbsp; &nbsp; &nbsp; &nbsp;<B>With bowe in honde and arwes in a cas.</B><BR>
+2081 &nbsp; &nbsp; &nbsp; &nbsp;<B>Hir eyen caste she ful lowe adoun</B><BR>
+2082 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther Pluto hath his derke regioun.</B><BR>
+2083 &nbsp; &nbsp; &nbsp; &nbsp;<B>A womman travaillynge was hire biforn;</B><BR>
+2084 &nbsp; &nbsp; &nbsp; &nbsp;<B>But for hir child so longe was unborn,</B><BR>
+2085 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ful pitously Lucyna gan she calle</B><BR>
+2086 &nbsp; &nbsp; &nbsp; &nbsp;<B>And seyde, "Help, for thou mayst best of alle!"</B><BR>
+2087 &nbsp; &nbsp; &nbsp; &nbsp;<B>Wel koude he peynten lifly that it wroghte;</B><BR>
+2088 &nbsp; &nbsp; &nbsp; &nbsp;<B>With many a floryn he the hewes boghte.</B><BR>
+2089 &nbsp; &nbsp; &nbsp; &nbsp;<B>Now been thise lystes maad, and Theseus,</B><BR>
+2090 &nbsp; &nbsp; &nbsp; &nbsp;<B>That at his grete cost arrayed thus</B><BR>
+2091 &nbsp; &nbsp; &nbsp; &nbsp;<B>The temples and the theatre every deel,</B><BR>
+2092 &nbsp; &nbsp; &nbsp; &nbsp;<B>Whan it was doon, hym lyked wonder weel.</B><BR>
+2093 &nbsp; &nbsp; &nbsp; &nbsp;<B>But stynte I wole of Theseus a lite,</B><BR>
+2094 &nbsp; &nbsp; &nbsp; &nbsp;<B>And speke of Palamon and of Arcite.</B><BR>
+2095 &nbsp; &nbsp; &nbsp; &nbsp;<B>The day approcheth of hir retournynge,</B><BR>
+2096 &nbsp; &nbsp; &nbsp; &nbsp;<B>That everich sholde an hundred knyghtes brynge</B><BR>
+2097 &nbsp; &nbsp; &nbsp; &nbsp;<B>The bataille to darreyne, as I yow tolde.</B><BR>
+2098 &nbsp; &nbsp; &nbsp; &nbsp;<B>And til Atthenes, hir covenant for to holde,</B><BR>
+2099 &nbsp; &nbsp; &nbsp; &nbsp;<B>Hath everich of hem broght an hundred knyghtes,</B><BR>
+2100 &nbsp; &nbsp; &nbsp; &nbsp;<B>Wel armed for the werre at alle rightes.</B><BR>
+2101 &nbsp; &nbsp; &nbsp; &nbsp;<B>And sikerly ther trowed many a man</B><BR>
+2102 &nbsp; &nbsp; &nbsp; &nbsp;<B>That nevere, sithen that the world bigan,</B><BR>
+2103 &nbsp; &nbsp; &nbsp; &nbsp;<B>As for to speke of knyghthod of hir hond,</B><BR>
+2104 &nbsp; &nbsp; &nbsp; &nbsp;<B>As fer as God hath maked see or lond,</B><BR>
+2105 &nbsp; &nbsp; &nbsp; &nbsp;<B>Nas of so fewe so noble a compaignye.</B><BR>
+2106 &nbsp; &nbsp; &nbsp; &nbsp;<B>For every wight that lovede chivalrye</B><BR>
+2107 &nbsp; &nbsp; &nbsp; &nbsp;<B>And wolde, his thankes, han a passant name,</B><BR>
+2108 &nbsp; &nbsp; &nbsp; &nbsp;<B>Hath preyed that he myghte been of that game;</B><BR>
+2109 &nbsp; &nbsp; &nbsp; &nbsp;<B>And wel was hym that therto chosen was,</B><BR>
+2110 &nbsp; &nbsp; &nbsp; &nbsp;<B>For if ther fille tomorwe swich a cas,</B><BR>
+2111 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ye knowen wel that every lusty knyght</B><BR>
+2112 &nbsp; &nbsp; &nbsp; &nbsp;<B>That loveth paramours and hath his myght,</B><BR>
+2113 &nbsp; &nbsp; &nbsp; &nbsp;<B>Were it in Engelond or elleswhere,</B><BR>
+2114 &nbsp; &nbsp; &nbsp; &nbsp;<B>They wolde, hir thankes, wilnen to be there --</B><BR>
+2115 &nbsp; &nbsp; &nbsp; &nbsp;<B>To fighte for a lady, benedicitee!</B><BR>
+2116 &nbsp; &nbsp; &nbsp; &nbsp;<B>It were a lusty sighte for to see.</B><BR>
+2117 &nbsp; &nbsp; &nbsp; &nbsp;<B>And right so ferden they with Palamon.</B><BR>
+2118 &nbsp; &nbsp; &nbsp; &nbsp;<B>With hym ther wenten knyghtes many on;</B><BR>
+2119 &nbsp; &nbsp; &nbsp; &nbsp;<B>Som wol ben armed in an haubergeoun,</B><BR>
+2120 &nbsp; &nbsp; &nbsp; &nbsp;<B>And in a brestplate and a light gypoun;</B><BR>
+2121 &nbsp; &nbsp; &nbsp; &nbsp;<B>And som wol have a paire plates large;</B><BR>
+2122 &nbsp; &nbsp; &nbsp; &nbsp;<B>And som wol have a Pruce sheeld or a targe;</B><BR>
+2123 &nbsp; &nbsp; &nbsp; &nbsp;<B>Som wol ben armed on his legges weel,</B><BR>
+2124 &nbsp; &nbsp; &nbsp; &nbsp;<B>And have an ax, and som a mace of steel --</B><BR>
+2125 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther is no newe gyse that it nas old.</B><BR>
+2126 &nbsp; &nbsp; &nbsp; &nbsp;<B>Armed were they, as I have yow told,</B><BR>
+2127 &nbsp; &nbsp; &nbsp; &nbsp;<B>Everych after his opinioun.</B><BR>
+2128 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther maistow seen, comynge with Palamoun,</B><BR>
+2129 &nbsp; &nbsp; &nbsp; &nbsp;<B>Lygurge hymself, the grete kyng of Trace.</B><BR>
+2130 &nbsp; &nbsp; &nbsp; &nbsp;<B>Blak was his berd, and manly was his face;</B><BR>
+2131 &nbsp; &nbsp; &nbsp; &nbsp;<B>The cercles of his eyen in his heed,</B><BR>
+2132 &nbsp; &nbsp; &nbsp; &nbsp;<B>They gloweden bitwixen yelow and reed,</B><BR>
+2133 &nbsp; &nbsp; &nbsp; &nbsp;<B>And lik a grifphon looked he aboute,</B><BR>
+2134 &nbsp; &nbsp; &nbsp; &nbsp;<B>With kempe heeris on his browes stoute;</B><BR>
+2135 &nbsp; &nbsp; &nbsp; &nbsp;<B>His lymes grete, his brawnes harde and stronge,</B><BR>
+2136 &nbsp; &nbsp; &nbsp; &nbsp;<B>His shuldres brode, his armes rounde and longe;</B><BR>
+2137 &nbsp; &nbsp; &nbsp; &nbsp;<B>And as the gyse was in his contree,</B><BR>
+2138 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ful hye upon a chaar of gold stood he,</B><BR>
+2139 &nbsp; &nbsp; &nbsp; &nbsp;<B>With foure white boles in the trays.</B><BR>
+2140 &nbsp; &nbsp; &nbsp; &nbsp;<B>In stede of cote-armure over his harnays,</B><BR>
+2141 &nbsp; &nbsp; &nbsp; &nbsp;<B>With nayles yelewe and brighte as any gold,</B><BR>
+2142 &nbsp; &nbsp; &nbsp; &nbsp;<B>He hadde a beres skyn, col-blak for old.</B><BR>
+2143 &nbsp; &nbsp; &nbsp; &nbsp;<B>His longe heer was kembd bihynde his bak;</B><BR>
+2144 &nbsp; &nbsp; &nbsp; &nbsp;<B>As any ravenes fethere it shoon for blak;</B><BR>
+2145 &nbsp; &nbsp; &nbsp; &nbsp;<B>A wrethe of gold, arm-greet, of huge wighte,</B><BR>
+2146 &nbsp; &nbsp; &nbsp; &nbsp;<B>Upon his heed, set ful of stones brighte,</B><BR>
+2147 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of fyne rubyes and of dyamauntz.</B><BR>
+2148 &nbsp; &nbsp; &nbsp; &nbsp;<B>Aboute his chaar ther wenten white alauntz,</B><BR>
+2149 &nbsp; &nbsp; &nbsp; &nbsp;<B>Twenty and mo, as grete as any steer,</B><BR>
+2150 &nbsp; &nbsp; &nbsp; &nbsp;<B>To hunten at the leoun or the deer,</B><BR>
+2151 &nbsp; &nbsp; &nbsp; &nbsp;<B>And folwed hym with mosel faste ybounde,</B><BR>
+2152 &nbsp; &nbsp; &nbsp; &nbsp;<B>Colered of gold, and tourettes fyled rounde.</B><BR>
+2153 &nbsp; &nbsp; &nbsp; &nbsp;<B>An hundred lordes hadde he in his route,</B><BR>
+2154 &nbsp; &nbsp; &nbsp; &nbsp;<B>Armed ful wel, with hertes stierne and stoute.</B><BR>
+2155 &nbsp; &nbsp; &nbsp; &nbsp;<B>With Arcita, in stories as men fynde,</B><BR>
+2156 &nbsp; &nbsp; &nbsp; &nbsp;<B>The grete Emetreus, the kyng of Inde,</B><BR>
+2157 &nbsp; &nbsp; &nbsp; &nbsp;<B>Upon a steede bay trapped in steel,</B><BR>
+2158 &nbsp; &nbsp; &nbsp; &nbsp;<B>Covered in clooth of gold, dyapred weel,</B><BR>
+2159 &nbsp; &nbsp; &nbsp; &nbsp;<B>Cam ridynge lyk the god of armes, Mars.</B><BR>
+2160 &nbsp; &nbsp; &nbsp; &nbsp;<B>His cote-armure was of clooth of Tars</B><BR>
+2161 &nbsp; &nbsp; &nbsp; &nbsp;<B>Couched with perles white and rounde and grete;</B><BR>
+2162 &nbsp; &nbsp; &nbsp; &nbsp;<B>His sadel was of brend gold newe ybete;</B><BR>
+2163 &nbsp; &nbsp; &nbsp; &nbsp;<B>A mantelet upon his shulder hangynge,</B><BR>
+2164 &nbsp; &nbsp; &nbsp; &nbsp;<B>Bret-ful of rubyes rede as fyr sparklynge;</B><BR>
+2165 &nbsp; &nbsp; &nbsp; &nbsp;<B>His crispe heer lyk rynges was yronne,</B><BR>
+2166 &nbsp; &nbsp; &nbsp; &nbsp;<B>And that was yelow, and glytered as the sonne.</B><BR>
+2167 &nbsp; &nbsp; &nbsp; &nbsp;<B>His nose was heigh, his eyen bright citryn,</B><BR>
+2168 &nbsp; &nbsp; &nbsp; &nbsp;<B>His lippes rounde, his colour was sangwyn;</B><BR>
+2169 &nbsp; &nbsp; &nbsp; &nbsp;<B>A fewe frakenes in his face yspreynd,</B><BR>
+2170 &nbsp; &nbsp; &nbsp; &nbsp;<B>Bitwixen yelow and somdel blak ymeynd;</B><BR>
+2171 &nbsp; &nbsp; &nbsp; &nbsp;<B>And as a leon he his lookyng caste.</B><BR>
+2172 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of fyve and twenty yeer his age I caste.</B><BR>
+2173 &nbsp; &nbsp; &nbsp; &nbsp;<B>His berd was wel bigonne for to sprynge;</B><BR>
+2174 &nbsp; &nbsp; &nbsp; &nbsp;<B>His voys was as a trompe thonderynge.</B><BR>
+2175 &nbsp; &nbsp; &nbsp; &nbsp;<B>Upon his heed he wered of laurer grene</B><BR>
+2176 &nbsp; &nbsp; &nbsp; &nbsp;<B>A gerland, fressh and lusty for to sene.	</B><BR>
+2177 &nbsp; &nbsp; &nbsp; &nbsp;<B>Upon his hand he bar for his deduyt</B><BR>
+2178 &nbsp; &nbsp; &nbsp; &nbsp;<B>An egle tame, as any lilye whyt.</B><BR>
+2179 &nbsp; &nbsp; &nbsp; &nbsp;<B>An hundred lordes hadde he with hym there,</B><BR>
+2180 &nbsp; &nbsp; &nbsp; &nbsp;<B>Al armed, save hir heddes, in al hir gere,</B><BR>
+2181 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ful richely in alle maner thynges.</B><BR>
+2182 &nbsp; &nbsp; &nbsp; &nbsp;<B>For trusteth wel that dukes, erles, kynges</B><BR>
+2183 &nbsp; &nbsp; &nbsp; &nbsp;<B>Were gadered in this noble compaignye,</B><BR>
+2184 &nbsp; &nbsp; &nbsp; &nbsp;<B>For love and for encrees of chivalrye.</B><BR>
+2185 &nbsp; &nbsp; &nbsp; &nbsp;<B>Aboute this kyng ther ran on every part</B><BR>
+2186 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ful many a tame leon and leopart.</B><BR>
+2187 &nbsp; &nbsp; &nbsp; &nbsp;<B>And in this wise thise lordes, alle and some,</B><BR>
+2188 &nbsp; &nbsp; &nbsp; &nbsp;<B>Been on the Sonday to the citee come</B><BR>
+2189 &nbsp; &nbsp; &nbsp; &nbsp;<B>Aboute pryme, and in the toun alight.</B><BR>
+2190 &nbsp; &nbsp; &nbsp; &nbsp;<B>This Theseus, this duc, this worthy knyght,</B><BR>
+2191 &nbsp; &nbsp; &nbsp; &nbsp;<B>Whan he had broght hem into his citee,</B><BR>
+2192 &nbsp; &nbsp; &nbsp; &nbsp;<B>And inned hem, everich at his degree,</B><BR>
+2193 &nbsp; &nbsp; &nbsp; &nbsp;<B>He festeth hem, and dooth so greet labour</B><BR>
+2194 &nbsp; &nbsp; &nbsp; &nbsp;<B>To esen hem and doon hem al honour</B><BR>
+2195 &nbsp; &nbsp; &nbsp; &nbsp;<B>That yet men wenen that no mannes wit</B><BR>
+2196 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of noon estaat ne koude amenden it.</B><BR>
+2197 &nbsp; &nbsp; &nbsp; &nbsp;<B>The mynstralcye, the service at the feeste,</B><BR>
+2198 &nbsp; &nbsp; &nbsp; &nbsp;<B>The grete yiftes to the meeste and leeste,</B><BR>
+2199 &nbsp; &nbsp; &nbsp; &nbsp;<B>The riche array of Theseus paleys,</B><BR>
+2200 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ne who sat first ne last upon the deys,</B><BR>
+2201 &nbsp; &nbsp; &nbsp; &nbsp;<B>What ladyes fairest been or best daunsynge,</B><BR>
+2202 &nbsp; &nbsp; &nbsp; &nbsp;<B>Or which of hem kan dauncen best and synge,</B><BR>
+2203 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ne who moost felyngly speketh of love;</B><BR>
+2204 &nbsp; &nbsp; &nbsp; &nbsp;<B>What haukes sitten on the perche above,</B><BR>
+2205 &nbsp; &nbsp; &nbsp; &nbsp;<B>What houndes liggen on the floor adoun --</B><BR>
+2206 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of al this make I now no mencioun,</B><BR>
+2207 &nbsp; &nbsp; &nbsp; &nbsp; <B>But al th' effect; that thynketh me the beste.</B><BR>
+2208 &nbsp; &nbsp; &nbsp; &nbsp;<B>Now cometh the point, and herkneth if yow leste.</B><BR>
+2209 &nbsp; &nbsp; &nbsp; &nbsp;<B>The Sonday nyght, er day bigan to sprynge,</B><BR>
+2210 &nbsp; &nbsp; &nbsp; &nbsp;<B>Whan Palamon the larke herde synge</B><BR>
+2211 &nbsp; &nbsp; &nbsp; &nbsp;<B>(Although it nere nat day by houres two,</B><BR>
+2212 &nbsp; &nbsp; &nbsp; &nbsp;<B>Yet the larke sang) and Palamon right then</B><BR>
+2213 &nbsp; &nbsp; &nbsp; &nbsp;<B>With hooly herte and with an heigh corage,</B><BR>
+2214 &nbsp; &nbsp; &nbsp; &nbsp;<B>He roos to wenden on his pilgrymage</B><BR>
+2215 &nbsp; &nbsp; &nbsp; &nbsp;<B>Unto the blissful Citherea benign --</B><BR>
+2216 &nbsp; &nbsp; &nbsp; &nbsp;<B>I mene Venus, honurable and digne.</B><BR>
+2217 &nbsp; &nbsp; &nbsp; &nbsp;<B>And in hir houre he walketh forth a pas</B><BR>
+2218 &nbsp; &nbsp; &nbsp; &nbsp;<B>Unto the lystes ther hire temple was,</B><BR>
+2219 &nbsp; &nbsp; &nbsp; &nbsp;<B>And doun he kneleth, and with humble cheere</B><BR>
+2220 &nbsp; &nbsp; &nbsp; &nbsp;<B>And herte soor he seyde as ye shal heere:</B><BR>
+2221 &nbsp; &nbsp; &nbsp; &nbsp;<B>"Faireste of faire, O lady myn, Venus,</B><BR>
+2222 &nbsp; &nbsp; &nbsp; &nbsp;<B>Doughter to Jove and spouse of Vulcanus,</B><BR>
+2223 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thow gladere of the mount of Citheron,</B><BR>
+2224 &nbsp; &nbsp; &nbsp; &nbsp;<B>For thilke love thow haddest to Adoon,</B><BR>
+2225 &nbsp; &nbsp; &nbsp; &nbsp;<B>Have pitee of my bittre teeris smerte,</B><BR>
+2226 &nbsp; &nbsp; &nbsp; &nbsp;<B>And taak myn humble preyere at thyn herte.</B><BR>
+2227 &nbsp; &nbsp; &nbsp; &nbsp;<B>Allas! I ne have no langage to telle</B><BR>
+2228 &nbsp; &nbsp; &nbsp; &nbsp;<B>Th'effectes ne the tormentz of myn helle;</B><BR>
+2229 &nbsp; &nbsp; &nbsp; &nbsp;<B>Myn herte may myne harmes nat biwreye;</B><BR>
+2230 &nbsp; &nbsp; &nbsp; &nbsp;<B>I am so confus that I kan noght seye</B><BR>
+2231 &nbsp; &nbsp; &nbsp; &nbsp;<B>But `Mercy, lady bright, that knowest weele</B><BR>
+2232 &nbsp; &nbsp; &nbsp; &nbsp;<B>My thought and seest what harmes that I feele!'</B><BR>
+2233 &nbsp; &nbsp; &nbsp; &nbsp;<B>Considere al this and rewe upon my soore,</B><BR>
+2234 &nbsp; &nbsp; &nbsp; &nbsp;<B>As wisly as I shal for everemoore,</B><BR>
+2235 &nbsp; &nbsp; &nbsp; &nbsp;<B>Emforth my myght, thy trewe servant be,</B><BR>
+2236 &nbsp; &nbsp; &nbsp; &nbsp;<B>And holden werre alwey with chastitee.</B><BR>
+2237 &nbsp; &nbsp; &nbsp; &nbsp;<B>That make I myn avow, so ye me helpe!</B><BR>
+2238 &nbsp; &nbsp; &nbsp; &nbsp;<B>I kepe noght of armes for to yelpe,</B><BR>
+2239 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ne I ne axe nat tomorwe to have victorie,</B><BR>
+2240 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ne renoun in this cas, ne veyne glorie</B><BR>
+2241 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of pris of armes blowen up and doun;</B><BR>
+2242 &nbsp; &nbsp; &nbsp; &nbsp;<B>But I wolde have fully possessioun</B><BR>
+2243 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of Emelye, and dye in thy servyse.</B><BR>
+2244 &nbsp; &nbsp; &nbsp; &nbsp;<B>Fynd thow the manere hou and in what wyse:</B><BR>
+2245 &nbsp; &nbsp; &nbsp; &nbsp;<B>I recche nat but it may bettre be</B><BR>
+2246 &nbsp; &nbsp; &nbsp; &nbsp;<B>To have victorie of hem, or they of me,</B><BR>
+2247 &nbsp; &nbsp; &nbsp; &nbsp;<B>So that I have my lady in myne armes.</B><BR>
+2248 &nbsp; &nbsp; &nbsp; &nbsp;<B>For though so be that Mars is god of armes,</B><BR>
+2249 &nbsp; &nbsp; &nbsp; &nbsp;<B>Youre vertu is so greet in hevene above</B><BR>
+2250 &nbsp; &nbsp; &nbsp; &nbsp;<B>That if yow list, I shal wel have my love.</B><BR>
+2251 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thy temple wol I worshipe everemo,</B><BR>
+2252 &nbsp; &nbsp; &nbsp; &nbsp;<B>And on thyn auter, where I ride or go,</B><BR>
+2253 &nbsp; &nbsp; &nbsp; &nbsp;<B>I wol doon sacrifice and fires beete.</B><BR>
+2254 &nbsp; &nbsp; &nbsp; &nbsp;<B>And if ye wol nat so, my lady sweete,</B><BR>
+2255 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thanne preye I thee, tomorwe with a spere</B><BR>
+2256 &nbsp; &nbsp; &nbsp; &nbsp;<B>That Arcita me thurgh the herte bere.</B><BR>
+2257 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thanne rekke I noght, whan I have lost my lyf,</B><BR>
+2258 &nbsp; &nbsp; &nbsp; &nbsp;<B>Though that Arcita wynne hire to his wyf.</B><BR>
+2259 &nbsp; &nbsp; &nbsp; &nbsp;<B>This is th'effect and ende of my preyere:</B><BR>
+2260 &nbsp; &nbsp; &nbsp; &nbsp;<B>Yif me my love, thow blisful lady deere."</B><BR>
+2261 &nbsp; &nbsp; &nbsp; &nbsp;<B>Whan the orison was doon of Palamon,</B><BR>
+2262 &nbsp; &nbsp; &nbsp; &nbsp;<B>His sacrifice he dide, and that anon,</B><BR>
+2263 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ful pitously, with alle circumstaunces,</B><BR>
+2264 &nbsp; &nbsp; &nbsp; &nbsp;<B>Al telle I noght as now his observaunces;</B><BR>
+2265 &nbsp; &nbsp; &nbsp; &nbsp;<B>But atte laste the statue of Venus shook,</B><BR>
+2266 &nbsp; &nbsp; &nbsp; &nbsp;<B>And made a signe, wherby that he took</B><BR>
+2267 &nbsp; &nbsp; &nbsp; &nbsp;<B>That his preyere accepted was that day.</B><BR>
+2268 &nbsp; &nbsp; &nbsp; &nbsp;<B>For thogh the signe shewed a delay,</B><BR>
+2269 &nbsp; &nbsp; &nbsp; &nbsp;<B>Yet wiste he wel that graunted was his boone,</B><BR>
+2270 &nbsp; &nbsp; &nbsp; &nbsp;<B>And with glad herte he wente hym hoom ful soone.</B><BR>
+2271 &nbsp; &nbsp; &nbsp; &nbsp;<B>The thridde houre inequal that Palamon</B><BR>
+2272 &nbsp; &nbsp; &nbsp; &nbsp;<B>Bigan to Venus temple for to gon,</B><BR>
+2273 &nbsp; &nbsp; &nbsp; &nbsp;<B>Up roos the sonne, and up roos Emelye</B><BR>
+2274 &nbsp; &nbsp; &nbsp; &nbsp;<B>And to the temple of Dyane gan hye.</B><BR>
+2275 &nbsp; &nbsp; &nbsp; &nbsp;<B>Hir maydens, that she thider with hire ladde,</B><BR>
+2276 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ful redily with hem the fyr they hadde,</B><BR>
+2277 &nbsp; &nbsp; &nbsp; &nbsp;<B>Th'encens, the clothes, and the remenant al</B><BR>
+2278 &nbsp; &nbsp; &nbsp; &nbsp;<B>That to the sacrifice longen shal;</B><BR>
+2279 &nbsp; &nbsp; &nbsp; &nbsp;<B>The hornes fulle of meeth, as was the gyse --</B><BR>
+2280 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ther lakked noght to doon hir sacrifise.</B><BR>
+2281 &nbsp; &nbsp; &nbsp; &nbsp;<B>Smokynge the temple, ful of clothes faire,</B><BR>
+2282 &nbsp; &nbsp; &nbsp; &nbsp;<B>This Emelye, with herte debonaire,</B><BR>
+2283 &nbsp; &nbsp; &nbsp; &nbsp;<B>Hir body wessh with water of a welle.</B><BR>
+2284 &nbsp; &nbsp; &nbsp; &nbsp;<B>But hou she dide hir ryte I dar nat telle,</B><BR>
+2285 &nbsp; &nbsp; &nbsp; &nbsp;<B>But it be any thing in general;</B><BR>
+2286 &nbsp; &nbsp; &nbsp; &nbsp;<B>And yet it were a game to heeren al.</B><BR>
+2287 &nbsp; &nbsp; &nbsp; &nbsp;<B>To hym that meneth wel it were no charge;</B><BR>
+2288 &nbsp; &nbsp; &nbsp; &nbsp;<B>But it is good a man been at his large.</B><BR>
+2289 &nbsp; &nbsp; &nbsp; &nbsp;<B>Hir brighte heer was kembd, untressed al;</B><BR>
+2290 &nbsp; &nbsp; &nbsp; &nbsp;<B>A coroune of a grene ook cerial</B><BR>
+2291 &nbsp; &nbsp; &nbsp; &nbsp;<B>Upon hir heed was set ful fair and meete.</B><BR>
+2292 &nbsp; &nbsp; &nbsp; &nbsp;<B>Two fyres on the auter gan she beete,</B><BR>
+2293 &nbsp; &nbsp; &nbsp; &nbsp;<B>And dide hir thynges, as men may biholde</B><BR>
+2294 &nbsp; &nbsp; &nbsp; &nbsp;     <B>In Stace of Thebes and thise bookes olde.</B><BR>
+2295 &nbsp; &nbsp; &nbsp; &nbsp;<B>Whan kyndled was the fyr, with pitous cheere</B><BR>
+2296 &nbsp; &nbsp; &nbsp; &nbsp;<B>Unto Dyane she spak as ye may heere:</B><BR>
+2297 &nbsp; &nbsp; &nbsp; &nbsp;<B>"O chaste goddesse of the wodes grene,</B><BR>
+2298 &nbsp; &nbsp; &nbsp; &nbsp;<B>To whom bothe hevene and erthe and see is sene,</B><BR>
+2299 &nbsp; &nbsp; &nbsp; &nbsp;<B>Queene of the regne of Pluto derk and lowe,</B><BR>
+2300 &nbsp; &nbsp; &nbsp; &nbsp;<B>Goddesse of maydens, that myn herte hast knowe</B><BR>
+2301 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ful many a yeer, and woost what I desire,</B><BR>
+2302 &nbsp; &nbsp; &nbsp; &nbsp;<B>As keepe me fro thy vengeaunce and thyn ire,</B><BR>
+2303 &nbsp; &nbsp; &nbsp; &nbsp;<B>That Attheon aboughte cruelly.</B><BR>
+2304 &nbsp; &nbsp; &nbsp; &nbsp;<B>Chaste goddesse, wel wostow that I</B><BR>
+2305 &nbsp; &nbsp; &nbsp; &nbsp;<B>Desire to ben a mayden al my lyf,</B><BR>
+2306 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ne nevere wol I be no love ne wyf.</B><BR>
+2307 &nbsp; &nbsp; &nbsp; &nbsp;<B>I am, thow woost, yet of thy compaignye,</B><BR>
+2308 &nbsp; &nbsp; &nbsp; &nbsp;<B>A mayde, and love huntynge and venerye,</B><BR>
+2309 &nbsp; &nbsp; &nbsp; &nbsp;<B>And for to walken in the wodes wilde,</B><BR>
+2310 &nbsp; &nbsp; &nbsp; &nbsp;<B>And noght to ben a wyf and be with childe.</B><BR>
+2311 &nbsp; &nbsp; &nbsp; &nbsp;<B>Noght wol I knowe compaignye of man.</B><BR>
+2312 &nbsp; &nbsp; &nbsp; &nbsp;<B>Now help me, lady, sith ye may and kan,</B><BR>
+2313 &nbsp; &nbsp; &nbsp; &nbsp;<B>For tho thre formes that thou hast in thee.</B><BR>
+2314 &nbsp; &nbsp; &nbsp; &nbsp;<B>And Palamon, that hath swich love to me,</B><BR>
+2315 &nbsp; &nbsp; &nbsp; &nbsp;<B>And eek Arcite, that loveth me so soore,</B><BR>
+2316 &nbsp; &nbsp; &nbsp; &nbsp;<B>This grace I preye thee withoute moore,</B><BR>
+2317 &nbsp; &nbsp; &nbsp; &nbsp;<B>As sende love and pees bitwixe hem two,</B><BR>
+2318 &nbsp; &nbsp; &nbsp; &nbsp;<B>And fro me turne awey hir hertes so</B><BR>
+2319 &nbsp; &nbsp; &nbsp; &nbsp;<B>That al hire hoote love and hir desir,</B><BR>
+2320 &nbsp; &nbsp; &nbsp; &nbsp;<B>And al hir bisy torment, and hir fir</B><BR>
+2321 &nbsp; &nbsp; &nbsp; &nbsp;<B>Be queynt, or turned in another place.</B><BR>
+2322 &nbsp; &nbsp; &nbsp; &nbsp;<B>And if so be thou wolt nat do me grace,</B><BR>
+2323 &nbsp; &nbsp; &nbsp; &nbsp;<B>Or if my destynee be shapen so</B><BR>
+2324 &nbsp; &nbsp; &nbsp; &nbsp;<B>That I shal nedes have oon of hem two,</B><BR>
+2325 &nbsp; &nbsp; &nbsp; &nbsp;<B>As sende me hym that moost desireth me.</B><BR>
+2326 &nbsp; &nbsp; &nbsp; &nbsp;<B>Bihoold, goddesse of clene chastitee,</B><BR>
+2327 &nbsp; &nbsp; &nbsp; &nbsp;<B>The bittre teeris that on my chekes falle.</B><BR>
+2328 &nbsp; &nbsp; &nbsp; &nbsp;<B>Syn thou art mayde and kepere of us alle,</B><BR>
+2329 &nbsp; &nbsp; &nbsp; &nbsp;<B>My maydenhede thou kepe and wel conserve,</B><BR>
+2330 &nbsp; &nbsp; &nbsp; &nbsp;<B>And whil I lyve, a mayde I wol thee serve."</B><BR>
+2331 &nbsp; &nbsp; &nbsp; &nbsp;<B>The fires brenne upon the auter cleere,</B><BR>
+2332 &nbsp; &nbsp; &nbsp; &nbsp;<B>Whil Emelye was thus in hir preyere.</B><BR>
+2333 &nbsp; &nbsp; &nbsp; &nbsp;<B>But sodeynly she saugh a sighte queynte,</B><BR>
+2334 &nbsp; &nbsp; &nbsp; &nbsp;<B>For right anon oon of the fyres queynte</B><BR>
+2335 &nbsp; &nbsp; &nbsp; &nbsp;<B>And quyked agayn, and after that anon</B><BR>
+2336 &nbsp; &nbsp; &nbsp; &nbsp;<B>That oother fyr was queynt and al agon;</B><BR>
+2337 &nbsp; &nbsp; &nbsp; &nbsp;<B>And as it queynte it made a whistelynge,</B><BR>
+2338 &nbsp; &nbsp; &nbsp; &nbsp;<B>As doon thise wete brondes in hir brennynge,</B><BR>
+2339 &nbsp; &nbsp; &nbsp; &nbsp;<B>And at the brondes ende out ran anon</B><BR>
+2340 &nbsp; &nbsp; &nbsp; &nbsp;<B>As it were blody dropes many oon;</B><BR>
+2341 &nbsp; &nbsp; &nbsp; &nbsp;<B>For which so soore agast was Emelye</B><BR>
+2342 &nbsp; &nbsp; &nbsp; &nbsp;<B>That she was wel ny mad and gan to crye,</B><BR>
+2343 &nbsp; &nbsp; &nbsp; &nbsp;<B>For she ne wiste what it signyfied,</B><BR>
+2344 &nbsp; &nbsp; &nbsp; &nbsp;<B>But oonly for the feere thus hath she cried,</B><BR>
+2345 &nbsp; &nbsp; &nbsp; &nbsp;<B>And weep that it was pitee for to heere.</B><BR>
+2346 &nbsp; &nbsp; &nbsp; &nbsp;<B>And therwithal Dyane gan appeere,</B><BR>
+2347 &nbsp; &nbsp; &nbsp; &nbsp;<B>With bowe in honde, right as an hunteresse,</B><BR>
+2348 &nbsp; &nbsp; &nbsp; &nbsp;<B>And seyde, "Doghter, stynt thyn hevynesse.</B><BR>
+2349 &nbsp; &nbsp; &nbsp; &nbsp;<B>Among the goddes hye it is affermed,</B><BR>
+2350 &nbsp; &nbsp; &nbsp; &nbsp;<B>And by eterne word writen and confermed,</B><BR>
+2351 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thou shalt ben wedded unto oon of tho</B><BR>
+2352 &nbsp; &nbsp; &nbsp; &nbsp;<B>That han for thee so muchel care and wo,</B><BR>
+2353 &nbsp; &nbsp; &nbsp; &nbsp;<B>But unto which of hem I may nat telle.</B><BR>
+2354 &nbsp; &nbsp; &nbsp; &nbsp;<B>Farwel, for I ne may no lenger dwelle.</B><BR>
+2355 &nbsp; &nbsp; &nbsp; &nbsp;<B>The fires which that on myn auter brenne</B><BR>
+2356 &nbsp; &nbsp; &nbsp; &nbsp;<B>Shulle thee declaren, er that thou go henne,</B><BR>
+2357 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thyn aventure of love, as in this cas."</B><BR>
+2358 &nbsp; &nbsp; &nbsp; &nbsp;<B>And with that word, the arwes in the caas</B><BR>
+2359 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of the goddesse clateren faste and rynge,</B><BR>
+2360 &nbsp; &nbsp; &nbsp; &nbsp;<B>And forth she wente and made a vanysshynge;</B><BR>
+2361 &nbsp; &nbsp; &nbsp; &nbsp;<B>For which this Emelye astoned was,</B><BR>
+2362 &nbsp; &nbsp; &nbsp; &nbsp;<B>And seyde, "What amounteth this, allas?</B><BR>
+2363 &nbsp; &nbsp; &nbsp; &nbsp;<B>I putte me in thy proteccioun,</B><BR>
+2364 &nbsp; &nbsp; &nbsp; &nbsp;<B>Dyane, and in thy disposicioun."</B><BR>
+2365 &nbsp; &nbsp; &nbsp; &nbsp;<B>And hoom she goth anon the nexte weye.</B><BR>
+2366 &nbsp; &nbsp; &nbsp; &nbsp;<B>This is th'effect; ther is namoore to seye.</B><BR>
+2367 &nbsp; &nbsp; &nbsp; &nbsp;<B>The nexte houre of Mars folwynge this,</B><BR>
+2368 &nbsp; &nbsp; &nbsp; &nbsp;<B>Arcite unto the temple walked is</B><BR>
+2369 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of fierse Mars to doon his sacrifise,</B><BR>
+2370 &nbsp; &nbsp; &nbsp; &nbsp;<B>With alle the rytes of his payen wyse.</B><BR>
+2371 &nbsp; &nbsp; &nbsp; &nbsp;<B>With pitous herte and heigh devocioun,</B><BR>
+2372 &nbsp; &nbsp; &nbsp; &nbsp;<B>Right thus to Mars he seyde his orisoun:</B><BR>
+2373 &nbsp; &nbsp; &nbsp; &nbsp;<B>"O stronge god, that in the regnes colde</B><BR>
+2374 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of Trace honoured art and lord yholde,</B><BR>
+2375 &nbsp; &nbsp; &nbsp; &nbsp;<B>And hast in every regne and every lond</B><BR>
+2376 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of armes al the brydel in thyn hond,</B><BR>
+2377 &nbsp; &nbsp; &nbsp; &nbsp;<B>And hem fortunest as thee lyst devyse,</B><BR>
+2378 &nbsp; &nbsp; &nbsp; &nbsp;<B>Accepte of me my pitous sacrifise.</B><BR>
+2379 &nbsp; &nbsp; &nbsp; &nbsp;<B>If so be that my youthe may deserve,</B><BR>
+2380 &nbsp; &nbsp; &nbsp; &nbsp;<B>And that my myght be worthy for to serve</B><BR>
+2381 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thy godhede, that I may been oon of thyne,</B><BR>
+2382 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thanne preye I thee to rewe upon my pyne.</B><BR>
+2383 &nbsp; &nbsp; &nbsp; &nbsp;<B>For thilke peyne and thilke hoote fir</B><BR>
+2384 &nbsp; &nbsp; &nbsp; &nbsp;<B>In which thow whilom brendest for desir,</B><BR>
+2385 &nbsp; &nbsp; &nbsp; &nbsp;<B>Whan that thow usedest the beautee</B><BR>
+2386 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of faire, yonge, fresshe Venus free,</B><BR>
+2387 &nbsp; &nbsp; &nbsp; &nbsp;<B>And haddest hire in armes at thy wille --</B><BR>
+2388 &nbsp; &nbsp; &nbsp; &nbsp;<B>Although thee ones on a tyme mysfille,</B><BR>
+2389 &nbsp; &nbsp; &nbsp; &nbsp;<B>Whan Vulcanus hadde caught thee in his las</B><BR>
+2390 &nbsp; &nbsp; &nbsp; &nbsp;<B>And foond thee liggynge by his wyf, allas! --</B><BR>
+2391 &nbsp; &nbsp; &nbsp; &nbsp;<B>For thilke sorwe that was in thyn herte,</B><BR>
+2392 &nbsp; &nbsp; &nbsp; &nbsp;<B>Have routhe as wel upon my peynes smerte.</B><BR>
+2393 &nbsp; &nbsp; &nbsp; &nbsp;<B>I am yong and unkonnynge, as thow woost,</B><BR>
+2394 &nbsp; &nbsp; &nbsp; &nbsp;<B>And, as I trowe, with love offended moost</B><BR>
+2395 &nbsp; &nbsp; &nbsp; &nbsp;<B>That evere was any lyves creature,</B><BR>
+2396 &nbsp; &nbsp; &nbsp; &nbsp;<B>For she that dooth me al this wo endure</B><BR>
+2397 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ne reccheth nevere wher I synke or fleete.</B><BR>
+2398 &nbsp; &nbsp; &nbsp; &nbsp;<B>And wel I woot, er she me mercy heete,</B><BR>
+2399 &nbsp; &nbsp; &nbsp; &nbsp;<B>I moot with strengthe wynne hire in the place,</B><BR>
+2400 &nbsp; &nbsp; &nbsp; &nbsp;<B>And wel I woot, withouten help or grace</B><BR>
+2401 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of thee ne may my strengthe noght availle.</B><BR>
+2402 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thanne help me, lord, tomorwe in my bataille,</B><BR>
+2403 &nbsp; &nbsp; &nbsp; &nbsp;<B>For thilke fyr that whilom brente thee,</B><BR>
+2404 &nbsp; &nbsp; &nbsp; &nbsp;<B>As wel as thilke fyr now brenneth me,</B><BR>
+2405 &nbsp; &nbsp; &nbsp; &nbsp;<B>And do that I tomorwe have victorie.</B><BR>
+2406 &nbsp; &nbsp; &nbsp; &nbsp;<B>Myn be the travaille, and thyn be the glorie!</B><BR>
+2407 &nbsp; &nbsp; &nbsp; &nbsp;<B>Thy sovereyn temple wol I moost honouren</B><BR>
+2408 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of any place, and alwey moost labouren</B><BR>
+2409 &nbsp; &nbsp; &nbsp; &nbsp;<B>In thy plesaunce and in thy craftes stronge,</B><BR>
+2410 &nbsp; &nbsp; &nbsp; &nbsp;<B>And in thy temple I wol my baner honge</B><BR>
+2411 &nbsp; &nbsp; &nbsp; &nbsp;<B>And alle the armes of my compaignye,</B><BR>
+2412 &nbsp; &nbsp; &nbsp; &nbsp;<B>And everemo, unto that day I dye,</B><BR>
+2413 &nbsp; &nbsp; &nbsp; &nbsp;<B>Eterne fir I wol bifore thee fynde.</B><BR>
+2414 &nbsp; &nbsp; &nbsp; &nbsp;<B>And eek to this avow I wol me bynde:</B><BR>
+2415 &nbsp; &nbsp; &nbsp; &nbsp;<B>My beerd, myn heer, that hongeth long adoun,</B><BR>
+2416 &nbsp; &nbsp; &nbsp; &nbsp;<B>That nevere yet ne felte offensioun</B><BR>
+2417 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of rasour nor of shere, I wol thee yive,</B><BR>
+2418 &nbsp; &nbsp; &nbsp; &nbsp;<B>And ben thy trewe servant whil I lyve.</B><BR>
+2419 &nbsp; &nbsp; &nbsp; &nbsp;<B>Now, lord, have routhe upon my sorwes soore;</B><BR>
+2420 &nbsp; &nbsp; &nbsp; &nbsp;<B>Yif me [victorie]; I aske thee namoore."</B><BR>
+2421 &nbsp; &nbsp; &nbsp; &nbsp;<B>The preyere stynt of Arcita the stronge,</B><BR>
+2422 &nbsp; &nbsp; &nbsp; &nbsp;<B>The rynges on the temple dore that honge,</B><BR>
+2423 &nbsp; &nbsp; &nbsp; &nbsp;<B>And eek the dores, clatereden ful faste,</B><BR>
+2424 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of which Arcita somwhat hym agaste.</B><BR>
+2425 &nbsp; &nbsp; &nbsp; &nbsp;<B>The fyres brenden upon the auter brighte</B><BR>
+2426 &nbsp; &nbsp; &nbsp; &nbsp;<B>That it gan al the temple for to lighte;</B><BR>
+2427 &nbsp; &nbsp; &nbsp; &nbsp;<B>A sweete smel the ground anon up yaf,</B><BR>
+2428 &nbsp; &nbsp; &nbsp; &nbsp;<B>And Arcita anon his hand up haf,</B><BR>
+2429 &nbsp; &nbsp; &nbsp; &nbsp;<B>And moore encens into the fyr he caste,</B><BR>
+2430 &nbsp; &nbsp; &nbsp; &nbsp;<B>With othere rytes mo; and atte laste</B><BR>
+2431 &nbsp; &nbsp; &nbsp; &nbsp;<B>The statue of Mars bigan his hauberk rynge,</B><BR>
+2432 &nbsp; &nbsp; &nbsp; &nbsp;<B>And with that soun he herde a murmurynge</B><BR>
+2433 &nbsp; &nbsp; &nbsp; &nbsp;<B>Ful lowe and dym, and seyde thus, "Victorie!"</B><BR>
+2434 &nbsp; &nbsp; &nbsp; &nbsp;<B>For which he yaf to Mars honour and glorie.</B><BR>
+2435 &nbsp; &nbsp; &nbsp; &nbsp;<B>And thus with joye and hope wel to fare</B><BR>
+2436 &nbsp; &nbsp; &nbsp; &nbsp;<B>Arcite anon unto his in is fare,</B><BR>
+2437 &nbsp; &nbsp; &nbsp; &nbsp;<B>As fayn as fowel is of the brighte sonne.</B><BR>
+2438 &nbsp; &nbsp; &nbsp; &nbsp;<B>And right anon swich strif ther is bigonne,</B><BR>
+2439 &nbsp; &nbsp; &nbsp; &nbsp;<B>For thilke grauntyng, in the hevene above,</B><BR>
+2440 &nbsp; &nbsp; &nbsp; &nbsp;<B>Bitwixe Venus, the goddesse of love,</B><BR>
+2441 &nbsp; &nbsp; &nbsp; &nbsp;<B>And Mars, the stierne god armypotente,</B><BR>
+2442 &nbsp; &nbsp; &nbsp; &nbsp;<B>That Juppiter was bisy it to stente,</B><BR>
+2443 &nbsp; &nbsp; &nbsp; &nbsp;<B>Til that the pale Saturnus the colde,</B><BR>
+2444 &nbsp; &nbsp; &nbsp; &nbsp;<B>That knew so manye of aventures olde,</B><BR>
+2445 &nbsp; &nbsp; &nbsp; &nbsp;<B>Foond in his olde experience an art</B><BR>
+2446 &nbsp; &nbsp; &nbsp; &nbsp;<B>That he ful soone hath plesed every part.</B><BR>
+2447 &nbsp; &nbsp; &nbsp; &nbsp;<B>As sooth is seyd, elde hath greet avantage;</B><BR>
+2448 &nbsp; &nbsp; &nbsp; &nbsp;<B>In elde is bothe wysdom and usage;</B><BR>
+2449 &nbsp; &nbsp; &nbsp; &nbsp;<B>Men may the olde atrenne and noght atrede.</B><BR>
+2450 &nbsp; &nbsp; &nbsp; &nbsp;<B>Saturne anon, to stynten strif and drede,</B><BR>
+2451 &nbsp; &nbsp; &nbsp; &nbsp;<B>Al be it that it is agayn his kynde,</B><BR>
+2452 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of al this strif he gan remedie fynde.</B><BR>
+2453 &nbsp; &nbsp; &nbsp; &nbsp;<B>"My deere doghter Venus," quod Saturne,</B><BR>
+2454 &nbsp; &nbsp; &nbsp; &nbsp;<B>"My cours, that hath so wyde for to turne,</B><BR>
+2455 &nbsp; &nbsp; &nbsp; &nbsp;<B>Hath moore power than woot any man.</B><BR>
+2456 &nbsp; &nbsp; &nbsp; &nbsp;<B>Myn is the drenchyng in the see so wan;</B><BR>
+2457 &nbsp; &nbsp; &nbsp; &nbsp;<B>Myn is the prison in the derke cote;</B><BR>
+2458 &nbsp; &nbsp; &nbsp; &nbsp;<B>Myn is the stranglyng and hangyng by the throte,</B><BR>
+2459 &nbsp; &nbsp; &nbsp; &nbsp;<B>The murmure and the cherles rebellyng,</B><BR>
+2460 &nbsp; &nbsp; &nbsp; &nbsp;<B>The groynynge, and the pryvee empoysonyng;</B><BR>
+2461 &nbsp; &nbsp; &nbsp; &nbsp;<B>I do vengeance and pleyn correccioun,</B><BR>
+2462 &nbsp; &nbsp; &nbsp; &nbsp;<B>Whil I dwelle in the signe of the leoun.</B><BR>
+2463 &nbsp; &nbsp; &nbsp; &nbsp;<B>Myn is the ruyne of the hye halles,</B><BR>
+2464 &nbsp; &nbsp; &nbsp; &nbsp;<B>The fallynge of the toures and of the walles</B><BR>
+2465 &nbsp; &nbsp; &nbsp; &nbsp;<B>Upon the mynour or the carpenter.</B><BR>
+2466 &nbsp; &nbsp; &nbsp; &nbsp;<B>I slow Sampsoun, shakynge the piler;</B><BR>
+2467 &nbsp; &nbsp; &nbsp; &nbsp;<B>And myne be the maladyes colde,</B><BR>
+2468 &nbsp; &nbsp; &nbsp; &nbsp;<B>The derke tresons, and the castes olde;</B><BR>
+2469 &nbsp; &nbsp; &nbsp; &nbsp;<B>My lookyng is the fader of pestilence.</B><BR>
+2470 &nbsp; &nbsp; &nbsp; &nbsp;<B>Now weep namoore; I shal doon diligence</B><BR>
+2471 &nbsp; &nbsp; &nbsp; &nbsp;<B>That Palamon, that is thyn owene knyght,</B><BR>
+2472 &nbsp; &nbsp; &nbsp; &nbsp;<B>Shal have his lady, as thou hast him hight.</B><BR>
+2473 &nbsp; &nbsp; &nbsp; &nbsp;<B>Though Mars shal helpe his knyght, yet nathelees</B><BR>
+2474 &nbsp; &nbsp; &nbsp; &nbsp;<B>Bitwixe yow ther moot be som tyme pees,</B><BR>
+2475 &nbsp; &nbsp; &nbsp; &nbsp;<B>Al be ye noght of o compleccioun,</B><BR>
+2476 &nbsp; &nbsp; &nbsp; &nbsp;<B>That causeth al day swich divisioun.</B><BR>
+2477 &nbsp; &nbsp; &nbsp; &nbsp;<B>I am thyn aiel, redy at thy wille;</B><BR>
+2478 &nbsp; &nbsp; &nbsp; &nbsp;<B>Weep now namoore; I wol thy lust fulfille."</B><BR>
+2479 &nbsp; &nbsp; &nbsp; &nbsp;<B>Now wol I stynten of the goddes above,</B><BR>
+2480 &nbsp; &nbsp; &nbsp; &nbsp;<B>Of Mars, and of Venus, goddesse of love,</B><BR>
+2481 &nbsp; &nbsp; &nbsp; &nbsp;<B>And telle yow as pleynly as I kan</B><BR>
+2482 &nbsp; &nbsp; &nbsp; &nbsp;<B>The grete effect, for which that I bygan.</B><BR>

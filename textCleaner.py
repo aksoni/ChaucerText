@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-soup = BeautifulSoup(open("gpOriginalMessy.txt"), "html.parser")
+soup = BeautifulSoup(open("talesText/gpOriginalMessy.txt"), "html.parser")
 
 #print(soup.blockquote.findAll('b'))
 i = 1
