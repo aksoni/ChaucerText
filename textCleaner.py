@@ -20,12 +20,15 @@ top = os.getcwd()
 pywalker(top)
 print(filesList)
 i = 1
+fOut2 = open('talesText/allOriginalText_clean.txt', 'w')
 for textFile in filesList:
     soup = BeautifulSoup(open(textFile), "html.parser")
     cleanFile = textFile.split('_')[0]+"_original_clean.txt"
     fOut = open(cleanFile, 'w')
     for b in soup.findAll('b'):
         fOut.write(b.string)
+        fOut.write('\n')
+        fOut2.write(b.string)
         fOut.write('\n')
 
     #print(i)
