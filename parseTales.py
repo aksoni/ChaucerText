@@ -32,9 +32,12 @@ for htmlFile in filesList:
         #fOut2 = open('talesText/gpModernClean.txt', 'w')
         fOut = open(originalFile, 'w')
         fOut2 = open(modernFile, 'w')
-
+        
+        
         for n, line in enumerate(file):
-    
+            #print(htmlFile)
+            #if htmlFile == "mert-par.htm" and readingText == True:
+            #   print(line)
             if line[0].isdigit():# and i == int(line[0]):
                 readingText = True
             
@@ -44,7 +47,7 @@ for htmlFile in filesList:
                 #print("first line")
                 #print(line)
             # i += 1
-            elif readingText == True and line[0] is '&' or line[0] is ' &':
+            elif readingText == True and line[0] is '&' or line[0] is ' &' or (len(line.lstrip()) > 0 and line.lstrip()[0] == '&'):
                 for word in delete_list:
                    line = line.replace(word, "")
                 fOut2.write(line.lstrip())
