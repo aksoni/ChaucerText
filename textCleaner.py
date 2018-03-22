@@ -30,11 +30,11 @@ for textFile in filesList:
     #   print("b string")
     for b in soup.findAll('b'):
         #b.getText()
-        if b.string is not None:
-            fOut.write(b.getText())
-            fOut.write('\n')
-            fOut2.write(b.getText())
-            fOut2.write('\n')
+        #if b.string is not None:
+        fOut.write(b.getText().lstrip())
+        fOut.write('\n')
+        fOut2.write(b.getText().lstrip())
+        fOut2.write('\n')
 
     #print(i)
     #print(b.string)
