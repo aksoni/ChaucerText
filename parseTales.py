@@ -32,7 +32,7 @@ for htmlFile in filesList:
         fOut = open(originalFile, 'w')
         fOut2 = open(modernFile, 'w')
         for n, line in enumerate(file):
-
+    
             if line[0].isdigit():# and i == int(line[0]):
                 readingText = True
             
@@ -41,7 +41,7 @@ for htmlFile in filesList:
                 #print("first line")
                 #print(line)
             # i += 1
-            elif readingText == True and line[0] is '&':
+            elif readingText == True and line[0] is '&' or line[0] is ' &':
                 for word in delete_list:
                    line = line.replace(word, "")
                 fOut2.write(line.lstrip())
