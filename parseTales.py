@@ -33,7 +33,7 @@ for htmlFile in filesList:
         fOut2 = open(modernFile, 'w')
         for n, line in enumerate(file):
 
-            if line[0].isdigit() and i == int(line[0]):
+            if line[0].isdigit():# and i == int(line[0]):
                 readingText = True
             
             if readingText == True and line[0].isdigit():
