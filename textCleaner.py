@@ -29,13 +29,15 @@ for textFile in filesList:
         fOut.write(b.string)
         fOut.write('\n')
         fOut2.write(b.string)
-        fOut.write('\n')
+        fOut2.write('\n')
 
     #print(i)
     #print(b.string)
 #i += 1
 
     fOut.close()
+
+fOut2.close()
 		#print(i)
 		#print(b.string)
 		#i += 1
