@@ -26,10 +26,11 @@ for textFile in filesList:
     cleanFile = textFile.split('_')[0]+"_original_clean.txt"
     fOut = open(cleanFile, 'w')
     for b in soup.findAll('b'):
-        fOut.write(b.string)
-        fOut.write('\n')
-        fOut2.write(b.string)
-        fOut2.write('\n')
+        if b.string is not None:
+            fOut.write(b.string)
+            fOut.write('\n')
+            fOut2.write(b.string)
+            fOut2.write('\n')
 
     #print(i)
     #print(b.string)
