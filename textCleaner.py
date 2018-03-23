@@ -5,7 +5,7 @@ import os
 #print(soup.blockquote.findAll('b'))
 
 filesList = []
-
+delete_list = ["&nbsp;", "nbsp;", '\t', "<nobr>", "<BR>", "</B>"]
 def pywalker(path):
     for root, dirs, files in os.walk(path):
         for file_ in files:
@@ -22,9 +22,25 @@ pywalker(top)
 i = 1
 fOut2 = open('talesText/allOriginalText_clean.txt', 'w')
 for textFile in filesList:
-    soup = BeautifulSoup(open(textFile), "html.parser")
     cleanFile = textFile.split('_')[0]+"_original_clean.txt"
     fOut = open(cleanFile, 'w')
+    
+    if textFile == "talesText/sqt-par_original_messy.txt":
+        with open(textFile) as file:
+            for line in file:
+                #print(line)
+                line = line.split('<B>')[1]
+                #print(line)
+                for word in delete_list:
+                    line = line.replace(word, "")
+                #print(line)
+                fOut.write(line)
+                fOut.write('\n')
+                fOut2.write(line)
+                fOut2.write('\n')
+        break;
+    soup = BeautifulSoup(open(textFile), "html.parser")
+
     #print(textFile)
    
     for b in soup.findAll('b'):
