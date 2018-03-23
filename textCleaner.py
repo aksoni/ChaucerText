@@ -20,7 +20,7 @@ top = os.getcwd()
 pywalker(top)
 print(filesList)
 i = 1
-fOut2 = open('talesText/allOriginalText_clean.txt', 'w')
+#fOut2 = open('talesText/allOriginalText_clean.txt', 'w')
 for textFile in filesList:
     cleanFile = textFile.split('_')[0]+"_original_clean.txt"
     fOut = open(cleanFile, 'w')
@@ -37,7 +37,7 @@ for textFile in filesList:
                 #print(line)
                 fOut.write(line.lstrip())
                 #fOut.write('\n')
-                fOut2.write(line.lstrip())
+#fOut2.write(line.lstrip())
     #fOut2.write('\n')
     else:
         soup = BeautifulSoup(open(textFile), "html.parser")
@@ -49,13 +49,13 @@ for textFile in filesList:
             if b.string is not None:
                 fOut.write(b.string.lstrip())
                 fOut.write('\n')
-                fOut2.write(b.string.lstrip())
-                fOut2.write('\n')
+                #fOut2.write(b.string.lstrip())
+                #fOut2.write('\n')
             elif b.getText() is not None:
                 fOut.write(b.getText().lstrip())
                 fOut.write('\n')
-                fOut2.write(b.getText().lstrip())
-                fOut2.write('\n')
+                # fOut2.write(b.getText().lstrip())
+#fOut2.write('\n')
     
         
 
@@ -65,7 +65,7 @@ for textFile in filesList:
 
     fOut.close()
 
-fOut2.close()
+#fOut2.close()
 		#print(i)
 		#print(b.string)
 		#i += 1

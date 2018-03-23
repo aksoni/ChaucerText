@@ -18,7 +18,7 @@ def pywalker(path):
 top = os.getcwd()
 pywalker(top)
 #fOut3 = open('talesText/allOriginalText_messy.txt', 'w')
-fOut4 = open('talesText/allModernText_clean.txt', 'w')
+#fOut4 = open('talesText/allModernText_clean.txt', 'w')
 print(filesList)
 for htmlFile in filesList:
     with open(htmlFile) as file:
@@ -54,13 +54,13 @@ for htmlFile in filesList:
                     line = line.replace(word, "")
                 if htmlFile == "sqt-par.htm" and line.lstrip()[0:11] == "Immediately":
                     fOut2.write("Immediately this tiger, full of treachery," + '\n')
-                    fOut4.write("Immediately this tiger, full of treachery," + '\n')
+                #fOut4.write("Immediately this tiger, full of treachery," + '\n')
                 elif line.lstrip()[0:4] != "[The" and line.lstrip()[0:3] != "<i>" and line.lstrip()[0:3] != "<b>" and line.lstrip()[0:3] != "[Ze" and line.lstrip()[0:3] != "[Ne" and line.lstrip()[0:3] != "[Co" and line.lstrip()[0:3] != "</F" and line.lstrip()[0:9] != "Invocacio" and line.lstrip()[0:9] != "(Invocati" and line.lstrip()[0:13] != "Interpretacio" and line.lstrip()[0:9] != "(The inte" and line.lstrip()[0:10] != "Jacobus Ja" and line.lstrip()[0:10] != "Jacob of G" and line.lstrip()[0:8] != "Explicit" and line.lstrip()[0:8] != "(Here en" and line.lstrip()[0:3] != "[Pr" and line.lstrip()[0:3] != "[[F" and line.lstrip()[0:11] != "And tell fo":
                     fOut2.write(line.lstrip())
-                    fOut4.write(line.lstrip())
+#fOut4.write(line.lstrip())
                 if line.lstrip()[0:20] == "And did stand before":
                     fOut2.write("Valerian as if dead fell down for fear" + '\n')
-                    fOut4.write("Valerian as if dead fell down for fear" + '\n')
+                        #fOut4.write("Valerian as if dead fell down for fear" + '\n')
                 #print("second line")
                 #print(line)
 
@@ -68,4 +68,4 @@ for htmlFile in filesList:
         fOut2.close()
 
 #fOut3.close()
-fOut4.close()
+#fOut4.close()
