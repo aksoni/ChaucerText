@@ -42,6 +42,7 @@ for htmlFile in filesList:
                 readingText = True
             
             if readingText == True and line[0].isdigit():
+                line = line.replace(">/b>", "</b>")
                 fOut.write(line)
             #fOut3.write(line)
                 #print("first line")
