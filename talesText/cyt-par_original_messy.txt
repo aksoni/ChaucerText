@@ -164,6 +164,127 @@
 717 &nbsp; &nbsp; &nbsp; &nbsp; <B>But nathelees yow wol I tellen part.</B><BR>
 718 &nbsp; &nbsp; &nbsp; &nbsp; <B>Syn that my lord is goon, I wol nat spare;</B><BR>
 719 &nbsp; &nbsp; &nbsp; &nbsp; <B>Swich thyng as that I knowe, I wol declare.</B><BR>
+	720 &nbsp; &nbsp; &nbsp; &nbsp; <B>With this Chanoun I dwelt have seven yeer,</B><BR>
+	721 &nbsp; &nbsp; &nbsp; &nbsp; <B>And of his science am I never the neer.</B><BR>
+	722 &nbsp; &nbsp; &nbsp; &nbsp; <B>Al that I hadde I have lost therby,</B><BR>
+	723 &nbsp; &nbsp; &nbsp; &nbsp; <B>And, God woot, so hath many mo than I.</B><BR>
+	724 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ther I was wont to be right fressh and gay</B><BR>
+	725 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of clothyng and of oother good array,</B><BR>
+	726 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now may I were an hose upon myn heed;</B><BR>
+	727 &nbsp; &nbsp; &nbsp; &nbsp; <B>And wher my colour was bothe fressh and reed,</B><BR>
+	728 &nbsp; &nbsp; &nbsp; &nbsp; <B>Now is it wan and of a leden hewe --</B><BR>
+	729 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whoso it useth, soore shal he rewe! --</B><BR>
+	730 &nbsp; &nbsp; &nbsp; &nbsp; <B>And of my swynk yet blered is myn ye.</B><BR>
+	731 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lo, which avantage is to multiplie!</B><BR>
+	732 &nbsp; &nbsp; &nbsp; &nbsp; <B>That slidynge science hath me maad so bare</B><BR>
+	733 &nbsp; &nbsp; &nbsp; &nbsp; <B>That I have no good, wher that evere I fare;</B><BR>
+	734 &nbsp; &nbsp; &nbsp; &nbsp; <B>And yet I am endetted so therby</B><BR>
+	735 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of gold that I have borwed, trewely,</B><BR>
+	736 &nbsp; &nbsp; &nbsp; &nbsp; <B>That whil I lyve I shal it quite nevere.</B><BR>
+	737 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lat every man be war by me for evere!</B><BR>
+	738 &nbsp; &nbsp; &nbsp; &nbsp; <B>What maner man that casteth hym therto,</B><BR>
+	739 &nbsp; &nbsp; &nbsp; &nbsp; <B>If he continue, I holde his thrift ydo.</B><BR>
+	740 &nbsp; &nbsp; &nbsp; &nbsp; <B>For so helpe me God, therby shal he nat wynne,</B><BR>
+	741 &nbsp; &nbsp; &nbsp; &nbsp; <B>But empte his purs and make his wittes thynne.</B><BR>
+	742 &nbsp; &nbsp; &nbsp; &nbsp; <B>And whan he thurgh his madnesse and folye</B><BR>
+	743 &nbsp; &nbsp; &nbsp; &nbsp; <B>Hath lost his owene good thurgh jupartye,</B><BR>
+	744 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thanne he exciteth oother folk therto,</B><BR>
+	745 &nbsp; &nbsp; &nbsp; &nbsp; <B>To lesen hir good as he hymself hath do.</B><BR>
+	746 &nbsp; &nbsp; &nbsp; &nbsp; <B>For unto shrewes joye it is and ese</B><BR>
+	747 &nbsp; &nbsp; &nbsp; &nbsp; <B>To have hir felawes in peyne and disese.</B><BR>
+	748 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thus was I ones lerned of a clerk.</B><BR>
+	749 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of that no charge; I wol speke of oure werk.</B><BR>
+	750 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whan we been there as we shul exercise</B><BR>
+	751 &nbsp; &nbsp; &nbsp; &nbsp; <B>Oure elvysshe craft, we semen wonder wise,</B><BR>
+	752 &nbsp; &nbsp; &nbsp; &nbsp; <B>Oure termes been so clergial and so queynte.</B><BR>
+	753 &nbsp; &nbsp; &nbsp; &nbsp; <B>I blowe the fir til that myn herte feynte.</B><BR>
+	754 &nbsp; &nbsp; &nbsp; &nbsp; <B>What sholde I tellen ech proporcion</B><BR>
+	755 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of thynges whiche that we werche upon --</B><BR>
+	756 &nbsp; &nbsp; &nbsp; &nbsp; <B>As on fyve or sixe ounces, may wel be,</B><BR>
+	757 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of silver, or som oother quantitee --</B><BR>
+	758 &nbsp; &nbsp; &nbsp; &nbsp; <B>And bisye me to telle yow the names</B><BR>
+	759 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of orpyment, brent bones, iren squames,</B><BR>
+	760 &nbsp; &nbsp; &nbsp; &nbsp; <B>That into poudre grounden been ful smal;</B><BR>
+	761 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in an erthen pot how put is al,</B><BR>
+	762 &nbsp; &nbsp; &nbsp; &nbsp; <B>And salt yput in, and also papeer,</B><BR>
+	763 &nbsp; &nbsp; &nbsp; &nbsp; <B>Biforn thise poudres that I speke of heer;</B><BR>
+	764 &nbsp; &nbsp; &nbsp; &nbsp; <B>And wel ycovered with a lampe of glas;</B><BR>
+	765 &nbsp; &nbsp; &nbsp; &nbsp; <B>And of muche oother thyng which that ther was;</B><BR>
+	766 &nbsp; &nbsp; &nbsp; &nbsp; <B>And of the pot and glasses enlutyng</B><BR>
+	767 &nbsp; &nbsp; &nbsp; &nbsp; <B>That of the eyr myghte passe out nothyng;</B><BR>
+	768 &nbsp; &nbsp; &nbsp; &nbsp; <B>And of the esy fir, and smart also,</B><BR>
+	769 &nbsp; &nbsp; &nbsp; &nbsp; <B>Which that was maad, and of the care and wo</B><BR>
+	770 &nbsp; &nbsp; &nbsp; &nbsp; <B>That we hadde in oure matires sublymyng,</B><BR>
+	771 &nbsp; &nbsp; &nbsp; &nbsp; <B>And in amalgamyng and calcenyng</B><BR>
+	772 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of quyksilver, yclept mercurie crude?</B><BR>
+	773 &nbsp; &nbsp; &nbsp; &nbsp; <B>For alle oure sleightes we kan nat conclude.</B><BR>
+	774 &nbsp; &nbsp; &nbsp; &nbsp; <B>Oure orpyment and sublymed mercurie,</B><BR>
+	775 &nbsp; &nbsp; &nbsp; &nbsp; <B>Oure grounden litarge eek on the porfurie,</B><BR>
+	776 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of ech of thise of ounces a certeyn --</B><BR>
+	777 &nbsp; &nbsp; &nbsp; &nbsp; <B>Noght helpeth us; oure labour is in veyn.</B><BR>
+	778 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne eek oure spirites ascencioun,</B><BR>
+	779 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ne oure materes that lyen al fix adoun,</B><BR>
+	780 &nbsp; &nbsp; &nbsp; &nbsp; <B>Mowe in oure werkyng no thyng us availle,</B><BR>
+	781 &nbsp; &nbsp; &nbsp; &nbsp; <B>For lost is al oure labour and travaille;</B><BR>
+	782 &nbsp; &nbsp; &nbsp; &nbsp; <B>And al the cost, a twenty devel waye,</B><BR>
+	783 &nbsp; &nbsp; &nbsp; &nbsp; <B>Is lost also, which we upon it laye.</B><BR>
+	784 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ther is also ful many another thyng</B><BR>
+	785 &nbsp; &nbsp; &nbsp; &nbsp; <B>That is unto oure craft apertenyng.</B><BR>
+	786 &nbsp; &nbsp; &nbsp; &nbsp; <B>Though I by ordre hem nat reherce kan,</B><BR>
+	787 &nbsp; &nbsp; &nbsp; &nbsp; <B>By cause that I am a lewed man,</B><BR>
+	788 &nbsp; &nbsp; &nbsp; &nbsp; <B>Yet wol I telle hem as they come to mynde,</B><BR>
+	789 &nbsp; &nbsp; &nbsp; &nbsp; <B>Thogh I ne kan nat sette hem in hir kynde:</B><BR>
+	790 &nbsp; &nbsp; &nbsp; &nbsp; <B>As boole armonyak, verdegrees, boras,</B><BR>
+	791 &nbsp; &nbsp; &nbsp; &nbsp; <B>And sondry vessels maad of erthe and glas,</B><BR>
+	792 &nbsp; &nbsp; &nbsp; &nbsp; <B>Oure urynales and oure descensories,</B><BR>
+	793 &nbsp; &nbsp; &nbsp; &nbsp; <B>Violes, crosletz, and sublymatories,</B><BR>
+	794 &nbsp; &nbsp; &nbsp; &nbsp; <B>Cucurbites and alambikes eek,</B><BR>
+	795 &nbsp; &nbsp; &nbsp; &nbsp; <B>And othere swiche, deere ynough a leek --</B><BR>
+	796 &nbsp; &nbsp; &nbsp; &nbsp; <B>Nat nedeth it for to reherce hem alle --</B><BR>
+	797 &nbsp; &nbsp; &nbsp; &nbsp; <B>Watres rubifiyng, and boles galle,</B><BR>
+	798 &nbsp; &nbsp; &nbsp; &nbsp; <B>Arsenyk, sal armonyak, and brymstoon;</B><BR>
+	799 &nbsp; &nbsp; &nbsp; &nbsp; <B>And herbes koude I telle eek many oon,</B><BR>
+	800 &nbsp; &nbsp; &nbsp; &nbsp; <B>As egremoyne, valerian, and lunarie,</B><BR>
+	801 &nbsp; &nbsp; &nbsp; &nbsp; <B>And othere swiche, if that me liste tarie;</B><BR>
+	802 &nbsp; &nbsp; &nbsp; &nbsp; <B>Oure lampes brennyng bothe nyght and day,</B><BR>
+	803 &nbsp; &nbsp; &nbsp; &nbsp; <B>To brynge aboute oure purpos, if we may;</B><BR>
+	804 &nbsp; &nbsp; &nbsp; &nbsp; <B>Oure fourneys eek of calcinacioun,</B><BR>
+	805 &nbsp; &nbsp; &nbsp; &nbsp; <B>And of watres albificacioun;</B><BR>
+	806 &nbsp; &nbsp; &nbsp; &nbsp; <B>Unslekked lym, chalk, and gleyre of an ey,</B><BR>
+	807 &nbsp; &nbsp; &nbsp; &nbsp; <B>Poudres diverse, asshes, donge, pisse, and cley,</B><BR>
+	808 &nbsp; &nbsp; &nbsp; &nbsp; <B>Cered pokkets, sal peter, vitriole,</B><BR>
+	809 &nbsp; &nbsp; &nbsp; &nbsp; <B>And diverse fires maad of wode and cole;</B><BR>
+	810 &nbsp; &nbsp; &nbsp; &nbsp; <B>Sal tartre, alkaly, and sal preparat,</B><BR>
+	811 &nbsp; &nbsp; &nbsp; &nbsp; <B>And combust materes and coagulat;</B><BR>
+	812 &nbsp; &nbsp; &nbsp; &nbsp; <B>Cley maad with hors or mannes heer, and oille</B><BR>
+	813 &nbsp; &nbsp; &nbsp; &nbsp; <B>Of tartre, alum glas, berme, wort, and argoille,</B><BR>
+	814 &nbsp; &nbsp; &nbsp; &nbsp; <B>Resalgar, and oure materes enbibyng,</B><BR>
+	815 &nbsp; &nbsp; &nbsp; &nbsp; <B>And eek of oure materes encorporyng,</B><BR>
+	816 &nbsp; &nbsp; &nbsp; &nbsp; <B>And of oure silver citrinacioun,</B><BR>
+	817 &nbsp; &nbsp; &nbsp; &nbsp; <B>Oure cementyng and fermentacioun,</B><BR>
+	818 &nbsp; &nbsp; &nbsp; &nbsp; <B>Oure yngottes, testes, and many mo.</B><BR>
+	819 &nbsp; &nbsp; &nbsp; &nbsp; <B>I wol yow telle, as was me taught also,</B><BR>
+	820 &nbsp; &nbsp; &nbsp; &nbsp; <B>The foure spirites and the bodies sevene,</B><BR>
+	821 &nbsp; &nbsp; &nbsp; &nbsp; <B>By ordre, as ofte I herde my lord hem nevene.</B><BR>
+	822 &nbsp; &nbsp; &nbsp; &nbsp; <B>The firste spirit quyksilver called is,</B><BR>
+	823 &nbsp; &nbsp; &nbsp; &nbsp; <B>The seconde orpyment, the thridde, ywis,</B><BR>
+	824 &nbsp; &nbsp; &nbsp; &nbsp; <B>Sal armonyak, and the ferthe brymstoon.</B><BR>
+	825 &nbsp; &nbsp; &nbsp; &nbsp; <B>The bodyes sevene eek, lo, hem heere anoon:</B><BR>
+	826 &nbsp; &nbsp; &nbsp; &nbsp; <B>Sol gold is, and Luna silver we insist,</B><BR>
+	827 &nbsp; &nbsp; &nbsp; &nbsp; <B>Mars iren, Mercurie quyksilver we clepe,</B><BR>
+	828 &nbsp; &nbsp; &nbsp; &nbsp; <B>Saturnus leed, and Juppiter is tyn,</B><BR>
+	829 &nbsp; &nbsp; &nbsp; &nbsp; <B>And Venus coper, by my fader kyn!</B><BR>
+	830 &nbsp; &nbsp; &nbsp; &nbsp; <B>This cursed craft whoso wole excercise,</B><BR>
+	831 &nbsp; &nbsp; &nbsp; &nbsp; <B>He shal no good han that hym may suffise,</B><BR>
+	832 &nbsp; &nbsp; &nbsp; &nbsp; <B>For al the good he spendeth theraboute</B><BR>
+	833 &nbsp; &nbsp; &nbsp; &nbsp; <B>He lese shal; therof have I no doute.</B><BR>
+	834 &nbsp; &nbsp; &nbsp; &nbsp; <B>Whoso that listeth outen his folie,</B><BR>
+	835 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lat hym come forth and lerne multiplie;</B><BR>
+	836 &nbsp; &nbsp; &nbsp; &nbsp; <B>And every man that oght hath in his cofre,</B><BR>
+	837 &nbsp; &nbsp; &nbsp; &nbsp; <B>Lat hym appiere and wexe a philosophre.</B><BR>
+	838 &nbsp; &nbsp; &nbsp; &nbsp; <B>Ascaunce that craft is so light to leere?</B><BR>
+	839 &nbsp; &nbsp; &nbsp; &nbsp; <B>Nay, nay, God woot, al be he monk or frere,</B><BR>
+	840 &nbsp; &nbsp; &nbsp; &nbsp; <B>Preest or chanoun, or any oother wyght,</B><BR>
 841 &nbsp; &nbsp; &nbsp; &nbsp; <B>Though he sitte at his book bothe day and nyght</B><BR>
 842 &nbsp; &nbsp; &nbsp; &nbsp; <B>In lernyng of this elvysshe nyce loore,</B><BR>
 843 &nbsp; &nbsp; &nbsp; &nbsp; <B>Al is in veyn, and parde, muchel moore.</B><BR>

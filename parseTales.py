@@ -41,7 +41,7 @@ for htmlFile in filesList:
             if line[0].isdigit():# and i == int(line[0]):
                 readingText = True
             
-            if readingText == True and line[0].isdigit():
+            if readingText == True and len(line.lstrip()) > 0 and line.lstrip()[0].isdigit():
                 line = line.replace(">/b>", "</b>")
                 fOut.write(line)
             #fOut3.write(line)
