@@ -5,7 +5,7 @@ import os
 #print(soup.blockquote.findAll('b'))
 
 filesList = []
-delete_list = ["&nbsp;", "nbsp;", '\t', "<nobr>", "<BR>", "</B>"]
+delete_list = ["&nbsp;", "nbsp;", '\t', "<nobr>", "<BR>", "<br>","</b>", "</B>"]
 def pywalker(path):
     for root, dirs, files in os.walk(path):
         for file_ in files:
@@ -18,7 +18,7 @@ def pywalker(path):
 
 top = os.getcwd()
 pywalker(top)
-#print(filesList)
+print(filesList)
 i = 1
 fOut2 = open('talesText/allOriginalText_clean.txt', 'w')
 for textFile in filesList:
