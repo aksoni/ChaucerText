@@ -35,9 +35,9 @@ for textFile in filesList:
                     line = line.replace(word, "")
                 #print(line)
                 fOut.write(line)
-                fOut.write('\n')
+                #fOut.write('\n')
                 fOut2.write(line)
-                fOut2.write('\n')
+    #fOut2.write('\n')
         break;
     soup = BeautifulSoup(open(textFile), "html.parser")
 
