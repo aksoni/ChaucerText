@@ -55,6 +55,9 @@ for htmlFile in filesList:
                 if line.lstrip()[0:4] != "[The" and line.lstrip()[0:3] != "<i>" and line.lstrip()[0:3] != "<b>" and line.lstrip()[0:3] != "[Ze" and line.lstrip()[0:3] != "[Ne" and line.lstrip()[0:3] != "[Co" and line.lstrip()[0:3] != "</F" and line.lstrip()[0:9] != "Invocacio" and line.lstrip()[0:9] != "(Invocati" and line.lstrip()[0:13] != "Interpretacio" and line.lstrip()[0:9] != "(The inte" and line.lstrip()[0:10] != "Jacobus Ja" and line.lstrip()[0:10] != "Jacob of G" and line.lstrip()[0:8] != "Explicit" and line.lstrip()[0:8] != "(Here en" and line.lstrip()[0:3] != "[Pr" and line.lstrip()[0:3] != "[[F" and line.lstrip()[0:11] != "And tell fo":
                     fOut2.write(line.lstrip())
                     fOut4.write(line.lstrip())
+                if line.lstrip() == "And did stand before Valerian.":
+                    fOut2.write("Valerian as if dead fell down for fear")
+                    fOut4.write("Valerian as if dead fell down for fear")
                 #print("second line")
                 #print(line)
 
