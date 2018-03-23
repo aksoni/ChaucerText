@@ -8940,7 +8940,6 @@ For certainly, when Fortune desires to flee,
 No man can withstand her onward movement.
 Let no man trust on blind prosperity;
 Take warning from these examples true and old. <P>
-<i><b>Lucifer</i></b>
 At Lucifer, though he was an angel
 And not a man, at him will I begin.
 For though Fortune may harm no angel,
@@ -8949,7 +8948,6 @@ Down into hell, in which he is yet.
 O Lucifer, brightest of all angels,
 Now art thou Sathanas, that mayst not depart
 Out of misery, in which thou art fallen.
-<i><b>Adam</i></b>
 Lo Adam, in the field of Damascus
 With God's own finger was he wrought,
 And not begotten of man's unclean sperm,
@@ -8958,7 +8956,6 @@ Had never worldly man so high degree
 As Adam, until he for misconduct
 Was driven out of his high prosperity
 To labor, and to hell, and to ruin.
-<i><b>Sampson</i></b>
 Lo Sampson, whose birth was announced
 By the angel long before his nativity,
 And was to God Almighty consecrated,
@@ -9039,7 +9036,6 @@ Beware by this example old and plain
 That no men tell their secrets to their wives
 Of such things as they would earnestly keep secret,
 If it concerns their limbs or their lives.
-<i><b>Hercules</i></b>
 Of Hercules, the supreme conqueror,
 His works sing his praise and high renown;
 For in his time he was the flower of strength.
@@ -9088,7 +9084,6 @@ Very wise is he who can know himself!
 Be wary, for when Fortune wants to deceive,
 Then she waits to overthrow her man 
 By such a means as he would least suppose.
-<i><b>Nabugodonosor </i></b>
 [Nebuchadnessar]
 The mighty throne, the precious treasure,
 The glorious scepter, and royal majesty
@@ -9130,7 +9125,6 @@ He thanked God, and always in his life in fear
 Was he to do amiss or again trespass;
 And until that time he was laid on his bier
 He knew that God was full of might and grace.
-<i><b>Balthasar</i></b>
 <b>[Belshazzar]</b>
 His son, who was called Belshazzar,
 Who held the reign after his father's day,
@@ -9196,7 +9190,6 @@ And also his friends, both high ranking and low.
 For whatever man who has friends because of Fortune,
 Misfortune will make them enemies, I believe;
 This proverb is very true and very common.
-<i><b>Cenobia</i></b>
 [Zenobia]
 Zenobia, of Palmyra queen,
 As Persians write of her nobility,
@@ -9326,7 +9319,6 @@ And won by force strong towns and towers,
 Shall on her head now wear a woman's headdress;
 And she that bore the scepter full of flowers
 Shall bear a spinning staff, to pay for her living costs.
-<i><b>De
 [Concerning Pedro King of Castille]
 O noble, O worthy Pedro, glory of Spain,
 Whom Fortune held so high in majesty,
@@ -9344,7 +9336,6 @@ Not Charlemagne's Oliver, who always took heed
 Of truth and honor, but of Armorica
 Ganelon-Oliver, corrupt for a bribe,
 Brought this worthy king into such a plight.
-<i><b>De
 [Concerning
 O worthy Pierre, king of Cyprus, also,
 Who won Alexandria by great strength,
@@ -9354,7 +9345,6 @@ And for no thing but for thy chivalry
 They in thy bed have slain thee in the morning.
 Thus can Fortune govern and guide her wheel,
 And out of joy bring men to sorrow.
-<i><b>De
 [Concerning
 Great Bernabo Viscounti of Milan,
 God of delight and scourge of Lombardy,
@@ -9364,7 +9354,6 @@ Thy brother's son, who was thy double kinsman,
 For he was thy nephew and son-in-law,
 Within his prison made thee to die --
 But why nor how thou were slain I know not.
-<i><b>De
 [Concerning
 Of the anguish of Earl Ugolino of Pisa 
 There can no tongue tell for pity.
@@ -9422,7 +9411,6 @@ Whoever wants to hear it in a longer version,
 Read the great poet of Italy
 Who is called Dante, for he can all narrate
 In great detail; not one word will he lack.
-<i><b>Nero</i></b>
 Although Nero was as vicious
 As any fiend that lies very low down (in Hell),
 Yet he, as Suetonius tells us,
@@ -9511,7 +9499,6 @@ So that to his body, when he was deed,
 No insult was done for his ill fame.
 Himself he slew, he knew no better course of action,
 About which Fortune laughed, and amused herself.
-<i><b>De
 Was never captain under a king
 That put more reigns in subjection,
 Nor was stronger in all things concerning the field of battle,
@@ -9536,7 +9523,6 @@ Judith, a woman, as he lay on his back
 Sleeping, smote off his head, and from his tent
 Very secretly she stole (away) from every person,
 And with his head unto her town she went.
-<i><b>De
 [Concerning
 What needs it of king Antiochus
 To tell his high royal majesty,
@@ -9594,7 +9580,6 @@ He died very wretchedly on a mountain.
 Thus has this robber and this homicide,
 That many a man made to weep and mourn,
 Such reward as belongs to pride.
-<i><b>De
 [Concerning
 The history of Alexander is so commonly known
 That every person who has good judgment
@@ -9636,7 +9621,6 @@ So full was his disposition of high knightly prowess.
 Alas, who shall me help to indict
 False Fortune, and to despise poison,
 The which two for all this woe I blame?
-<i><b>De
 [Concerning
 By wisdom, manhood, and by great labor,
 From humble bed to royal majesty
@@ -9694,7 +9678,6 @@ Fortune was first friend, and afterwards foe.
 Let no man trust upon her favor long,
 But keep an eye on her for evermore;
 Take note of all these conquerors strong.
-<i><b>Cresus</i></b>
 This rich Croesus, once king of Lydia,
 Of which Croesus Cyrus was sorely afraid, 
 Yet was he caught amidst all his pride,
@@ -16325,7 +16308,6 @@ In translating the legend
 Correctly of thy glorious life and suffering,
 Thou with thy garland made with rose and lily --
 I mean thee, maid and martyr, Saint Cecilie.
-<i>Invocacio ad Mariam</i>
 (Invocation to Mary)</i>
 And thou who art the flower of all virgins,
 Of whom it so well pleased Bernard to write,
@@ -16383,7 +16365,6 @@ For I have both the words and the meaning
 Of him who out of reverence for the saint
 Wrote the story, and  (I) follow her legend,
 And pray you that you will correct (any errors in) my work.
-<i>Interpretacio nominis Cecile quam ponit Frater
 Jacobus Januensis in Legenda</i>
 Jacob of Genoa put in the Legend.)
 First the name of Saint Cecilie I would to you 
@@ -16421,7 +16402,6 @@ Very swift and busy ever in good works,
 And round and whole in persevering in good (works),
 And burning ever in very bright charity.
 Now have I declared to you what she was called.
-<i> Explicit </i>
 (Here ends [the Prologue])
 This bright maiden Cecilie, as her Life says,
 Was descended from Romans and of noble birth,
