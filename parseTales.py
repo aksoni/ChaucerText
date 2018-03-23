@@ -56,8 +56,8 @@ for htmlFile in filesList:
                     fOut2.write(line.lstrip())
                     fOut4.write(line.lstrip())
                 if line.lstrip()[0:20] == "And did stand before":
-                    fOut2.write("Valerian as if dead fell down for fear")
-                    fOut4.write("Valerian as if dead fell down for fear")
+                    fOut2.write("Valerian as if dead fell down for fear" + '\n')
+                    fOut4.write("Valerian as if dead fell down for fear" + '\n')
                 #print("second line")
                 #print(line)
 
