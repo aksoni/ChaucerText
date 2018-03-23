@@ -25,7 +25,8 @@ for textFile in filesList:
     cleanFile = textFile.split('_')[0]+"_original_clean.txt"
     fOut = open(cleanFile, 'w')
     
-    if textFile == "talesText/sqt-par_original_messy.txt":
+    if textFile == "talesText/sqt-par_original_messy.txt" or textFile == "talesText/mkt-par_original_messy.txt":
+        #print(textFile)
         with open(textFile) as file:
             for line in file:
                 #print(line)
@@ -34,27 +35,27 @@ for textFile in filesList:
                 for word in delete_list:
                     line = line.replace(word, "")
                 #print(line)
-                fOut.write(line)
+                fOut.write(line.lstrip())
                 #fOut.write('\n')
-                fOut2.write(line)
+                fOut2.write(line.lstrip())
     #fOut2.write('\n')
-        break;
-    soup = BeautifulSoup(open(textFile), "html.parser")
+    else:
+        soup = BeautifulSoup(open(textFile), "html.parser")
 
-    #print(textFile)
-   
-    for b in soup.findAll('b'):
-        #b.getText()
-        if b.string is not None:
-            fOut.write(b.string.lstrip())
-            fOut.write('\n')
-            fOut2.write(b.string.lstrip())
-            fOut2.write('\n')
-        elif b.getText() is not None:
-            fOut.write(b.getText().lstrip())
-            fOut.write('\n')
-            fOut2.write(b.getText().lstrip())
-            fOut2.write('\n')
+        #print(textFile)
+
+        for b in soup.findAll('b'):
+            #b.getText()
+            if b.string is not None:
+                fOut.write(b.string.lstrip())
+                fOut.write('\n')
+                fOut2.write(b.string.lstrip())
+                fOut2.write('\n')
+            elif b.getText() is not None:
+                fOut.write(b.getText().lstrip())
+                fOut.write('\n')
+                fOut2.write(b.getText().lstrip())
+                fOut2.write('\n')
     
         
 
