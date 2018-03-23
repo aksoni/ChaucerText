@@ -50,7 +50,7 @@ for htmlFile in filesList:
             elif readingText == True and (line[0] is 'n' or (len(line.lstrip()) > 0 and (line.lstrip()[0] == '&' or line.lstrip()[0] == 'n' or line.lstrip()[0:4] == '</B>'))):#line[0] is '&' or line[0] is ' &' or (len(line.lstrip()) > 0 and line.lstrip()[0] == '&'):
                 for word in delete_list:
                     line = line.replace(word, "")
-                if line[0:4]== "[The":
+                if line.lstrip()[0:4]== "[The":
                     break;
                 fOut2.write(line.lstrip())
                 fOut4.write(line.lstrip())
