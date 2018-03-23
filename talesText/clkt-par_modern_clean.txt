@@ -1,1163 +1,1163 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is, at the west side of Italy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Down at the foot of Vesulus the cold,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A lusty plain, abundant with food crops,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where many a tower and town thou may behold,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That were founded in time of fathers old,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And many another delectable sight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And Saluces this noble country is called.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A marquis once was lord of that land,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As were his worthy elders before him;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And obedient, ever ready to his hand (to do his commands),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Were all his subjects, both lesser ranks and nobles.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus in delight he lives, and has done since long before,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beloved and feared, through favor of Fortune,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Both by his lords and by his citizenry.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Moreover he was, to speak of lineage,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The most noble born in Lombardy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A handsome person, and strong, and young of age,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And full of honor and of courtesy;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Discreet enough to govern his country,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except in some things he was to blame;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And Walter was this young lord's name.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I blame him thus: that he considered not<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In time coming what might happen to him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But on his immediate pleasure was all his thought,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such as to hawk and hunt on every side.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well nigh all other cares he let slip away,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also he would not -- and that was worst of all --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wed any woman, for anything that may befall.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Only that point his people took so badly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That in groups on one day they went to him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And one of them, that wisest was in learning --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else the one that the lord most readily would consent<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he should tell him what his people meant,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else he knew well how to present such a matter --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He to the marquis said as you shall hear:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "O noble marquis, your graciousness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Makes us confident and gives us boldness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As often as it is time (to do so) by necessity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That we to you may tell our sorrow.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Grant, lord, now of your nobility<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That we with pitiful heart may unto you complain,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And let your ears not disdain (to hear) my voice.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Although I have nothing to do in this matter<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; More than another man has in this place,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet for as much as you, my lord so dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have always shown me favor and grace<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I dare the more confidently to ask of you a time<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of hearing to present our request,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And you, my lord, to do right as it may please you.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "For certainly, lord, so well you please us <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all your actions, and ever have done so, that we<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Could not ourselves imagine how<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We might live in more happiness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Save one thing, lord, if it be your will,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That you would desire to be a wedded man;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then your people would be in complete peace of mind.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Bow your neck under that blissful yoke<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of sovereignty, not of servitude,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which men call marriage or wedlock;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And think, lord, among your wise thoughts <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How our days pass in various ways,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For though we sleep, or wake, or roam, or ride,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ever flees the time; it will wait for no man.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And though your green youth flowers as yet,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In creeps age always, as still as stone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And death menaces every age, and smites<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In each rank, for there escapes no one;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And just as certainly as we know, each one of us,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That we shall die, as uncertain we all<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Are of that day when death shall on us fall.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Accept then the true intent of us,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who never yet refused your command,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And we will, lord, if you will assent,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chose a wife for you, in short time at the least,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Born of the most noble and of the greatest (in rank)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of all this land, so that it must seem<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Honor to God and you, so far as we can judge.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Deliver us out of all this constant fear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And take a wife, for high God's sake!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For if it so happen, may God forbid,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That through your death your line should die out,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that a foreign successor should take<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Your heritage, O woe would it be to us in our lifetime!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wherefore we pray you hastily to take a wife."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Their meek prayer and their pitiful manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Made the marquis's heart have pity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "You want," said he, "my own people dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That which I never before thought to compel myself.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I rejoiced in my liberty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That seldom is found in marriage;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where I was free, I must be in servitude.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "But nevertheless I see your true intent,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And trust upon your intelligence, and always have done so;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Therefore of my free will I will assent<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To wed, as soon as ever I can.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But insofar as you have offered me to-day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To choose me a wife, I release you <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (From making) that choice and pray you to cease (making) that offer.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "For God knows it, that children often are<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unlike their worthy elders (who came) before them;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All goodness comes from God, not from the lineage<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By which they are conceived and born.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I trust in God's goodness, and therefore<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My marriage and my estate and peace of mind <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I entrust to him; he may do as he pleases.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Let me alone in the choosing of my wife --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That responsibility upon my back I will endure.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But I you pray, and order you upon your life,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whatever wife I take, you me assure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To honor her, while her life may endure,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In word and deed, both here and everywhere,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As if she were an emperor's daughter.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And furthermore, this shall you swear: that you<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Against my choice shall neither grouch nor strive;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For since I must forgo my liberty<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At your request, as ever I may thrive,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where my heart is set, there will I take a wife;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And unless you will assent in such a manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I pray you, speak no more of this matter."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With heartfelt will they swore and assent<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To all this thing -- there said no person nay --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beseeching him of grace, before they went,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he would grant them a fixed day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of his wedding, as soon as ever he can;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For yet always the people somewhat dreaded,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lest the marquis no wife would wed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He granted them a day, such as he pleased,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On which he would be wedded surely,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said he did all this at their request.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And they, with humble good will, obediently,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Kneeling upon their knees full reverently,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All thanked him; and thus they have a conclusion<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In accord with their wishes, and home again they go.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And thereupon he to his officers<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Commands the feast to prepare,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to his household knights and squires<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gave such orders as he desired to lay on them;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And they to his commandment obey,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And each of them does all his efforts<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To lend honor unto the feast.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not far from that same noble palace,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where this marquis planned his marriage,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There stood a small village, in a delightful location,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In which poor folk of that village<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had their beasts and their dwellings<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of their labor took their sustenance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; According to what produce the earth gave them.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Among these poor folk there dwelt a man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who was considered poorest of them all;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But high God sometimes can send <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His grace into a little ox's stall;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Janicula men of that village call him.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A daughter had he, fair enough in appearance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And Griselda this young maiden was called.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But to speak of virtuous beauty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then was she the fairest of all under sun;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because she was raised in poverty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No sensual desire had run through her heart.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Much more often of the well than of the wine barrel<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She drank, and because she would satisfy the demands of virtue<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She knew well labor but no idle ease.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But though this maid was tender of age,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet in the breast of her virginity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There was enclosed a mature and steadfast spirit;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in great reverence and charity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her old poor father she cared for.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A few sheep, while spinning, on field she kept;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She would not be idle until she slept.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when she homeward came, she would bring<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cabbages or other greens very often,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which she shredded and boiled for their sustenance<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And made her bed full hard and not at all soft;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And ever she sustained her father's life<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With every obedience and diligence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That child may do to father's reverence.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon Griselda, this poor creature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Very many times this marquis set his eye<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By chance, as he on hunting rode;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when it happened that he might see her,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He not with lecherous looking of folly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His eyes cast on hire, but in serious manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon her demeanor he would often think,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Commending in his heart her womanly qualities,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also her virtue, passing any person<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of so young age, as well in manner as deed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For though the people have no great insight<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In virtue, he considered very carefully<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her goodness, and decided that he would<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wed her only, if ever he should wed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The day of wedding came, but no person can<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tell what woman it should be;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which marvel wondered many a man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said, when they were in private,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Will not our lord yet leave his vanity?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Will he not wed? Alas! Alas, the times!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why will he thus himself and us deceive?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nevertheless this marquis has made<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of gems, set in gold and in azure,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Brooches and rings, for Griselda's sake;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of her clothing he took the measure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By a maid like her (in) stature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also of all other ornaments<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That unto such a wedding should be appropriate.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The time of mid-morning of the same day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Approaches, when this wedding should be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all the palace was put in proper order,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Both hall and chambers, each in its turn;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Storage buildings stuffed with plenty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There canst thou see, of delicious foods<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What can be found from as far as farthest Italy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This royal marquis, richly arrayed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lords and ladies in his company,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who were invited to the feast, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of his retinue the knights,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With many a sound of varied melody,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto the village of which I told<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In this splendid array the direct route have held.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Griselda of this, God knows, full ignorant,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That for her was all this splendour prepared,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has gone to fetch water at a well,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And comes home as soon as ever she can;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For well she had heard said that same day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The marquis should wed, and if she could,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She would be happy to have seen some of that sight.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She thought, "I will stand with other maidens,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who are my fellows, in our door and see<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The marchioness, and therefore will I try<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To do at home, as soon as it can be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The chores that I must do,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And then I may at leisure her behold,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If she takes this way to the castle."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And as she would over her threshold go,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The marquis came and called her;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she set down her water pot quickly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beside the threshold, in an ox's stall,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And down upon her knees she fell,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with sober countenance kneels without speaking,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until she had heard what was the lord's will.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This pensive marquis spoke unto this maid<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full soberly, and said in this manner:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Where is your father, O Griselda?" he said.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she with reverence, in humble manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Answered, "Lord, he is right here."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in she goes without longer delay,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to the marquis she fetched her father.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He by the hand then took this old man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said thus, when he had him aside:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Janicula, I neither may nor can<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Longer hide the desire of my heart.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If thou agree, whatsoever may happen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thy daughter will I take, before I depart,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For my wife, until her life's end.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Thou lovest me, I know it well for certain,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And art my faithful liege man born,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all that pleases me, I dare well say<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It pleases thee, and specially therefore<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tell me of that question that I have stated previously,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If thou will agree with that proposal,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To take me for thy son-in-law."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This sudden occurrence this man so astounded <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he grew red; abashed and all trembling<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He stood; hardly said he any more words,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But only thus: "Lord," said he, "my desire<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is as you wish, and against your pleasure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will do nothing, you are my lord so dear;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right as you please, govern this matter."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Yet I want," said this marquis softly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "That in thy chamber I and thou and she<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have a discussion, and knowest thou why?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For I will ask if it be her will <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To be my wife and conduct herself as I decide.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all this shall be done in thy presence;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will say nothing out of thy hearing."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in the chamber, while they were engaged in<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Their negotiation, which you shall after hear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The people came unto outside the house,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And wondered in what a virtuous manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And how attentively she cared for her dear father.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But certainly Griselda might wonder,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For never before saw she such a sight.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though it is no wonder that she was astonished<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To see so great a guest come in that place;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She never was accustomed to such guests,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which she looked full pale in her face.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But shortly forth this matter to pursue,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These are the words that the marquis said<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To this benign, true, faithful maid:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Griselda," he said, "you shall well understand<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It is pleasing to your father and to me<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I you wed, and also it may so stand,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As I suppose, that you desire that it so be.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But these questions ask I first," said he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "That, since it shall be done in a hasty manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Will you assent, or else think it over?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I say this: are you ready (to submit) with good heart<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To all my desires, and that I freely may,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As seems best to me, make you laugh or feel pain,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And you never to grouch about it, at any time?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also when I say `yes,' say not `nay,'<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Neither by word nor frowning countenance?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Swear this, and here I swear our alliance."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wondering upon these words, trembling for fear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She said, "Lord, unsuitable and unworthy<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Am I of that same honor that you offer me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But as you desire yourself, right so desire I.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And here I swear that never willingly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In deed nor thought, will I disobey you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Even to be dead, though I would hate to die."	
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "This is enough, Griselda mine," said he.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And forth he goes with a full sober manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Out of the door, and after that came she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to the people he said in this manner:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "This is my wife," said he, "that stands here.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Honor her and love her, I pray,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whoever loves me; there is no more to say."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And so that nothing of her old belongings<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She should bring into his house, he ordered<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That women should undress her right there;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of which these ladies were not very happy<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To handle her clothes, in which she was clad.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nevertheless, this maid bright of hue<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From foot to head they have clothed all new.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her hair have they combed, that lay unkempt<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Very crudely, and with their elegant fingers<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A crown on her head they have placed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And set her garments full of jeweled ornaments of every sort.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of her appearance why should I make a long tale?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The hardly people knew her for her beauty<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When she was translated into such riches.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This marquis has espoused her with a ring<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Brought for the same purpose, and then set her <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon a horse, snow-white and with a gentle pace,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to his palace, before he longer delayed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With joyful people that led and met her,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Conducted her; and thus the day they spend<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In revel, until the sun descended.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And shortly forth this tale to pursue,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I say that to this new marchioness <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God has such favor sent her of his grace<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That it seemed not likely<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she was born and fed in humble circumstances,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In a peasant's hut or in an ox-stall,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nurtured in an emperor's hall.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To every person she is grown so dear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And worshipful that folk where she was born,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And from her birth knew her year by year,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They hardly believed -- but dared have sworn --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That to Janicle, of whom I spoke before,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She was daughter, for, by conjecture,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They thought she was another creature.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For though that she was always virtuous,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She was increased in such excellence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of good characteristics, set in high goodness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And so discreet and fair of eloquence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So benign and so worthy of reverence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And could so the people's heart embrace,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That each who looked on her face loved her.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not only in the town of Saluces <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was made known the praise of her name,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But also moreover in many a region,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If one said well, another said the same;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So spread the fame of her high goodness <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That men and women, as well young as old,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Go to Saluce to look upon her.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus Walter lowly -- nay, but royally --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wedded with beneficial virtue,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In God's peace lives full easily<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At home, and to all appearances he had sufficient happiness;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And because he saw that under low social rank<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was often virtue hid, the people considered him<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A prudent man, and that is seen full seldom.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not only this Griselda through her wit<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Knew all the skills of a housewife's duties,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But also, when the situation required it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The public good could she promote.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There was no discord, rancor, nor sadness <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In all that land that she could not alleviate,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And wisely bring them all in rest and ease.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though her husband was absent at the time,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If noble men or others of her country<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Were wroth, she would bring them to agreement;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such wise and well considered words had she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And judgments of such great justice,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she was sent from heaven, as men supposed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; People to save and every wrong to amend.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not long time after this Griselda<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was married, she has borne a daughter,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Although she would rather have given birth to a male child;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Glad was this marquis and the folk for this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For though a maid child came all before,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She may unto a male child attain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By likelihood, since she is not barren.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There happened, as it befalls many times,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When this child had suckled but a short time,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This marquis in his heart longs so<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To test his wife, her constancy to know,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he could not out of his heart throw<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This strange desire to test his wife;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Needless, God knows, he intended to frighten her.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He had tested her enough before,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And found her always good; why was it needed<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To test her, and always more and more,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though some men praise its ingenuity?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But as for me, I say that it ill befits one<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To test a wife when there is no need,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And put her in anguish and in dread.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which this marquis worked in this manner:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He came alone at night, where she lay,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With stern face and with a very troubled manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said thus: "Griselda," said he, "that day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I took you out of your impoverished situation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And put you in the condition of high nobility --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You have not forgotten that, as I suppose?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I say, Griselda, this present high social position,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In which I have put you, as I believe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Requires that you be not forgetful <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I took you in a poor, very humble condition,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Despite any present prosperity you must know it yourself. <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Take heed of every word that I say to you;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is no person that hears it but we two.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "You know well yourself how you came here<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Into this house, it is not long ago;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And though to me you are beloved and dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto my nobles you are not at all so.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They say, to them it is great shame and woe<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To be subjects and be in servitude<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To thee, that art born in a humble village.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And especially since thy daughter was born<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These words have they spoken, doubtless.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But I desire, as I have done before,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To live my life with them in rest and peace.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I can not be imprudent in this case;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I must do with thy daughter for the best,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not as I would want, but as my people desire.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And yet, God knows, this is full hateful to me;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nevertheless without your knowledge<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will not do anything; but this I desire," said he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "That you assent to me in this matter.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Show now in your actions your patience, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That you promised me and swore in your village<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That day that our marriage was made."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When she had heard all this, she changed not <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Neither in word, nor manner, nor countenance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For, as it seemed, she was not aggrieved.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She said, "Lord, all is subject to your pleasure.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My child and I, with heart-felt obedience,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Are entirely yours, and you may save or kill<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Your own thing; do as you will.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "There can nothing, as God my soul may save,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Please you that may displease me;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor do I desire to have anything,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor dread to lose, save only you.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This will is in my heart, and ever shall be;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No length of time or death can obliterate this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor change my heart to another place."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Glad was this marquis of her answer,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But yet he feigned as if he were not so;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All sorrowful was his manner and his look,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When he had to go out of the chamber.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Soon after this, in a few minutes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He privately has told all his plan<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto a man, and sent him to his wife.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A sort of sergeant (policeman) was this confidential servant,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whom he had often found faithful <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In important matters, and also such folk well can<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Carry out their orders in evil matters.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The lord knew well that he loved and dreaded him;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when this sergeant knew his lord's will,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Into the chamber he stalked very quietly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Madame," he said, "you must forgive it me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though I do a thing to which I am constrained.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You are so wise that full well you know<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That lords' commands may not be evaded (by feigning);<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They may well be bewailed or complained of,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But men must by necessity unto their desires obey,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And so will I; there is no more to say.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "This child I am commanded to take" --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And spoke no more, but out the child he seized<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mercilessly, and made a face<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As if he would have slain it before he went.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Griselda must suffer all and consent to all,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And as a lamb she sits meek and still,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And let this cruel sergeant do his will.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Suspicious was the bad reputation of this man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Suspect his face, suspect his word also;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Suspect the time in which he this began.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Alas! Her daughter that she loved so,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She thought he would have slain it right then.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nevertheless she neither wept nor sighed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Conforming herself to what the marquis pleased.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But at the last she began to speak,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And meekly she to the sergeant prayed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As he was a worthy gentle man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she might kiss her child before it died.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in her lap this little child she laid<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With full sad face, and blessed the child,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And lulled it, and afterward kissed it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And thus she said in her benign voice,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Farewell my child! I shall thee never see.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But since I have marked thee with the cross<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of that same Father -- blessed may he be! --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That for us died upon a cross of wood,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thy soul, little child, I entrust to him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For this night shalt thou die for my sake."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I believe that to a nurse in this case<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It would have been hard this pitiful situation to see;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well might a mother then have cried "alas!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nevertheless so firmly steadfast was she<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she endured all adversity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to the sergeant meekly she said,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Have here again your little young maid.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Go now," said she, "and do my lord's command;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But one thing will I pray you of your grace,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That, unless my lord forbad you, at the least<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bury this little body in some place<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That no beasts nor birds tear it to pieces."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But he no word will say to that proposal,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But took the child and went upon his way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This sergeant came unto his lord again,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of Griselda's words and her manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He told him in detail, in short and plain (words),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And presents him with his daughter dear.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Somewhat this lord had pity in his manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nevertheless his purpose held he still,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As lords do, when they will have their will;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And commanded this sergeant that he secretly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Should this child softly wind and wrap (in a blanket),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With every care tenderly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And carry it in a box or in a folded cloth;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But, upon pain of having his head cut off,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No man should know of his intention,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor whence he came, nor whither he went;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But at Bologna to his sister dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who at that very time was countess of Panik,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He should take it and explain to her this matter,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beseeching her to do her best<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This child to nurture in all noble manners;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And whose child that it was he commanded her to hide<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From every person, for anything that may happen.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The sergeant goes, and has fulfilled this order;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But to this marquis we now return.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For now he goes very intently considering<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If by his wife's appearance he might see,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or by her word perceive, if she<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Were changed; but he never could find her <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Anything but always the same, alike steadfast and kind.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As glad, as humble, as diligent in service,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also in love, as she was accustomed to be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was she to him in every sort of way;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor of her daughter not a word spoke she.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No external sign, for any adversity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was seen in her, and never her daughter's name<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mentioned she, in earnest nor in jest (in any way).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In this condition there are passed four years<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before she was with child, but, as God would,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A male child she bore by this Walter,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Very gracious and beautiful in appearance.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when folk told it to his father,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not only he but all his country merry<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was for this child, and God they thank and praise.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When it was two years old, and from the breast<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of his nurse weaned, on one day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This marquis caught yet another desire<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To test his wife yet again, if he can.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O needless was she put to the test!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But wedded men know no moderation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When they find a patient creature.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Wife," said this marquis, "you have heard before this<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My people are unhappy with our marriage;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And especially since my son is born,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now is it worse than ever in all our lives.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The grumbling slays my heart and my feelings,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For to my ears comes the voice so sharply<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That it well nigh has destroyed my heart.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Now say they thus: `When Walter is gone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then shall the blood of Janicle succeed<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And be our lord, for we have no other.'<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such words say my people, no doubt.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well ought I of such grumbling take heed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For certainly I dread such opinion,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though they speak not plainly in my hearing.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I would live in peace, if I could; <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Therefore I am firmly resolved, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As I dealt with his sister by night,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right so I intend to deal with him secretly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This I warn you, so that you not suddenly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For any woe should break out in a passion;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be patient, and for that I pray you."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I have," said she, "said thus, and ever shall:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I want nothing, nor will not want any thing, certainly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But as you desire. It does not grieve me at all,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though my daughter and my son be slain --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At your commandment, this is to say.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I have not had any part of children two<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But first sickness, and after, woe and pain.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "You are our lord; do with your own thing<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right as you desire; ask no advice from me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For as I left at home all my clothing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When I first came to you, right so," said she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Left I my will and all my liberty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And took your clothing; wherefore I you pray,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do your pleasure; I will obey your desire.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And certainly, if I had foreknowledge<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To know your will, before you told me your desire,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I would do it without negligence;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But now I know your desire, and what you want,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All your pleasure (whatever you wish) firm and stable I hold;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For if I knew that my death would do you ease,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right gladly would I die, to please you.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Death can not make any comparison (is nothing compared)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto your love." And when this marquis saw<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The constancy of his wife, he cast down<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His eyes two, and wonders that she can<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In patience suffer all this treatment;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And forth he goes with sorrowful countenance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But to his heart it was full great pleasure.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This ugly sergeant, in the same manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he her daughter seized, right so he --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or worse, if one can worse imagine --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has seized her son, that was full of beauty.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And continually so patient was she<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she made no appearance of sadness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But kissed her son, and afterwards it blessed;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Save this, she prayed him that, if he could,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her little son he would bury in earth<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His tender limbs, pleasing in appearance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From birds and from beasts to save.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But she no answer of him might have.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He went his way, as if he cared nothing about it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But to Bologna he tenderly brought it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This marquis wondered, more and more,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon her patience, and if he<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had not truly known before this<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she perfectly loved her children,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He would have supposed that by some trickery,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And out of malice, or for hard heart,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she had suffered this with calm manner.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But well he knew that next to himself, certainly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She loved her children best in every way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But now I would like to ask of women <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If these tests might not suffice?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What could a cruel husband more devise<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To test her wifehood and her steadfastness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he continuing ever in cruelty?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But there are folk of such disposition<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That when they have a certain purpose taken,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They can not refrain from their intention,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But, right as if they were bound to that stake,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They will not from that original plan desist.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right so this marquis has firmly decided<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To test his wife as he was first disposed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He watches to see if by word or countenance<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she to him was changed in heart,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But never could he find variation.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She was always the same in heart and in visage,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And ever the further that she was in age,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The more true, if it were possible,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She was to him in love, and more attentive.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which it seemed thus: that of them two<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There was but one will, for as Walter desired,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The same desire was her pleasure also.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And, God be thanked, all fell for the best.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She proved good; for no worldly discomfort<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A wife, concerning herself, nothing should<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Desire in fact, except what her husband would want.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The ill fame of Walter spread often and wide,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That of a cruel heart he wickedly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because he had wedded a poor woman,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has murdered both his children secretly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such grumbling was among them unanimously.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No wonder is, for to the people's ear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There came no word but that they were murdered.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which, whereas his people before this<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had loved him well, the disgrace of his bad reputation<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Made them so that they hated him for this.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To be a murderer is (to have) a hateful reputation;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nevertheless, not for any reason,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Would he of his cruel purpose desist;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To test his wife was set all his intention.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When his daughter was twelve years of age,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He to the court of Rome, (which was) in a cunning manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Informed of his real purpose, sent his messenger,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Commanding them such papal bulls to devise<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As to his cruel purpose may suffice --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How the pope, to restore tranquility for his people,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Commanded him to wed another, if he pleased.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I say, he commanded they should counterfeit<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The pope's bulls, making mention<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he has permission to leave his first wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As by the pope's dispensation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To stint rancor and dissension<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Between his people and him; thus said the bull,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which they have published widely.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The ignorant people, as it no wonder is,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Supposed full well that it had been right so;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But when these tidings came to Griselda,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I believe that her heart was very woeful.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But she, continuously steadfast for evermore,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Disposed was, this humble creature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To endure all the adversity of Fortune,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Enduring ever his desire and his pleasure,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To whom she was given, heart and all,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As her true worldly source of satisfaction.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But shortly if this story I tell shall,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This marquis written has in detail<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A letter, in which he reveals his intention,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And secretly he sent it to Bologna.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To the Earl of Panyk, who had then<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wedded his sister, prayed he specifically<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To bring home again his two children<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In a noble public display.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But one thing he him prayed earnestly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he to no one, though men would inquire,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Should tell whose children they were,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But say the maiden should wedded be<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto the Marquis of Saluce immediately.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And as this earl was asked, so did he;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For at the set day he on his way is gone<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Toward Saluce, and lords many a one<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In rich array, this maiden to guide,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her young brother riding beside her.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Adorned was in preparation for her marriage<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This lovely maid, (her clothing) full of bright gems;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her brother, who was seven years of age,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Adorned also full handsomely in his manner.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And thus in great nobility and with a glad manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Toward Saluces directing their journey,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From day to day they ride on their way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Meanwhile, in accord with his wicked usage,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This marquis, yet his wife to test more<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To the utmost test of her heart,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fully to have experience and knowledge<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If she were as steadfast as before,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He on a certain day in the hearing of all<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full rudely has said to her this speech:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Certainly, Griselda, I had enough pleasure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To have you as my wife for your goodness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As for your truth and for your obedience<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not for your lineage, nor for your riches;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But now know I in true certainty<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That in great lordship, if I judge rightly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is great servitude in various ways.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I can not do as every plowman may.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My people constrain me to take<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Another wife, and complain day by day;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also the pope, to quench rancor, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Consents to it -- that dare I assert --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And truly thus much I will say to you:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My new wife is coming by the way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Be strong of heart, and vacate her place immediately;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that dowry that you brought me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Take it back; I grant it of my grace.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Return to your father's house," said he;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "No one can always have prosperity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With tranquil heart I advise you to endure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The stroke of Fortune or of chance."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she in reply answered in patience:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "My lord," said she, "I know, and knew always,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How between your magnificence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And my poverty no person can nor may<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Make comparison; it cannot be denied.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I considered myself never worthy in any way<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To be your wife, no, nor your chambermaid.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And in this house, where you made me the lady --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The high God I take for my witness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And as surely as he my soul may gladden --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I never considered myself lady nor mistress,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But humble servant to your worthiness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And ever shall, while my life may endure,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Above every worldly creature.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "That you so long of your benignity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have maintained me in honor and nobility,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where I was not worthy to be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For that I thank you and God, to Whom I pray<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To reward you for it; there is no more to say.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto my father gladly will I go,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with him dwell unto my life's end.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Where I was fostered as a child full small,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until I be dead I will lead my life there,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A widow clean in body, heart, and all.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For since I gave to you my maidenhead,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And am your true wife, there is no doubt,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God forbid such a lord's wife to take<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Another man as husband or as mate!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And of your new wife God of his grace<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Grant you happiness and prosperity!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For I will gladly yield her my place,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In which I was accustomed to be blissful.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For since it pleases you, my lord," said she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Who once was all my heart's peace,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I shall go, I will go when you please.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "But inasmuch as you offer me such dowry<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As I first brought, it is well in my mind<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It was my wretched clothing, in no way fair,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which to me were hard to find now.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O good God! How gentle and how kind<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You seemed by your speech and your visage<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The day that our marriage was made!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "But sooth is said -- always I find it true,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For in fact it is proven by me --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When love is old it is not the same as when it was new.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But certainly, lord, for no adversity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Even if I were to die miserably, it shall not be<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That ever in word or deed I shall repent<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I gave you my heart whole heartedly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "My lord, you know that in my father's place<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You had me stripped out of my poor clothing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And had me richly clad, by your grace.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To you I brought nothing else, beyond doubt,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But faith, and nakedness, and maidenhead;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And here in return your clothing I restore,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also your wedding ring, for evermore.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "The remnant of your jewels ready are<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Within your chamber, dare I confidently say.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Naked out of my father's house," said she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I came, and naked must I return.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All your pleasure will I eagerly follow;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But yet I hope it be not your intention<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I should go without a smock out of your palace.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "You could not do so shameful a thing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That that same womb in which your children lay<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Should before the people, in my walking,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be seen all bare; therefore I you pray,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let me not like a worm go by the way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Remember, my own lord so dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I was your wife, though I unworthy were.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Therefore, in recompense for my maidenhead,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which I brought, and nothing I bear back,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Condescend to give me, as my recompense,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Only such a smock as I was accustomed to wear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I with it may cover the womb of her<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who was your wife. And here take I my leave<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of you, my own lord, lest I you grieve."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "The smock," said he, "that thou hast on thy back,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let it be (there) still, and bear it forth with thee."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But scarcely that same word he spoke,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But went his way, for grief and for pity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before the folk she strips herself,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in her smock, with head and foot all bare,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Toward her father's house forth is she gone.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The folk follow her, weeping on their way,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And Fortune ever they curse as they go;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But she from weeping kept her eyes dry,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in this time no word she spoke.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her father, who heard this news straightway,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Curses the day and time that Nature<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shaped him to be a living creature.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For doubtless this old poor man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was ever in suspicion of her marriage;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For ever he believed, since it began,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That when the lord had fulfilled his desires,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He would think it was a degradation<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To his rank so low to stoop,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And get rid of her as soon as ever he could.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To meet his daughter hastily goes he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For he by noise of folk knew her coming,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with her old coat, insofar as it could<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He covered her, full sorrowfully weeping.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But on her body he could not bring it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For coarse was the cloth, and more of age<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By many days than at her marriage.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus with her father for a certain space of time<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dwells this flower of womanly patience,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That neither by her words nor her face,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before the folk, nor also in their absence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She showed that to her was done offence;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor of her high estate no remembrance<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had she, according to her countenance.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No wonder is, for in her great estate<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her spirit was ever in full humility;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No tender mouth, no self-indulgent feelings,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No pomp, nor outward appearance of royalty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But full of patient goodness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Discreet and without pride, ever honorable,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to her husband ever meek and stable.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Men speak of Job, and mostly for his humility,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As clerks, when they want, know well how to write,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Especially of men, but in truth,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though clerks praise women but a little,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There can no man in humility acquit himself<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As woman can, nor can be half so true<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As women are, unless it happened recently.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From Bologna is this Earl of Panyk come,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of which the news up sprang to high ranks and low,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to the people's ears, one and all,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was made known also that a new marchioness <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He brought with him, in such pomp and riches<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That never was there seen with man's eye<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such a noble array in all West Lombardy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The marquis, who arranged and knew all this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before this earl was come, sent his messenger<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For that same innocent poor Griselda;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she with humble heart and glad visage,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not with any proud thought in her heart,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Came at his command, and on her knees set herself,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And reverently and wisely she greeted him.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Griselda," said he, "my will is completely<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That this maiden, who shall be wedded to me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be received to-morrow as royally<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As it is possible in my house to be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also that every person, according to his rank<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have his due respect, in seating and service<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And great pleasure, as I can best arrange.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I have no women capable, certainly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The chambers to put in order<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; According to my wishes, and therefore I would like<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That thine be the supervision of all this business.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou knowest also of old all my desires;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though thy dress be bad and in poor condition,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do thou thy duty at least."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Not only, lord, I am glad," said she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "To do your wishes, but I desire also<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You to serve and please in accord with my rank<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Without weakening, and shall evermore;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor never, for any happiness nor any woe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shall the spirit within my heart cease<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To love you best with all my true will."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word she began to prepare the house,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to set tables, and make beds;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And took pains to do all that she could,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Praying the chambermaids, for God's sake,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To hasten themselves, and fast sweep and dust;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she, the most willing to serve of all,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has every chamber prepared and his hall.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; About mid-morning did this earl alight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who with him brought these noble children two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which the people ran to see the sight<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of their accoutrements, so rich in appearance;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And then for the first time amongst themselves they say<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That Walter was no fool, though he desired<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To change his wife, for it was for the best.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For she is fairer, as they all decide,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than is Griselda, and more tender of age,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And fairer fruit between them should fall,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And more pleasing, because of her high lineage.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her brother also so fair was of visage<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That the people take pleasure in seeing them,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Commending now the marquis's governance.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "O stormy people! Inconstant and ever untrue!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ever undiscerning and changing like a weather vane!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Delighting ever in rumor that is new,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For like the moon ever you wax and wane!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Always full of chattering, not worth a penny!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Your judgment is false, your constancy proves evil;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A full great fool is he that believes in you."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus said serious folk in that city,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When the people gazed up and down,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For they were glad, right for the novelty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To have a new lady of their town.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No more of this make I now mention,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But to Griselda again will I address myself,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And tell her constancy and her diligence.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full busy was Griselda in every thing<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That was pertaining to the feast.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not at all was she ashamed of her clothing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though it was crude and also somewhat ragged;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But with glad manner to the gate is went<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With other folk to greet the marchioness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And after that carries on her work.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With such glad manner his guests she receives,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And so skillfully, each according to his rank,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That no man perceives any fault,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But ever they wonder who she might be<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That in such poor array was to be seen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And knew how to do such honor and reverence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And deservedly they praise her prudence.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In all this mean while she did not cease<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This maid and also her brother to commend<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With all her heart, in full benign intention,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So well that no man could praise her more highly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But at the last, when these lords went<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To sit down to dinner, he called<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Griselda, as she was busy in his hall.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Griselda," said he, as if it were a joke,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "How do you like my wife and her beauty?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Right well," said she, "my lord; for, in good faith,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I never saw so fair a one as she.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I pray to God to give her prosperity;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And so I hope that he will to you send<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pleasure enough unto your lives' end.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "One thing I beseech you, and warn also,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That you not distress with any tormenting<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This tender maiden, as you have done to others;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For she has been reared in her nurture<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; More tenderly, and, as I believe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She could not endure adversity <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As could a poorly reared creature."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when this Walter saw her patience,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her glad expression, and no malice at all,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he so often had done to her offence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she ever steadfast and constant as a wall,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Continuing ever her innocence in every way,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This stern marquis inclined his heart<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To have pity upon her womanly steadfastness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "This is enough, Griselda mine," said he;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Be now no more frightened nor displeased.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I have thy faith and thy goodness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As well as ever woman was, tested,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In great estate and in poverty.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now I know, dear wife, thy steadfastness" --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And took her in arms and kissed her.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she for amazement took of it no notice;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She heard not what thing he said to her;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She fared as if she had suddenly awakened out of a sleep,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until out of her bewilderment she suddenly awoke.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Griselda," said he, "by God, who for us died,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou art my wife, and none other I have,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor ever had, as God my soul may save!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "This is thy daughter, which thou hast supposed<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To be my wife; that other truly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shall be my heir, as I have ever intended;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou bore him in thy body truly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At Bologna I have kept them secretly;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Take them back, for now mayst thou not say<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That thou hast lost any of thy children two.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And folk that otherwise have said of me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I declare to them clearly that I have done this deed<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For no malice, nor for no cruelty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But to test in thee thy womanhood,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And not to slay my children -- God forbid! --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But to keep them secretly and quietly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until I knew thy perseverence and all thy will."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When she heard this, down she falls in a swoon<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For pitiful joy, and after her swooning<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She calls both her young children to her,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in her arms, pitifully weeping,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Embraces them, and tenderly kissing<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full like a mother, with her salt tears<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She bathed both their visage and their hair.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O what a pathetic thing it was to see<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her swooning, and her humble voice to hear!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Great thanks, lord, may God repay it to you," said she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "That you have saved for me my children dear!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now care I never to be dead right here;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since I stand in your love and in your grace,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Death does not matter, nor when my spirit may pass (away)!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "O tender, o dear, o my young children!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Your woeful mother truly believed <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That cruel hounds or some foul animal pests<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had eaten you; but God of his mercy<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And your benign father tenderly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has had you protected" -- and in that same moment<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All suddenly she fell down to the ground.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in her swoon so tightly holds she<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her children two, when she embraced them,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That with great effort and great difficulty<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The children from her arm they did tear away.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O many a tear on many a pitiful face<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Down ran of them that stood beside her;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hardly about her might they remain.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Walter comforts her and her sorrow relieves;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She rises up, disconcerted, from her trance,	<b><BR></b>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And every person makes joy and festivity for her<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until she has regained her composure.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Walter strives so faithfully to please her<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That it was delightful to see the happiness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Between them two, now they are met together.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These ladies, when they see their time,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have taken her and into chamber they go,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And strip her out of her crude clothing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in a cloth of gold that brightly shone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With a crown of many a rich stone<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon her head, they into hall her brought,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And there she was honored as she deserved.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus has this pitiful day a blissful end,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For every man and woman does his might<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This day in mirth and revel to spend<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until in the sky shone the stars' light.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For more splendid in every man's sight<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This feast was, and greater of cost,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than was the revel of their marriage.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full many a year in high prosperity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Live these two in peace and in quiet,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And richly his daughter married he<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto a lord, one of the worthiest<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of all Italy; and then in peace and rest<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His wife's father in his court he keeps,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until the soul out of his body creeps.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His son succeeds in his heritage<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In rest and peace, after his father's day,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And fortunate was also in marriage,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Although he put not his wife in great tests.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This world is not so strong, there is no denying,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As it has been in old times long ago,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And listen to what this author says concerning this (tale).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This story is said not so that wives should<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Follow Griselda in humility,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For it would be intolerable, though they would (want to),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But so that every person, in his station in life,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Should be constant in adversity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As was Griselda; therefore Petrarch writes<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This story, which with high style he composes.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For since a woman was so patient<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto a mortal man, well more we ought to<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Receive with a good will all that God sends us;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For it is very reasonable that he test what he made.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But he tests no man that he redeemed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As says Saint James, if you his epistle read;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He tests folk all the time, it is no doubt,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And permits us, for our own good<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With sharp whips of adversity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full often to be beaten in various ways;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not to know our will, for certainly he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before we were born, knew all our frailty;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And for our best is all his governance.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let us then live in virtuous forbearance.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But one word, lords, hear before I go:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It would be very difficult to find now-a-days<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In all the town Griseldas three or two;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For if they were put to such tests,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The gold of them has now been so badly debased<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With brass, that though the coin be fair to look at,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It would rather break in two than bend.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which here, for the love of the Wife of Bath --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whose life and all her sect may God maintain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In high mastery, and otherwise it would be a pity --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will with lusty heart, fresh and vigorous,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Say you a song to make you happy, I believe;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And let us stint of serious matter.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hear my song that says in this manner:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Griselda is dead, and also her patience,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And both together buried in Italy;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which I cry in the hearing of all<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No wedded man so bold be to test<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His wife's patience trusting to find<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Griselda, for certainly he shall faille.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O noble wives, full of great prudence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let no humility nail down your tongue,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor let any clerk have cause or eagerness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To write about you a story of such marvel<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As of patient and kind Griselda,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lest Chichevache swallow you in her entrails!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Follow Echo, who holds no silence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But ever answers in reply.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be not fooled because of your innocence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But eagerly take the governance to yourself.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Imprint well this lesson in your mind,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since it may work to the benefit of all.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You arch-wives, stand ready for battle,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since you are strong as is a great camel;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Suffer not that men do offense to you.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And slender wives, feeble in battle,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be fierce as is a tiger yonder in India;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ever wag your tongues like a windmill, I you advise.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fear them not; do them no reverence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For though thy husband be armed in mail,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The arrows of thy spiteful eloquence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shall pierce his breast and also his neck-guard.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In jealousy I advise also that thou bind him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And thou shalt make him cower as does a quail.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If thou be fair, where folk are present,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Show thou thy visage and thy apparel;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If thou be ugly, be lavish in thy expenditures;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To get thee friends always work hard;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be ever in behavior as light as a leaf on a linden tree,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And let him grieve, and weep, and wring his hands, and wail!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [When ended was the tale of this worthy Clerk,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our Host said, and swore, "By God's bones,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I would rather than have a barrel of ale<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My wife at home had heard this legend once!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is a fine tale for this occasion,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For my purposes, if you knew my will;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But thing that will not be, let it be still."]<BR>
+There is, at the west side of Italy,
+Down at the foot of Vesulus the cold,
+A lusty plain, abundant with food crops,
+Where many a tower and town thou may behold,
+That were founded in time of fathers old,
+And many another delectable sight,
+And Saluces this noble country is called.
+A marquis once was lord of that land,
+As were his worthy elders before him;
+And obedient, ever ready to his hand (to do his commands),
+Were all his subjects, both lesser ranks and nobles.
+Thus in delight he lives, and has done since long before,
+Beloved and feared, through favor of Fortune,
+Both by his lords and by his citizenry.
+Moreover he was, to speak of lineage,
+The most noble born in Lombardy,
+A handsome person, and strong, and young of age,
+And full of honor and of courtesy;
+Discreet enough to govern his country,
+Except in some things he was to blame;
+And Walter was this young lord's name.
+I blame him thus: that he considered not
+In time coming what might happen to him,
+But on his immediate pleasure was all his thought,
+Such as to hawk and hunt on every side.
+Well nigh all other cares he let slip away,
+And also he would not -- and that was worst of all --
+Wed any woman, for anything that may befall.
+Only that point his people took so badly
+That in groups on one day they went to him,
+And one of them, that wisest was in learning --
+Or else the one that the lord most readily would consent
+That he should tell him what his people meant,
+Or else he knew well how to present such a matter --
+He to the marquis said as you shall hear:
+"O noble marquis, your graciousness
+Makes us confident and gives us boldness,
+As often as it is time (to do so) by necessity,
+That we to you may tell our sorrow.
+Grant, lord, now of your nobility
+That we with pitiful heart may unto you complain,
+And let your ears not disdain (to hear) my voice.
+"Although I have nothing to do in this matter
+More than another man has in this place,
+Yet for as much as you, my lord so dear,
+Have always shown me favor and grace
+I dare the more confidently to ask of you a time
+Of hearing to present our request,
+And you, my lord, to do right as it may please you.
+"For certainly, lord, so well you please us 
+And all your actions, and ever have done so, that we
+Could not ourselves imagine how
+We might live in more happiness,
+Save one thing, lord, if it be your will,
+That you would desire to be a wedded man;
+Then your people would be in complete peace of mind.
+"Bow your neck under that blissful yoke
+Of sovereignty, not of servitude,
+Which men call marriage or wedlock;
+And think, lord, among your wise thoughts 
+How our days pass in various ways,
+For though we sleep, or wake, or roam, or ride,
+Ever flees the time; it will wait for no man.
+"And though your green youth flowers as yet,
+In creeps age always, as still as stone,
+And death menaces every age, and smites
+In each rank, for there escapes no one;
+And just as certainly as we know, each one of us,
+That we shall die, as uncertain we all
+Are of that day when death shall on us fall.
+"Accept then the true intent of us,
+Who never yet refused your command,
+And we will, lord, if you will assent,
+Chose a wife for you, in short time at the least,
+Born of the most noble and of the greatest (in rank)
+Of all this land, so that it must seem
+Honor to God and you, so far as we can judge.
+"Deliver us out of all this constant fear,
+And take a wife, for high God's sake!
+For if it so happen, may God forbid,
+That through your death your line should die out,
+And that a foreign successor should take
+Your heritage, O woe would it be to us in our lifetime!
+Wherefore we pray you hastily to take a wife."
+Their meek prayer and their pitiful manner
+Made the marquis's heart have pity.
+"You want," said he, "my own people dear,
+That which I never before thought to compel myself.
+I rejoiced in my liberty,
+That seldom is found in marriage;
+Where I was free, I must be in servitude.
+"But nevertheless I see your true intent,
+And trust upon your intelligence, and always have done so;
+Therefore of my free will I will assent
+To wed, as soon as ever I can.
+But insofar as you have offered me to-day
+To choose me a wife, I release you 
+(From making) that choice and pray you to cease (making) that offer.
+"For God knows it, that children often are
+Unlike their worthy elders (who came) before them;
+All goodness comes from God, not from the lineage
+By which they are conceived and born.
+I trust in God's goodness, and therefore
+My marriage and my estate and peace of mind 
+I entrust to him; he may do as he pleases.
+"Let me alone in the choosing of my wife --
+That responsibility upon my back I will endure.
+But I you pray, and order you upon your life,
+Whatever wife I take, you me assure
+To honor her, while her life may endure,
+In word and deed, both here and everywhere,
+As if she were an emperor's daughter.
+"And furthermore, this shall you swear: that you
+Against my choice shall neither grouch nor strive;
+For since I must forgo my liberty
+At your request, as ever I may thrive,
+Where my heart is set, there will I take a wife;
+And unless you will assent in such a manner,
+I pray you, speak no more of this matter."
+With heartfelt will they swore and assent
+To all this thing -- there said no person nay --
+Beseeching him of grace, before they went,
+That he would grant them a fixed day
+Of his wedding, as soon as ever he can;
+For yet always the people somewhat dreaded,
+Lest the marquis no wife would wed.
+He granted them a day, such as he pleased,
+On which he would be wedded surely,
+And said he did all this at their request.
+And they, with humble good will, obediently,
+Kneeling upon their knees full reverently,
+All thanked him; and thus they have a conclusion
+In accord with their wishes, and home again they go.
+And thereupon he to his officers
+Commands the feast to prepare,
+And to his household knights and squires
+Gave such orders as he desired to lay on them;
+And they to his commandment obey,
+And each of them does all his efforts
+To lend honor unto the feast.
+Not far from that same noble palace,
+Where this marquis planned his marriage,
+There stood a small village, in a delightful location,
+In which poor folk of that village
+Had their beasts and their dwellings
+And of their labor took their sustenance,
+According to what produce the earth gave them.
+Among these poor folk there dwelt a man
+Who was considered poorest of them all;
+But high God sometimes can send 
+His grace into a little ox's stall;
+Janicula men of that village call him.
+A daughter had he, fair enough in appearance,
+And Griselda this young maiden was called.
+But to speak of virtuous beauty,
+Then was she the fairest of all under sun;
+Because she was raised in poverty,
+No sensual desire had run through her heart.
+Much more often of the well than of the wine barrel
+She drank, and because she would satisfy the demands of virtue
+She knew well labor but no idle ease.
+But though this maid was tender of age,
+Yet in the breast of her virginity
+There was enclosed a mature and steadfast spirit;
+And in great reverence and charity
+Her old poor father she cared for.
+A few sheep, while spinning, on field she kept;
+She would not be idle until she slept.
+And when she homeward came, she would bring
+Cabbages or other greens very often,
+Which she shredded and boiled for their sustenance
+And made her bed full hard and not at all soft;
+And ever she sustained her father's life
+With every obedience and diligence
+That child may do to father's reverence.
+Upon Griselda, this poor creature,
+Very many times this marquis set his eye
+By chance, as he on hunting rode;
+And when it happened that he might see her,
+He not with lecherous looking of folly
+His eyes cast on hire, but in serious manner
+Upon her demeanor he would often think,
+Commending in his heart her womanly qualities,
+And also her virtue, passing any person
+Of so young age, as well in manner as deed.
+For though the people have no great insight
+In virtue, he considered very carefully
+Her goodness, and decided that he would
+Wed her only, if ever he should wed.
+The day of wedding came, but no person can
+Tell what woman it should be;
+For which marvel wondered many a man,
+And said, when they were in private,
+"Will not our lord yet leave his vanity?
+Will he not wed? Alas! Alas, the times!
+Why will he thus himself and us deceive?"
+But nevertheless this marquis has made
+Of gems, set in gold and in azure,
+Brooches and rings, for Griselda's sake;
+And of her clothing he took the measure
+By a maid like her (in) stature,
+And also of all other ornaments
+That unto such a wedding should be appropriate.
+The time of mid-morning of the same day
+Approaches, when this wedding should be,
+And all the palace was put in proper order,
+Both hall and chambers, each in its turn;
+Storage buildings stuffed with plenty,
+There canst thou see, of delicious foods
+What can be found from as far as farthest Italy.
+This royal marquis, richly arrayed,
+Lords and ladies in his company,
+Who were invited to the feast, 
+And of his retinue the knights,
+With many a sound of varied melody,
+Unto the village of which I told
+In this splendid array the direct route have held.
+Griselda of this, God knows, full ignorant,
+That for her was all this splendour prepared,
+Has gone to fetch water at a well,
+And comes home as soon as ever she can;
+For well she had heard said that same day
+The marquis should wed, and if she could,
+She would be happy to have seen some of that sight.
+She thought, "I will stand with other maidens,
+Who are my fellows, in our door and see
+The marchioness, and therefore will I try
+To do at home, as soon as it can be,
+The chores that I must do,
+And then I may at leisure her behold,
+If she takes this way to the castle."
+And as she would over her threshold go,
+The marquis came and called her;
+And she set down her water pot quickly,
+Beside the threshold, in an ox's stall,
+And down upon her knees she fell,
+And with sober countenance kneels without speaking,
+Until she had heard what was the lord's will.
+This pensive marquis spoke unto this maid
+Full soberly, and said in this manner:
+"Where is your father, O Griselda?" he said.
+And she with reverence, in humble manner,
+Answered, "Lord, he is right here."
+And in she goes without longer delay,
+And to the marquis she fetched her father.
+He by the hand then took this old man,
+And said thus, when he had him aside:
+"Janicula, I neither may nor can
+Longer hide the desire of my heart.
+If thou agree, whatsoever may happen,
+Thy daughter will I take, before I depart,
+For my wife, until her life's end.
+"Thou lovest me, I know it well for certain,
+And art my faithful liege man born,
+And all that pleases me, I dare well say
+It pleases thee, and specially therefore
+Tell me of that question that I have stated previously,
+If thou will agree with that proposal,
+To take me for thy son-in-law."
+This sudden occurrence this man so astounded 
+That he grew red; abashed and all trembling
+He stood; hardly said he any more words,
+But only thus: "Lord," said he, "my desire
+Is as you wish, and against your pleasure
+I will do nothing, you are my lord so dear;
+Right as you please, govern this matter."
+"Yet I want," said this marquis softly,
+"That in thy chamber I and thou and she
+Have a discussion, and knowest thou why?
+For I will ask if it be her will 
+To be my wife and conduct herself as I decide.
+And all this shall be done in thy presence;
+I will say nothing out of thy hearing."
+And in the chamber, while they were engaged in
+Their negotiation, which you shall after hear,
+The people came unto outside the house,
+And wondered in what a virtuous manner
+And how attentively she cared for her dear father.
+But certainly Griselda might wonder,
+For never before saw she such a sight.
+Though it is no wonder that she was astonished
+To see so great a guest come in that place;
+She never was accustomed to such guests,
+For which she looked full pale in her face.
+But shortly forth this matter to pursue,
+These are the words that the marquis said
+To this benign, true, faithful maid:
+"Griselda," he said, "you shall well understand
+It is pleasing to your father and to me
+That I you wed, and also it may so stand,
+As I suppose, that you desire that it so be.
+But these questions ask I first," said he,
+"That, since it shall be done in a hasty manner,
+Will you assent, or else think it over?
+"I say this: are you ready (to submit) with good heart
+To all my desires, and that I freely may,
+As seems best to me, make you laugh or feel pain,
+And you never to grouch about it, at any time?
+And also when I say `yes,' say not `nay,'
+Neither by word nor frowning countenance?
+Swear this, and here I swear our alliance."
+Wondering upon these words, trembling for fear,
+She said, "Lord, unsuitable and unworthy
+Am I of that same honor that you offer me,
+But as you desire yourself, right so desire I.
+And here I swear that never willingly,
+In deed nor thought, will I disobey you,
+Even to be dead, though I would hate to die."
+"This is enough, Griselda mine," said he.
+And forth he goes with a full sober manner
+Out of the door, and after that came she,
+And to the people he said in this manner:
+"This is my wife," said he, "that stands here.
+Honor her and love her, I pray,
+Whoever loves me; there is no more to say."
+And so that nothing of her old belongings
+She should bring into his house, he ordered
+That women should undress her right there;
+Of which these ladies were not very happy
+To handle her clothes, in which she was clad.
+But nevertheless, this maid bright of hue
+From foot to head they have clothed all new.
+Her hair have they combed, that lay unkempt
+Very crudely, and with their elegant fingers
+A crown on her head they have placed,
+And set her garments full of jeweled ornaments of every sort.
+Of her appearance why should I make a long tale?
+The hardly people knew her for her beauty
+When she was translated into such riches.
+This marquis has espoused her with a ring
+Brought for the same purpose, and then set her 
+Upon a horse, snow-white and with a gentle pace,
+And to his palace, before he longer delayed,
+With joyful people that led and met her,
+Conducted her; and thus the day they spend
+In revel, until the sun descended.
+And shortly forth this tale to pursue,
+I say that to this new marchioness 
+God has such favor sent her of his grace
+That it seemed not likely
+That she was born and fed in humble circumstances,
+In a peasant's hut or in an ox-stall,
+But nurtured in an emperor's hall.
+To every person she is grown so dear
+And worshipful that folk where she was born,
+And from her birth knew her year by year,
+They hardly believed -- but dared have sworn --
+That to Janicle, of whom I spoke before,
+She was daughter, for, by conjecture,
+They thought she was another creature.
+For though that she was always virtuous,
+She was increased in such excellence
+Of good characteristics, set in high goodness,
+And so discreet and fair of eloquence,
+So benign and so worthy of reverence,
+And could so the people's heart embrace,
+That each who looked on her face loved her.
+Not only in the town of Saluces 
+Was made known the praise of her name,
+But also moreover in many a region,
+If one said well, another said the same;
+So spread the fame of her high goodness 
+That men and women, as well young as old,
+Go to Saluce to look upon her.
+Thus Walter lowly -- nay, but royally --
+Wedded with beneficial virtue,
+In God's peace lives full easily
+At home, and to all appearances he had sufficient happiness;
+And because he saw that under low social rank
+Was often virtue hid, the people considered him
+A prudent man, and that is seen full seldom.
+Not only this Griselda through her wit
+Knew all the skills of a housewife's duties,
+But also, when the situation required it,
+The public good could she promote.
+There was no discord, rancor, nor sadness 
+In all that land that she could not alleviate,
+And wisely bring them all in rest and ease.
+Though her husband was absent at the time,
+If noble men or others of her country
+Were wroth, she would bring them to agreement;
+Such wise and well considered words had she,
+And judgments of such great justice,
+That she was sent from heaven, as men supposed,
+People to save and every wrong to amend.
+Not long time after this Griselda
+Was married, she has borne a daughter,
+Although she would rather have given birth to a male child;
+Glad was this marquis and the folk for this,
+For though a maid child came all before,
+She may unto a male child attain
+By likelihood, since she is not barren.
+There happened, as it befalls many times,
+When this child had suckled but a short time,
+This marquis in his heart longs so
+To test his wife, her constancy to know,
+That he could not out of his heart throw
+This strange desire to test his wife;
+Needless, God knows, he intended to frighten her.
+He had tested her enough before,
+And found her always good; why was it needed
+To test her, and always more and more,
+Though some men praise its ingenuity?
+But as for me, I say that it ill befits one
+To test a wife when there is no need,
+And put her in anguish and in dread.
+For which this marquis worked in this manner:
+He came alone at night, where she lay,
+With stern face and with a very troubled manner,
+And said thus: "Griselda," said he, "that day
+That I took you out of your impoverished situation,
+And put you in the condition of high nobility --
+You have not forgotten that, as I suppose?
+"I say, Griselda, this present high social position,
+In which I have put you, as I believe,
+Requires that you be not forgetful 
+That I took you in a poor, very humble condition,
+Despite any present prosperity you must know it yourself. 
+Take heed of every word that I say to you;
+There is no person that hears it but we two.
+"You know well yourself how you came here
+Into this house, it is not long ago;
+And though to me you are beloved and dear,
+Unto my nobles you are not at all so.
+They say, to them it is great shame and woe
+To be subjects and be in servitude
+To thee, that art born in a humble village.
+"And especially since thy daughter was born
+These words have they spoken, doubtless.
+But I desire, as I have done before,
+To live my life with them in rest and peace.
+I can not be imprudent in this case;
+I must do with thy daughter for the best,
+Not as I would want, but as my people desire.
+"And yet, God knows, this is full hateful to me;
+But nevertheless without your knowledge
+I will not do anything; but this I desire," said he,
+"That you assent to me in this matter.
+Show now in your actions your patience, 
+That you promised me and swore in your village
+That day that our marriage was made."
+When she had heard all this, she changed not 
+Neither in word, nor manner, nor countenance,
+For, as it seemed, she was not aggrieved.
+She said, "Lord, all is subject to your pleasure.
+My child and I, with heart-felt obedience,
+Are entirely yours, and you may save or kill
+Your own thing; do as you will.
+"There can nothing, as God my soul may save,
+Please you that may displease me;
+Nor do I desire to have anything,
+Nor dread to lose, save only you.
+This will is in my heart, and ever shall be;
+No length of time or death can obliterate this,
+Nor change my heart to another place."
+Glad was this marquis of her answer,
+But yet he feigned as if he were not so;
+All sorrowful was his manner and his look,
+When he had to go out of the chamber.
+Soon after this, in a few minutes,
+He privately has told all his plan
+Unto a man, and sent him to his wife.
+A sort of sergeant (policeman) was this confidential servant,
+Whom he had often found faithful 
+In important matters, and also such folk well can
+Carry out their orders in evil matters.
+The lord knew well that he loved and dreaded him;
+And when this sergeant knew his lord's will,
+Into the chamber he stalked very quietly.
+"Madame," he said, "you must forgive it me,
+Though I do a thing to which I am constrained.
+You are so wise that full well you know
+That lords' commands may not be evaded (by feigning);
+They may well be bewailed or complained of,
+But men must by necessity unto their desires obey,
+And so will I; there is no more to say.
+"This child I am commanded to take" --
+And spoke no more, but out the child he seized
+Mercilessly, and made a face
+As if he would have slain it before he went.
+Griselda must suffer all and consent to all,
+And as a lamb she sits meek and still,
+And let this cruel sergeant do his will.
+Suspicious was the bad reputation of this man,
+Suspect his face, suspect his word also;
+Suspect the time in which he this began.
+Alas! Her daughter that she loved so,
+She thought he would have slain it right then.
+But nevertheless she neither wept nor sighed,
+Conforming herself to what the marquis pleased.
+But at the last she began to speak,
+And meekly she to the sergeant prayed,
+As he was a worthy gentle man,
+That she might kiss her child before it died.
+And in her lap this little child she laid
+With full sad face, and blessed the child,
+And lulled it, and afterward kissed it.
+And thus she said in her benign voice,
+"Farewell my child! I shall thee never see.
+But since I have marked thee with the cross
+Of that same Father -- blessed may he be! --
+That for us died upon a cross of wood,
+Thy soul, little child, I entrust to him,
+For this night shalt thou die for my sake."
+I believe that to a nurse in this case
+It would have been hard this pitiful situation to see;
+Well might a mother then have cried "alas!"
+But nevertheless so firmly steadfast was she
+That she endured all adversity,
+And to the sergeant meekly she said,
+"Have here again your little young maid.
+"Go now," said she, "and do my lord's command;
+But one thing will I pray you of your grace,
+That, unless my lord forbad you, at the least
+Bury this little body in some place
+That no beasts nor birds tear it to pieces."
+But he no word will say to that proposal,
+But took the child and went upon his way.
+This sergeant came unto his lord again,
+And of Griselda's words and her manner
+He told him in detail, in short and plain (words),
+And presents him with his daughter dear.
+Somewhat this lord had pity in his manner,
+But nevertheless his purpose held he still,
+As lords do, when they will have their will;
+And commanded this sergeant that he secretly
+Should this child softly wind and wrap (in a blanket),
+With every care tenderly,
+And carry it in a box or in a folded cloth;
+But, upon pain of having his head cut off,
+No man should know of his intention,
+Nor whence he came, nor whither he went;
+But at Bologna to his sister dear,
+Who at that very time was countess of Panik,
+He should take it and explain to her this matter,
+Beseeching her to do her best
+This child to nurture in all noble manners;
+And whose child that it was he commanded her to hide
+From every person, for anything that may happen.
+The sergeant goes, and has fulfilled this order;
+But to this marquis we now return.
+For now he goes very intently considering
+If by his wife's appearance he might see,
+Or by her word perceive, if she
+Were changed; but he never could find her 
+Anything but always the same, alike steadfast and kind.
+As glad, as humble, as diligent in service,
+And also in love, as she was accustomed to be,
+Was she to him in every sort of way;
+Nor of her daughter not a word spoke she.
+No external sign, for any adversity,
+Was seen in her, and never her daughter's name
+Mentioned she, in earnest nor in jest (in any way).
+In this condition there are passed four years
+Before she was with child, but, as God would,
+A male child she bore by this Walter,
+Very gracious and beautiful in appearance.
+And when folk told it to his father,
+Not only he but all his country merry
+Was for this child, and God they thank and praise.
+When it was two years old, and from the breast
+Of his nurse weaned, on one day
+This marquis caught yet another desire
+To test his wife yet again, if he can.
+O needless was she put to the test!
+But wedded men know no moderation,
+When they find a patient creature.
+"Wife," said this marquis, "you have heard before this
+My people are unhappy with our marriage;
+And especially since my son is born,
+Now is it worse than ever in all our lives.
+The grumbling slays my heart and my feelings,
+For to my ears comes the voice so sharply
+That it well nigh has destroyed my heart.
+"Now say they thus: `When Walter is gone,
+Then shall the blood of Janicle succeed
+And be our lord, for we have no other.'
+Such words say my people, no doubt.
+Well ought I of such grumbling take heed,
+For certainly I dread such opinion,
+Though they speak not plainly in my hearing.
+"I would live in peace, if I could; 
+Therefore I am firmly resolved, 
+As I dealt with his sister by night,
+Right so I intend to deal with him secretly.
+This I warn you, so that you not suddenly
+For any woe should break out in a passion;
+Be patient, and for that I pray you."
+"I have," said she, "said thus, and ever shall:
+I want nothing, nor will not want any thing, certainly,
+But as you desire. It does not grieve me at all,
+Though my daughter and my son be slain --
+At your commandment, this is to say.
+I have not had any part of children two
+But first sickness, and after, woe and pain.
+"You are our lord; do with your own thing
+Right as you desire; ask no advice from me.
+For as I left at home all my clothing,
+When I first came to you, right so," said she,
+"Left I my will and all my liberty,
+And took your clothing; wherefore I you pray,
+Do your pleasure; I will obey your desire.
+"And certainly, if I had foreknowledge
+To know your will, before you told me your desire,
+I would do it without negligence;
+But now I know your desire, and what you want,
+All your pleasure (whatever you wish) firm and stable I hold;
+For if I knew that my death would do you ease,
+Right gladly would I die, to please you.
+"Death can not make any comparison (is nothing compared)
+Unto your love." And when this marquis saw
+The constancy of his wife, he cast down
+His eyes two, and wonders that she can
+In patience suffer all this treatment;
+And forth he goes with sorrowful countenance,
+But to his heart it was full great pleasure.
+This ugly sergeant, in the same manner
+That he her daughter seized, right so he --
+Or worse, if one can worse imagine --
+Has seized her son, that was full of beauty.
+And continually so patient was she
+That she made no appearance of sadness,
+But kissed her son, and afterwards it blessed;
+Save this, she prayed him that, if he could,
+Her little son he would bury in earth
+His tender limbs, pleasing in appearance,
+From birds and from beasts to save.
+But she no answer of him might have.
+He went his way, as if he cared nothing about it,
+But to Bologna he tenderly brought it.
+This marquis wondered, more and more,
+Upon her patience, and if he
+Had not truly known before this
+That she perfectly loved her children,
+He would have supposed that by some trickery,
+And out of malice, or for hard heart,
+That she had suffered this with calm manner.
+But well he knew that next to himself, certainly,
+She loved her children best in every way.
+But now I would like to ask of women 
+If these tests might not suffice?
+What could a cruel husband more devise
+To test her wifehood and her steadfastness,
+And he continuing ever in cruelty?
+But there are folk of such disposition
+That when they have a certain purpose taken,
+They can not refrain from their intention,
+But, right as if they were bound to that stake,
+They will not from that original plan desist.
+Right so this marquis has firmly decided
+To test his wife as he was first disposed.
+He watches to see if by word or countenance
+That she to him was changed in heart,
+But never could he find variation.
+She was always the same in heart and in visage,
+And ever the further that she was in age,
+The more true, if it were possible,
+She was to him in love, and more attentive.
+For which it seemed thus: that of them two
+There was but one will, for as Walter desired,
+The same desire was her pleasure also.
+And, God be thanked, all fell for the best.
+She proved good; for no worldly discomfort
+A wife, concerning herself, nothing should
+Desire in fact, except what her husband would want.
+The ill fame of Walter spread often and wide,
+That of a cruel heart he wickedly,
+Because he had wedded a poor woman,
+Has murdered both his children secretly.
+Such grumbling was among them unanimously.
+No wonder is, for to the people's ear
+There came no word but that they were murdered.
+For which, whereas his people before this
+Had loved him well, the disgrace of his bad reputation
+Made them so that they hated him for this.
+To be a murderer is (to have) a hateful reputation;
+But nevertheless, not for any reason,
+Would he of his cruel purpose desist;
+To test his wife was set all his intention.
+When his daughter was twelve years of age,
+He to the court of Rome, (which was) in a cunning manner
+Informed of his real purpose, sent his messenger,
+Commanding them such papal bulls to devise
+As to his cruel purpose may suffice --
+How the pope, to restore tranquility for his people,
+Commanded him to wed another, if he pleased.
+I say, he commanded they should counterfeit
+The pope's bulls, making mention
+That he has permission to leave his first wife,
+As by the pope's dispensation,
+To stint rancor and dissension
+Between his people and him; thus said the bull,
+Which they have published widely.
+The ignorant people, as it no wonder is,
+Supposed full well that it had been right so;
+But when these tidings came to Griselda,
+I believe that her heart was very woeful.
+But she, continuously steadfast for evermore,
+Disposed was, this humble creature,
+To endure all the adversity of Fortune,
+Enduring ever his desire and his pleasure,
+To whom she was given, heart and all,
+As her true worldly source of satisfaction.
+But shortly if this story I tell shall,
+This marquis written has in detail
+A letter, in which he reveals his intention,
+And secretly he sent it to Bologna.
+To the Earl of Panyk, who had then
+Wedded his sister, prayed he specifically
+To bring home again his two children
+In a noble public display.
+But one thing he him prayed earnestly,
+That he to no one, though men would inquire,
+Should tell whose children they were,
+But say the maiden should wedded be
+Unto the Marquis of Saluce immediately.
+And as this earl was asked, so did he;
+For at the set day he on his way is gone
+Toward Saluce, and lords many a one
+In rich array, this maiden to guide,
+Her young brother riding beside her.
+Adorned was in preparation for her marriage
+This lovely maid, (her clothing) full of bright gems;
+Her brother, who was seven years of age,
+Adorned also full handsomely in his manner.
+And thus in great nobility and with a glad manner,
+Toward Saluces directing their journey,
+From day to day they ride on their way.
+Meanwhile, in accord with his wicked usage,
+This marquis, yet his wife to test more
+To the utmost test of her heart,
+Fully to have experience and knowledge
+If she were as steadfast as before,
+He on a certain day in the hearing of all
+Full rudely has said to her this speech:
+"Certainly, Griselda, I had enough pleasure
+To have you as my wife for your goodness,
+As for your truth and for your obedience
+Not for your lineage, nor for your riches;
+But now know I in true certainty
+That in great lordship, if I judge rightly,
+There is great servitude in various ways.
+"I can not do as every plowman may.
+My people constrain me to take
+Another wife, and complain day by day;
+And also the pope, to quench rancor, 
+Consents to it -- that dare I assert --
+And truly thus much I will say to you:
+My new wife is coming by the way.
+"Be strong of heart, and vacate her place immediately;
+And that dowry that you brought me,
+Take it back; I grant it of my grace.
+Return to your father's house," said he;
+"No one can always have prosperity.
+With tranquil heart I advise you to endure
+The stroke of Fortune or of chance."
+And she in reply answered in patience:
+"My lord," said she, "I know, and knew always,
+How between your magnificence
+And my poverty no person can nor may
+Make comparison; it cannot be denied.
+I considered myself never worthy in any way
+To be your wife, no, nor your chambermaid.
+"And in this house, where you made me the lady --
+The high God I take for my witness,
+And as surely as he my soul may gladden --
+I never considered myself lady nor mistress,
+But humble servant to your worthiness,
+And ever shall, while my life may endure,
+Above every worldly creature.
+"That you so long of your benignity
+Have maintained me in honor and nobility,
+Where I was not worthy to be,
+For that I thank you and God, to Whom I pray
+To reward you for it; there is no more to say.
+Unto my father gladly will I go,
+And with him dwell unto my life's end.
+"Where I was fostered as a child full small,
+Until I be dead I will lead my life there,
+A widow clean in body, heart, and all.
+For since I gave to you my maidenhead,
+And am your true wife, there is no doubt,
+God forbid such a lord's wife to take
+Another man as husband or as mate!
+"And of your new wife God of his grace
+Grant you happiness and prosperity!
+For I will gladly yield her my place,
+In which I was accustomed to be blissful.
+For since it pleases you, my lord," said she,
+"Who once was all my heart's peace,
+That I shall go, I will go when you please.
+"But inasmuch as you offer me such dowry
+As I first brought, it is well in my mind
+It was my wretched clothing, in no way fair,
+Which to me were hard to find now.
+O good God! How gentle and how kind
+You seemed by your speech and your visage
+The day that our marriage was made!
+"But sooth is said -- always I find it true,
+For in fact it is proven by me --
+When love is old it is not the same as when it was new.
+But certainly, lord, for no adversity,
+Even if I were to die miserably, it shall not be
+That ever in word or deed I shall repent
+That I gave you my heart whole heartedly.
+"My lord, you know that in my father's place
+You had me stripped out of my poor clothing,
+And had me richly clad, by your grace.
+To you I brought nothing else, beyond doubt,
+But faith, and nakedness, and maidenhead;
+And here in return your clothing I restore,
+And also your wedding ring, for evermore.
+"The remnant of your jewels ready are
+Within your chamber, dare I confidently say.
+Naked out of my father's house," said she,
+"I came, and naked must I return.
+All your pleasure will I eagerly follow;
+But yet I hope it be not your intention
+That I should go without a smock out of your palace.
+"You could not do so shameful a thing,
+That that same womb in which your children lay
+Should before the people, in my walking,
+Be seen all bare; therefore I you pray,
+Let me not like a worm go by the way.
+Remember, my own lord so dear,
+I was your wife, though I unworthy were.
+"Therefore, in recompense for my maidenhead,
+Which I brought, and nothing I bear back,
+Condescend to give me, as my recompense,
+Only such a smock as I was accustomed to wear,
+That I with it may cover the womb of her
+Who was your wife. And here take I my leave
+Of you, my own lord, lest I you grieve."
+"The smock," said he, "that thou hast on thy back,
+Let it be (there) still, and bear it forth with thee."
+But scarcely that same word he spoke,
+But went his way, for grief and for pity.
+Before the folk she strips herself,
+And in her smock, with head and foot all bare,
+Toward her father's house forth is she gone.
+The folk follow her, weeping on their way,
+And Fortune ever they curse as they go;
+But she from weeping kept her eyes dry,
+And in this time no word she spoke.
+Her father, who heard this news straightway,
+Curses the day and time that Nature
+Shaped him to be a living creature.
+For doubtless this old poor man
+Was ever in suspicion of her marriage;
+For ever he believed, since it began,
+That when the lord had fulfilled his desires,
+He would think it was a degradation
+To his rank so low to stoop,
+And get rid of her as soon as ever he could.
+To meet his daughter hastily goes he,
+For he by noise of folk knew her coming,
+And with her old coat, insofar as it could
+He covered her, full sorrowfully weeping.
+But on her body he could not bring it,
+For coarse was the cloth, and more of age
+By many days than at her marriage.
+Thus with her father for a certain space of time
+Dwells this flower of womanly patience,
+That neither by her words nor her face,
+Before the folk, nor also in their absence,
+She showed that to her was done offence;
+Nor of her high estate no remembrance
+Had she, according to her countenance.
+No wonder is, for in her great estate
+Her spirit was ever in full humility;
+No tender mouth, no self-indulgent feelings,
+No pomp, nor outward appearance of royalty,
+But full of patient goodness,
+Discreet and without pride, ever honorable,
+And to her husband ever meek and stable.
+Men speak of Job, and mostly for his humility,
+As clerks, when they want, know well how to write,
+Especially of men, but in truth,
+Though clerks praise women but a little,
+There can no man in humility acquit himself
+As woman can, nor can be half so true
+As women are, unless it happened recently.
+From Bologna is this Earl of Panyk come,
+Of which the news up sprang to high ranks and low,
+And to the people's ears, one and all,
+Was made known also that a new marchioness 
+He brought with him, in such pomp and riches
+That never was there seen with man's eye
+Such a noble array in all West Lombardy.
+The marquis, who arranged and knew all this,
+Before this earl was come, sent his messenger
+For that same innocent poor Griselda;
+And she with humble heart and glad visage,
+Not with any proud thought in her heart,
+Came at his command, and on her knees set herself,
+And reverently and wisely she greeted him.
+"Griselda," said he, "my will is completely
+That this maiden, who shall be wedded to me,
+Be received to-morrow as royally
+As it is possible in my house to be,
+And also that every person, according to his rank
+Have his due respect, in seating and service
+And great pleasure, as I can best arrange.
+"I have no women capable, certainly,
+The chambers to put in order
+According to my wishes, and therefore I would like
+That thine be the supervision of all this business.
+Thou knowest also of old all my desires;
+Though thy dress be bad and in poor condition,
+Do thou thy duty at least."
+"Not only, lord, I am glad," said she,
+"To do your wishes, but I desire also
+You to serve and please in accord with my rank
+Without weakening, and shall evermore;
+Nor never, for any happiness nor any woe,
+Shall the spirit within my heart cease
+To love you best with all my true will."
+And with that word she began to prepare the house,
+And to set tables, and make beds;
+And took pains to do all that she could,
+Praying the chambermaids, for God's sake,
+To hasten themselves, and fast sweep and dust;
+And she, the most willing to serve of all,
+Has every chamber prepared and his hall.
+About mid-morning did this earl alight,
+Who with him brought these noble children two,
+For which the people ran to see the sight
+Of their accoutrements, so rich in appearance;
+And then for the first time amongst themselves they say
+That Walter was no fool, though he desired
+To change his wife, for it was for the best.
+For she is fairer, as they all decide,
+Than is Griselda, and more tender of age,
+And fairer fruit between them should fall,
+And more pleasing, because of her high lineage.
+Her brother also so fair was of visage
+That the people take pleasure in seeing them,
+Commending now the marquis's governance.
+"O stormy people! Inconstant and ever untrue!
+Ever undiscerning and changing like a weather vane!
+Delighting ever in rumor that is new,
+For like the moon ever you wax and wane!
+Always full of chattering, not worth a penny!
+Your judgment is false, your constancy proves evil;
+A full great fool is he that believes in you."
+Thus said serious folk in that city,
+When the people gazed up and down,
+For they were glad, right for the novelty,
+To have a new lady of their town.
+No more of this make I now mention,
+But to Griselda again will I address myself,
+And tell her constancy and her diligence.
+Full busy was Griselda in every thing
+That was pertaining to the feast.
+Not at all was she ashamed of her clothing,
+Though it was crude and also somewhat ragged;
+But with glad manner to the gate is went
+With other folk to greet the marchioness,
+And after that carries on her work.
+With such glad manner his guests she receives,
+And so skillfully, each according to his rank,
+That no man perceives any fault,
+But ever they wonder who she might be
+That in such poor array was to be seen,
+And knew how to do such honor and reverence,
+And deservedly they praise her prudence.
+In all this mean while she did not cease
+This maid and also her brother to commend
+With all her heart, in full benign intention,
+So well that no man could praise her more highly.
+But at the last, when these lords went
+To sit down to dinner, he called
+Griselda, as she was busy in his hall.
+"Griselda," said he, as if it were a joke,
+"How do you like my wife and her beauty?"
+"Right well," said she, "my lord; for, in good faith,
+I never saw so fair a one as she.
+I pray to God to give her prosperity;
+And so I hope that he will to you send
+Pleasure enough unto your lives' end.
+"One thing I beseech you, and warn also,
+That you not distress with any tormenting
+This tender maiden, as you have done to others;
+For she has been reared in her nurture
+More tenderly, and, as I believe,
+She could not endure adversity 
+As could a poorly reared creature."
+And when this Walter saw her patience,
+Her glad expression, and no malice at all,
+And he so often had done to her offence,
+And she ever steadfast and constant as a wall,
+Continuing ever her innocence in every way,
+This stern marquis inclined his heart
+To have pity upon her womanly steadfastness.
+"This is enough, Griselda mine," said he;
+"Be now no more frightened nor displeased.
+I have thy faith and thy goodness,
+As well as ever woman was, tested,
+In great estate and in poverty.
+Now I know, dear wife, thy steadfastness" --
+And took her in arms and kissed her.
+And she for amazement took of it no notice;
+She heard not what thing he said to her;
+She fared as if she had suddenly awakened out of a sleep,
+Until out of her bewilderment she suddenly awoke.
+"Griselda," said he, "by God, who for us died,
+Thou art my wife, and none other I have,
+Nor ever had, as God my soul may save!
+"This is thy daughter, which thou hast supposed
+To be my wife; that other truly
+Shall be my heir, as I have ever intended;
+Thou bore him in thy body truly.
+At Bologna I have kept them secretly;
+Take them back, for now mayst thou not say
+That thou hast lost any of thy children two.
+"And folk that otherwise have said of me,
+I declare to them clearly that I have done this deed
+For no malice, nor for no cruelty,
+But to test in thee thy womanhood,
+And not to slay my children -- God forbid! --
+But to keep them secretly and quietly,
+Until I knew thy perseverence and all thy will."
+When she heard this, down she falls in a swoon
+For pitiful joy, and after her swooning
+She calls both her young children to her,
+And in her arms, pitifully weeping,
+Embraces them, and tenderly kissing
+Full like a mother, with her salt tears
+She bathed both their visage and their hair.
+O what a pathetic thing it was to see
+Her swooning, and her humble voice to hear!
+"Great thanks, lord, may God repay it to you," said she,
+"That you have saved for me my children dear!
+Now care I never to be dead right here;
+Since I stand in your love and in your grace,
+Death does not matter, nor when my spirit may pass (away)!
+"O tender, o dear, o my young children!
+Your woeful mother truly believed 
+That cruel hounds or some foul animal pests
+Had eaten you; but God of his mercy
+And your benign father tenderly
+Has had you protected" -- and in that same moment
+All suddenly she fell down to the ground.
+And in her swoon so tightly holds she
+Her children two, when she embraced them,
+That with great effort and great difficulty
+The children from her arm they did tear away.
+O many a tear on many a pitiful face
+Down ran of them that stood beside her;
+Hardly about her might they remain.
+Walter comforts her and her sorrow relieves;
+She rises up, disconcerted, from her trance,<b></b>
+And every person makes joy and festivity for her
+Until she has regained her composure.
+Walter strives so faithfully to please her
+That it was delightful to see the happiness
+Between them two, now they are met together.
+These ladies, when they see their time,
+Have taken her and into chamber they go,
+And strip her out of her crude clothing,
+And in a cloth of gold that brightly shone,
+With a crown of many a rich stone
+Upon her head, they into hall her brought,
+And there she was honored as she deserved.
+Thus has this pitiful day a blissful end,
+For every man and woman does his might
+This day in mirth and revel to spend
+Until in the sky shone the stars' light.
+For more splendid in every man's sight
+This feast was, and greater of cost,
+Than was the revel of their marriage.
+Full many a year in high prosperity
+Live these two in peace and in quiet,
+And richly his daughter married he
+Unto a lord, one of the worthiest
+Of all Italy; and then in peace and rest
+His wife's father in his court he keeps,
+Until the soul out of his body creeps.
+His son succeeds in his heritage
+In rest and peace, after his father's day,
+And fortunate was also in marriage,
+Although he put not his wife in great tests.
+This world is not so strong, there is no denying,
+As it has been in old times long ago,
+And listen to what this author says concerning this (tale).
+This story is said not so that wives should
+Follow Griselda in humility,
+For it would be intolerable, though they would (want to),
+But so that every person, in his station in life,
+Should be constant in adversity
+As was Griselda; therefore Petrarch writes
+This story, which with high style he composes.
+For since a woman was so patient
+Unto a mortal man, well more we ought to
+Receive with a good will all that God sends us;
+For it is very reasonable that he test what he made.
+But he tests no man that he redeemed,
+As says Saint James, if you his epistle read;
+He tests folk all the time, it is no doubt,
+And permits us, for our own good
+With sharp whips of adversity
+Full often to be beaten in various ways;
+Not to know our will, for certainly he,
+Before we were born, knew all our frailty;
+And for our best is all his governance.
+Let us then live in virtuous forbearance.
+But one word, lords, hear before I go:
+It would be very difficult to find now-a-days
+In all the town Griseldas three or two;
+For if they were put to such tests,
+The gold of them has now been so badly debased
+With brass, that though the coin be fair to look at,
+It would rather break in two than bend.
+For which here, for the love of the Wife of Bath --
+Whose life and all her sect may God maintain
+In high mastery, and otherwise it would be a pity --
+I will with lusty heart, fresh and vigorous,
+Say you a song to make you happy, I believe;
+And let us stint of serious matter.
+Hear my song that says in this manner:
+Griselda is dead, and also her patience,
+And both together buried in Italy;
+For which I cry in the hearing of all
+No wedded man so bold be to test
+His wife's patience trusting to find
+Griselda, for certainly he shall faille.
+O noble wives, full of great prudence,
+Let no humility nail down your tongue,
+Nor let any clerk have cause or eagerness
+To write about you a story of such marvel
+As of patient and kind Griselda,
+Lest Chichevache swallow you in her entrails!
+Follow Echo, who holds no silence,
+But ever answers in reply.
+Be not fooled because of your innocence,
+But eagerly take the governance to yourself.
+Imprint well this lesson in your mind,
+Since it may work to the benefit of all.
+You arch-wives, stand ready for battle,
+Since you are strong as is a great camel;
+Suffer not that men do offense to you.
+And slender wives, feeble in battle,
+Be fierce as is a tiger yonder in India;
+Ever wag your tongues like a windmill, I you advise.
+Fear them not; do them no reverence,
+For though thy husband be armed in mail,
+The arrows of thy spiteful eloquence
+Shall pierce his breast and also his neck-guard.
+In jealousy I advise also that thou bind him,
+And thou shalt make him cower as does a quail.
+If thou be fair, where folk are present,
+Show thou thy visage and thy apparel;
+If thou be ugly, be lavish in thy expenditures;
+To get thee friends always work hard;
+Be ever in behavior as light as a leaf on a linden tree,
+And let him grieve, and weep, and wring his hands, and wail!
+[When ended was the tale of this worthy Clerk,
+Our Host said, and swore, "By God's bones,
+I would rather than have a barrel of ale
+My wife at home had heard this legend once!
+This is a fine tale for this occasion,
+For my purposes, if you knew my will;
+But thing that will not be, let it be still."]

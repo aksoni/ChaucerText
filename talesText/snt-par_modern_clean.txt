@@ -1,560 +1,559 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The minister and the nurse of vices,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which men call in English Idleness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who is porter of the gate of pleasures<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To shun, and by her contrary to overcome her --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That is to say, by keeping busy in lawful good works --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well ought we to do all our diligence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lest the fiend by means of idleness seize us.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For he that with his thousand sly snares<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Continually lies in wait to seize us suddenly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When he can espy a man in idleness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He can catch him in his trap so quickly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That until a man is seized right by the hem of his garment,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He is not aware that the fiend has him in hand.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well ought we to work and resist idleness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And even though people never dreaded to die,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet they can well see by reason, doubtless,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That idleness is rotten laziness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From which there never comes any good or profit;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And since sloth holds her (Idleness) on a leash<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Allowing her) only to sleep, and to eat and drink,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to devour all that others earn by working,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in order to set us apart from such idleness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which is the cause of such great ruin,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I have here done my faithful efforts<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In translating the legend <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Correctly of thy glorious life and suffering,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou with thy garland made with rose and lily --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I mean thee, maid and martyr, Saint Cecilie.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    <i>Invocacio ad Mariam<BR></i>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Invocation to Mary)</i></B>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And thou who art the flower of all virgins,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of whom it so well pleased Bernard to write,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To thee at my beginning first I call;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou comfort of us wretches, let me narrate<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thy maiden's death, that won by means of her merit<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The eternal life and victory over the fiend,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As one may hereafter read in her story.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou Maid and Mother, daughter of thy Son,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou well of mercy, sinful souls' cure,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In whom God for goodness chose to dwell,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou humble, and high over every creature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou so greatly enobled our nature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That the Maker of humankind had no disdain <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To clothe and wrap His Son in blood and flesh.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Within the blissful cloister of thy sides<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The eternal love and peace took man's shape,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He who is lord and guide of the threefold universe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whom earth and sea and heaven unceasing <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ever praise; and thou, Virgin without blemish,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bore in thy body -- and remained maiden pure --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The Creator of every creature.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Magnificence is in thee combined <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With mercy, goodness, and with such pity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That thou, who art the sun of excellence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not only helpest them that pray thee,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But often of thy goodness <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Very willingly, before men beseech thine help,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou goest before and art their lives' physician.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now, thou meek and blissful fair maid help<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Me, banished exile, in this desert of bitterness;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Think on the Cananite woman, who said<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That dogs eat some of all the crumbs<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That from their lord's table are fallen;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And though that I, unworthy son of Eve,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be sinful, yet accept my faith.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And, because faith is dead without works,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Give me wit and opportunity to work so,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I may be free from that place that is most dark!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O thou, that art so fair and full of grace,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be my advocate in that high place<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where unceasingly is sung "Hosanna,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou Christ's mother, daughter dear of Anne!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of thy light enlighten in prison my soul,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That is troubled by the contamination <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of my body, and also by the weight<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of earthly lust and false desires;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O haven of refuge, O salvation<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of those who are in sorrow and in distress,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now help, for to my work I will address myself.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet I pray you who read what I write,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Forgive me that I make no effort<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To narrate this same story elaborately,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For I have both the words and the meaning <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of him who out of reverence for the saint<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wrote the story, and  (I) follow her legend,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And pray you that you will correct (any errors in) my work.<BR>
-&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;      <i>Interpretacio nominis Cecile quam ponit Frater<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        Jacobus Januensis in Legenda<BR></i>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jacob of Genoa put in the Legend.)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; First the name of Saint Cecilie I would to you <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Explain, as one can see in her story.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It is to say in English "heaven's lily,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For pure chastity of virginity;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or, because she had whiteness because of chastity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And green because of conscience and of good reputation<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The sweet smell, "lily" was her name.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or Cecilie is to mean "the way for the blind,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because she set an example by good teaching;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else Cecile, as I written find,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is joined, by a sort of combination<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of "heaven" and "Leah"; and here, symbolically,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The "heaven" is set for her holiness of thought,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And "Leah" for her constant business.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cecile may also be explained in this manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Lack of blindness," for her great light<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of wisdom and for her pure morals;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else, lo, this maidens bright name <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comes from "heaven" and "leos," for which rightly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Men could well call her "the heaven of people,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Exemplar of all good and wise works.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For "leos" in English means "people,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And just as men may in the heaven see<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The sun and moon and stars in every direction,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Just so in this maiden men spiritually<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; See the greatness of spirit of faith,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also the complete clarity of wisdom,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And various works, bright because of their excellence.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And just as these scientists write<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That heaven is swift and round and also burning,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Just so was fair Cecilie the white<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Very swift and busy ever in good works,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And round and whole in persevering in good (works),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And burning ever in very bright charity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now have I declared to you what she was called.<BR>
-&nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  <i> Explicit </i><BR>
-&nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; (Here ends [the Prologue])
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This bright maiden Cecilie, as her Life says,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was descended from Romans and of noble birth,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And from her cradle nurtured up in the faith<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of Christ, and bore his gospel in her mind.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She never ceased, as I written find,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of her prayer and God to love and dread,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beseeching him to preserve her virginity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when this maiden should unto a man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wedded be, who was very young of age,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who was called Valerian,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And the day of her marriage was come,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She, very devout and humble in her spirit,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Under her robe of gold, that became her very well, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had next to her flesh clad herself in a hair shirt.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And while the organs made melody,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To God alone in heart thus sang she:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "O Lord, my soul and also my body preserve<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Immaculate, lest that I be damned."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And for his love who died upon the cross<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Every second and third day she fasted,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ever praying in her prayers very earnestly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The night came, and to bed must she go<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With her husband, as often is the manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And privately to him she said at once,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "O sweet and well beloved spouse dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is a secret, if you want to hear it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which I am very eager to say to you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Providing that you swear you shall not reveal it."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Valerian did earnestly unto her swear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That for no occasion nor thing that might be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He should never ever betray her;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And then for the first time to him thus said she:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I have an angel who loves me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who with great love, whether I wake or sleep,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is always ready to guard my body.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And if he may sense, withoubt doubt,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That you touch me, or love me lecherously,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He straightway will slay you in the act,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in your youth thus you shall die;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if you preserve me in chaste love,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He will love you as (he loves) me, for your chastity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And show you his joy and his brightness."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Valerian, corrected as God would (have it),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Answered in reply, "If I must trust thee,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let me see that angel and behold him;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if it be a true angel,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then will I do as thou hast prayed me;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if thou love another man, in truth<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then truly with this sword will I slay you both."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cecile answered immediately in this manner:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "If you wish, you shall see the angel,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Provided that you believe in Christ and have yourself baptized.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Go forth to the Appian Way," said she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "That from this town stands no more than three miles,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to the poor folks that dwell there,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Say to them exactly thus, which I shall tell you.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Tell them that I, Cecile, sent you to them <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To show you the good Urban the old,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For secret needs and for a good purpose.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when you have beheld Saint Urban,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tell him the words which I told to you;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he has cleansed you of sin (by baptism),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then you shall see that angel, ere you depart."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Valerian has gone to the place,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And just as he was taught by his learning (from Cecilie),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He immediately found this holy old Urban <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In hiding among the saints' burial places.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he immediately without delay<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said his message; and when he told it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Urban for joy did hold up his hands.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He let the tears fall from his eyes.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Almighty Lord, O Jesus Christ," said he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Sower of chaste counsel, shepherd of us all,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The fruit of that same seed of chastity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That thou hast sown in Cecile, take to thee!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, like a busy bee, without guile,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Always thine own servant Cecile serves Thee.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "For that same spouse that she took just now<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Very like a fierce lion, she sends here,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As meek as ever was any lamb, to you!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word anon there did appear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; An old man, clad in clear white clothes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who had in hand a book with lettering of gold ,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And did stand before Valerian.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When he saw him, and the  old man picked him up then,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And from his book right thus he began to read:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "One Lord, one faith, one God, without more,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One baptism, and Father of all also,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Above all and over all everywhere."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These words were written all with gold.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When this was read, then said this old man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Dost thou believe this thing or not? Say yes or no."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I believe all this thing," said Valerian,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "For truer thing than this, I dare well say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No person under the heaven can imagine."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then vanished this old man, he knew not where,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And Pope Urban christened him right there.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Valerian goes home and finds Cecilie<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Within his room standing with an angel.<BR> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This angel had of roses and of lily<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Two crowns, which he bore in hand;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And first to Cecile, as I understand,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He gave that one, and after he did give<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That other to Valerian, her mate.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "With body clean and with unblemished thought<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Always guard well these crowns," said he;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "From paradise I have brought them to you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor never ever shall they be rotten,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor lose their sweet fragrance, trust me;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor never a person shall see them with his eye,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless he be chaste and hates villainy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And thou, Valerian, because thou so soon<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assented to good counsel also,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Say what pleases thee, and thou shalt have thy request."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I have a brother," said Valerian then,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And in this world I love no man so much.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I pray you that my brother may have grace<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To know the truth, as I do in this place."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The angel said, "God likes thy request,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And both (of you) with the palm of martyrdom<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You shall come unto his blissful feast."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word Tiburce his brother came.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he perceived the fragrance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which the roses and the lilies cast forth<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Within his heart he began to wonder intently,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said, "I wonder, this time of the year,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whence that sweet fragrance comes so (much)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of rose and lilies that I smell here.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For even if I had them in my two hands,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The fragrance could go in me no deeper.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The sweet smell that in my heart I find<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has changed me all into another nature."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Valerian said: "Two crowns have we,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Snow white and rose red, that shine clear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which thine eyes have no power to see;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And as thou smellest them because of my prayer,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So shalt thou see them, beloved brother dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If it so be thou will, without delaying,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Believe correctly and know real truth."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiburce answered, "Sayest thou this to me<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In actuality, or do I hear this in dream?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "In dreams," said Valerian, "have we been<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until this time, my brother, indeed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But now for the first time our dwelling is in truth."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "How knowest thou this?" said Tiburce, "and in what manner?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said Valerian, "That I shall tell thee.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "The angel of God has taught me the truth<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which thou shalt see, if thou wilt renounce<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The idols and be chaste, and otherwise nothing (will you see.)"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of the miracle of these two crowns<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Saint Ambrose in his preface is pleased to speak;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solemnly this noble dear Doctor (of the Church)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Commends it, and says in this manner:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "In order to receive the palm of martyrdom,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Saint Cecile, completely filled with God's gift,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The world and also her bed-chamber did she give up;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Witness Tyburce's and Valerian's confession,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To which God of his goodness would provide<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Two crowns of flowers well smelling,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And made his angel bring them the crowns.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "The maid has brought these men to bliss above;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The world has known what it is worth, certainly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To love a devotion to chastity."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then Cecile showed him all open and plain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That all idols are but meaningless things,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For they are dumb, and moreover they are deaf,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And (she) ordered him to leave his idols.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Whoever believes not this, he is a beast,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiburce then said, "if I shall not lie."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she who heard this did kiss his breast,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And was very glad he could perceive truth.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "This day I take thee for my kinsman,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said this blissful fair maid dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And after that she said as you may hear:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Lo, exactly as the love of Christ," said she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Made me thy brother's wife, exactly in that manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right now here I take thee for my kinsman,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since thou will despise thine idols.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Go with thy brother now, and get thyself baptized,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And make thyself clean, so that thou can behold<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The angel's face of which thy brother told."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiburce answered and said, "Brother dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; First tell me where I must go, and to what man?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "To whom?" said he, "come forth with right good cheer, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will lead thee unto the Pope Urban."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "To Urban? My brother Valerian,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said then Tiburce, "wilt thou lead me there?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It seems to me that it would be a wonderful deed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Thou meanest not Urban," said he then,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "That is so often condemned to be dead,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And dwells in hiding places always (going) from one to another, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And dares not once put forth his head?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Men should burn him in a fire so red<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If he were found, or if men could catch sight of him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And we too (would burn), to bear him company;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And while we seek that same divinity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That is hidden secretly in heaven,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nevertheless we shall be burned in this world!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To whom Cecile answered boldly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Men might well and reasonably fear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To lose this life, my own dear brother,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If this were the only life and (there were) none other.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "But there is a better life in another place,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That never shall be lost, doubt thee not,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which God's Son told us by means of his grace. <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That Father's Son has created all things,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all that is created (and endowed) with the power of reason;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The Holy Ghost, who from the Father did proceed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has given them souls, without any doubt.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "By word and by miracle high God's Son,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When he was in this world, declared here<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That there was another life where men may dwell."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To whom answered Tiburce, "O sister dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said thou not just now in this manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is but one God, lord in truthfulness?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And now of three how canst thou bear witness?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "That shall I tell," said she, "ere I go.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Exactly as a man has three mental faculties --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Memory, imagination, and judgement also --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So in one being of divinity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Three persons may right well be there."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then very zealously she did preach to him <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of Christ's coming, and teach (him) of His pains,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And many particulars of His passion;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How God's Son was compelled to remain in this world <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To provide full forgiveness for mankind,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which was bound in sin and painful cares;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All this thing she told unto Tiburce.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And after this Tiburce with a good will<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With Valerian he went to Pope Urban,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who thanked God, and with glad and happy heart <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He christened him and made him in that place<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Perfect in his learning, God's knight.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And after this Tiburce got such grace<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That every day in real time and space he saw <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The angel of God; and every manner of gift<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he asked of God was provided immediately.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It would be very hard in proper sequence to say<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How many wonders Jesus made for them;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But at the last, to tell short and plain,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The officers of the law of the town of Rome sought them,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And brought them before Almache, the prefect,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who questioned them, and knew all their thought,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And sent them to the image of Jupiter,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said, "Whoever will not sacrifice,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Strike off his head; this is my sentence here."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Immediately these martyrs of whom I tell you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One Maximus, that was an officer<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of the prefect's, and his chief assistant,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Seized them, and when he led forth the saints,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He himself wept for pity that he had.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When Maximus had heard the saints' teaching,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He got himself permission of the executioners, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And led them to his house without more delay,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with their preaching, ere that it was evening,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They did take away from the executioners,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And from Maxime, and from his folk each one of them,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The false faith, (and brought them) to believe in God alone.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cecile came, when it was grown night,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With priests who christened them all together;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And afterward, when day was grown light,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cecile said to them with a full steadfast countenance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Now, Christ's own knights beloved and dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cast away all the works of darkness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And arm yourselves in armor of brightness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "You have truly done a great battle,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Your race is done, your faith you have maintained.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Go to the crown of life that can not fail;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The rightful Judge, whom you have served,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shall give it to you, as you have deserved it."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when this thing was said as I tell,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Men led them forth to do the sacrifice.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But when they were brought to the place <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To tell shortly the conclusion,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They would not incense nor sacrifice in any way,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But on their knees they set themselves down<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With humble heart and steadfast devotion,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And lost both their heads in the place.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Their souls went to the King of grace.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This Maximus, who saw this thing happen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With piteous tears told it right away,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he saw their souls glide to heaven <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With angels full of clearness and of light,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with his word converted many a person;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which Almachius had him so beaten<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With whip tipped with lead that he left his life.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cecile took him and buried him straightway<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By Tiburce and Valerian tenderly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Within their burying place, under the tombstone;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And after this, Almachius hastily<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ordered his ministers to fetch publicly <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cecile, so that she might in his presence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do sacrifice and burn incense to Jupiter.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But they, converted by her wise teaching,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wept very bitterly, and gave full credence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto her word, and cried more and more,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Christ, God's Son, without difference [between Father and Son],<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is true God -- this is the belief of us all -- <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That has so good a servant to serve Him.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This unanimously we believe, even if we should die!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Almachius, that heard of this business,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ordered (his men to) fetch Cecile, so that he might see her<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And first of all, lo, this was his quesation.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "What sort of woman art thou?" then said he.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I am a gentle woman born," said she.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I ask thee," said he, "though it may grieve thee,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; About thy religion and about thy belief."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "You have begun your question foolishly,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said she, "you who would include two answers <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In one question; you asked ignorantly."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Almache answered unto that refutation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Of whence comes thine answering so rude?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Of whence?" said she, when she was asked,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Of conscience and of sincere good faith."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Almachius said, "Takest thou no heed<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of my power?" And she answered him this:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Your might," said she, "is very little to fear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For every mortal man's power is nothing <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But only like a bladder full of wind, indeed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For with a needle's point, when it is blown up,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Can all the arrogance of it be laid full low."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Full wrongfully thou began," said he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And yet wrongful is thy perseverance.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dost thou not know how our mighty noble princes<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have thus commanded and made a law<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That every Christian person shall be punished<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless he renounce his Christian faith,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And go all free, if he will deny it?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Your princes err, as your nobles do,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said then Cecile, "and with a crazy verdict<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You make us guilty, and it is not true.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For you, who know well our innocence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Forasmuch as we do reverence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To Christ, and because we bear a Christian name,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You accuse us of a crime and also (put on us) the blame for it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "But we who know that same name <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To be so virtuous, we can not deny it."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Almache answered, "Chose one of these two:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do sacrifice, or renounce Christendom,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So that thou can now escape by that means."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At which the holy blissful fair maid<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Began to laugh, and to the judge said:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "O judge, confused in thy folly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wilt thou that I renounce innocence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To make myself a wicked person?" said she.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Lo, he hides his true feelings here in open court; <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He stares, and goes mad in his mind!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To whom Almachius, "Miserable wretch,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Knowest thou not how far my power can stretch?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Have not our mighty princes to me given,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yea, both power and authority<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To make folk to die or to live?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why speakest thou so proudly then to me?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I speak only faithfully," said she;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Not proudly, for I say, as for my side,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We hate that same deadly sin of pride.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And if thou dread not to hear a truth,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then will I show all openly, according to law,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That thou hast made a very great lie here.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou sayest thy princes have given thee power<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Both to slay and to give life to a person;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou, who can only take away life,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou hast no other power nor any authority.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "But thou can say thy princes have made thee<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Minister of death; for if thou speak of more,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou liest, for thy power is strictly limited.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Do away thy boldness," said Almachius then,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And sacrifice to our gods ere thou go!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I care not what wrong that thou may express to me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For I can suffer it as a philosopher;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "But those same wrongs I can not endure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which thou spekest of our gods here," said he.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cecile answered, "O foolish creature!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou saidest no word since thou spoke to me<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I did not know therewith thy foolishness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that thou were in every sort of way<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; An ignorant officer and a foolish judge.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "There lacks nothing to thine outer eyes<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except that thou art blind; for thing that we all see <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That it is stone -- that men can well see --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That same stone a god thou wilt call it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I advise thee, let thine hand upon it fall<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And taste it well, and stone thou shalt find it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since thou seest not with thy blind eyes.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "It is a shame that the people shall<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So scorn thee and laugh at thy folly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For without exception men know it well everywhere<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That mighty God is in his high heavens;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And these images, thou canst well see,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Can do no profit to thee nor to themselves,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For in fact they are not worth a penny."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These words and others such said she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he grew angry, and ordered that men should lead her<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Home to her house, and "In her house," said he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Burn her right in a bath of red flames."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And as he ordered, exactly so the deed was done;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For they did shut her fast in a cauldron,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And night and day they fed great fire under it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The long night, and also a day as well,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Despite the fire and also the bath's heat <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She sat all cool and felt no pain.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It made her not a drop to sweat.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But in that bath her life she must leave,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For that Almachius, with completely wicked intent,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sent his messenger to slay her in the bath.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Three strokes in the neck he smote her then,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The executioner, but in no sort of way<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He could not smite all her neck in two;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And because there was that time an ordinance<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That no man should do any one such pain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The fourth stroke to smite, soft or sore,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This executioner dared not do any more,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But half dead, with her neck carved there,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He left her lie, and on his way he went.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The Christian folk, who were about her,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With sheets have very carefully taken up the blood.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Three days she lived in this torment,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And never ceased to teach them the faith <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she had fostered; to them she did preach,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she gave them her personal property and her things,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to the Pope Urban (she) entrusted them then,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said, "I asked this of heaven's king,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To have respite three days and no more<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To commend to you, ere I go,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These souls, lo, and that I might have made<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Here of my house perpetually a church."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Saint Urban with his deacons secretly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fetched the body and buried it by night<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Among his other saints decently.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her house is called the church of Saint Cecilie;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Saint Urban consecrated it, as he well could;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In which, unto this day, in noble manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; People do service to Christ and to his saint.<BR>
+The minister and the nurse of vices,
+Which men call in English Idleness,
+Who is porter of the gate of pleasures
+To shun, and by her contrary to overcome her --
+That is to say, by keeping busy in lawful good works --
+Well ought we to do all our diligence
+Lest the fiend by means of idleness seize us.
+For he that with his thousand sly snares
+Continually lies in wait to seize us suddenly,
+When he can espy a man in idleness,
+He can catch him in his trap so quickly,
+That until a man is seized right by the hem of his garment,
+He is not aware that the fiend has him in hand.
+Well ought we to work and resist idleness.
+And even though people never dreaded to die,
+Yet they can well see by reason, doubtless,
+That idleness is rotten laziness,
+From which there never comes any good or profit;
+And since sloth holds her (Idleness) on a leash
+(Allowing her) only to sleep, and to eat and drink,
+And to devour all that others earn by working,
+And in order to set us apart from such idleness,
+Which is the cause of such great ruin,
+I have here done my faithful efforts
+In translating the legend 
+Correctly of thy glorious life and suffering,
+Thou with thy garland made with rose and lily --
+I mean thee, maid and martyr, Saint Cecilie.
+<i>Invocacio ad Mariam</i>
+(Invocation to Mary)</i></B>
+And thou who art the flower of all virgins,
+Of whom it so well pleased Bernard to write,
+To thee at my beginning first I call;
+Thou comfort of us wretches, let me narrate
+Thy maiden's death, that won by means of her merit
+The eternal life and victory over the fiend,
+As one may hereafter read in her story.
+Thou Maid and Mother, daughter of thy Son,
+Thou well of mercy, sinful souls' cure,
+In whom God for goodness chose to dwell,
+Thou humble, and high over every creature,
+Thou so greatly enobled our nature,
+That the Maker of humankind had no disdain 
+To clothe and wrap His Son in blood and flesh.
+Within the blissful cloister of thy sides
+The eternal love and peace took man's shape,
+He who is lord and guide of the threefold universe,
+Whom earth and sea and heaven unceasing 
+Ever praise; and thou, Virgin without blemish,
+Bore in thy body -- and remained maiden pure --
+The Creator of every creature.
+Magnificence is in thee combined 
+With mercy, goodness, and with such pity
+That thou, who art the sun of excellence
+Not only helpest them that pray thee,
+But often of thy goodness 
+Very willingly, before men beseech thine help,
+Thou goest before and art their lives' physician.
+Now, thou meek and blissful fair maid help
+Me, banished exile, in this desert of bitterness;
+Think on the Cananite woman, who said
+That dogs eat some of all the crumbs
+That from their lord's table are fallen;
+And though that I, unworthy son of Eve,
+Be sinful, yet accept my faith.
+And, because faith is dead without works,
+Give me wit and opportunity to work so,
+That I may be free from that place that is most dark!
+O thou, that art so fair and full of grace,
+Be my advocate in that high place
+Where unceasingly is sung "Hosanna,"
+Thou Christ's mother, daughter dear of Anne!
+And of thy light enlighten in prison my soul,
+That is troubled by the contamination 
+Of my body, and also by the weight
+Of earthly lust and false desires;
+O haven of refuge, O salvation
+Of those who are in sorrow and in distress,
+Now help, for to my work I will address myself.
+Yet I pray you who read what I write,
+Forgive me that I make no effort
+To narrate this same story elaborately,
+For I have both the words and the meaning 
+Of him who out of reverence for the saint
+Wrote the story, and  (I) follow her legend,
+And pray you that you will correct (any errors in) my work.
+<i>Interpretacio nominis Cecile quam ponit Frater
+Jacobus Januensis in Legenda</i>
+Jacob of Genoa put in the Legend.)
+First the name of Saint Cecilie I would to you 
+Explain, as one can see in her story.
+It is to say in English "heaven's lily,"
+For pure chastity of virginity;
+Or, because she had whiteness because of chastity,
+And green because of conscience and of good reputation
+The sweet smell, "lily" was her name.
+Or Cecilie is to mean "the way for the blind,"
+Because she set an example by good teaching;
+Or else Cecile, as I written find,
+Is joined, by a sort of combination
+Of "heaven" and "Leah"; and here, symbolically,
+The "heaven" is set for her holiness of thought,
+And "Leah" for her constant business.
+Cecile may also be explained in this manner,
+"Lack of blindness," for her great light
+Of wisdom and for her pure morals;
+Or else, lo, this maidens bright name 
+Comes from "heaven" and "leos," for which rightly
+Men could well call her "the heaven of people,"
+Exemplar of all good and wise works.
+For "leos" in English means "people,"
+And just as men may in the heaven see
+The sun and moon and stars in every direction,
+Just so in this maiden men spiritually
+See the greatness of spirit of faith,
+And also the complete clarity of wisdom,
+And various works, bright because of their excellence.
+And just as these scientists write
+That heaven is swift and round and also burning,
+Just so was fair Cecilie the white
+Very swift and busy ever in good works,
+And round and whole in persevering in good (works),
+And burning ever in very bright charity.
+Now have I declared to you what she was called.
+<i> Explicit </i>
+(Here ends [the Prologue])
+This bright maiden Cecilie, as her Life says,
+Was descended from Romans and of noble birth,
+And from her cradle nurtured up in the faith
+Of Christ, and bore his gospel in her mind.
+She never ceased, as I written find,
+Of her prayer and God to love and dread,
+Beseeching him to preserve her virginity.
+And when this maiden should unto a man
+Wedded be, who was very young of age,
+Who was called Valerian,
+And the day of her marriage was come,
+She, very devout and humble in her spirit,
+Under her robe of gold, that became her very well, 
+Had next to her flesh clad herself in a hair shirt.
+And while the organs made melody,
+To God alone in heart thus sang she:
+"O Lord, my soul and also my body preserve
+Immaculate, lest that I be damned."
+And for his love who died upon the cross
+Every second and third day she fasted,
+Ever praying in her prayers very earnestly.
+The night came, and to bed must she go
+With her husband, as often is the manner,
+And privately to him she said at once,
+"O sweet and well beloved spouse dear,
+There is a secret, if you want to hear it,
+Which I am very eager to say to you,
+Providing that you swear you shall not reveal it."
+Valerian did earnestly unto her swear
+That for no occasion nor thing that might be,
+He should never ever betray her;
+And then for the first time to him thus said she:
+"I have an angel who loves me,
+Who with great love, whether I wake or sleep,
+Is always ready to guard my body.
+"And if he may sense, withoubt doubt,
+That you touch me, or love me lecherously,
+He straightway will slay you in the act,
+And in your youth thus you shall die;
+And if you preserve me in chaste love,
+He will love you as (he loves) me, for your chastity,
+And show you his joy and his brightness."
+Valerian, corrected as God would (have it),
+Answered in reply, "If I must trust thee,
+Let me see that angel and behold him;
+And if it be a true angel,
+Then will I do as thou hast prayed me;
+And if thou love another man, in truth
+Then truly with this sword will I slay you both."
+Cecile answered immediately in this manner:
+"If you wish, you shall see the angel,
+Provided that you believe in Christ and have yourself baptized.
+Go forth to the Appian Way," said she,
+"That from this town stands no more than three miles,
+And to the poor folks that dwell there,
+Say to them exactly thus, which I shall tell you.
+"Tell them that I, Cecile, sent you to them 
+To show you the good Urban the old,
+For secret needs and for a good purpose.
+And when you have beheld Saint Urban,
+Tell him the words which I told to you;
+And when he has cleansed you of sin (by baptism),
+Then you shall see that angel, ere you depart."
+Valerian has gone to the place,
+And just as he was taught by his learning (from Cecilie),
+He immediately found this holy old Urban 
+In hiding among the saints' burial places.
+And he immediately without delay
+Said his message; and when he told it,
+Urban for joy did hold up his hands.
+He let the tears fall from his eyes.
+"Almighty Lord, O Jesus Christ," said he,
+"Sower of chaste counsel, shepherd of us all,
+The fruit of that same seed of chastity
+That thou hast sown in Cecile, take to thee!
+Lo, like a busy bee, without guile,
+Always thine own servant Cecile serves Thee.
+"For that same spouse that she took just now
+Very like a fierce lion, she sends here,
+As meek as ever was any lamb, to you!"
+And with that word anon there did appear
+An old man, clad in clear white clothes,
+Who had in hand a book with lettering of gold ,
+And did stand before Valerian.
+When he saw him, and the  old man picked him up then,
+And from his book right thus he began to read:
+"One Lord, one faith, one God, without more,
+One baptism, and Father of all also,
+Above all and over all everywhere."
+These words were written all with gold.
+When this was read, then said this old man,
+"Dost thou believe this thing or not? Say yes or no."
+"I believe all this thing," said Valerian,
+"For truer thing than this, I dare well say,
+No person under the heaven can imagine."
+Then vanished this old man, he knew not where,
+And Pope Urban christened him right there.
+Valerian goes home and finds Cecilie
+Within his room standing with an angel. 
+This angel had of roses and of lily
+Two crowns, which he bore in hand;
+And first to Cecile, as I understand,
+He gave that one, and after he did give
+That other to Valerian, her mate.
+"With body clean and with unblemished thought
+Always guard well these crowns," said he;
+"From paradise I have brought them to you,
+Nor never ever shall they be rotten,
+Nor lose their sweet fragrance, trust me;
+Nor never a person shall see them with his eye,
+Unless he be chaste and hates villainy.
+"And thou, Valerian, because thou so soon
+Assented to good counsel also,
+Say what pleases thee, and thou shalt have thy request."
+"I have a brother," said Valerian then,
+"And in this world I love no man so much.
+I pray you that my brother may have grace
+To know the truth, as I do in this place."
+The angel said, "God likes thy request,
+And both (of you) with the palm of martyrdom
+You shall come unto his blissful feast."
+And with that word Tiburce his brother came.
+And when he perceived the fragrance,
+Which the roses and the lilies cast forth
+Within his heart he began to wonder intently,
+And said, "I wonder, this time of the year,
+Whence that sweet fragrance comes so (much)
+Of rose and lilies that I smell here.
+For even if I had them in my two hands,
+The fragrance could go in me no deeper.
+The sweet smell that in my heart I find
+Has changed me all into another nature."
+Valerian said: "Two crowns have we,
+Snow white and rose red, that shine clear,
+Which thine eyes have no power to see;
+And as thou smellest them because of my prayer,
+So shalt thou see them, beloved brother dear,
+If it so be thou will, without delaying,
+Believe correctly and know real truth."
+Tiburce answered, "Sayest thou this to me
+In actuality, or do I hear this in dream?"
+"In dreams," said Valerian, "have we been
+Until this time, my brother, indeed.
+But now for the first time our dwelling is in truth."
+"How knowest thou this?" said Tiburce, "and in what manner?"
+Said Valerian, "That I shall tell thee.
+"The angel of God has taught me the truth
+Which thou shalt see, if thou wilt renounce
+The idols and be chaste, and otherwise nothing (will you see.)"
+And of the miracle of these two crowns
+Saint Ambrose in his preface is pleased to speak;
+Solemnly this noble dear Doctor (of the Church)
+Commends it, and says in this manner:
+"In order to receive the palm of martyrdom,
+Saint Cecile, completely filled with God's gift,
+The world and also her bed-chamber did she give up;
+Witness Tyburce's and Valerian's confession,
+To which God of his goodness would provide
+Two crowns of flowers well smelling,
+And made his angel bring them the crowns.
+"The maid has brought these men to bliss above;
+The world has known what it is worth, certainly,
+To love a devotion to chastity."
+Then Cecile showed him all open and plain
+That all idols are but meaningless things,
+For they are dumb, and moreover they are deaf,
+And (she) ordered him to leave his idols.
+"Whoever believes not this, he is a beast,"
+Tiburce then said, "if I shall not lie."
+And she who heard this did kiss his breast,
+And was very glad he could perceive truth.
+"This day I take thee for my kinsman,"
+Said this blissful fair maid dear,
+And after that she said as you may hear:
+"Lo, exactly as the love of Christ," said she,
+"Made me thy brother's wife, exactly in that manner
+Right now here I take thee for my kinsman,
+Since thou will despise thine idols.
+Go with thy brother now, and get thyself baptized,
+And make thyself clean, so that thou can behold
+The angel's face of which thy brother told."
+Tiburce answered and said, "Brother dear,
+First tell me where I must go, and to what man?"
+"To whom?" said he, "come forth with right good cheer, 
+I will lead thee unto the Pope Urban."
+"To Urban? My brother Valerian,"
+Said then Tiburce, "wilt thou lead me there?
+It seems to me that it would be a wonderful deed.
+"Thou meanest not Urban," said he then,
+"That is so often condemned to be dead,
+And dwells in hiding places always (going) from one to another, 
+And dares not once put forth his head?
+Men should burn him in a fire so red
+If he were found, or if men could catch sight of him,
+And we too (would burn), to bear him company;
+"And while we seek that same divinity
+That is hidden secretly in heaven,
+Nevertheless we shall be burned in this world!"
+To whom Cecile answered boldly,
+"Men might well and reasonably fear
+To lose this life, my own dear brother,
+If this were the only life and (there were) none other.
+"But there is a better life in another place,
+That never shall be lost, doubt thee not,
+Which God's Son told us by means of his grace. 
+That Father's Son has created all things,
+And all that is created (and endowed) with the power of reason;
+The Holy Ghost, who from the Father did proceed,
+Has given them souls, without any doubt.
+"By word and by miracle high God's Son,
+When he was in this world, declared here
+That there was another life where men may dwell."
+To whom answered Tiburce, "O sister dear,
+Said thou not just now in this manner,
+There is but one God, lord in truthfulness?
+And now of three how canst thou bear witness?"
+"That shall I tell," said she, "ere I go.
+Exactly as a man has three mental faculties --
+Memory, imagination, and judgement also --
+So in one being of divinity,
+Three persons may right well be there."
+Then very zealously she did preach to him 
+Of Christ's coming, and teach (him) of His pains,
+And many particulars of His passion;
+How God's Son was compelled to remain in this world 
+To provide full forgiveness for mankind,
+Which was bound in sin and painful cares;
+All this thing she told unto Tiburce.
+And after this Tiburce with a good will
+With Valerian he went to Pope Urban,
+Who thanked God, and with glad and happy heart 
+He christened him and made him in that place
+Perfect in his learning, God's knight.
+And after this Tiburce got such grace
+That every day in real time and space he saw 
+The angel of God; and every manner of gift
+That he asked of God was provided immediately.
+It would be very hard in proper sequence to say
+How many wonders Jesus made for them;
+But at the last, to tell short and plain,
+The officers of the law of the town of Rome sought them,
+And brought them before Almache, the prefect,
+Who questioned them, and knew all their thought,
+And sent them to the image of Jupiter,
+And said, "Whoever will not sacrifice,
+Strike off his head; this is my sentence here."
+Immediately these martyrs of whom I tell you,
+One Maximus, that was an officer
+Of the prefect's, and his chief assistant,
+Seized them, and when he led forth the saints,
+He himself wept for pity that he had.
+When Maximus had heard the saints' teaching,
+He got himself permission of the executioners, 
+And led them to his house without more delay,
+And with their preaching, ere that it was evening,
+They did take away from the executioners,
+And from Maxime, and from his folk each one of them,
+The false faith, (and brought them) to believe in God alone.
+Cecile came, when it was grown night,
+With priests who christened them all together;
+And afterward, when day was grown light,
+Cecile said to them with a full steadfast countenance,
+"Now, Christ's own knights beloved and dear,
+Cast away all the works of darkness,
+And arm yourselves in armor of brightness.
+"You have truly done a great battle,
+Your race is done, your faith you have maintained.
+Go to the crown of life that can not fail;
+The rightful Judge, whom you have served,
+Shall give it to you, as you have deserved it."
+And when this thing was said as I tell,
+Men led them forth to do the sacrifice.
+But when they were brought to the place 
+To tell shortly the conclusion,
+They would not incense nor sacrifice in any way,
+But on their knees they set themselves down
+With humble heart and steadfast devotion,
+And lost both their heads in the place.
+Their souls went to the King of grace.
+This Maximus, who saw this thing happen,
+With piteous tears told it right away,
+That he saw their souls glide to heaven 
+With angels full of clearness and of light,
+And with his word converted many a person;
+For which Almachius had him so beaten
+With whip tipped with lead that he left his life.
+Cecile took him and buried him straightway
+By Tiburce and Valerian tenderly
+Within their burying place, under the tombstone;
+And after this, Almachius hastily
+Ordered his ministers to fetch publicly 
+Cecile, so that she might in his presence
+Do sacrifice and burn incense to Jupiter.
+But they, converted by her wise teaching,
+Wept very bitterly, and gave full credence
+Unto her word, and cried more and more,
+"Christ, God's Son, without difference [between Father and Son],
+Is true God -- this is the belief of us all -- 
+That has so good a servant to serve Him.
+This unanimously we believe, even if we should die!"
+Almachius, that heard of this business,
+Ordered (his men to) fetch Cecile, so that he might see her
+And first of all, lo, this was his quesation.
+"What sort of woman art thou?" then said he.
+"I am a gentle woman born," said she.
+"I ask thee," said he, "though it may grieve thee,
+About thy religion and about thy belief."
+"You have begun your question foolishly,"
+Said she, "you who would include two answers 
+In one question; you asked ignorantly."
+Almache answered unto that refutation,
+"Of whence comes thine answering so rude?"
+"Of whence?" said she, when she was asked,
+"Of conscience and of sincere good faith."
+Almachius said, "Takest thou no heed
+Of my power?" And she answered him this:
+"Your might," said she, "is very little to fear,
+For every mortal man's power is nothing 
+But only like a bladder full of wind, indeed.
+For with a needle's point, when it is blown up,
+Can all the arrogance of it be laid full low."
+"Full wrongfully thou began," said he,
+"And yet wrongful is thy perseverance.
+Dost thou not know how our mighty noble princes
+Have thus commanded and made a law
+That every Christian person shall be punished
+Unless he renounce his Christian faith,
+And go all free, if he will deny it?"
+"Your princes err, as your nobles do,"
+Said then Cecile, "and with a crazy verdict
+You make us guilty, and it is not true.
+For you, who know well our innocence,
+Forasmuch as we do reverence
+To Christ, and because we bear a Christian name,
+You accuse us of a crime and also (put on us) the blame for it.
+"But we who know that same name 
+To be so virtuous, we can not deny it."
+Almache answered, "Chose one of these two:
+Do sacrifice, or renounce Christendom,
+So that thou can now escape by that means."
+At which the holy blissful fair maid
+Began to laugh, and to the judge said:
+"O judge, confused in thy folly,
+Wilt thou that I renounce innocence,
+To make myself a wicked person?" said she.
+"Lo, he hides his true feelings here in open court; 
+He stares, and goes mad in his mind!"
+To whom Almachius, "Miserable wretch,
+Knowest thou not how far my power can stretch?
+"Have not our mighty princes to me given,
+Yea, both power and authority
+To make folk to die or to live?
+Why speakest thou so proudly then to me?"
+"I speak only faithfully," said she;
+"Not proudly, for I say, as for my side,
+We hate that same deadly sin of pride.
+"And if thou dread not to hear a truth,
+Then will I show all openly, according to law,
+That thou hast made a very great lie here.
+Thou sayest thy princes have given thee power
+Both to slay and to give life to a person;
+Thou, who can only take away life,
+Thou hast no other power nor any authority.
+"But thou can say thy princes have made thee
+Minister of death; for if thou speak of more,
+Thou liest, for thy power is strictly limited.
+"Do away thy boldness," said Almachius then,
+"And sacrifice to our gods ere thou go!
+I care not what wrong that thou may express to me,
+For I can suffer it as a philosopher;
+"But those same wrongs I can not endure
+Which thou spekest of our gods here," said he.
+Cecile answered, "O foolish creature!
+Thou saidest no word since thou spoke to me
+That I did not know therewith thy foolishness
+And that thou were in every sort of way
+An ignorant officer and a foolish judge.
+"There lacks nothing to thine outer eyes
+Except that thou art blind; for thing that we all see 
+That it is stone -- that men can well see --
+That same stone a god thou wilt call it.
+I advise thee, let thine hand upon it fall
+And taste it well, and stone thou shalt find it,
+Since thou seest not with thy blind eyes.
+"It is a shame that the people shall
+So scorn thee and laugh at thy folly,
+For without exception men know it well everywhere
+That mighty God is in his high heavens;
+And these images, thou canst well see,
+Can do no profit to thee nor to themselves,
+For in fact they are not worth a penny."
+These words and others such said she,
+And he grew angry, and ordered that men should lead her
+Home to her house, and "In her house," said he,
+"Burn her right in a bath of red flames."
+And as he ordered, exactly so the deed was done;
+For they did shut her fast in a cauldron,
+And night and day they fed great fire under it.
+The long night, and also a day as well,
+Despite the fire and also the bath's heat 
+She sat all cool and felt no pain.
+It made her not a drop to sweat.
+But in that bath her life she must leave,
+For that Almachius, with completely wicked intent,
+Sent his messenger to slay her in the bath.
+Three strokes in the neck he smote her then,
+The executioner, but in no sort of way
+He could not smite all her neck in two;
+And because there was that time an ordinance
+That no man should do any one such pain
+The fourth stroke to smite, soft or sore,
+This executioner dared not do any more,
+But half dead, with her neck carved there,
+He left her lie, and on his way he went.
+The Christian folk, who were about her,
+With sheets have very carefully taken up the blood.
+Three days she lived in this torment,
+And never ceased to teach them the faith 
+That she had fostered; to them she did preach,
+And she gave them her personal property and her things,
+And to the Pope Urban (she) entrusted them then,
+And said, "I asked this of heaven's king,
+To have respite three days and no more
+To commend to you, ere I go,
+These souls, lo, and that I might have made
+Here of my house perpetually a church."
+Saint Urban with his deacons secretly
+Fetched the body and buried it by night
+Among his other saints decently.
+Her house is called the church of Saint Cecilie;
+Saint Urban consecrated it, as he well could;
+In which, unto this day, in noble manner,
+People do service to Christ and to his saint.

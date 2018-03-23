@@ -1,526 +1,526 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;When Arcite was come to Thebes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Very often each day he grew faint and said "Alas!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For he shall never more see his lady.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And shortly to conclude (telling) all his woe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;So much sorrow never had creature<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That is, or shall (be), while the world may endure.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He is bereft of his sleep, his food, his drink<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;So that he became lean and dry as is a stick;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;His eyes sunken and grisly to behold,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;His hue sickly yellow and pale as cold ashes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And he was solitary and ever alone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And wailing all the night, making his moan;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And if he heard song or instrument,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Then would he weep, he could not be stopped.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;So feeble also were his spirits, and so low,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And changed so, that no man could know<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;His speech nor his voice, though men heard it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And in his behavior for all the world he fared<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Not only like the lover's malady<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Of Hereos, but rather like mania,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Engendered by the melancholic humor <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;In the front lobe, in his imagination.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And shortly, all was turned topsy-turvy<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Both the physical condition and also the mental disposition<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Of him, this woeful lover dan Arcite.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Why should I all daylong write of his woe?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;When he had endured a year or two<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This cruel torment and this pain and woe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;At Thebes, in his country, as I said,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Upon one night as he laid himself in sleep,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;It seemed to him that the winged god Mercury<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Stood before him and commanded him to be merry.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;His sleep-inducing staff he carried upright in his hand;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He wore a hat upon his bright hair.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This god was dressed, as he (Arcite) noticed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;As he was when he put Argus to sleep;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And said to him thus: "To Athens shalt thou go,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Where an end of thy woe is destined for thee."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And with that word Arcite awoke and leaped up.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;"Now truly, however sorely it may pain me,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Said he, "I will go to Athens right now,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Nor shall I refrain for the dread of death <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;From seeing my lady, whom I love and serve.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;In her presence I care not if I die."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And with that word he picked up a large mirror,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And saw that all his color was changed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And saw his visage all (changed) to another sort.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And right away it ran to him in his mind,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That, since his face was so disfigured<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;By the malady which he had endured,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He might well, if he conducted himself humbly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Live in Athens evermore unknown,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And see his lady almost every day.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And right away he changed his clothing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And clad himself as a poor laborer,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And all alone, except only a squire<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who knew his private affairs and all his situation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who was disguised as poorly as he was,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;To Athens he is gone the nearest way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And to the court he went upon a day,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And at the gate he offers his service<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;To drudge and draw water, whatever men will command.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And shortly to speak of this matter,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He was given employment by a household attendant<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who was dwelling with Emelye,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For he was wise and could soon take the measure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Of every servant, who serves here.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He could well hew wood, and carry water,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For he was young and mighty indeed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And moreover he was tall and strong of bones<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;To do what any one can command him.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;A year or two he was in this service,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Page of the chamber of Emelye the bright,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And he said that he was called Philostrate.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But half so well beloved a man as he<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Was never in court (anyone) of his rank;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He was so noble in manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That his fame was (spread) throughout all the court .<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;They said that it would be a act of charity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;If Theseus would advance his rank,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And put him in noble employment,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Where he could exercise his abilities.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And thus within a short time his fame is sprung,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Both for his deeds and his good speech,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That Theseus has taken him so near<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That he has made him a squire of his chamber,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And gave him gold to maintain (a life style suitable to) his rank.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And also men brought him out of his country,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;From year to year, very secretly, his income;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But properly and slyly he spent it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;So that no man wondered how he acquired it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And three years in this manner he led his life,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And conducted himself so that, in peace and also in war,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;There was no man whom Theseus holds dearer.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And in this bliss I now leave Arcite,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And I will speak of Palamon a little.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;In darkness and horrible and strong imprisonment<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;These seven years Palamon has sat <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Wasted by suffering, what for woe and for distress.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who feels double pain and sadness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But Palamon, whom love so afflicts<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That he goes mad, out of his wits because of woe?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And also moreover he is a prisoner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Perpetually, not just for a year.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who could rime in English properly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;His martyrdom? In truth it is not I;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Therefore I pass on as quickly as I can.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;It happened that in the seventh year, of May<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The third night (as old books say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That tell all this story more fully),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Whether it was by chance or fate --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;As, when a thing is pre-ordained, it must be --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That soon after midnight Palamon,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;With the help of a friend, broke out of his prison<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And flees the city as fast as he can go.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For he had so given his jailer drink <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Of a spiced and sweetened drink made of a certain wine,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;With narcotics and pure opium of Thebes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That all that night, though men would shake him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The jailer slept; he could not awake.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And thus he flees as fast as ever he can.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The night was short and very close to the day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;So that by necessity he must hide himself,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And to a grove close by <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;With fearful foot then stalks Palamon.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For, shortly, this was his idea:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That in that grove he would hide himself all day,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And in the night then he would take his way<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Toward Thebes, to pray his friends <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;To help him to wage war on Theseus;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And shortly, he would either lose his life<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Or win Emelye to be his wife.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This is the purpose and his full intent.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Now I will turn again to Arcite,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That little knew how near his trouble was,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;To which Fortune had brought him in the snare.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The busy lark, messenger of day,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Salutes the morning gray in her song,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And fiery Phoebus rises up so bright<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That all the orient laughs because of the light,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And with his rays dries in the groves<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The silver drops hanging on the leaves.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And Arcite, who in the royal court<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;With Theseus is chief squire,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Is risen and looks on the merry day.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And to do his observance to May,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Meditating on the object of his desire,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He on a war horse, leaping about like the fire,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Has ridden into the fields to amuse himself,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Out of the court, about a mile or two.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And to the grove of which I told you <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;By chance he began to hold his way <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;To make himself a garland of the branches,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Were it of woodbine or hawthorn leaves,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And loud he sang in the bright sun:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;"May, with all thy flowers and thy greenery,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Welcome be thou, fair, fresh May,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;In hope that I can get something green."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And from his war horse, with an eager heart,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He rushed into the grove hastily,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And in a path he roams up and down,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Where by chance this Palamon<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Was in a thicket, so that no man could see him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For he was sorely afraid of his death.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;In no way did he know that it was Arcite;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;God knows he would scarcely have believed it<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But truly it is said, since many years ago,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That "field has eyes and the wood has ears."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;It is very good for a man to act calmly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For every day people meet at unexpected times.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Arcite knows full little of his fellow,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who was near enough to hear all his speech,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For in the thicket he sits now very still.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;When Arcite had roamed all his fill,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And sung all the rondel cheerfully,<BR>
-nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He fell suddenly into a state of anxiety,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;As these lovers do in their strange manners,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Now in the tree top, now down in the briars,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Now up, now down, like a bucket in a well.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Exactly like the Friday, truly for to tell,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Now it shines, now it rains hard,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Just so can fickle Venus sadden<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The hearts of her folk; just as her day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Is changeable, just so she changes her array.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Friday is seldom like all the rest of the week.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;When Arcite had sung, he began to sigh<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And sat himself down without any more.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;"Alas," he said, "that day that I was born!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;How long, Juno, through thy cruelty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Wilt thou make war on the city of Thebes?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Alas, to ruin is brought<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The royal blood of Cadmus and Amphion --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Of Cadmus, who was the first man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who built Thebes, before the town first began,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And first was crowned king of the city.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I am of his lineage and his offspring<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;By true lineage, of the royal family,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And now I am so wretched and so enslaved,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That he who is my mortal enemy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I meekly serve him as his squire.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And yet Juno does me much more shame,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For I dare not acknowledge my own name;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But whereas I was accustomed to be called Arcite,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Now I am called Philostrate, not worth a penny.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Alas, thou fierce Mars! Alas, Juno!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Thus has your anger destroyed all our lineage,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Save only me and wretched Palamon,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Whom Theseus torments in prison.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And in addition to all this, to slay me utterly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Love has his fiery dart so ardently<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Stabbed through my faithful, sorrowful heart<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That my death was destined before my first garment was made.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;You slay me with your eyes, Emelye!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;You are the cause by which I die.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Of all the rest of my other troubles<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I do not reckon at the value of a weed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Provided that I could do anything to please you."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And with that word he fell down in a trance<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;A long time, and afterwards he leaped up.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This Palamon, that thought that through his heart<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He felt a cold sword suddenly glide,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For anger he trembled; no longer would he wait.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And when he had heard Arcite's tale,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;As if he were mad, with face dead and pale,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He leaped up out of the thick bushes <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And said: "Arcite, false, wicked traitor,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Now art thou taken, who lovest my lady so,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For whom that I have all this pain and woe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And art of my blood, and sworn to be in my confidence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;As I full often have told thee before now,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And hast tricked here duke Theseus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And thus hast falsely changed thy name!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I will be dead, or else thou shalt die.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Thou shalt not love my lady Emelye,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But I will love her only and no other;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For I am Palamon, thy mortal foe.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And though I have no weapon in this place,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But out of prison am escaped by good luck,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I doubt not that either thou shalt dye,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Either thou shalt not love Emelye,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Choose which thou wish, or thou shalt not escape!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This Arcite, with full spiteful heart,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;When he knew him, and had heard his tale,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;As fierce as a lion pulled out his sword,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And said thus: "By God who sits above,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Were it not that thou art sick and mad for love,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And also because thou hast no weapon in this place,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Thou shouldest never walk out of this grove,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Rather thou shouldest die of my hand. <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For I repudiate the pledge and the bond<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Which thou sayest that I have made to thee.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Lo! True fool, think well that love is free,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And I will love her in spite of all thy might!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But for as much as thou art a worthy knight<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And desire to decide the right to her by battle,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Have here my pledge; tomorrow I will not fail,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Without the knowledge of any other person,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But here I will be found as a knight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And bring armor right enough for thee;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And choose the best, and leave the worst for me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And food and drink this night will I bring<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Enough for thee, and bed-clothes for thy bedding.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And if it so be that thou win my lady,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And slay me in this wood where I am in,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Thou mayest well have thy lady as far as I am concerned."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This Palamon answered, "I agree."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And thus they are departed until morning,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;When each of them had laid his faith as a pledge.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;O Cupid, devoid of all kindness to others!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;O reign, that will have no partner with thee!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Full truly it is said that love nor lordship<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Will not, willingly, have any partnership.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Arcite and Palamon well find that (to be true).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Arcite has ridden immediately into the town,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And on the morning, before it was day's light,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Very secretly he has prepared two sets of armor,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Both sufficient and suitable to decide<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The battle in the field between them two;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And on his horse, alone as he was born,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He carries all the armor before him.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And in the grove, at time and place set,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This Arcite and this Palamon are met.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The color in their faces began to change;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Just as the hunters in the reign of Thrace,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He who stands at the gap in the forrest with a spear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;When the lion or the bear is hunted,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And hears him come rushing in the bushes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And breaks both boughs and the leaves,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And thinks, "Here comes my mortal enemy!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Without fail, he must be dead, or I,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For either I must slay him at the gap,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Or he must slay me, if I suffer misfortune."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;So fared they in changing colors of their faces,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;When each of them knew the other.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;There was no 'good day,' nor no salutations,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But straightway, without word or conversing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Each one of them helped to arm the other<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;As friendly as if he were his own brother;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And after that, with sharp strong spears <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;They thrust at each other a wonderfully long time.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Thou mightest suppose that this Palamon<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;In his fighting was a mad lion,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And Arcite was like a cruel tiger;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;They began to smite like wild boars,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That froth at the mouth white as foam for mad anger. <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;They fought up to the ankle in their blood.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And in this manner I leave them to remain fighting,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And forth I will tell you of Theseus.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The destiny, general minister,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That executes in the world everywhere<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The providence that God has foreseen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;So strong it is that, though the world had sworn<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The contrary of a thing by yes or no,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Yet sometimes it shall happen on one day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That happens not again in a thousand years. <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For certainly, our desires here,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Be it of war, or peace, or hate, or love,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;All this is ruled by the foresight above.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I mean this now in regard to mighty Theseus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who is so desirous to hunt,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And especially at the large hart in May,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That in his bed there dawns for him no day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That he is not clad, and ready to ride<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;With huntsman and horn and hounds beside him.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For in his hunting he has such delight<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That it is all his joy and desire<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;To be himself the large hart's slayer,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For next to Mars he now serves Diana.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The day was clear, as I have told before this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And Theseus with all joy and bliss,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;With his Ypolita, the faire queen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And Emelye, clothed all in green,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;On hunting they are ridden royally.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And to the grove that stood very close by,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;In which there was a hart, so people told him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Duke Theseus has held the straight way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And directly to the glade he rides,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For through there the hart was accustomed to take his escape,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And (flee) over a brook, and so forth on his way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This duke will have a run or two at him<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;With such hounds as he pleases to command.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And when this duke was come unto the glade,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He looks toward the sun, and immediately<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He was aware of Arcite and Palamon,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who fought as fiercely as if it were two wild boars.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The bright swords went to and fro<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;So hideously that with the weakest stroke<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;It seemed as if it would fell an oak.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But who they were, he knew nothing.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This duke smote his warhorse with his spurs,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And with a sudden leap he was between them two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And pulled out a sword and cried, "Stop!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;No more, on the penalty of the loss of your head!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;By mighty Mars, he shall at once be dead<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who smites any stroke that I can see.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But tell me what sort of men you are,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who are so bold as to fight here<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Without judge or other officer,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;As it would be in a properly conducted duel,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This Palamon answered hastily<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And said, "Sire, what more words are needed?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;We have deserved the death, both of us two.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Two woeful wretches are we, two miserable people,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who are burdened down by our own lives;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And as thou art a rightful lord and judge,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Give us neither mercy nor refuge,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But slay me first, by holy charity!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But slay my fellow also as well as me;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Or slay him first, for though thou little knowest it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This is thy mortal foe, this is Arcite,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who is banished from thy land on (pain of losing) his head,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For which he has deserved to be dead.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For this is he that came unto thy gate<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And said that he was called  Philostrate.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Thus has he tricked thee for many years,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And thou hast made him thy chief squire;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And this is he that loves Emelye.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For since the day is come that I must dye,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I make plainly my confession<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That I am that same woeful Palamon<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That wickedly has broken (out of) thy prison.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I am thy mortal foe, and it is I<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who loves the beautiful Emelye so passionately <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That I will die at this moment in her sight.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Therefore I ask death and my judicial sentence;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But slay my fellow in the same way,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For we have both deserved to be slain."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This worthy duke answered at once in reply,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And said, "This is a brief (easy) decision. <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Your own mouth, by your confession,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Has condemned you, and I will pronounce it;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;There is no deed to torture you with the cord.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;You shall be dead, by mighty Mars the red!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The queen at once, for true womanliness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Began to weep, and so did Emelye,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And all the ladies in the company.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Great pity was it, as it seemed to them all,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That ever such a misfortune should occur,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For they were gentle men of high rank,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And this debate was for nothing but love;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And saw their bloody wounds wide and sore,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And all cried, both low ranking and high,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;"Have mercy, Lord, upon all of us women!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And they fall down on their bare knees <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And would have kissed his feet there where he stood;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Until at the last his mood was calmed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For pity comes soon to a gentle heart.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And though he first for anger shook and trembled,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He has considered shortly, in brief,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The trespass of them both, and also the cause,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And although his anger reproached them for their guilt,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Yet in his reason he excused them both,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;As thus: he thought well that every man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Will help himself in love, if he can,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And also deliver himself out of prison.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And also his heart had compassion<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Of women, for they weep continually,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And in his gentle heart he thought straightway,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And softly to himself he said, "Fie<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Upon a lord that will have no mercy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But be a lion, both in word and deed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;To those who are in repentance and fear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;As well as to a proud, spiteful man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who will persist in what he first began.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That lord has little sound judgment,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That in such cases knows no distinctions<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But considers pride and humility equal."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And shortly, when his anger is thus gone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He began to look up with bright eyes <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And spoke these same words all aloud:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;"The god of love, ah, bless my soul!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;How mighty and how great a lord is he!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Against his power there avail no obstacles.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He may be called a god for his miracles,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For he can make, as he pleases,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Of every heart whatever he wants to devise.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Lo here this Arcite and this Palamon,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who freely were out of my prison,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And could have lived royally in Thebes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And know I am their mortal enemy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And that their death lies in my power also,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And yet has Love, despite anything they could do,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Brought them both hither to die.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Now look, is that not a great folly?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who can be a fool unless he is in love?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Behold, for the sake of God who sits above,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;See how they bleed! Are they not in fine condition?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Thus has their lord, the god of love, paid<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Their wages and their fees for their service!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And yet they consider themselves very wise,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Those who serve love, whatever may happen.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But this is yet the best joke of all,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That she for whom they have this sport<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Owes them as much gratitude for this as she owes me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;She knows no more of all this passionate business,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;By God, than knows a cuckoo or a hare!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But all must be tried, hot or cold; <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;A man must be a fool, either young or old --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I know it by my own experience very long ago,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For in my time I was a servant (of love).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And therefore, since I know of love's pain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And know how sorely it can afflict a man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;As one who has been often caught in its snare,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I wholly forgive you this trespass,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;At the request of the queen, who kneels here,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And also of Emelye, my dear sister.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And you must both immediately swear unto me <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That you shall never more harm my country,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Nor make war upon me at any time,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But be my friends in all that you can.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I forgive you this trespass completely."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And they fairly and well swore to him (to do) his request,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And prayed him to be their lord and to have mercy ,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And he grants them his favor, and thus he said:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;"To speak of royal lineage and riches,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Though she were a queen or a princess,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Each of you both is worthy, doubtless,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;To wed when it is time; but none the less --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I speak for my sister Emelye,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;For whom you have this strife and jealousy --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;You know yourself she can not wed two<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;At once, though you were to fight for evermore,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That one of you, whether he likes it or not, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;He must go whistle in an ivy leaf;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This is to say, she can not now have both,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Although you be never so jealous nor so angry.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And therefore I put you in this situation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That each of you shall have his destiny<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;As is ordained for him, and listen in what way;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Lo, hear what I shall arrange for your fate.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;My will is this, for flat conclusion,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Without any arguing --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;If this pleases you, take it for the best:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That each one of you shall go where he pleases<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Freely, without ransom or resistance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And fifty weeks from this day, more or less,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Each one of you shall bring a hundred knights<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Armed up for the lists in all respects,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;All ready to decide the right to her by battle.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And this I promise you without fail,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Upon my word, and as I am a knight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;That whichever of you both who has the power --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This is to say, that whether he or thou<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Can with his hundred, as I spoke of now,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Slay his opponent, or drive him out of the lists ,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Then I shall give Emelye as wife<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;To whom Fortune gives so good a gift (to win the battle).	<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I shall make the lists in this place,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And as God may surely have pity on my soul<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;I shall be an impartial and true judge.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;You shall make no other agreement with me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;(Save this:) that one of you must be dead or taken.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And if it seems to you that this is well said,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Say your opinion, and consider yourself satisfied.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;This is your (destined) end and your conclusion."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who but Palamon looks happy now?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who springs up for joy but Arcite?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;Who could tell, or who could describe in writing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;The joy that is made in the place<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;When Theseus has behaved so graciously?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;But down on knees went every sort of person,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And thanked him with all their heart and might,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And especially the Thebans many times.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;And thus with good hope and with happy heart<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;They take their leave, and homeward did they ride<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	&nbsp; &nbsp; &nbsp; &nbsp;To Thebes with his old wide walls.<BR>
+When Arcite was come to Thebes,
+Very often each day he grew faint and said "Alas!"
+For he shall never more see his lady.
+And shortly to conclude (telling) all his woe,
+So much sorrow never had creature
+That is, or shall (be), while the world may endure.
+He is bereft of his sleep, his food, his drink
+So that he became lean and dry as is a stick;
+His eyes sunken and grisly to behold,
+His hue sickly yellow and pale as cold ashes,
+And he was solitary and ever alone,
+And wailing all the night, making his moan;
+And if he heard song or instrument,
+Then would he weep, he could not be stopped.
+So feeble also were his spirits, and so low,
+And changed so, that no man could know
+His speech nor his voice, though men heard it.
+And in his behavior for all the world he fared
+Not only like the lover's malady
+Of Hereos, but rather like mania,
+Engendered by the melancholic humor 
+In the front lobe, in his imagination.
+And shortly, all was turned topsy-turvy
+Both the physical condition and also the mental disposition
+Of him, this woeful lover dan Arcite.
+Why should I all daylong write of his woe?
+When he had endured a year or two
+This cruel torment and this pain and woe,
+At Thebes, in his country, as I said,
+Upon one night as he laid himself in sleep,
+It seemed to him that the winged god Mercury
+Stood before him and commanded him to be merry.
+His sleep-inducing staff he carried upright in his hand;
+He wore a hat upon his bright hair.
+This god was dressed, as he (Arcite) noticed,
+As he was when he put Argus to sleep;
+And said to him thus: "To Athens shalt thou go,
+Where an end of thy woe is destined for thee."
+And with that word Arcite awoke and leaped up.
+"Now truly, however sorely it may pain me,"
+Said he, "I will go to Athens right now,
+Nor shall I refrain for the dread of death 
+From seeing my lady, whom I love and serve.
+In her presence I care not if I die."
+And with that word he picked up a large mirror,
+And saw that all his color was changed,
+And saw his visage all (changed) to another sort.
+And right away it ran to him in his mind,
+That, since his face was so disfigured
+By the malady which he had endured,
+He might well, if he conducted himself humbly,
+Live in Athens evermore unknown,
+And see his lady almost every day.
+And right away he changed his clothing,
+And clad himself as a poor laborer,
+And all alone, except only a squire
+Who knew his private affairs and all his situation,
+Who was disguised as poorly as he was,
+To Athens he is gone the nearest way.
+And to the court he went upon a day,
+And at the gate he offers his service
+To drudge and draw water, whatever men will command.
+And shortly to speak of this matter,
+He was given employment by a household attendant
+Who was dwelling with Emelye,
+For he was wise and could soon take the measure
+Of every servant, who serves here.
+He could well hew wood, and carry water,
+For he was young and mighty indeed,
+And moreover he was tall and strong of bones
+To do what any one can command him.
+A year or two he was in this service,
+Page of the chamber of Emelye the bright,
+And he said that he was called Philostrate.
+But half so well beloved a man as he
+Was never in court (anyone) of his rank;
+He was so noble in manner
+That his fame was (spread) throughout all the court .
+They said that it would be a act of charity
+If Theseus would advance his rank,
+And put him in noble employment,
+Where he could exercise his abilities.
+And thus within a short time his fame is sprung,
+Both for his deeds and his good speech,
+That Theseus has taken him so near
+That he has made him a squire of his chamber,
+And gave him gold to maintain (a life style suitable to) his rank.
+And also men brought him out of his country,
+From year to year, very secretly, his income;
+But properly and slyly he spent it,
+So that no man wondered how he acquired it.
+And three years in this manner he led his life,
+And conducted himself so that, in peace and also in war,
+There was no man whom Theseus holds dearer.
+And in this bliss I now leave Arcite,
+And I will speak of Palamon a little.
+In darkness and horrible and strong imprisonment
+These seven years Palamon has sat 
+Wasted by suffering, what for woe and for distress.
+Who feels double pain and sadness
+But Palamon, whom love so afflicts
+That he goes mad, out of his wits because of woe?
+And also moreover he is a prisoner
+Perpetually, not just for a year.
+Who could rime in English properly
+His martyrdom? In truth it is not I;
+Therefore I pass on as quickly as I can.
+It happened that in the seventh year, of May
+The third night (as old books say,
+That tell all this story more fully),
+Whether it was by chance or fate --
+As, when a thing is pre-ordained, it must be --
+That soon after midnight Palamon,
+With the help of a friend, broke out of his prison
+And flees the city as fast as he can go.
+For he had so given his jailer drink 
+Of a spiced and sweetened drink made of a certain wine,
+With narcotics and pure opium of Thebes,
+That all that night, though men would shake him,
+The jailer slept; he could not awake.
+And thus he flees as fast as ever he can.
+The night was short and very close to the day
+So that by necessity he must hide himself,
+And to a grove close by 
+With fearful foot then stalks Palamon.
+For, shortly, this was his idea:
+That in that grove he would hide himself all day,
+And in the night then he would take his way
+Toward Thebes, to pray his friends 
+To help him to wage war on Theseus;
+And shortly, he would either lose his life
+Or win Emelye to be his wife.
+This is the purpose and his full intent.
+Now I will turn again to Arcite,
+That little knew how near his trouble was,
+To which Fortune had brought him in the snare.
+The busy lark, messenger of day,
+Salutes the morning gray in her song,
+And fiery Phoebus rises up so bright
+That all the orient laughs because of the light,
+And with his rays dries in the groves
+The silver drops hanging on the leaves.
+And Arcite, who in the royal court
+With Theseus is chief squire,
+Is risen and looks on the merry day.
+And to do his observance to May,
+Meditating on the object of his desire,
+He on a war horse, leaping about like the fire,
+Has ridden into the fields to amuse himself,
+Out of the court, about a mile or two.
+And to the grove of which I told you 
+By chance he began to hold his way 
+To make himself a garland of the branches,
+Were it of woodbine or hawthorn leaves,
+And loud he sang in the bright sun:
+"May, with all thy flowers and thy greenery,
+Welcome be thou, fair, fresh May,
+In hope that I can get something green."
+And from his war horse, with an eager heart,
+He rushed into the grove hastily,
+And in a path he roams up and down,
+Where by chance this Palamon
+Was in a thicket, so that no man could see him,
+For he was sorely afraid of his death.
+In no way did he know that it was Arcite;
+God knows he would scarcely have believed it
+But truly it is said, since many years ago,
+That "field has eyes and the wood has ears."
+It is very good for a man to act calmly,
+For every day people meet at unexpected times.
+Arcite knows full little of his fellow,
+Who was near enough to hear all his speech,
+For in the thicket he sits now very still.
+When Arcite had roamed all his fill,
+And sung all the rondel cheerfully,
+He fell suddenly into a state of anxiety,
+As these lovers do in their strange manners,
+Now in the tree top, now down in the briars,
+Now up, now down, like a bucket in a well.
+Exactly like the Friday, truly for to tell,
+Now it shines, now it rains hard,
+Just so can fickle Venus sadden
+The hearts of her folk; just as her day
+Is changeable, just so she changes her array.
+Friday is seldom like all the rest of the week.
+When Arcite had sung, he began to sigh
+And sat himself down without any more.
+"Alas," he said, "that day that I was born!
+How long, Juno, through thy cruelty,
+Wilt thou make war on the city of Thebes?
+Alas, to ruin is brought
+The royal blood of Cadmus and Amphion --
+Of Cadmus, who was the first man
+Who built Thebes, before the town first began,
+And first was crowned king of the city.
+I am of his lineage and his offspring
+By true lineage, of the royal family,
+And now I am so wretched and so enslaved,
+That he who is my mortal enemy,
+I meekly serve him as his squire.
+And yet Juno does me much more shame,
+For I dare not acknowledge my own name;
+But whereas I was accustomed to be called Arcite,
+Now I am called Philostrate, not worth a penny.
+Alas, thou fierce Mars! Alas, Juno!
+Thus has your anger destroyed all our lineage,
+Save only me and wretched Palamon,
+Whom Theseus torments in prison.
+And in addition to all this, to slay me utterly
+Love has his fiery dart so ardently
+Stabbed through my faithful, sorrowful heart
+That my death was destined before my first garment was made.
+You slay me with your eyes, Emelye!
+You are the cause by which I die.
+Of all the rest of my other troubles
+I do not reckon at the value of a weed,
+Provided that I could do anything to please you."
+And with that word he fell down in a trance
+A long time, and afterwards he leaped up.
+This Palamon, that thought that through his heart
+He felt a cold sword suddenly glide,
+For anger he trembled; no longer would he wait.
+And when he had heard Arcite's tale,
+As if he were mad, with face dead and pale,
+He leaped up out of the thick bushes 
+And said: "Arcite, false, wicked traitor,
+Now art thou taken, who lovest my lady so,
+For whom that I have all this pain and woe,
+And art of my blood, and sworn to be in my confidence,
+As I full often have told thee before now,
+And hast tricked here duke Theseus,
+And thus hast falsely changed thy name!
+I will be dead, or else thou shalt die.
+Thou shalt not love my lady Emelye,
+But I will love her only and no other;
+For I am Palamon, thy mortal foe.
+And though I have no weapon in this place,
+But out of prison am escaped by good luck,
+I doubt not that either thou shalt dye,
+Either thou shalt not love Emelye,
+Choose which thou wish, or thou shalt not escape!"
+This Arcite, with full spiteful heart,
+When he knew him, and had heard his tale,
+As fierce as a lion pulled out his sword,
+And said thus: "By God who sits above,
+Were it not that thou art sick and mad for love,
+And also because thou hast no weapon in this place,
+Thou shouldest never walk out of this grove,
+Rather thou shouldest die of my hand. 
+For I repudiate the pledge and the bond
+Which thou sayest that I have made to thee.
+Lo! True fool, think well that love is free,
+And I will love her in spite of all thy might!
+But for as much as thou art a worthy knight
+And desire to decide the right to her by battle,
+Have here my pledge; tomorrow I will not fail,
+Without the knowledge of any other person,
+But here I will be found as a knight,
+And bring armor right enough for thee;
+And choose the best, and leave the worst for me.
+And food and drink this night will I bring
+Enough for thee, and bed-clothes for thy bedding.
+And if it so be that thou win my lady,
+And slay me in this wood where I am in,
+Thou mayest well have thy lady as far as I am concerned."
+This Palamon answered, "I agree."
+And thus they are departed until morning,
+When each of them had laid his faith as a pledge.
+O Cupid, devoid of all kindness to others!
+O reign, that will have no partner with thee!
+Full truly it is said that love nor lordship
+Will not, willingly, have any partnership.
+Arcite and Palamon well find that (to be true).
+Arcite has ridden immediately into the town,
+And on the morning, before it was day's light,
+Very secretly he has prepared two sets of armor,
+Both sufficient and suitable to decide
+The battle in the field between them two;
+And on his horse, alone as he was born,
+He carries all the armor before him.
+And in the grove, at time and place set,
+This Arcite and this Palamon are met.
+The color in their faces began to change;
+Just as the hunters in the reign of Thrace,
+He who stands at the gap in the forrest with a spear,
+When the lion or the bear is hunted,
+And hears him come rushing in the bushes,
+And breaks both boughs and the leaves,
+And thinks, "Here comes my mortal enemy!
+Without fail, he must be dead, or I,
+For either I must slay him at the gap,
+Or he must slay me, if I suffer misfortune."
+So fared they in changing colors of their faces,
+When each of them knew the other.
+There was no 'good day,' nor no salutations,
+But straightway, without word or conversing,
+Each one of them helped to arm the other
+As friendly as if he were his own brother;
+And after that, with sharp strong spears 
+They thrust at each other a wonderfully long time.
+Thou mightest suppose that this Palamon
+In his fighting was a mad lion,
+And Arcite was like a cruel tiger;
+They began to smite like wild boars,
+That froth at the mouth white as foam for mad anger. 
+They fought up to the ankle in their blood.
+And in this manner I leave them to remain fighting,
+And forth I will tell you of Theseus.
+The destiny, general minister,
+That executes in the world everywhere
+The providence that God has foreseen,
+So strong it is that, though the world had sworn
+The contrary of a thing by yes or no,
+Yet sometimes it shall happen on one day
+That happens not again in a thousand years. 
+For certainly, our desires here,
+Be it of war, or peace, or hate, or love,
+All this is ruled by the foresight above.
+I mean this now in regard to mighty Theseus,
+Who is so desirous to hunt,
+And especially at the large hart in May,
+That in his bed there dawns for him no day
+That he is not clad, and ready to ride
+With huntsman and horn and hounds beside him.
+For in his hunting he has such delight
+That it is all his joy and desire
+To be himself the large hart's slayer,
+For next to Mars he now serves Diana.
+The day was clear, as I have told before this,
+And Theseus with all joy and bliss,
+With his Ypolita, the faire queen,
+And Emelye, clothed all in green,
+On hunting they are ridden royally.
+And to the grove that stood very close by,
+In which there was a hart, so people told him,
+Duke Theseus has held the straight way.
+And directly to the glade he rides,
+For through there the hart was accustomed to take his escape,
+And (flee) over a brook, and so forth on his way.
+This duke will have a run or two at him
+With such hounds as he pleases to command.
+And when this duke was come unto the glade,
+He looks toward the sun, and immediately
+He was aware of Arcite and Palamon,
+Who fought as fiercely as if it were two wild boars.
+The bright swords went to and fro
+So hideously that with the weakest stroke
+It seemed as if it would fell an oak.
+But who they were, he knew nothing.
+This duke smote his warhorse with his spurs,
+And with a sudden leap he was between them two,
+And pulled out a sword and cried, "Stop!
+No more, on the penalty of the loss of your head!
+By mighty Mars, he shall at once be dead
+Who smites any stroke that I can see.
+But tell me what sort of men you are,
+Who are so bold as to fight here
+Without judge or other officer,
+As it would be in a properly conducted duel,"
+This Palamon answered hastily
+And said, "Sire, what more words are needed?
+We have deserved the death, both of us two.
+Two woeful wretches are we, two miserable people,
+Who are burdened down by our own lives;
+And as thou art a rightful lord and judge,
+Give us neither mercy nor refuge,
+But slay me first, by holy charity!
+But slay my fellow also as well as me;
+Or slay him first, for though thou little knowest it,
+This is thy mortal foe, this is Arcite,
+Who is banished from thy land on (pain of losing) his head,
+For which he has deserved to be dead.
+For this is he that came unto thy gate
+And said that he was called  Philostrate.
+Thus has he tricked thee for many years,
+And thou hast made him thy chief squire;
+And this is he that loves Emelye.
+For since the day is come that I must dye,
+I make plainly my confession
+That I am that same woeful Palamon
+That wickedly has broken (out of) thy prison.
+I am thy mortal foe, and it is I
+Who loves the beautiful Emelye so passionately 
+That I will die at this moment in her sight.
+Therefore I ask death and my judicial sentence;
+But slay my fellow in the same way,
+For we have both deserved to be slain."
+This worthy duke answered at once in reply,
+And said, "This is a brief (easy) decision. 
+Your own mouth, by your confession,
+Has condemned you, and I will pronounce it;
+There is no deed to torture you with the cord.
+You shall be dead, by mighty Mars the red!"
+The queen at once, for true womanliness,
+Began to weep, and so did Emelye,
+And all the ladies in the company.
+Great pity was it, as it seemed to them all,
+That ever such a misfortune should occur,
+For they were gentle men of high rank,
+And this debate was for nothing but love;
+And saw their bloody wounds wide and sore,
+And all cried, both low ranking and high,
+"Have mercy, Lord, upon all of us women!"
+And they fall down on their bare knees 
+And would have kissed his feet there where he stood;
+Until at the last his mood was calmed,
+For pity comes soon to a gentle heart.
+And though he first for anger shook and trembled,
+He has considered shortly, in brief,
+The trespass of them both, and also the cause,
+And although his anger reproached them for their guilt,
+Yet in his reason he excused them both,
+As thus: he thought well that every man
+Will help himself in love, if he can,
+And also deliver himself out of prison.
+And also his heart had compassion
+Of women, for they weep continually,
+And in his gentle heart he thought straightway,
+And softly to himself he said, "Fie
+Upon a lord that will have no mercy,
+But be a lion, both in word and deed,
+To those who are in repentance and fear,
+As well as to a proud, spiteful man
+Who will persist in what he first began.
+That lord has little sound judgment,
+That in such cases knows no distinctions
+But considers pride and humility equal."
+And shortly, when his anger is thus gone,
+He began to look up with bright eyes 
+And spoke these same words all aloud:
+"The god of love, ah, bless my soul!
+How mighty and how great a lord is he!
+Against his power there avail no obstacles.
+He may be called a god for his miracles,
+For he can make, as he pleases,
+Of every heart whatever he wants to devise.
+Lo here this Arcite and this Palamon,
+Who freely were out of my prison,
+And could have lived royally in Thebes,
+And know I am their mortal enemy,
+And that their death lies in my power also,
+And yet has Love, despite anything they could do,
+Brought them both hither to die.
+Now look, is that not a great folly?
+Who can be a fool unless he is in love?
+Behold, for the sake of God who sits above,
+See how they bleed! Are they not in fine condition?
+Thus has their lord, the god of love, paid
+Their wages and their fees for their service!
+And yet they consider themselves very wise,
+Those who serve love, whatever may happen.
+But this is yet the best joke of all,
+That she for whom they have this sport
+Owes them as much gratitude for this as she owes me.
+She knows no more of all this passionate business,
+By God, than knows a cuckoo or a hare!
+But all must be tried, hot or cold; 
+A man must be a fool, either young or old --
+I know it by my own experience very long ago,
+For in my time I was a servant (of love).
+And therefore, since I know of love's pain
+And know how sorely it can afflict a man,
+As one who has been often caught in its snare,
+I wholly forgive you this trespass,
+At the request of the queen, who kneels here,
+And also of Emelye, my dear sister.
+And you must both immediately swear unto me 
+That you shall never more harm my country,
+Nor make war upon me at any time,
+But be my friends in all that you can.
+I forgive you this trespass completely."
+And they fairly and well swore to him (to do) his request,
+And prayed him to be their lord and to have mercy ,
+And he grants them his favor, and thus he said:
+"To speak of royal lineage and riches,
+Though she were a queen or a princess,
+Each of you both is worthy, doubtless,
+To wed when it is time; but none the less --
+I speak for my sister Emelye,
+For whom you have this strife and jealousy --
+You know yourself she can not wed two
+At once, though you were to fight for evermore,
+That one of you, whether he likes it or not, 
+He must go whistle in an ivy leaf;
+This is to say, she can not now have both,
+Although you be never so jealous nor so angry.
+And therefore I put you in this situation,
+That each of you shall have his destiny
+As is ordained for him, and listen in what way;
+Lo, hear what I shall arrange for your fate.
+My will is this, for flat conclusion,
+Without any arguing --
+If this pleases you, take it for the best:
+That each one of you shall go where he pleases
+Freely, without ransom or resistance,
+And fifty weeks from this day, more or less,
+Each one of you shall bring a hundred knights
+Armed up for the lists in all respects,
+All ready to decide the right to her by battle.
+And this I promise you without fail,
+Upon my word, and as I am a knight,
+That whichever of you both who has the power --
+This is to say, that whether he or thou
+Can with his hundred, as I spoke of now,
+Slay his opponent, or drive him out of the lists ,
+Then I shall give Emelye as wife
+To whom Fortune gives so good a gift (to win the battle).
+I shall make the lists in this place,
+And as God may surely have pity on my soul
+I shall be an impartial and true judge.
+You shall make no other agreement with me,
+(Save this:) that one of you must be dead or taken.
+And if it seems to you that this is well said,
+Say your opinion, and consider yourself satisfied.
+This is your (destined) end and your conclusion."
+Who but Palamon looks happy now?
+Who springs up for joy but Arcite?
+Who could tell, or who could describe in writing,
+The joy that is made in the place
+When Theseus has behaved so graciously?
+But down on knees went every sort of person,
+And thanked him with all their heart and might,
+And especially the Thebans many times.
+And thus with good hope and with happy heart
+They take their leave, and homeward did they ride
+To Thebes with his old wide walls.

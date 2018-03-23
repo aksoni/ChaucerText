@@ -1,1227 +1,1227 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Weeping and wailing, grief and other sorrow<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I know enough, on evenings and mornings,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said the Merchant, "and so do many others <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who are wedded. I believe that it is so,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For well I know it fares so with me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I have a wife, the worst that can be;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For though the fiend were married to her,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She would outmatch him, I dare well swear.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why should I tell you in detail<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her high malice? She is a shrew in every way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is a long and large difference<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Between Griselda's great patience<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And the extreme cruelty of my wife <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Were I released (from marriage), so may I may prosper,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I would never again come in the snare.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We wedded men live in sorrow and care.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Try it whoso will, and he shall find<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I say truth, by Saint Thomas of India,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As for the greater part (majority) -- I say not all.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God prevent that it should so happen!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "A, good sir Host, I have been wedded <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These two months, and no more, by God;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yet, I believe, he who all his life<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wifeless has been, though one would him stab<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto the heart, could not in any way<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tell so much sorrow as I now here<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Could tell of my wife's cursedness!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Now," said our Host, "Merchant, as God may you bless,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since you know so much of that art<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full heartily I pray you tell us part."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Gladly," said he, "but of my own sorrow,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For sorry heart, I can tell no more."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Once there was dwelling in Lombardy<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A worthy knight, who was born in Pavia,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In which he lived in great prosperity;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And sixty years a wifeless man was he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And followed always his bodily desire<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On women, where was his appetite,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As do these fools that are secular.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he was passed sixty years,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Were it for holiness or for dotage<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I can not say, but such a great desire<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had this knight to be a wedded man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That day and night he does all he can<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To discover where he might wedded be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Praying our Lord to grant him that he<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Might once know of that blissful life<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That is between a husband and his wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to live under that holy bond<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With which God first bound man and woman.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "No other life," said he, "is worth a bean,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For wedlock is so easy and so pure,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That in this world it is a paradise."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus said this old knight, who was so wise.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And certainly, as truly as God is king,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To take a wife it is a glorious thing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And especially when a man is old and white-haired;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then is a wife the best part of his treasure.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then should he take a young wife and a fair,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On which he might engender himself an heir,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And lead his life in joy and in pleasure,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whereas these bachelors sing "alas,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When they find any adversity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In love, which is nothing but childish vanity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And truly it is fitting to be thus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That bachelors have often pain and woe;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On brittle ground they build, and insecurity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They find when they expect security.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They live but as a bird or as a beast,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In liberty and under no restraint,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whereas a wedded man in his estate<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lives a blissful and orderly life <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bound under this yoke of marriage.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well may his heart in joy and bliss abound,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For who can be so obedient as a wife?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who is so true, and also so eager <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To care for him, sick and well, as is his mate?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For happiness or woe she will not forsake him;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She is not weary of loving and serving him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though he lie bedridden until he dies.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yet some clerks say it is not so,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of which that Theofrastus is one of those.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What does it matter though Theofrastus wants to lie?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Take no wife," said he, "for managing the household,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As to economize in thy household expenditures.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A true servant does more diligence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To guard thy goods than thine own wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For she will claim half part all her life.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if thou be sick, as God may save me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thy real friends, or a true servant,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Will take care of thee better than she that waits always<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To inherit thy goods and has done so many a day.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if thou take a wife unto thy household<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full easily canst thou be a cuckold."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This opinion, and a hundred things worse,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Writes this man, may God his bones curse!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But take no heed of all such foolishness;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Defy Theofrastus, and listen to me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A wife is God's gift truly;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All other sorts of gifts certainly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such as lands, rents, pasture, or right to use common land,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or personal possessions -- all are gifts of Fortune<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That pass like a shadow upon a wall.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But doubt not, if I shall speak plainly:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A wife will last, and in thy house endure,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well longer than thou will wish, indeed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Marriage is a full great sacrament.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He who has no wife, I consider him ruined;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He lives helpless and all desolate --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I speak of folk in secular life.	<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And hearken why -- I say not this for nothing --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That woman is created for man's help.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The high God, when he had made Adam,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And saw him all alone, stark naked,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God of his great goodness said then,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Let us now make a helper for this man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Like to himself"; and then he made him Eve.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Here can you see, and hereby can you prove,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That wife is man's help and his comfort,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His earthly paradise, and his source of consolation.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So obedient and so virtuous is she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They must necessarily live in unity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One flesh they are, and one flesh, as I guess,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has but one heart, in prosperity and in distress.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A wife! A, Saint Mary, bless me!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How could a man have any adversity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That has a wife? Certainly, I can not say.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The bliss that is betwixt them two<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There can no tongue tell, nor heart think.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If he be poor, she helps him to work;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She keeps his goods, and wastes not a bit;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All that her husband desires, well pleases her;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She says not once "nay," when he says "yea."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Do this," says he; "All ready, sir," says she.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O blissful order of wedlock precious,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou art so merry, and also so virtuous,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And so commended and approved also<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That every man that considers himself worth a leek<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon his bare knees ought all his life<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To thank his God that has sent him a wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else pray to God to send him <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A wife to last unto his life's end.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For then his life is set in security;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He may not be deceived, as I guess,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Providing that he work according to his wife's advice.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then may he boldly bear up his head,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They are so true and therewithal so wise;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which, if thou will act like a wise man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do always as women will advise thee.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, how Jacob, as these clerks tell,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By good counsel of his mother Rebecca,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bound the kid's skin about his neck,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which his father's blessing he won.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo Judith, as the story also can tell,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By wise counsel she God's people kept,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And slew that Holofernes, while he slept.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo Abigail, by good counsel how she<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Saved her husband Nabal when he<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Should have been slain; and look, Esther also<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By good counsel delivered out of woe<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The people of God, and made that same Mordecai<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To be exalted by Ahasuerus.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is no thing superior (in degree of virtue),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As says Seneca, above a humble wife.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Submit to thy wife's tongue, as Cato bids;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She shall command, and thou shalt submit to it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yet she will (seem to) obey by way of courtesy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A wife is keeper of thy household;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well may the sick man bewail and weep,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where there is no wife to keep the house.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I warn thee, if wisely thou wilt act,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Love well thy wife, as Christ loved his church.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If thou lovest thyself, thou lovest thy wife;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No man hates his flesh, but in his life<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He nurtures it, and therefore I bid thee<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cherish thy wife, or thou shalt never prosper.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Husband and wife, however much men may jest or play,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of worldly folk hold the secure way;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They are so knit together no harm can there befall,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And especially upon the wife's side.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which this January, of whom I told,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Considered has, in his old age,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The pleasing life, the virtuous quiet,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That is in honey-sweet marriage,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And for his friends on a day he sent,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To tell them the substance of his intention.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With serious face his tale he has them told.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He said, "Friends, I am white-haired and old,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And almost, God knows, on my grave's brink;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon my soul somewhat must I think.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I have my body foolishly wasted;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Blessed be God that it shall be amended!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For I will be, certainly, a wedded man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that at once in all the haste I can (do it).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto some maid fair and tender of age,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I pray yow, prepare for my marriage<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right away, for I will not delay;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And I will attempt to discover, on my side,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To whom I may be wedded hastily.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But forasmuch as you are more than I,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You shall rather such a thing discover<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than I, and where it would be best to ally myself (marry).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "But one thing warn I you, my friends dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will no old wife have in any way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She shall not pass twenty years, certainly;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Old fish and young flesh would I gladly have.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Better is," said he, "a pike than a pickerel (young pike),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And better than old beef is the tender veal.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I want no woman thirty years of age;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It is but dry bean-stalks and coarse fodder.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also these old widows, God it knows,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They know so much trickery on Wade's boat,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do so much harm, when they please,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That with them should I never live in rest.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For various schools make clever clerks;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A woman of many schools is half a clerk.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But certainly, one can guide a young thing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Just as one can mold warm wax with hands.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Therefore I tell you plainly, in brief,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will no old wife have at all for this reason.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For if it so were that I had such bad luck<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I in her could have no pleasure,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then I should lead my life in adultery<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And go straight to the devil when I die.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor any children should I upon her beget;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet I would rather hounds had eaten me <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than that my heritage should fall<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In a stranger's hand, and this I tell you all.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I am not in my dotage; I know the cause why<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One should wed, and furthermore know I<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There speaks many a man of marriage<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who knows no more of it than my servant boy knows <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which causes man should take a wife.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If he can not live his life chastely,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let him take him a wife with great devotion,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For the sake of lawful procreation<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of children to the honor of God above,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And not only for sexual passion or love;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And so that they should abstain from lechery,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yield their marital debt when it is due;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or so that each of them should help the other<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In distress, as a sister shall the brother,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And live in celibacy full piously.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But sirs, by your leave, that am not I.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For -- God be thanked! -- I dare make boast<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I feel my limbs strong and sufficient<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To do all that is proper to a man;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I know myself best what I can do.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though I be white-haired, I fare as does a tree<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That blossoms before the fruit is grown;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And a blossom-filled tree is neither dry nor dead.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I feel me nowhere white-haired but on my head;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My heart and all my limbs are as green<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As laurel through the year is to be seen.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And since you have heard all my intention,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I pray you to my will you will assent."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Diverse men diversely him told<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of marriage many old examples.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Somme blamed it, some praised it, certainly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But at the last, shortly to say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As every day altercation occurs<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Between friends in disputation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There befell a strife betwixt his two brothers,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of whom that one was called Placebo;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Justinus truly was called that other.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Placebo said, "O January, brother,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full little need had you, my lord so dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To ask counsel of any that is here,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except that you are so full of wisdom<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That it does not please you, for your high prudence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To deviate from the word of Solomon.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This word said he unto us every one:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `Do everything according to good advice,' thus said he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `And then shalt thou not repent.'<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But though Solomon spoke such a word,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My own dear brother and my lord,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As surely as God my soul may bring to rest,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I hold your own counsel is the best.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For, brother mine, of me take this advice:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I have now been a courtier all my life,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And God it knows, though I am unworthy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I have stood in very high degree<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Among lords of very high rank;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet had I never with any of them disagreement.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I never contradicted them, truly;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I know well that my lord knows more than I.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What he says, I consider it unshakably true;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I say the same, or else something similar.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A full great fool is any counselor<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That serves any lord of high honor,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That dares presume, or else think it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That his counsel should surpass his lord's judgment.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nay, lords are no fools, by my faith!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You have yourselves showed here to-day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such high good judgment, so piously and well,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I consent and confirm every bit<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All your words and your opinion.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By God, there is no man in all this town,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor in Italy, that could have spoken better!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Christ considers himself by this counsel very well pleased.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And truly, it is a bold act<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By any man that is advanced in age<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To take a young wife; by my father's kin,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Your heart hangs on a jolly pin (is very merry)!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do now in this matter exactly as you please,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For finally I consider it for the best."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Justinus, that always still sat and listened,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right in this manner he to Placebo answered:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Now, brother mine, be patient, I pray,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since you have spoken, and hear what I say.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Seneca, amongst other words wise,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Says that a man ought very carefully consider<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To whom he gives his land or his moveable possessions.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And since I ought to consider very carefully<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To whom I give my goods away from me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well much more I ought to consider<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To whom I give my body for always.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I warn you well, it is no child's play<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To take a wife without deliberation.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One must inquire -- this is my opinion --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whether she be wise, or sober, or given to drink,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or proud, or else otherwise a shrew,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A scold, or waster of thy goods,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or rich, or poor, or else man-crazy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Although it is so that no man shall find <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Any in this world that is perfect in everything,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No man, nor beast, such as men could imagine;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nevertheless it ought enough suffice<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With any wife, (to learn) if it so were that she had<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; More good personal qualities than her bad vices;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all this requires leisure to find out.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For, God it knows, I have wept many a tear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full privately, since I have had a wife.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Praise whosoever will a wedded man's life,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Certainly I find in it nothing but cost and care<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And duties, of all blisses bare.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yet, God knows, my neighbors about,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And especially many a crowd of women,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Say that I have the most steadfast wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also the meekest one that bears life;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But I know best where my shoe pinches me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You may, for me, do just as you like;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Consider -- you are a man of advanced age --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How that you enter into marriage,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And especially with a young wife and a fair.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By him that made water, earth, and air,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The youngest man that is in all this company<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is busy enough to bring it about<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To have his wife alone. Trust me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You shall not please her fully years three --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is to say, to do her full pleasure.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A wife requires constant attention.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I pray you that you be not displeased."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Well," said this January, "and hast thou spoken?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Straw for thy Seneca, and for thy proverbs!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I would not give a bread basket full of herbs<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For academic talk. Wiser men than thou,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As thou hast heard, assented right now<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To my purpose. Placebo, what say you?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I say it is a cursed man," said he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "That hinders matrimony, certainly."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word they rise immediately,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And are agreed fully that he should<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be wedded when he pleased and where he would.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Exaggerated imagination and constant thought<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From day to day became fixed in the soul <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of January concerning his marriage.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Many a fair shape and many a fair visage<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There passes through his heart night after night,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As if one took a mirror, polished bright,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And set it in a common market-place,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then should he see full many a figure pace<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By his mirror; and in the same manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Did January within his thought imagine<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; About maidens which dwelt nearby him.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He knew not on which he might settle.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For if that one have beauty in her face,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Another stands so in the people's good opinion<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For her seriousness and her goodness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That of the people greatest praise has she;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And some were rich and had a bad reputation.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nevertheless, between earnestness and joking (in every way),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He at the last decided upon one,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And let all others from his heart go,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And chose her by his own authority;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For love is blind always, and can not see.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he was in his bed brought,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He portrayed in his heart and in his thought<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her fresh beauty and her tender age,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her small waist, her arms long and slender,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her wise self-control, her nobility,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her womanly bearing, and her seriousness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he on her had decided,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He thought his choice could not be bettered.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For when he himself had decided,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He thought each other man's wit so bad<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That it would be impossible to reply<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Against his choice; this was his fantasy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His friends sent he to, at his request,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And prayed them to do him that pleasure,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That hastily they would come to him;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He would abridge their labor, one and all.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He needs no more to travel about;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He had decided on whom he would settle.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Placebo came, and also his friends quickly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And first of all he asked them all a favor,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That none of them make any arguments <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Against the purpose which he has taken,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which purpose was pleasing to God, said he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And true ground of his prosperity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He said there was a maiden in the town,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who for beauty had great renown,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Even though she was of low rank;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her youth and her beauty are enough for him .<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which maid, he said, he would have as his wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To lead in ease and holiness his life;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And thanked God that he might have her entirely,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So that no one shall share his bliss.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And prayed them to labor in this need,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And arrange that he fail not to succeed;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For then, he said, his spirit was at ease.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Then there is," said he, "nothing that can displease me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Save one thing sticks in my conscience,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which I will tell in your presence.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I have," said he, "heard said, full long ago,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There can no man have perfect blisses two --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is to say, in earth and also in heaven.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For though he keep him from the seven sins,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also from every branch of that same tree (of sin),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet is there such perfect felicity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And such great ease and pleasure in marriage<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That ever I am frightened now in my old age<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I shall lead now so merry a life,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So pleasing, without woe and strife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I shall have my heaven here in earth.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For since that true heaven is bought so dear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With tribulation and great penance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How should I then, who live in such pleasure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As all wedded men do with her wives,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Come to the bliss where Christ eternally lives?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is my dread, and you, my brethren two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Resolve this problem, I pray."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Justinus, who hated his folly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Answered straight away in his mockery;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And because he would his long tale abridge,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He would cite no authority,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But said, "Sir, providing there be no obstacle<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Other than this, God by his high miracle<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of his mercy may so for you work<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That, before you have your rite of holy church (last sacrament),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You may repent of the wedded man's life,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In which you say there is no woe nor strife.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And else, God forbid that he should not send<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A wedded man grace to repent himself <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well more often than a single man!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And therefore, sir -- the best advice I know --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Despair you not, but have in your memory,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Perhaps she may be your purgatory!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She may be God's instrument and God's whip;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then shall your soul up to heaven skip<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Swifter than does an arrow out of a bow.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I hope to God, hereafter shall you know<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That there is not so great felicity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In marriage, nor never more shall be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That shall keep you from your salvation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Providing that you use, as is proper and reasonable,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The pleasures of your wife moderately,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that you please her not too amorously,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that you keep yourself also from other sin.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My tale is done, for my wit is thin.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be not afraid of this, my brother dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But let us wade out of this matter.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The Wife of Bath, if you have understood her,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of marriage, which we have in hand,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Declared has full well in little space.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now farewell. God have you in his grace."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with this word this Justin and his brother<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have taken their leave, and each of them of other.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For when they saw that it must necessarily be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They worked so, by sly and wise negotiation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she, this maiden who May was called,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As hastily as ever that she might<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shall wedded be unto this January.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I believe it would be too long to delay you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If I told you of every legal document and bond<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By which she was endowed with his land,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or to hear of her rich array.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But finally the day is come<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That to the church both are they went<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To receive the holy sacrament (of marriage).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Forth comes the priest, with stole about his neck,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And commanded her to be like Sarah and Rebecca<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In wisdom and in faithfulness of marriage;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said his prayers, as is the usage,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And makes the sign of the cross over them, and prayed God should them bless,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And made all secure enough with holiness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus are they wedded with solemnity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And at the feast sits he and she<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With other worthy folk upon the dais.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All full of joy and bliss is the palace,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And full of instruments and of foods,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The most delicious of all Italy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before them stood instruments of such sound<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That Orpheus, nor Amphioun of Thebes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Made never such a melody.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At every course then came loud minstrelsy<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That never trumpeted Joab to be heard,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor that Theodomas, yet half so clear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At Thebes when the city was in danger.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bacchus pours them the wine all around,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And Venus laughs upon every person,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For January had become her knight<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And would test his spirit both <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In liberty, and also in marriage;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with her torch in her hand about<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dances before the bride and all the company.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And certainly, I dare right well say this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hymen, that god of wedding is,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Saw never in his life so merry a wedded man.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hold thou thy peace, thou poet Martianus Capella,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who writes for us that same wedding merry<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of her, Philology, and him, Mercury,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of the songs that the Muses sang!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Too small is both thy pen, and also thy tongue,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To describe this marriage.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When tender youth has wedded stooping age,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is such mirth that it can not be written.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Try it yourself; then can you know<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If I lie or not in this matter.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May, that sits with so benign a manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her to behold it seemed an enchantment.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Queen Esther looked never with such an eye<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On Ahasuerus, so meek a look has she.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I can not describe to you all her beauty.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But thus much of her beauty tell I can,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she was like the bright morning of May,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Filled with all beauty and delight.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This January is ravished in a trance<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At every time he looked on her face;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But in his heart he began to menace her <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he that night in arms would her strain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Harder than ever Paris did Helen of Troy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nevertheless yet had he great pity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That that same night he must offend her,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And thought, "Alas! O tender creature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now would God you might well endure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All my desire, it is so sharp and keen!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I am afraid you shall not be able to endure it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But God forbid that I did all my might!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now would God that it were become night,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that the night would last evermore.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I would that all this people were gone."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And finally he takes all possible pains,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As he best could, so far as good manners allowed, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To hasten them from the dinner in subtle manner.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The time came that it was reasonable to rise;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And after that men dance and drink deeply,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And spiced cakes all about the house they passed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And full of joy and bliss is every man --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All but a squire, called Damian,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who carved before the knight full many a day.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He was so ravished on his lady May<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That for the very pain he was nearly crazy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Almost he fainted and swooned where he stood,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So sorely has Venus hurt him with her torch,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As she carried it dancing in her hand;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to his bed he went hastily.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No more of him at this time speak I,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But there I let him weep enough and complain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until fresh May will rue on his pain.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O perilous fire, that in the bedstraw breeds!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O enemy in one's household, that offers his service!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O servant traitor, false domestic servant,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Like to the sly untrue adder in one's bosom,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God protect us all from your acquaintance!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O January, drunk with pleasure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In marriage, see how thy Damian,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thine own squire and thy servant from birth,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Intends to do thee villainy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God grant thee thy foe in thy household to espy!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For in this world is no worse pestilence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than a foe in thy household always in thy presence.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The sun has completed his daily journey;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No longer can its body sojourn<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On the horizon, in that latitude.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Night with its mantle, that is dark and rude,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Did overspread the hemisphere about;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which departed is this cheerful crowd<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From January, with thanks on all sides.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Home to their houses cheerfully they ride,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where they attend to their affairs as they pleased<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when they see their time, go to rest.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Soon after that, this hasty January<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Would go to bed; he would no longer tarry.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He drinks mulled wine, claret, and strong white wine<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With hot spices to increase his desire;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And many a very fine aphrodisiac has he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such as the cursed monk, Dan Constantine,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has written in his book "Concerning Intercourse";<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To eat them all he was not at all averse.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to his private friends thus said he:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "For God's love, as soon as it can be done,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have all this house emptied in courteous manner."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And they have done right as he will command.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Men drink and draw the curtain (dividing the room) straightway.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The bride was brought to bed as still as stone;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when the bed was by the priest blessed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Out of the chamber has every one gone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And January has fast in arms taken<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His fresh May, his paradise, his mate.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He lulls her; he kisses her full often;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With thick bristles of his beard rough,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Like to the skin of a shark, sharp as brier --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For he was all freshly shaved in his fashion --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He rubs her about her tender face,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said thus, "Alas! I must do injury<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To you, my spouse, and you greatly offend<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before the time comes that I will down descend.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nevertheless, consider this," said he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "There is no workman, whosoever he be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That can work both well and hastily;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This will be done at leisure perfectly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It does not matter how long we play;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In true wedlock we two are coupled,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And blessed be the yoke that we are in,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For in our acts we can do no sin.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A man can do no sin with his wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor hurt himself with his own knife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For we have leave by the law to enjoy ourselves."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus labors he until the day dawned;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And then he takes a bit of bread soaked in fine claret,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And upright in his bed then sits he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And after that he sang full loud and clear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And kissed his wife, and acted lecherously.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He was frisky as a colt, full of wantonness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And full of chatter as a spotted magpie.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The slack skin about his neck shakes<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; While he sang, so chants he and croaks.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But God knows what May thought in her heart,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When she saw him sitting up in his shirt,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In his night-cap, and with his lean neck;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She rates his playing not worth a bean.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then said he thus, "My rest will I take;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now day is come, I can no longer remain awake."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And down he laid his head and slept until nine.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And afterwards, when he saw his time,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Up rises January; but fresh May<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Held her chamber until the fourth day,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As is the best usage of wives.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For every labor sometime must have rest,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else long can he not endure;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is to say, no living creature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be it of fish, or bird, or beast, or man.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now will I speak of woeful Damian,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That languishes for love, as you shall hear;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Therefore I speak to him in this manner:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I say, "O innocent Damian, alas!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Answer to my question, in this case.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How shalt thou to thy lady, fresh May,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tell thy woe? She will always say nay.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Also if thou speak, she will thy woe reveal.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God be thy help! I can no better say."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This sick Damian in Venus' fire<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So burns that he dies for desire,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which he put his life at risk.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No longer could he in this way endure,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But secretly a writing set he borrowed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in a letter wrote he all his sorrow,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In the manner of a poetic lament or a song,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto his fair, fresh lady May;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in a purse of silk which hung on his shirt<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He has put it, and laid it at his heart.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The moon, that was at noon that same day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That January has wedded fresh May<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In two degrees of Taurus, was into Cancer glided;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So long has May in her chamber abided,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As custom is unto these nobles all.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A bride shall not eat in the hall<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until four days, or three days at the least,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Are passed; then let her go to feast.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The fourth day completed from noon to noon,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When the high mass was done,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In hall this January and May sit,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As fresh as is the bright summer's day.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And so befell that this good man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Remembered this Damian,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said, "Saint Mary! how can this be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That Damian does not attend on me?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is he always sick, or how can this happen?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His squires, who stood there beside,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Excused him because of his sickness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which prevented him from doing his duties;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No other cause might make him tarry.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I am sorry about that," said this January,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "He is a gentle squire, by my troth!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If he died, it would be a harm and a pity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He is as wise, discreet, and as circumspect<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As any man I know of his rank,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And moreover manly, and also willing to serve,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to be a worthy man right able.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But after dinner, as soon as ever I can,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will myself visit him, and also May,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To do him all the comfort that I can."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And for that word every man blessed him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That of his goodness and his graciousness <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He would so comfort in sickness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His squire, for it was a gentle deed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "My Lady," said this January, "take good heed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At after-dinner you with all your women,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When you have been in chamber out of this hall,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That all you go see this Damian.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cheer him up -- he is a gentle man;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And tell him that I will him visit,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When I have done nothing but rested myself a little;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And hurry yourself, for I will wait<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until you sleep fast by my side."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word he began to him to call<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A squire, that was master of ceremonies of his hall,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And told him certain things, what he wanted.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This fresh May has held straight her way<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With all her women unto Damian.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Down by his bed's side sits she then,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comforting him as graciously as she can.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This Damian, when he saw his opportunity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In a secret way his purse and also his letter,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In which he had written his desire,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has put into her hand, without (doing) more,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Save that he sighs wonderfully deep and sore,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And softly to her right thus said he:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Mercy! And (I ask) that you not discover me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For I am dead if this thing be known."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This purse has she within her bosom hidden<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And went her way; you get no more from me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But unto January come is she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who on his bed's side sits full softly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He takes her, and kisses her full often,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And laid him down to sleep, and that straightway.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She pretended that she must go<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where you know that every person must go by necessity;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when she of this letter has taken heed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She tore it all to pieces at the last,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in the privy softly threw it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who is perplexed now but fair fresh May?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Down by old January she lay,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who slept until the cough has him awaked.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Straightway he prayed her to strip herself all naked;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He would of her, he said, have some pleasure;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He said her clothes got in his way,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she obeys, whether she wants to or not.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But lest that prudish folk be with me wroth,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How he worked, I dare not tell to you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or whether she thought it paradise or hell.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But here I let them work in their way<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until bell for evening prayers rang and they had to arise.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Were it by destiny or by chance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Were it by astronomical influence or by nature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or configuration of the stars, that in such a state<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The heaven stood that time that it fortunate<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was to present a petition concerning Venus' works --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For every thing has time, as say these clerks --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To any woman to get her love,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I can not say; but great God above,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That knows that no act is without cause,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May he judge of all, for I will hold my peace.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But truth is this, how this fresh May<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has taken such impression that day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of pity for this sick Damian<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That from her heart she can not drive<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The thought to comfort him.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Certainly," thought she, "whomever this thing may displease<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I care not, for here I him assure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To love him best of any creature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though he had no more than his shirt."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, pity runs soon in gentle heart!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Here can you see what excellent generosity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In women is, when they carefully deliberate a matter.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some tyrant is, as there be many a one<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who has a heart as hard as any stone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who would have let him die in the place<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well rather than have granted him her grace,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And rejoice in her cruel pride,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And care not to be a homicide.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This gentle May, filled full of pity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In her own hand a letter made she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In which she grants him her true grace.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There lacks nothing but only day and place<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where she might satisfy his desires,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For it shall be right as he will devise.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when she saw her time, upon one day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To visit this Damian goes May,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And craftily this letter down she thrust<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Under his pillow; let him read it if he wishes.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She takes him by the hand and hard him squeezes<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So secretly that no one knew of it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And bade him be all healthy, and forth she went<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To January, when he for her sent.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Up rises Damian the next morning;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All passed was his sickness and his sorrow.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He combs himself, he preens and neatens himself,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He does all that his lady desires and pleases,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also to January he goes as humbly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As ever did a dog trained to hunt with an archer.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He is so pleasant unto every man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (For craft is all, whoever can do it)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That every one is eager to speak good of him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And fully in his lady's favor he stood.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus leave I Damian going about his business,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in my tale forth I will proceed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some clerks maintain that felicity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Consists of delight, and therefore certainly he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This noble January, with all his might,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In a respectable manner, as is suitable to a knight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Arranged for himself to live full voluptuously.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His lodging, his clothing, as suitably<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To his degree was made as is a king's.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Amongst others of his suitable things,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He made a garden, walled all with stone;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So fair a garden know I anywhere none.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For, beyond doubt, I truly suppose<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he who wrote the Romance of the Rose<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Could not the beauty of it well describe;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor Priapus could not be adequate,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though he be god of gardens, to tell<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The beauty of the garden and the well<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That stood under a laurel always green.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Very often he, Pluto, and his queen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Proserpine, and all their fairies,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Amused themselves and made melody<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; About that well, and danced, as men told.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This noble knight, this January the old,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such pleasure has in it to walk and play,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he will no one allow to bear the key<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Save he himself; for of the small gate<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He bore always of silver a latchkey,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With which, when he desired, he unlocked it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he would pay his wife her marital debt<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In summer season, thither would he go,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And May his wife, and no one but those two;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And things which that were not done abed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He in the garden performed and accomplished them.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in this way, many a merry day,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lived this January and fresh May.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But worldly joy can not always endure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To January, nor to any creature.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O sudden chance! O thou Fortune unstable!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Similar to the scorpion so deceitful,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That flatter with thy head when thou wilt sting;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thy tail is death, through thy poisoning.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O brittle joy! O sweet venom deceitful!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O monster, that so subtly can disguise<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thy gifts under appearance of steadfastness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That thou deceivest both high and low (everyone)!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why hast thou January thus deceived,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou who had received him for thy closest friend ?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And now thou hast deprived him of both his eyes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For sorrow of which he desires to die.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Alas, this noble generous January,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Amid his pleasure and his prosperity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is grown blind, and that all suddenly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He weeps and he wails pitifully;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with all this the fire of jealousy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lest that his wife should fall in some folly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So burned his heart that he sincerely wished <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That some man both her and him had slain.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For neither after his death nor in his life<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Would he that she were neither lover nor wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But ever live as widow in clothes black,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Solitary as the turtledove that lost has her mate.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But at the last, after a month or two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His sorrow abated, truth to say;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For when he knew it can not be otherwise,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He patiently accepted his adversity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except that, no doubt, he can not refrain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From being more jealous all the time;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which jealousy was so excessive<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That neither in hall, nor in any other house,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor in any other place, no longer,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He would suffer her to ride or walk,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless he had a hand always on her;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which full often weeps fresh May,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who loves Damian so graciously<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she must either die suddenly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else she must have him as she wishes.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She expects that her heart would burst.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon that other side Damian<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is become the most sorrowful man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That ever was, for neither night nor day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Could he speak one word to fresh May,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Regarding his purpose, of any such matter,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Without January's hearing it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who had a hand upon her always.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nevertheless, by writing to and fro<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And secret signs he knew what she meant,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she knew also the aim of his plan.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O January, what might it thee avail,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though thou could see as far as ships sail?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For it is as good to be deceived when blind<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As to be deceived when a man can see.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, Argus, who had a hundred eyes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For all that ever he could peer or pry,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet was he deceived, and, God knows, so are others<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That confidently suppose indeed that it is not so.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To overlook (trouble) is an advantage, I say no more.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This fresh May, whom I spoke of formerly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In warm wax has made an impression of the latchkey <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That January carried of the small gate,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By which into his garden often he went;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And Damian, who knew all her plan,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The latchkey counterfeited secretly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is no more to say, but hastily<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some wonder by this latchkey shall betide,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which you shall hear, if you will abide.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O noble Ovid, full truth sayest thou, God knows,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What trick is it, though (finding) it be long and painful,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That Love will not find it out in some manner?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By Pyramus and Thisbe can one learn;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though they were kept full long strictly in every way,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They are agreed, whispering through a wall,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where no one could have found such a trick.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But now to purpose: before eight days <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Were passed [of] the month of [June], it happened<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That January has caught so great a desire,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Through incitement of his wife, to enjoy himself<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In his garden, and no one (there) but those two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That in a morning unto his May says he:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Rise up, my wife, my love, my noble lady!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The turtle dove's voice is heard, my dove sweet;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The winter is gone with all his rains wet.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Come forth now, with thy dove-like eyes!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How fairer are thy breasts than is wine!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The garden is enclosed all about;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Come forth, my white spouse! Beyond doubt<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou hast me wounded in my heart, O wife!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No blemish on thee knew I all my life.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Come forth, and let us take our pleasure;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I chose thee for my wife and my comfort."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such old ignorant words used he.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To Damian a sign made she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he should go before with his latchkey.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This Damian then has opened the gate,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in he hurried, and that in such a way<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That no one could either see or hear it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And quickly he sits still under a bush.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This January, as blind as is a stone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With May in his hand, and no one else,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Into his fresh garden has gone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And closed the gate quickly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Now wife," said he, "here is no one but thou and I,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That art the creature that I best love.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For by that Lord that sits in heaven above,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I had rather die on a knife<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than thee offend, true dear wife!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For God's sake, think how I thee chose,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not for any greed, doubtless,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But only for the love I had to thee.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And although I be old and can not see,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be to me true, and I will tell you why.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Three things, certainly, shall you win thereby:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; First, love of Christ, and to yourself honor,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all my heritage, town and tower;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I give it to you, draw up deeds as you please;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This shall be done to-morrow before sun goes to rest,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As God my soul may bring in bliss.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I pray you first, to seal the contract, you kiss me;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And though that I be jealous, blame me not.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You are so deeply imprinted in my thought<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That, when I consider your beauty<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in addition to that the unsuitable old age of me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I can not, certainly, though I should die,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bear to be out of your company<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For true love; this is without doubt.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now kiss me, wife, and let us roam about."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This fresh May, when she these words heard,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Graciously to January answered,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But first of all she began to weep.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I have," said she, "a soul to keep<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As well as you, and also my honor,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of my wifehood that same tender flower,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which I have entrusted in your hand,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When the priest to you my body bound;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wherefore I will answer in this manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By the leave of you, my lord so dear:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I pray to God that never dawn the day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I do not die, as foully as woman can,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If ever I do unto my kin that shame,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else I damage so my name,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I be false; and if I commit that offense,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have me stripped and put me in a sack,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in the next river have me drowned.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I am a gentle woman and no wench.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why speak you thus? But men are always untrue,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And women have reproof of you always.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You have no other manner of behavior, I believe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except to speak to us of distrust and reproof."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word she saw where Damian<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sat in the bush, and she began to cough,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with her finger signs made she<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That Damian should climb upon a tree<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That loaded was with fruit, and up he went.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For truly he knew all her plan,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And every sign that she could make,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well better than January, her own mate,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For in a letter she had told him all<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of this matter, what he must do.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And thus I let him sit upon the pear tree,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And January and May roaming merrily.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bright was the day, and blue the firmament;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phoebus has his streams of gold down sent<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To gladden every flower with his warmness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He was that time in Gemini, as I guess,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But little from his declination<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of Cancer, Jove's exaltation.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And it so befell, that bright morning-tide<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That in that garden, in the further side,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pluto, that is king of Fairyland,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And many a lady in his company,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Following his wife, the queen Proserpine,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whom he kidnapped out of Etna<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; While she gathered flowers in the mead --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In Claudian you can read the stories,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How in his grisly chariot he fetched her --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This king of Fairyland then set himself down<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon a bench made of pieces of turf, fresh and green,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And right away thus said he to his queen:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "My wife," said he, "there can no one say nay;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The experience so proves every day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The treasons which women do to man.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ten hundred thousand [tales] I can tell<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (That are) famous concerning your faithlessness and frailty.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O Solomon, wise, and richest of wealth,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Filled with wisdom and with worldly glory,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full worthy are thy words to (keep in) memory<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To every one that wit and reason knows.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus praises he yet the goodness of man:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `Amongst a thousand men yet found I one,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But of all women found I none.'<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Thus says the king that knows your wickedness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And Jesus, son of Sirak, as I suppose,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Speaks reverence of you but seldom.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A wild fir and corrupt pestilence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall upon your bodies yet to-night!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; See you not this honorable knight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because, alas, that he is blind and old,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His own man shall make him cuckold.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, where he sits, the lecher, in the tree!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now will I grant, of my majesty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto this old, blind, worthy knight<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he shall have again his eyes' sight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When his wife would do him villainy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then shall he know all her harlotry,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In reproof of both her and many others."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "You shall?" said Proserpine, "will you so?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now by my mother's father's soul I swear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I shall give her sufficient answer,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all women afterwards, for her sake,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That, though they be in any guilt taken,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With bold face they shall themselves excuse,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And bear them down who would them accuse.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For lack of answer none of them shall die.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Although a man had seen a thing with both his eyes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet shall we women face it out boldly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And weep, and swear, and chide deceitfully,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So that you men shall be as ignorant as geese.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "What do I care for your authorities?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I know well that this Jew, this Solomon,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Found of us women many a fool.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But though he found no good woman,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet many another man has there found <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Women full true, full good, and virtuous.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Witness on them that dwell in Christ's house (heaven);<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With martyrdom they proved their constancy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The Roman histories also remind us<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of many a genuine, true wife also.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But, sir, be not angry, even though it be so,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though he said he found no good woman,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I pray you take the meaning of the man;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He meant thus, that in perfect goodness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is no one but God, neither man nor woman.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Ah! by him who is the only true God,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why make you so much of Solomon?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why though he made a temple, God's house?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why though he was rich and glorious?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So made he also a temple of false gods.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How might he do a thing that more forbidden is?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By God, however approvingly you gloss over his name,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He was a lecher and an idolater,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in his old age he true God forsook;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if God had not, as says the book,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Spared him for his father's sake, he should<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have lost his reign sooner than he would have wanted.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I reckon all the villainy<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That you of women write not worth a butterfly!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I am a woman, I must necessarily speak,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else swell until my heart breaks.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For since he said that we are chatterers,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As ever whole I may enjoy my hair (remain alive),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I shall not cease, for any courtesy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To speak harm of him that would do us dishonor."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "My Lady," said this Pluto, "be no longer angry;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I give it up! But since I swore my oath<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I would grant him his sight again,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My word shall stand, I warn you certainly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I am a king; it is not proper for me to lie."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And I," said she, "a queen of Fairy!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her answer shall she have, I declare.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let us have no more words concerning this;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For truly, I will no longer contradict you."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now let us turn again to January,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That in the garden with his fair May<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sings full merrier than the parrot,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "You love I best, and shall, and none other."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So long about the garden paths is he gone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until he was come in front of that same pear tree<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where this Damian sits full merry<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On high among the fresh leaves green.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This fresh May, who is so bright and sheen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Began to sigh, and said, "Alas, my side!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now sire," said she, "for whatever may happen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I must have some of the pears that I see,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or I must die, so sore I long<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To eat some of the small green pears.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Help, for her love that is of heaven queen!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I tell you well, a woman in my condition<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May have for fruit so great an appetite<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she may die but she have some of it."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Alas," said he, "that I do not have here a servant boy<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That could climb! Alas, alas," said he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "For I am blind!" "Yea, sir, no matter," said she;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "But would you grant, for God's sake,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The pear tree within your arms to take,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For well I know that you mistrust me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then should I climb well enough," said she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "If I my foot might set upon your back."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Certainly," said he, "there shall be no lack,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Even if) I might you help with my heart's blood."	<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He stoops down, and on his back she stood,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And caught her by a branch, and up she goes --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I can not use circumlocutions, I am an unlearned man --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And suddenly at once this Damian<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pulled up the smock, and in he thrust.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when Pluto saw this great wrong,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To January he gave again his sight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And made him see as well as he ever could.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he had recovered his sight again,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There was never man of anything so happy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But on his wife his thought was evermore.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Up to the tree he cast his eyes two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And saw that Damian had treated his wife <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In such a manner it can not be expressed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless I would speak crudely;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And up he gave a roaring and a cry,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As does the mother when the child shall die:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Out! Help! Alas! Help!" he began to cry,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "O brazen crude lady, what dost thou?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she answered, "Sir, what ails you?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have patience and reason in your mind.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I have helped you with both your eyes blind.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon peril of my soul, I shall not lie,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As I was taught, to heal with your eyes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was no thing better, to make you to see,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than to struggle with a man upon a tree.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God knows, I did it in full good intent."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Struggle?" said he, "Yea, indeed in it went!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God give you both a shameful death to die!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He screwed thee; I saw it with my eyes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And else may I be hanged by the neck!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Then is," said she, "my medicine false;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For certainly, if you could see,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You would not say these words unto me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You have some glimpse, and no perfect sight."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I see," said he, "as well as ever I could,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thanked be God! With both my eyes two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And by my troth, it seemed to me he did thee so."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "You are dazed, dazed, good sir," said she;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "This thanks have I because I have made you see.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Alas," said she, "that ever I was so kind!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Now, lady," said he, "let all pass out of mind.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Come down, my dear, and if I have misspoken,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So God help me, I am very sorry.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But, by my father's soul, I thought to have seen<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How this Damian had by thee laid,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And thy smock had lain upon his breast."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Yea, sir," said she, "you may think as you please.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But, sir, a man that wakes out of his sleep,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He can not suddenly well take heed<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of a thing, nor see it perfectly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until he be fully awakened.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right so a man that long has blind been,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Can not suddenly so well see,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; First when his sight is newly come again,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As he that has a day or two been able to see.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until your sight be settled a while<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There may full many a sight deceive you.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beware, I pray you, for by heaven's king,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full many a man supposes to see a thing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And it is entirely different than it seems.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He that misunderstands, he misjudges."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word she leaped down from the tree.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This January, who is glad but he?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He kisses her and embraces her full often,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And on her womb he strokes her full softly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to his palace he has her led home.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now, good men, I pray you to be glad.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus ends here my tale of January;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God bless us, and his mother Saint Mary!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Ah! God's mercy!" said our Host then,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Now such a wife I pray God keep me from!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, what tricks and craftiness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Are in women! For always as busy as bees<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Are they, us innocent men to deceive,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And from the truth ever will they deviate;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By this Merchant's tale it is well proven.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But doubtless, as true as any steel<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I have a wife, though that she poor be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But of her tongue, a blabbing shrew is she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yet she has a heap of other vices;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thereof no matter! Let all such things go by.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But know you what? In secret be it said,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I sorely rue that I am unto her tied.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For if I should reckon every vice<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which she has, indeed I would be too foolish.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And the cause why? It should reported be<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And told to her by some of this company --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By whom, it needs not to declare,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since women know how to display such wares;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also my wit suffices not concerning this<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To tell all; therefore my tale is done."<BR>
+"Weeping and wailing, grief and other sorrow
+I know enough, on evenings and mornings,"
+Said the Merchant, "and so do many others 
+Who are wedded. I believe that it is so,
+For well I know it fares so with me.
+I have a wife, the worst that can be;
+For though the fiend were married to her,
+She would outmatch him, I dare well swear.
+Why should I tell you in detail
+Her high malice? She is a shrew in every way.
+There is a long and large difference
+Between Griselda's great patience
+And the extreme cruelty of my wife 
+Were I released (from marriage), so may I may prosper,
+I would never again come in the snare.
+We wedded men live in sorrow and care.
+Try it whoso will, and he shall find
+That I say truth, by Saint Thomas of India,
+As for the greater part (majority) -- I say not all.
+God prevent that it should so happen!
+"A, good sir Host, I have been wedded 
+These two months, and no more, by God;
+And yet, I believe, he who all his life
+Wifeless has been, though one would him stab
+Unto the heart, could not in any way
+Tell so much sorrow as I now here
+Could tell of my wife's cursedness!"
+"Now," said our Host, "Merchant, as God may you bless,
+Since you know so much of that art
+Full heartily I pray you tell us part."
+"Gladly," said he, "but of my own sorrow,
+For sorry heart, I can tell no more."
+Once there was dwelling in Lombardy
+A worthy knight, who was born in Pavia,
+In which he lived in great prosperity;
+And sixty years a wifeless man was he,
+And followed always his bodily desire
+On women, where was his appetite,
+As do these fools that are secular.
+And when he was passed sixty years,
+Were it for holiness or for dotage
+I can not say, but such a great desire
+Had this knight to be a wedded man
+That day and night he does all he can
+To discover where he might wedded be,
+Praying our Lord to grant him that he
+Might once know of that blissful life
+That is between a husband and his wife,
+And to live under that holy bond
+With which God first bound man and woman.
+"No other life," said he, "is worth a bean,
+For wedlock is so easy and so pure,
+That in this world it is a paradise."
+Thus said this old knight, who was so wise.
+And certainly, as truly as God is king,
+To take a wife it is a glorious thing,
+And especially when a man is old and white-haired;
+Then is a wife the best part of his treasure.
+Then should he take a young wife and a fair,
+On which he might engender himself an heir,
+And lead his life in joy and in pleasure,
+Whereas these bachelors sing "alas,"
+When they find any adversity
+In love, which is nothing but childish vanity.
+And truly it is fitting to be thus,
+That bachelors have often pain and woe;
+On brittle ground they build, and insecurity
+They find when they expect security.
+They live but as a bird or as a beast,
+In liberty and under no restraint,
+Whereas a wedded man in his estate
+Lives a blissful and orderly life 
+Bound under this yoke of marriage.
+Well may his heart in joy and bliss abound,
+For who can be so obedient as a wife?
+Who is so true, and also so eager 
+To care for him, sick and well, as is his mate?
+For happiness or woe she will not forsake him;
+She is not weary of loving and serving him,
+Though he lie bedridden until he dies.
+And yet some clerks say it is not so,
+Of which that Theofrastus is one of those.
+What does it matter though Theofrastus wants to lie?
+"Take no wife," said he, "for managing the household,
+As to economize in thy household expenditures.
+A true servant does more diligence
+To guard thy goods than thine own wife,
+For she will claim half part all her life.
+And if thou be sick, as God may save me,
+Thy real friends, or a true servant,
+Will take care of thee better than she that waits always
+To inherit thy goods and has done so many a day.
+And if thou take a wife unto thy household
+Full easily canst thou be a cuckold."
+This opinion, and a hundred things worse,
+Writes this man, may God his bones curse!
+But take no heed of all such foolishness;
+Defy Theofrastus, and listen to me.
+A wife is God's gift truly;
+All other sorts of gifts certainly,
+Such as lands, rents, pasture, or right to use common land,
+Or personal possessions -- all are gifts of Fortune
+That pass like a shadow upon a wall.
+But doubt not, if I shall speak plainly:
+A wife will last, and in thy house endure,
+Well longer than thou will wish, indeed.
+Marriage is a full great sacrament.
+He who has no wife, I consider him ruined;
+He lives helpless and all desolate --
+I speak of folk in secular life.
+And hearken why -- I say not this for nothing --
+That woman is created for man's help.
+The high God, when he had made Adam,
+And saw him all alone, stark naked,
+God of his great goodness said then,
+"Let us now make a helper for this man
+Like to himself"; and then he made him Eve.
+Here can you see, and hereby can you prove,
+That wife is man's help and his comfort,
+His earthly paradise, and his source of consolation.
+So obedient and so virtuous is she,
+They must necessarily live in unity.
+One flesh they are, and one flesh, as I guess,
+Has but one heart, in prosperity and in distress.
+A wife! A, Saint Mary, bless me!
+How could a man have any adversity
+That has a wife? Certainly, I can not say.
+The bliss that is betwixt them two
+There can no tongue tell, nor heart think.
+If he be poor, she helps him to work;
+She keeps his goods, and wastes not a bit;
+All that her husband desires, well pleases her;
+She says not once "nay," when he says "yea."
+"Do this," says he; "All ready, sir," says she.
+O blissful order of wedlock precious,
+Thou art so merry, and also so virtuous,
+And so commended and approved also
+That every man that considers himself worth a leek
+Upon his bare knees ought all his life
+To thank his God that has sent him a wife,
+Or else pray to God to send him 
+A wife to last unto his life's end.
+For then his life is set in security;
+He may not be deceived, as I guess,
+Providing that he work according to his wife's advice.
+Then may he boldly bear up his head,
+They are so true and therewithal so wise;
+For which, if thou will act like a wise man,
+Do always as women will advise thee.
+Lo, how Jacob, as these clerks tell,
+By good counsel of his mother Rebecca,
+Bound the kid's skin about his neck,
+For which his father's blessing he won.
+Lo Judith, as the story also can tell,
+By wise counsel she God's people kept,
+And slew that Holofernes, while he slept.
+Lo Abigail, by good counsel how she
+Saved her husband Nabal when he
+Should have been slain; and look, Esther also
+By good counsel delivered out of woe
+The people of God, and made that same Mordecai
+To be exalted by Ahasuerus.
+There is no thing superior (in degree of virtue),
+As says Seneca, above a humble wife.
+Submit to thy wife's tongue, as Cato bids;
+She shall command, and thou shalt submit to it,
+And yet she will (seem to) obey by way of courtesy.
+A wife is keeper of thy household;
+Well may the sick man bewail and weep,
+Where there is no wife to keep the house.
+I warn thee, if wisely thou wilt act,
+Love well thy wife, as Christ loved his church.
+If thou lovest thyself, thou lovest thy wife;
+No man hates his flesh, but in his life
+He nurtures it, and therefore I bid thee
+Cherish thy wife, or thou shalt never prosper.
+Husband and wife, however much men may jest or play,
+Of worldly folk hold the secure way;
+They are so knit together no harm can there befall,
+And especially upon the wife's side.
+For which this January, of whom I told,
+Considered has, in his old age,
+The pleasing life, the virtuous quiet,
+That is in honey-sweet marriage,
+And for his friends on a day he sent,
+To tell them the substance of his intention.
+With serious face his tale he has them told.
+He said, "Friends, I am white-haired and old,
+And almost, God knows, on my grave's brink;
+Upon my soul somewhat must I think.
+I have my body foolishly wasted;
+Blessed be God that it shall be amended!
+For I will be, certainly, a wedded man,
+And that at once in all the haste I can (do it).
+Unto some maid fair and tender of age,
+I pray yow, prepare for my marriage
+Right away, for I will not delay;
+And I will attempt to discover, on my side,
+To whom I may be wedded hastily.
+But forasmuch as you are more than I,
+You shall rather such a thing discover
+Than I, and where it would be best to ally myself (marry).
+"But one thing warn I you, my friends dear,
+I will no old wife have in any way.
+She shall not pass twenty years, certainly;
+Old fish and young flesh would I gladly have.
+Better is," said he, "a pike than a pickerel (young pike),
+And better than old beef is the tender veal.
+I want no woman thirty years of age;
+It is but dry bean-stalks and coarse fodder.
+And also these old widows, God it knows,
+They know so much trickery on Wade's boat,
+Do so much harm, when they please,
+That with them should I never live in rest.
+For various schools make clever clerks;
+A woman of many schools is half a clerk.
+But certainly, one can guide a young thing,
+Just as one can mold warm wax with hands.
+Therefore I tell you plainly, in brief,
+I will no old wife have at all for this reason.
+For if it so were that I had such bad luck
+That I in her could have no pleasure,
+Then I should lead my life in adultery
+And go straight to the devil when I die.
+Nor any children should I upon her beget;
+Yet I would rather hounds had eaten me 
+Than that my heritage should fall
+In a stranger's hand, and this I tell you all.
+I am not in my dotage; I know the cause why
+One should wed, and furthermore know I
+There speaks many a man of marriage
+Who knows no more of it than my servant boy knows 
+For which causes man should take a wife.
+If he can not live his life chastely,
+Let him take him a wife with great devotion,
+For the sake of lawful procreation
+Of children to the honor of God above,
+And not only for sexual passion or love;
+And so that they should abstain from lechery,
+And yield their marital debt when it is due;
+Or so that each of them should help the other
+In distress, as a sister shall the brother,
+And live in celibacy full piously.
+But sirs, by your leave, that am not I.
+For -- God be thanked! -- I dare make boast
+I feel my limbs strong and sufficient
+To do all that is proper to a man;
+I know myself best what I can do.
+Though I be white-haired, I fare as does a tree
+That blossoms before the fruit is grown;
+And a blossom-filled tree is neither dry nor dead.
+I feel me nowhere white-haired but on my head;
+My heart and all my limbs are as green
+As laurel through the year is to be seen.
+And since you have heard all my intention,
+I pray you to my will you will assent."
+Diverse men diversely him told
+Of marriage many old examples.
+Somme blamed it, some praised it, certainly,
+But at the last, shortly to say,
+As every day altercation occurs
+Between friends in disputation,
+There befell a strife betwixt his two brothers,
+Of whom that one was called Placebo;
+Justinus truly was called that other.
+Placebo said, "O January, brother,
+Full little need had you, my lord so dear,
+To ask counsel of any that is here,
+Except that you are so full of wisdom
+That it does not please you, for your high prudence,
+To deviate from the word of Solomon.
+This word said he unto us every one:
+`Do everything according to good advice,' thus said he,
+`And then shalt thou not repent.'
+But though Solomon spoke such a word,
+My own dear brother and my lord,
+As surely as God my soul may bring to rest,
+I hold your own counsel is the best.
+For, brother mine, of me take this advice:
+I have now been a courtier all my life,
+And God it knows, though I am unworthy,
+I have stood in very high degree
+Among lords of very high rank;
+Yet had I never with any of them disagreement.
+I never contradicted them, truly;
+I know well that my lord knows more than I.
+What he says, I consider it unshakably true;
+I say the same, or else something similar.
+A full great fool is any counselor
+That serves any lord of high honor,
+That dares presume, or else think it,
+That his counsel should surpass his lord's judgment.
+Nay, lords are no fools, by my faith!
+You have yourselves showed here to-day
+Such high good judgment, so piously and well,
+That I consent and confirm every bit
+All your words and your opinion.
+By God, there is no man in all this town,
+Nor in Italy, that could have spoken better!
+Christ considers himself by this counsel very well pleased.
+And truly, it is a bold act
+By any man that is advanced in age
+To take a young wife; by my father's kin,
+Your heart hangs on a jolly pin (is very merry)!
+Do now in this matter exactly as you please,
+For finally I consider it for the best."
+Justinus, that always still sat and listened,
+Right in this manner he to Placebo answered:
+"Now, brother mine, be patient, I pray,
+Since you have spoken, and hear what I say.
+Seneca, amongst other words wise,
+Says that a man ought very carefully consider
+To whom he gives his land or his moveable possessions.
+And since I ought to consider very carefully
+To whom I give my goods away from me,
+Well much more I ought to consider
+To whom I give my body for always.
+I warn you well, it is no child's play
+To take a wife without deliberation.
+One must inquire -- this is my opinion --
+Whether she be wise, or sober, or given to drink,
+Or proud, or else otherwise a shrew,
+A scold, or waster of thy goods,
+Or rich, or poor, or else man-crazy.
+Although it is so that no man shall find 
+Any in this world that is perfect in everything,
+No man, nor beast, such as men could imagine;
+But nevertheless it ought enough suffice
+With any wife, (to learn) if it so were that she had
+More good personal qualities than her bad vices;
+And all this requires leisure to find out.
+For, God it knows, I have wept many a tear
+Full privately, since I have had a wife.
+Praise whosoever will a wedded man's life,
+Certainly I find in it nothing but cost and care
+And duties, of all blisses bare.
+And yet, God knows, my neighbors about,
+And especially many a crowd of women,
+Say that I have the most steadfast wife,
+And also the meekest one that bears life;
+But I know best where my shoe pinches me.
+You may, for me, do just as you like;
+Consider -- you are a man of advanced age --
+How that you enter into marriage,
+And especially with a young wife and a fair.
+By him that made water, earth, and air,
+The youngest man that is in all this company
+Is busy enough to bring it about
+To have his wife alone. Trust me,
+You shall not please her fully years three --
+This is to say, to do her full pleasure.
+A wife requires constant attention.
+I pray you that you be not displeased."
+"Well," said this January, "and hast thou spoken?
+Straw for thy Seneca, and for thy proverbs!
+I would not give a bread basket full of herbs
+For academic talk. Wiser men than thou,
+As thou hast heard, assented right now
+To my purpose. Placebo, what say you?"
+"I say it is a cursed man," said he,
+"That hinders matrimony, certainly."
+And with that word they rise immediately,
+And are agreed fully that he should
+Be wedded when he pleased and where he would.
+Exaggerated imagination and constant thought
+From day to day became fixed in the soul 
+Of January concerning his marriage.
+Many a fair shape and many a fair visage
+There passes through his heart night after night,
+As if one took a mirror, polished bright,
+And set it in a common market-place,
+Then should he see full many a figure pace
+By his mirror; and in the same manner
+Did January within his thought imagine
+About maidens which dwelt nearby him.
+He knew not on which he might settle.
+For if that one have beauty in her face,
+Another stands so in the people's good opinion
+For her seriousness and her goodness
+That of the people greatest praise has she;
+And some were rich and had a bad reputation.
+But nevertheless, between earnestness and joking (in every way),
+He at the last decided upon one,
+And let all others from his heart go,
+And chose her by his own authority;
+For love is blind always, and can not see.
+And when he was in his bed brought,
+He portrayed in his heart and in his thought
+Her fresh beauty and her tender age,
+Her small waist, her arms long and slender,
+Her wise self-control, her nobility,
+Her womanly bearing, and her seriousness.
+And when he on her had decided,
+He thought his choice could not be bettered.
+For when he himself had decided,
+He thought each other man's wit so bad
+That it would be impossible to reply
+Against his choice; this was his fantasy.
+His friends sent he to, at his request,
+And prayed them to do him that pleasure,
+That hastily they would come to him;
+He would abridge their labor, one and all.
+He needs no more to travel about;
+He had decided on whom he would settle.
+Placebo came, and also his friends quickly,
+And first of all he asked them all a favor,
+That none of them make any arguments 
+Against the purpose which he has taken,
+Which purpose was pleasing to God, said he,
+And true ground of his prosperity.
+He said there was a maiden in the town,
+Who for beauty had great renown,
+Even though she was of low rank;
+Her youth and her beauty are enough for him .
+Which maid, he said, he would have as his wife,
+To lead in ease and holiness his life;
+And thanked God that he might have her entirely,
+So that no one shall share his bliss.
+And prayed them to labor in this need,
+And arrange that he fail not to succeed;
+For then, he said, his spirit was at ease.
+"Then there is," said he, "nothing that can displease me,
+Save one thing sticks in my conscience,
+Which I will tell in your presence.
+"I have," said he, "heard said, full long ago,
+There can no man have perfect blisses two --
+This is to say, in earth and also in heaven.
+For though he keep him from the seven sins,
+And also from every branch of that same tree (of sin),
+Yet is there such perfect felicity
+And such great ease and pleasure in marriage
+That ever I am frightened now in my old age
+That I shall lead now so merry a life,
+So pleasing, without woe and strife,
+That I shall have my heaven here in earth.
+For since that true heaven is bought so dear
+With tribulation and great penance,
+How should I then, who live in such pleasure
+As all wedded men do with her wives,
+Come to the bliss where Christ eternally lives?
+This is my dread, and you, my brethren two,
+Resolve this problem, I pray."
+Justinus, who hated his folly,
+Answered straight away in his mockery;
+And because he would his long tale abridge,
+He would cite no authority,
+But said, "Sir, providing there be no obstacle
+Other than this, God by his high miracle
+And of his mercy may so for you work
+That, before you have your rite of holy church (last sacrament),
+You may repent of the wedded man's life,
+In which you say there is no woe nor strife.
+And else, God forbid that he should not send
+A wedded man grace to repent himself 
+Well more often than a single man!
+And therefore, sir -- the best advice I know --
+Despair you not, but have in your memory,
+Perhaps she may be your purgatory!
+She may be God's instrument and God's whip;
+Then shall your soul up to heaven skip
+Swifter than does an arrow out of a bow.
+I hope to God, hereafter shall you know
+That there is not so great felicity
+In marriage, nor never more shall be,
+That shall keep you from your salvation,
+Providing that you use, as is proper and reasonable,
+The pleasures of your wife moderately,
+And that you please her not too amorously,
+And that you keep yourself also from other sin.
+My tale is done, for my wit is thin.
+Be not afraid of this, my brother dear,
+But let us wade out of this matter.
+The Wife of Bath, if you have understood her,
+Of marriage, which we have in hand,
+Declared has full well in little space.
+Now farewell. God have you in his grace."
+And with this word this Justin and his brother
+Have taken their leave, and each of them of other.
+For when they saw that it must necessarily be,
+They worked so, by sly and wise negotiation,
+That she, this maiden who May was called,
+As hastily as ever that she might
+Shall wedded be unto this January.
+I believe it would be too long to delay you,
+If I told you of every legal document and bond
+By which she was endowed with his land,
+Or to hear of her rich array.
+But finally the day is come
+That to the church both are they went
+To receive the holy sacrament (of marriage).
+Forth comes the priest, with stole about his neck,
+And commanded her to be like Sarah and Rebecca
+In wisdom and in faithfulness of marriage;
+And said his prayers, as is the usage,
+And makes the sign of the cross over them, and prayed God should them bless,
+And made all secure enough with holiness.
+Thus are they wedded with solemnity,
+And at the feast sits he and she
+With other worthy folk upon the dais.
+All full of joy and bliss is the palace,
+And full of instruments and of foods,
+The most delicious of all Italy.
+Before them stood instruments of such sound
+That Orpheus, nor Amphioun of Thebes,
+Made never such a melody.
+At every course then came loud minstrelsy
+That never trumpeted Joab to be heard,
+Nor that Theodomas, yet half so clear
+At Thebes when the city was in danger.
+Bacchus pours them the wine all around,
+And Venus laughs upon every person,
+For January had become her knight
+And would test his spirit both 
+In liberty, and also in marriage;
+And with her torch in her hand about
+Dances before the bride and all the company.
+And certainly, I dare right well say this,
+Hymen, that god of wedding is,
+Saw never in his life so merry a wedded man.
+Hold thou thy peace, thou poet Martianus Capella,
+Who writes for us that same wedding merry
+Of her, Philology, and him, Mercury,
+And of the songs that the Muses sang!
+Too small is both thy pen, and also thy tongue,
+To describe this marriage.
+When tender youth has wedded stooping age,
+There is such mirth that it can not be written.
+Try it yourself; then can you know
+If I lie or not in this matter.
+May, that sits with so benign a manner,
+Her to behold it seemed an enchantment.
+Queen Esther looked never with such an eye
+On Ahasuerus, so meek a look has she.
+I can not describe to you all her beauty.
+But thus much of her beauty tell I can,
+That she was like the bright morning of May,
+Filled with all beauty and delight.
+This January is ravished in a trance
+At every time he looked on her face;
+But in his heart he began to menace her 
+That he that night in arms would her strain
+Harder than ever Paris did Helen of Troy.
+But nevertheless yet had he great pity
+That that same night he must offend her,
+And thought, "Alas! O tender creature,
+Now would God you might well endure
+All my desire, it is so sharp and keen!
+I am afraid you shall not be able to endure it.
+But God forbid that I did all my might!
+Now would God that it were become night,
+And that the night would last evermore.
+I would that all this people were gone."
+And finally he takes all possible pains,
+As he best could, so far as good manners allowed, 
+To hasten them from the dinner in subtle manner.
+The time came that it was reasonable to rise;
+And after that men dance and drink deeply,
+And spiced cakes all about the house they passed,
+And full of joy and bliss is every man --
+All but a squire, called Damian,
+Who carved before the knight full many a day.
+He was so ravished on his lady May
+That for the very pain he was nearly crazy.
+Almost he fainted and swooned where he stood,
+So sorely has Venus hurt him with her torch,
+As she carried it dancing in her hand;
+And to his bed he went hastily.
+No more of him at this time speak I,
+But there I let him weep enough and complain
+Until fresh May will rue on his pain.
+O perilous fire, that in the bedstraw breeds!
+O enemy in one's household, that offers his service!
+O servant traitor, false domestic servant,
+Like to the sly untrue adder in one's bosom,
+God protect us all from your acquaintance!
+O January, drunk with pleasure
+In marriage, see how thy Damian,
+Thine own squire and thy servant from birth,
+Intends to do thee villainy.
+God grant thee thy foe in thy household to espy!
+For in this world is no worse pestilence
+Than a foe in thy household always in thy presence.
+The sun has completed his daily journey;
+No longer can its body sojourn
+On the horizon, in that latitude.
+Night with its mantle, that is dark and rude,
+Did overspread the hemisphere about;
+For which departed is this cheerful crowd
+From January, with thanks on all sides.
+Home to their houses cheerfully they ride,
+Where they attend to their affairs as they pleased
+And when they see their time, go to rest.
+Soon after that, this hasty January
+Would go to bed; he would no longer tarry.
+He drinks mulled wine, claret, and strong white wine
+With hot spices to increase his desire;
+And many a very fine aphrodisiac has he,
+Such as the cursed monk, Dan Constantine,
+Has written in his book "Concerning Intercourse";
+To eat them all he was not at all averse.
+And to his private friends thus said he:
+"For God's love, as soon as it can be done,
+Have all this house emptied in courteous manner."
+And they have done right as he will command.
+Men drink and draw the curtain (dividing the room) straightway.
+The bride was brought to bed as still as stone;
+And when the bed was by the priest blessed,
+Out of the chamber has every one gone,
+And January has fast in arms taken
+His fresh May, his paradise, his mate.
+He lulls her; he kisses her full often;
+With thick bristles of his beard rough,
+Like to the skin of a shark, sharp as brier --
+For he was all freshly shaved in his fashion --
+He rubs her about her tender face,
+And said thus, "Alas! I must do injury
+To you, my spouse, and you greatly offend
+Before the time comes that I will down descend.
+But nevertheless, consider this," said he,
+"There is no workman, whosoever he be,
+That can work both well and hastily;
+This will be done at leisure perfectly.
+It does not matter how long we play;
+In true wedlock we two are coupled,
+And blessed be the yoke that we are in,
+For in our acts we can do no sin.
+A man can do no sin with his wife,
+Nor hurt himself with his own knife,
+For we have leave by the law to enjoy ourselves."
+Thus labors he until the day dawned;
+And then he takes a bit of bread soaked in fine claret,
+And upright in his bed then sits he,
+And after that he sang full loud and clear,
+And kissed his wife, and acted lecherously.
+He was frisky as a colt, full of wantonness,
+And full of chatter as a spotted magpie.
+The slack skin about his neck shakes
+While he sang, so chants he and croaks.
+But God knows what May thought in her heart,
+When she saw him sitting up in his shirt,
+In his night-cap, and with his lean neck;
+She rates his playing not worth a bean.
+Then said he thus, "My rest will I take;
+Now day is come, I can no longer remain awake."
+And down he laid his head and slept until nine.
+And afterwards, when he saw his time,
+Up rises January; but fresh May
+Held her chamber until the fourth day,
+As is the best usage of wives.
+For every labor sometime must have rest,
+Or else long can he not endure;
+This is to say, no living creature,
+Be it of fish, or bird, or beast, or man.
+Now will I speak of woeful Damian,
+That languishes for love, as you shall hear;
+Therefore I speak to him in this manner:
+I say, "O innocent Damian, alas!
+Answer to my question, in this case.
+How shalt thou to thy lady, fresh May,
+Tell thy woe? She will always say nay.
+Also if thou speak, she will thy woe reveal.
+God be thy help! I can no better say."
+This sick Damian in Venus' fire
+So burns that he dies for desire,
+For which he put his life at risk.
+No longer could he in this way endure,
+But secretly a writing set he borrowed,
+And in a letter wrote he all his sorrow,
+In the manner of a poetic lament or a song,
+Unto his fair, fresh lady May;
+And in a purse of silk which hung on his shirt
+He has put it, and laid it at his heart.
+The moon, that was at noon that same day
+That January has wedded fresh May
+In two degrees of Taurus, was into Cancer glided;
+So long has May in her chamber abided,
+As custom is unto these nobles all.
+A bride shall not eat in the hall
+Until four days, or three days at the least,
+Are passed; then let her go to feast.
+The fourth day completed from noon to noon,
+When the high mass was done,
+In hall this January and May sit,
+As fresh as is the bright summer's day.
+And so befell that this good man
+Remembered this Damian,
+And said, "Saint Mary! how can this be,
+That Damian does not attend on me?
+Is he always sick, or how can this happen?"
+His squires, who stood there beside,
+Excused him because of his sickness,
+Which prevented him from doing his duties;
+No other cause might make him tarry.
+"I am sorry about that," said this January,
+"He is a gentle squire, by my troth!
+If he died, it would be a harm and a pity.
+He is as wise, discreet, and as circumspect
+As any man I know of his rank,
+And moreover manly, and also willing to serve,
+And to be a worthy man right able.
+But after dinner, as soon as ever I can,
+I will myself visit him, and also May,
+To do him all the comfort that I can."
+And for that word every man blessed him,
+That of his goodness and his graciousness 
+He would so comfort in sickness
+His squire, for it was a gentle deed.
+"My Lady," said this January, "take good heed,
+At after-dinner you with all your women,
+When you have been in chamber out of this hall,
+That all you go see this Damian.
+Cheer him up -- he is a gentle man;
+And tell him that I will him visit,
+When I have done nothing but rested myself a little;
+And hurry yourself, for I will wait
+Until you sleep fast by my side."
+And with that word he began to him to call
+A squire, that was master of ceremonies of his hall,
+And told him certain things, what he wanted.
+This fresh May has held straight her way
+With all her women unto Damian.
+Down by his bed's side sits she then,
+Comforting him as graciously as she can.
+This Damian, when he saw his opportunity,
+In a secret way his purse and also his letter,
+In which he had written his desire,
+Has put into her hand, without (doing) more,
+Save that he sighs wonderfully deep and sore,
+And softly to her right thus said he:
+"Mercy! And (I ask) that you not discover me,
+For I am dead if this thing be known."
+This purse has she within her bosom hidden
+And went her way; you get no more from me.
+But unto January come is she,
+Who on his bed's side sits full softly.
+He takes her, and kisses her full often,
+And laid him down to sleep, and that straightway.
+She pretended that she must go
+Where you know that every person must go by necessity;
+And when she of this letter has taken heed,
+She tore it all to pieces at the last,
+And in the privy softly threw it.
+Who is perplexed now but fair fresh May?
+Down by old January she lay,
+Who slept until the cough has him awaked.
+Straightway he prayed her to strip herself all naked;
+He would of her, he said, have some pleasure;
+He said her clothes got in his way,
+And she obeys, whether she wants to or not.
+But lest that prudish folk be with me wroth,
+How he worked, I dare not tell to you,
+Or whether she thought it paradise or hell.
+But here I let them work in their way
+Until bell for evening prayers rang and they had to arise.
+Were it by destiny or by chance,
+Were it by astronomical influence or by nature,
+Or configuration of the stars, that in such a state
+The heaven stood that time that it fortunate
+Was to present a petition concerning Venus' works --
+For every thing has time, as say these clerks --
+To any woman to get her love,
+I can not say; but great God above,
+That knows that no act is without cause,
+May he judge of all, for I will hold my peace.
+But truth is this, how this fresh May
+Has taken such impression that day
+Of pity for this sick Damian
+That from her heart she can not drive
+The thought to comfort him.
+"Certainly," thought she, "whomever this thing may displease
+I care not, for here I him assure
+To love him best of any creature,
+Though he had no more than his shirt."
+Lo, pity runs soon in gentle heart!
+Here can you see what excellent generosity
+In women is, when they carefully deliberate a matter.
+Some tyrant is, as there be many a one
+Who has a heart as hard as any stone,
+Who would have let him die in the place
+Well rather than have granted him her grace,
+And rejoice in her cruel pride,
+And care not to be a homicide.
+This gentle May, filled full of pity,
+In her own hand a letter made she,
+In which she grants him her true grace.
+There lacks nothing but only day and place
+Where she might satisfy his desires,
+For it shall be right as he will devise.
+And when she saw her time, upon one day
+To visit this Damian goes May,
+And craftily this letter down she thrust
+Under his pillow; let him read it if he wishes.
+She takes him by the hand and hard him squeezes
+So secretly that no one knew of it,
+And bade him be all healthy, and forth she went
+To January, when he for her sent.
+Up rises Damian the next morning;
+All passed was his sickness and his sorrow.
+He combs himself, he preens and neatens himself,
+He does all that his lady desires and pleases,
+And also to January he goes as humbly
+As ever did a dog trained to hunt with an archer.
+He is so pleasant unto every man
+(For craft is all, whoever can do it)
+That every one is eager to speak good of him,
+And fully in his lady's favor he stood.
+Thus leave I Damian going about his business,
+And in my tale forth I will proceed.
+Some clerks maintain that felicity
+Consists of delight, and therefore certainly he,
+This noble January, with all his might,
+In a respectable manner, as is suitable to a knight,
+Arranged for himself to live full voluptuously.
+His lodging, his clothing, as suitably
+To his degree was made as is a king's.
+Amongst others of his suitable things,
+He made a garden, walled all with stone;
+So fair a garden know I anywhere none.
+For, beyond doubt, I truly suppose
+That he who wrote the Romance of the Rose
+Could not the beauty of it well describe;
+Nor Priapus could not be adequate,
+Though he be god of gardens, to tell
+The beauty of the garden and the well
+That stood under a laurel always green.
+Very often he, Pluto, and his queen,
+Proserpine, and all their fairies,
+Amused themselves and made melody
+About that well, and danced, as men told.
+This noble knight, this January the old,
+Such pleasure has in it to walk and play,
+That he will no one allow to bear the key
+Save he himself; for of the small gate
+He bore always of silver a latchkey,
+With which, when he desired, he unlocked it.
+And when he would pay his wife her marital debt
+In summer season, thither would he go,
+And May his wife, and no one but those two;
+And things which that were not done abed,
+He in the garden performed and accomplished them.
+And in this way, many a merry day,
+Lived this January and fresh May.
+But worldly joy can not always endure
+To January, nor to any creature.
+O sudden chance! O thou Fortune unstable!
+Similar to the scorpion so deceitful,
+That flatter with thy head when thou wilt sting;
+Thy tail is death, through thy poisoning.
+O brittle joy! O sweet venom deceitful!
+O monster, that so subtly can disguise
+Thy gifts under appearance of steadfastness,
+That thou deceivest both high and low (everyone)!
+Why hast thou January thus deceived,
+Thou who had received him for thy closest friend ?
+And now thou hast deprived him of both his eyes,
+For sorrow of which he desires to die.
+Alas, this noble generous January,
+Amid his pleasure and his prosperity,
+Is grown blind, and that all suddenly.
+He weeps and he wails pitifully;
+And with all this the fire of jealousy,
+Lest that his wife should fall in some folly,
+So burned his heart that he sincerely wished 
+That some man both her and him had slain.
+For neither after his death nor in his life
+Would he that she were neither lover nor wife,
+But ever live as widow in clothes black,
+Solitary as the turtledove that lost has her mate.
+But at the last, after a month or two,
+His sorrow abated, truth to say;
+For when he knew it can not be otherwise,
+He patiently accepted his adversity,
+Except that, no doubt, he can not refrain
+From being more jealous all the time;
+Which jealousy was so excessive
+That neither in hall, nor in any other house,
+Nor in any other place, no longer,
+He would suffer her to ride or walk,
+Unless he had a hand always on her;
+For which full often weeps fresh May,
+Who loves Damian so graciously
+That she must either die suddenly
+Or else she must have him as she wishes.
+She expects that her heart would burst.
+Upon that other side Damian
+Is become the most sorrowful man
+That ever was, for neither night nor day
+Could he speak one word to fresh May,
+Regarding his purpose, of any such matter,
+Without January's hearing it,
+Who had a hand upon her always.
+But nevertheless, by writing to and fro
+And secret signs he knew what she meant,
+And she knew also the aim of his plan.
+O January, what might it thee avail,
+Though thou could see as far as ships sail?
+For it is as good to be deceived when blind
+As to be deceived when a man can see.
+Lo, Argus, who had a hundred eyes,
+For all that ever he could peer or pry,
+Yet was he deceived, and, God knows, so are others
+That confidently suppose indeed that it is not so.
+To overlook (trouble) is an advantage, I say no more.
+This fresh May, whom I spoke of formerly,
+In warm wax has made an impression of the latchkey 
+That January carried of the small gate,
+By which into his garden often he went;
+And Damian, who knew all her plan,
+The latchkey counterfeited secretly.
+There is no more to say, but hastily
+Some wonder by this latchkey shall betide,
+Which you shall hear, if you will abide.
+O noble Ovid, full truth sayest thou, God knows,
+What trick is it, though (finding) it be long and painful,
+That Love will not find it out in some manner?
+By Pyramus and Thisbe can one learn;
+Though they were kept full long strictly in every way,
+They are agreed, whispering through a wall,
+Where no one could have found such a trick.
+But now to purpose: before eight days 
+Were passed [of] the month of [June], it happened
+That January has caught so great a desire,
+Through incitement of his wife, to enjoy himself
+In his garden, and no one (there) but those two,
+That in a morning unto his May says he:
+"Rise up, my wife, my love, my noble lady!
+The turtle dove's voice is heard, my dove sweet;
+The winter is gone with all his rains wet.
+Come forth now, with thy dove-like eyes!
+How fairer are thy breasts than is wine!
+The garden is enclosed all about;
+Come forth, my white spouse! Beyond doubt
+Thou hast me wounded in my heart, O wife!
+No blemish on thee knew I all my life.
+Come forth, and let us take our pleasure;
+I chose thee for my wife and my comfort."
+Such old ignorant words used he.
+To Damian a sign made she,
+That he should go before with his latchkey.
+This Damian then has opened the gate,
+And in he hurried, and that in such a way
+That no one could either see or hear it,
+And quickly he sits still under a bush.
+This January, as blind as is a stone,
+With May in his hand, and no one else,
+Into his fresh garden has gone,
+And closed the gate quickly.
+"Now wife," said he, "here is no one but thou and I,
+That art the creature that I best love.
+For by that Lord that sits in heaven above,
+I had rather die on a knife
+Than thee offend, true dear wife!
+For God's sake, think how I thee chose,
+Not for any greed, doubtless,
+But only for the love I had to thee.
+And although I be old and can not see,
+Be to me true, and I will tell you why.
+Three things, certainly, shall you win thereby:
+First, love of Christ, and to yourself honor,
+And all my heritage, town and tower;
+I give it to you, draw up deeds as you please;
+This shall be done to-morrow before sun goes to rest,
+As God my soul may bring in bliss.
+I pray you first, to seal the contract, you kiss me;
+And though that I be jealous, blame me not.
+You are so deeply imprinted in my thought
+That, when I consider your beauty
+And in addition to that the unsuitable old age of me,
+I can not, certainly, though I should die,
+Bear to be out of your company
+For true love; this is without doubt.
+Now kiss me, wife, and let us roam about."
+This fresh May, when she these words heard,
+Graciously to January answered,
+But first of all she began to weep.
+"I have," said she, "a soul to keep
+As well as you, and also my honor,
+And of my wifehood that same tender flower,
+Which I have entrusted in your hand,
+When the priest to you my body bound;
+Wherefore I will answer in this manner,
+By the leave of you, my lord so dear:
+I pray to God that never dawn the day
+That I do not die, as foully as woman can,
+If ever I do unto my kin that shame,
+Or else I damage so my name,
+That I be false; and if I commit that offense,
+Have me stripped and put me in a sack,
+And in the next river have me drowned.
+I am a gentle woman and no wench.
+Why speak you thus? But men are always untrue,
+And women have reproof of you always.
+You have no other manner of behavior, I believe,
+Except to speak to us of distrust and reproof."
+And with that word she saw where Damian
+Sat in the bush, and she began to cough,
+And with her finger signs made she
+That Damian should climb upon a tree
+That loaded was with fruit, and up he went.
+For truly he knew all her plan,
+And every sign that she could make,
+Well better than January, her own mate,
+For in a letter she had told him all
+Of this matter, what he must do.
+And thus I let him sit upon the pear tree,
+And January and May roaming merrily.
+Bright was the day, and blue the firmament;
+Phoebus has his streams of gold down sent
+To gladden every flower with his warmness.
+He was that time in Gemini, as I guess,
+But little from his declination
+Of Cancer, Jove's exaltation.
+And it so befell, that bright morning-tide
+That in that garden, in the further side,
+Pluto, that is king of Fairyland,
+And many a lady in his company,
+Following his wife, the queen Proserpine,
+Whom he kidnapped out of Etna
+While she gathered flowers in the mead --
+In Claudian you can read the stories,
+How in his grisly chariot he fetched her --
+This king of Fairyland then set himself down
+Upon a bench made of pieces of turf, fresh and green,
+And right away thus said he to his queen:
+"My wife," said he, "there can no one say nay;
+The experience so proves every day
+The treasons which women do to man.
+Ten hundred thousand [tales] I can tell
+(That are) famous concerning your faithlessness and frailty.
+O Solomon, wise, and richest of wealth,
+Filled with wisdom and with worldly glory,
+Full worthy are thy words to (keep in) memory
+To every one that wit and reason knows.
+Thus praises he yet the goodness of man:
+`Amongst a thousand men yet found I one,
+But of all women found I none.'
+"Thus says the king that knows your wickedness.
+And Jesus, son of Sirak, as I suppose,
+Speaks reverence of you but seldom.
+A wild fir and corrupt pestilence
+Fall upon your bodies yet to-night!
+See you not this honorable knight,
+Because, alas, that he is blind and old,
+His own man shall make him cuckold.
+Lo, where he sits, the lecher, in the tree!
+Now will I grant, of my majesty,
+Unto this old, blind, worthy knight
+That he shall have again his eyes' sight,
+When his wife would do him villainy.
+Then shall he know all her harlotry,
+In reproof of both her and many others."
+"You shall?" said Proserpine, "will you so?
+Now by my mother's father's soul I swear
+That I shall give her sufficient answer,
+And all women afterwards, for her sake,
+That, though they be in any guilt taken,
+With bold face they shall themselves excuse,
+And bear them down who would them accuse.
+For lack of answer none of them shall die.
+Although a man had seen a thing with both his eyes,
+Yet shall we women face it out boldly,
+And weep, and swear, and chide deceitfully,
+So that you men shall be as ignorant as geese.
+"What do I care for your authorities?
+I know well that this Jew, this Solomon,
+Found of us women many a fool.
+But though he found no good woman,
+Yet many another man has there found 
+Women full true, full good, and virtuous.
+Witness on them that dwell in Christ's house (heaven);
+With martyrdom they proved their constancy.
+The Roman histories also remind us
+Of many a genuine, true wife also.
+But, sir, be not angry, even though it be so,
+Though he said he found no good woman,
+I pray you take the meaning of the man;
+He meant thus, that in perfect goodness
+There is no one but God, neither man nor woman.
+"Ah! by him who is the only true God,
+Why make you so much of Solomon?
+Why though he made a temple, God's house?
+Why though he was rich and glorious?
+So made he also a temple of false gods.
+How might he do a thing that more forbidden is?
+By God, however approvingly you gloss over his name,
+He was a lecher and an idolater,
+And in his old age he true God forsook;
+And if God had not, as says the book,
+Spared him for his father's sake, he should
+Have lost his reign sooner than he would have wanted.
+I reckon all the villainy
+That you of women write not worth a butterfly!
+I am a woman, I must necessarily speak,
+Or else swell until my heart breaks.
+For since he said that we are chatterers,
+As ever whole I may enjoy my hair (remain alive),
+I shall not cease, for any courtesy,
+To speak harm of him that would do us dishonor."
+"My Lady," said this Pluto, "be no longer angry;
+I give it up! But since I swore my oath
+That I would grant him his sight again,
+My word shall stand, I warn you certainly.
+I am a king; it is not proper for me to lie."
+"And I," said she, "a queen of Fairy!
+Her answer shall she have, I declare.
+Let us have no more words concerning this;
+For truly, I will no longer contradict you."
+Now let us turn again to January,
+That in the garden with his fair May
+Sings full merrier than the parrot,
+"You love I best, and shall, and none other."
+So long about the garden paths is he gone,
+Until he was come in front of that same pear tree
+Where this Damian sits full merry
+On high among the fresh leaves green.
+This fresh May, who is so bright and sheen,
+Began to sigh, and said, "Alas, my side!
+Now sire," said she, "for whatever may happen,
+I must have some of the pears that I see,
+Or I must die, so sore I long
+To eat some of the small green pears.
+Help, for her love that is of heaven queen!
+I tell you well, a woman in my condition
+May have for fruit so great an appetite
+That she may die but she have some of it."
+"Alas," said he, "that I do not have here a servant boy
+That could climb! Alas, alas," said he,
+"For I am blind!" "Yea, sir, no matter," said she;
+"But would you grant, for God's sake,
+The pear tree within your arms to take,
+For well I know that you mistrust me,
+Then should I climb well enough," said she,
+"If I my foot might set upon your back."
+"Certainly," said he, "there shall be no lack,
+(Even if) I might you help with my heart's blood."
+He stoops down, and on his back she stood,
+And caught her by a branch, and up she goes --
+I can not use circumlocutions, I am an unlearned man --
+And suddenly at once this Damian
+Pulled up the smock, and in he thrust.
+And when Pluto saw this great wrong,
+To January he gave again his sight,
+And made him see as well as he ever could.
+And when he had recovered his sight again,
+There was never man of anything so happy,
+But on his wife his thought was evermore.
+Up to the tree he cast his eyes two,
+And saw that Damian had treated his wife 
+In such a manner it can not be expressed,
+Unless I would speak crudely;
+And up he gave a roaring and a cry,
+As does the mother when the child shall die:
+"Out! Help! Alas! Help!" he began to cry,
+"O brazen crude lady, what dost thou?"
+And she answered, "Sir, what ails you?
+Have patience and reason in your mind.
+I have helped you with both your eyes blind.
+Upon peril of my soul, I shall not lie,
+As I was taught, to heal with your eyes,
+Was no thing better, to make you to see,
+Than to struggle with a man upon a tree.
+God knows, I did it in full good intent."
+"Struggle?" said he, "Yea, indeed in it went!
+God give you both a shameful death to die!
+He screwed thee; I saw it with my eyes,
+And else may I be hanged by the neck!"
+"Then is," said she, "my medicine false;
+For certainly, if you could see,
+You would not say these words unto me.
+You have some glimpse, and no perfect sight."
+"I see," said he, "as well as ever I could,
+Thanked be God! With both my eyes two,
+And by my troth, it seemed to me he did thee so."
+"You are dazed, dazed, good sir," said she;
+"This thanks have I because I have made you see.
+Alas," said she, "that ever I was so kind!"
+"Now, lady," said he, "let all pass out of mind.
+Come down, my dear, and if I have misspoken,
+So God help me, I am very sorry.
+But, by my father's soul, I thought to have seen
+How this Damian had by thee laid,
+And thy smock had lain upon his breast."
+"Yea, sir," said she, "you may think as you please.
+But, sir, a man that wakes out of his sleep,
+He can not suddenly well take heed
+Of a thing, nor see it perfectly,
+Until he be fully awakened.
+Right so a man that long has blind been,
+Can not suddenly so well see,
+First when his sight is newly come again,
+As he that has a day or two been able to see.
+Until your sight be settled a while
+There may full many a sight deceive you.
+Beware, I pray you, for by heaven's king,
+Full many a man supposes to see a thing,
+And it is entirely different than it seems.
+He that misunderstands, he misjudges."
+And with that word she leaped down from the tree.
+This January, who is glad but he?
+He kisses her and embraces her full often,
+And on her womb he strokes her full softly,
+And to his palace he has her led home.
+Now, good men, I pray you to be glad.
+Thus ends here my tale of January;
+God bless us, and his mother Saint Mary!
+"Ah! God's mercy!" said our Host then,
+"Now such a wife I pray God keep me from!
+Lo, what tricks and craftiness
+Are in women! For always as busy as bees
+Are they, us innocent men to deceive,
+And from the truth ever will they deviate;
+By this Merchant's tale it is well proven.
+But doubtless, as true as any steel
+I have a wife, though that she poor be,
+But of her tongue, a blabbing shrew is she,
+And yet she has a heap of other vices;
+Thereof no matter! Let all such things go by.
+But know you what? In secret be it said,
+I sorely rue that I am unto her tied.
+For if I should reckon every vice
+Which she has, indeed I would be too foolish.
+And the cause why? It should reported be
+And told to her by some of this company --
+By whom, it needs not to declare,
+Since women know how to display such wares;
+And also my wit suffices not concerning this
+To tell all; therefore my tale is done."

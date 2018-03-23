@@ -48,9 +48,8 @@ for htmlFile in filesList:
                 #print(line)
             # i += 1
             elif readingText == True and (line[0] is 'n' or (len(line.lstrip()) > 0 and line.lstrip()[0] == '&')):#line[0] is '&' or line[0] is ' &' or (len(line.lstrip()) > 0 and line.lstrip()[0] == '&'):
-                if htmlFile == "clkt-par.htm" and readingText is False:
-                    print("why")
-                    print(line)
+                for word in delete_list:
+                    line = line.replace(word, "")
                 fOut2.write(line.lstrip())
                 fOut4.write(line.lstrip())
                 #print("second line")

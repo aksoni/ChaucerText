@@ -1,930 +1,930 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When the life of Saint Cecile was ended,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before we had ridden a good five miles,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At Boghtoun under Blee overtook us <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A man who was clothed in black clothes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And underneath that he had a white surplice.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His riding horse, that was all dapple gray,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So sweated that it was a wonder to see;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It seemed as if he had spurred hard for three miles.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The horse also that his yeoman rode upon<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So sweated that it could hardly move.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; About the collar stood the foam very high;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He was by foam all flecked like a magpie.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A double bag on his crupper lay;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It seemed that he carried little gear.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All lightly clad for summer rode this worthy man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in my heart I began to wonder<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What he was until I understood<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How his cloak was sewn to his hood,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which, when I had long thought about it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I judged him to be some sort of canon.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His hat hung at his back down by a strap,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For he had ridden at more than a trot or a walk;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He had always spurred as if he were crazy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A burdock-leaf he had under his hood<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For sweat and to keep his head from heat.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But what a joy it was to see him sweat!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His forehead dripped like a still<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full of the herbs plantain and pellitory.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he was come to us, he began to cry out,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "God save," said he, "this jolly company!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fast have I spurred," said he, "for your sake,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because I wanted to overtake you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To ride in this merry company."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His yeoman also was full of courtesy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said, "Sirs, just now in the morning time<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I saw you ride out of your hostelry,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And told my lord here and my sovereign,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who is very eager to ride with you <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For his pleasure; he loves sociability."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Friend, for thy telling him God give thee good luck,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then said our Host, "for certainly it would seem<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thy lord is wise, and as I can well judge.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He is very cheerful also, I dare wager!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Can he in any way tell a merry tale or two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With which he may gladden this company?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Who, sir? My lord? Yes, yes, without lie,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He knows about mirth and also about jollity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; More than enough; also, sir, trust me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If you knew him as well as do I,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You would wonder how well and craftily<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He knows how to work, and that in a variety of ways.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He has taken on him many a great enterprise,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which would be very hard for any one who is here<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To bring about, unless they learn it from him.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Despite how modestly he rides amongst you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If you knew him, it would be to your advantage.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You would not forgo his acquaintance<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For great riches, I dare wager on that<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All that I have in my possession.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He is a man of great discretion;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I tell you indeed, he is a remarkable man."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Well," said our Host, "I pray thee, tell me then,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is he a clerk, or not? Tell what he is."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Nay, he is greater than a clerk, indeed,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said this Yeoman, "and in few words,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Host, I will show you something of his craft.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I say, my lord knows such esoteric science --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But all his craft you can not know from me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yet somewhat I help in his work --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That all this ground on which we are riding,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until we come to Canterbury town,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He could turn all completely upside down,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And pave it all with silver and with gold."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when this Yeoman had this tale told<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto our Host, he said, "Bless you!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This thing is wonderfully marvelous to me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since thy lord is of such great prudence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because of which men should reverence him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he cares so little for his own self-respect.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His outer garment is not worth a fraction of a penny,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because in fact, to him, as I may go (I swear), <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It is all dirty and tattered also.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why is thy lord so slovenly, I pray thee,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And has the power to buy better cloth,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If his deeds accord with thy speech?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tell me that, and of that I beseech thee."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Why?" said this Yeoman, "why do you ask me?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So help me God, for he shall never prosper!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (But I will not publicly acknowledge what I say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And therefore keep it secret, I pray you.)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He is too wise, in faith, as I believe.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That which is done too much, it will not turn out<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right, as clerks say; it is a vice.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Therefore in that I hold him ignorant and foolish.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For when a man has too great a wit,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Very often he happens to misuse it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So does my lord, and that sorely grieves me;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God amend it! I can tell you no more."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "That does not matter, good Yeoman," said our Host;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Since thou knowest of the cunning of thy lord,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tell how he does, I pray thee heartily,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since he is so crafty and so sly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where do you dwell, if it can be told?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "In the outskirts of a town," said he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Lurking in hiding places and in dead-end alleys,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where these robbers and these thieves by nature<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hold their private fearful residence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Like those who dare not show their presence;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So fare we, if I shall say the truth."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Now," said our Host, "yet let me talk to thee.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why art thou so discolored in thy face?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Peter!" said he, "God give it bad luck,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I am so used to blow in the fire <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That it has changed my color, I believe.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I am not accustomed to peer in any mirror,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But to work hard and to learn to transmute metals.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We blunder ever and stare in the fire,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And despite all that, we fail to achieve our desire,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For ever we lack our desired conclusion.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To many folk we do delusion,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And borrow gold, be it a pound or two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or ten, or twelve, or many greater sums,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And make them believe, at the very least,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That of one pound we could make two.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet is it false, but always we have good hope<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To do it, and after it we grope.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But that knowledge is so far ahead of us,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We can not, although we had sworn it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Overtake it, it slides away so fast.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It will make us beggars at the last."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; While this Yeoman was thus in his talking,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This Canon drew himself nearer and heard every thing<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which this Yeoman spoke, for suspicion<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of men's speech ever had this Canon.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For Cato says that he who is guilty<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Believes every thing is spoken about him, indeed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That was the cause he did draw himself so near <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To his Yeoman, to hear all his speech.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And thus he said unto his Yeoman then:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Hold thou thy peace and speak no more words,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For if thou do, thou shalt dearly pay for it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou slanderest me here in this company,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also revealest what thou shouldest hide."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Yes," said our Host, "tell on, whataever may happen.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Reckon all his threatening not worth a fraction of a penny!" <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "In faith," said he, "I do (reckon him) but little any more."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when this Canon saw it would not be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But that his Yeoman would tell his secrets,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He fled away for true sorrow and shame.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Ah!" said the Yeoman, "here shall arise some amusement;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right now I will tell all that I know.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since he is gone, may the foul fiend kill him!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For never hereafter will I meet with him <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For penny nor for pound, I promise you.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He who brought me first unto that game,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before he dies, may he have sorrow and shame!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For it is serious (not game) to me, by my faith;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That feel I well, whatever any man says.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yet, for all my pain and all my grief,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For all my sorrow, labor, and mischief,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I could never leave it in any way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now I wish to God my wit might suffice<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To tell all that belongs to that art!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nonetheless you desire that I tell part.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since my lord is gone, I will not spare;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such things as what I know, I will declare.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<i>Prima Pars</i>]<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<i>[First Part</i>]
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With this Canon I have dwelt seven years,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And as to his science I am never the nearer (to success).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All that I had I have lost thereby,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And, God knows, so have many more than I.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where I was accustomed to be right fresh and gay<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of clothing and of other splendid furnishings,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now may I wear a hose upon my head;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And whereas my color was both fresh and red,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now is it pale and of a leaden hue --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whoever uses it (that art), sorely shall he rue! --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And by my work yet my eye is bleared.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, how profitable it is to transute metals!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That slippery science has made me so bare <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I have no possessions, wherever I fare;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yet by this I am so indebted <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For gold that I have borrowed, truly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That while I live I shall never repay it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let every man be warned by me forever!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whatever sort of man that applies himself to that,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If he continue, I consider his prosperity done for.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For so help me God, he shall not profit thereby,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But empty his purse and make his wits thin.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he through his madness and folly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has lost his own possessions in this dangerous business,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then he incites other folk to that,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To lose their possessions as he himself has done.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For unto scoundrels it is joy and ease<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To have their fellows in pain and hardship.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus was I once taught by a clerk.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No matter about that; I will speak of our work.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When we are where we shall exercise<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our mysterious craft, we seem wonderfully wise,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our terms are so scholarly and so strange.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I blow the fire until my heart faints.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why should I tell each proportion<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of the things that we work upon --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As on five or six ounces, it may well be,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of silver, or some other quantity --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And busy myself to tell you the names<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of orpiment (arsenic trisulfide), burned bones, iron flakes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That are ground into very fine powder;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And how all is put in an earthen pot,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And salt put in, and also pepper,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before these powders that I speak of here;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And well covered with a lamp-shaped vessel of glass;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of many other things which were there;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And sealing of the pot and glasses<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So that not a bit of the air could pass out;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of the slow fir, and fast also,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which was made, and of the care and woe<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That we had in purifying our materials,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in blending and reducing to powder<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of quicksilver, called raw mercury?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Despite all our tricks we can not succeed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our orpiment (arsenic trisulfide), and purified mercury,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our litharge (lead monoxide) ground also on the porphyry mortar,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A certain number of ounces of each of these --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nothing helps us; our labor is in vain.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Also neither our spirit's vaporization,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor our materials that remain fixed in the pot,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Can in any way help us in our working,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For all our labor and travail is lost;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all the expenditure, in the name of twenty devils,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which we spent upon it, is lost also.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is also very many another thing<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That pertains unto our craft.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though I can not list them in their proper order,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because I am an unlearned man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet will I tell them as they come to mind,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though I can not set them in their proper categories:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such as armenian bol (red clay), verdigris (copper acetate), borax,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And various vessels made of clay and glass,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our urinals and our retorts,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vials, crucibles, and sublimation vessels,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vessels for distilling and alembics also,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And other such things, very expensive at the price of a leek --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There ia no need to list them all --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Liquids that cause reddening, and bull's gall,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Arsenic, sal ammoniac, and brimstone;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And herbs could I tell also many a one,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such as agrimony, valerian, and moonwort,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And other such things, if I wanted to tarry;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our lamps burning both night and day,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To bring about our purpose, if we can;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Also our furnace for reducing substances to powder,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of whitening by liquids;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unslaked lime, chalk, and white of an egg,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Various powders, ashes, dung, piss, and clay,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Waxed (waterproofed) packets, saltpeter, sulphuric acid,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And various sorts of fires made of wood and coal;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Potassium nitrate, alkali, and purified salt,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And burned materials and solidified;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Clay made with horse or man's hair, and oil<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of tartar, crystallized alum, yeast, unfermented malt, and argol,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Arsenic, and soaking our materials,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also of forming a compound of our materials,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of turning our silver to a yellow color,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our fusion by heat and fermentation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our casting molds, crucibles for testing, and many more.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will tell you, as it was taught also to me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The four spirits and the seven metals<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By order, as often I heard my lord name them.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The first spirit is called quicksilver,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The second orpiment (arsenic trisulfide), the third, indeed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sal ammoniac, and the fourth brimstone.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The seven metals also, lo, hear them now:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sun is gold, and Moon silver we say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mars iron, Mercury we call quicksilver,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Saturn lead, and Jupiter is tin,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And Venus copper, by my father's kin!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whoever will exercise this cursed craft,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He shall have no wealth that can be enough for him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For all the wealth he spends on this<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He shall lose; of that have I no doubt.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whoever desires to make public his folly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let him come forth and learn to transmute base metals;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And every man that has anything in his strong-box,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let him appear and become an alchemist.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is that craft were so easy to learn?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nay, nay, God knows, be he monk or friar,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Priest or canon, or any other creature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though he sit at his book both day and night<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In learning of this mysterious foolish lore,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All is in vain, and by God, much more.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To teach an ignorant man this ingenious skill --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fie! Speak not about that, for it will not be.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And know he book learning or know he none,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In fact, he shall find it all the same.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For both of the two, by my salvation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Conclude in transmutation<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Equally well, when they are all done;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is to say, they fail, both of the two.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet I forgot to make enumeration <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of acidic waters, and of metal filings,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of the softening of materials,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also of their hardening;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Oils, cleansings, and fusible metal --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To tell all would be longer than any large book<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That is anywhere; therefore, as for the best,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of all these names now I will rest myself,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For, as I believe, I have told you enough<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To raise a fiend, though he look never so rough.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ah! Nay! Let be; the philosophers' stone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Called Elixir, we seek earnestly each one of us;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For if we had it, then we would be very well off.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But unto God of heaven I make avow,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Despite all our craft, when we have all done,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all our skill, he will not come us to.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He has made us spend much money,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For sorrow of which we almost go mad,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except that good hope creeps into our heart,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Supposing ever, though we sorely suffer,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To be relieved by him afterward.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such supposing and hope is sharp and hard;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I warn you well, it is to keep seeking forever.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That future tense has made men to be separated,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In trust on that, from all that ever they had.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet of that art they can not be satisfied,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For unto them it is a bitter sweet --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So it seems -- for had they nothing but a sheet<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which they might wrap themselves in at night,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And a rough cloak to walk in by daylight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They would sell them and spend it on this craft.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They can not stop until nothing is left.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And evermore, wherever they go,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Men can know them by the smell of brimstone.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For all the world they stink like a goat;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Their odor is so like a goat and so intense<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That though a man be a mile from them,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The odor will infect him, trust me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, thus by smelling and threadbare array,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If men so desire, this folk they can know.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if a man will ask them privily<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why they are clothed so poorly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They right away will whisper in his ear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And say that if they were recognized,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Men would slay them because of their knowledge.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, thus these folk betray innocence!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pass over this; I go unto my tale.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before the pot on the fire is done,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With a specific quantity of metals,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My lord tempers them, and no man but he --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now he is gone, I dare say boldly --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For, as men say, he can work craftily.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Although I know well he has such a reputation;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yet very often he gets in trouble.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And do you know how? Full often it so happens<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The pot shatters, and farewell, all is gone!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These metals are of such great violence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The sides of our vessels can not make resistance to them,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless they were made of lime and stone;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They pierce so, and through the wall they go.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And some of them sink into the ground --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus have we quickly lost many a pound --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And some are scattered all over the floor;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some leap into the roof. Without doubt,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though the fiend does not show himself to our sight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I believe he is with us, that same scoundrel!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In hell, where he is lord and sire,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is no greater woe, nor greater rancor nor ire.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When our pot is broken, as I have said,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Every man chides and considers himsef ill used.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some said it was due to the making of the fire;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some said nay, it was due to the blowing --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then was I afraid, for that was my job.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Rubbish!" said the third, "you are ignorant and foolish.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It was not tempered as it ought to be."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Nay," said the fourth, "be quiet and listen to me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because our fire was not made of beech,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That is the cause and none other, as I may prosper!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I can not tell what it was due to,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But well I know great strife is among us.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Well," said my lord, "there is no more to do;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of these perils I will be wary next time.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I am very sure that the pot was cracked.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Be as be may, be you in no way amazed;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As our practice is, have the floor quickly swept,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pluck up your hearts and be glad and blithe."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The rubbish was swept in a heap,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And on the floor was cast a canvas,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all this rubbish thrown in a sieve <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And sifted, and picked over many a time.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "By God," said one, "something of our metal<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet is there here, though we have not all.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And though this thing may have turned out badly this time,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Another time it may go well indeed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We must put our possessions at risk.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A merchant, by God, may not endure forever,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Trust me well, in his prosperity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sometimes his goods are drowned in the sea,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And sometime they come safely unto the land."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Quiet!" said my lord, "the next time I will endeavor<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To bring our experiment to an entirely different state,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And unless I do, sirs, let me have the blame.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There was something wrong, I well know."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Another said the fire was too hot --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But, be it hot or cold, I dare say this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That we conclude always with something gone wrong.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We fail to get that which we want to have,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in our madness always we rave.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when we are all together every one,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Every man seems a Solomon.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But every thing thah shines like gold<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is not gold, as I have heard said;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor every apple that is fair to the eye<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is not good, whatever men may chatter or cry.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right so, lo, it fares among us:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He who seems the wisest, by Jesus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is the greatest fool, when it comes to the proof;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he that seems truest is a thief.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That shall you know, before I from you wend,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By the time that I have made an end of my tale.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is a canon regular<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Amongst us, who would infect a whole town,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though it were as big as was Nineveh,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rome, Alexandria, Troy, and any three others.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His tricks and his infinite falseness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No man could write, as I guess,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though he might live a thousand years.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In all this world is not his equal in falsehood,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For in his technical terms he will so wrap himself,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And speak his words in so deceitful a manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When he shall converse with any person,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he will make a fool of him right away,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless it be a fiend, as he himself is.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Very many a man has he beguiled before this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And will, if he may live a while longer;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yet men ride and walk very many a mile<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To seek him and have his acquaintance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not knowing of his false way of life.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if you want to listen to me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will tell it here in your presence.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But worshipful religious canons,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do not think that I slander your house,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Although my tale be about a canon.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is some scoundrel in every order, by God,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And God forbid that a whole company<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Should suffer for one single man's folly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To slander you is not at all my intention,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But I mean to correct what is amiss.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This tale was not only told for you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But also for many others; you know well <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That among Christ's twelve apostles <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There was no traitor but Judas himself.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then why should all the remnant have the blame<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who were guiltless? Concerning you I say the same,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Save only this, if you will listen to me:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If any Judas be in your convent,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Remove him quickly, I advise you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If the prospect of shame or dishonor can cause any fear.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And be not at all displeased, I pray you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But in this case listen to what I shall say.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In London was a priest, a chantry priest,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who therein had dwelled many a year,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who was so pleasant and so attentive<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto the woman, where he took his meals,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she would not allow him to pay anything<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For board nor clothing, went he never so gay,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he had plenty of spending money.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That does not not matter; I will now proceed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And tell forth my tale of the canon<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who brought this priest to ruin.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This false canon came upon one day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto this priest's chamber, where he stayed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beseeching him to lend him a certain amount<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of gold, and he would pay it back to him again.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Loan me a mark," said he, "for only three days,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And at my assigned day I will repay it to thee.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if it so be that thou find me false,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The next day have me hanged by the neck!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This priest gave him a mark, and that very quickly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And this canon thanked him many times,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And took his leave, and went forth on his way,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And at the third day brought his money,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to the priest he gave back his gold,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which this priest was wonderfully glad and happy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Certainly," said he, "in no way does it annoy me<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To lend a man a noble, or two, or three,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or whatever thing if it were in my possession,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When he is so true, of such character<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That in no way will he fail to pay on his assigned day:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To such a man I can never say no."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "What!" said this canon, "should I be untrue?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nay, that would be a thing completely without precedent.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My pledged word is a thing that I will always keep<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until that day in which I shall creep<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Into my grave, and God forbid it be otherwise.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Believe this is as true as your Creed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I thank God, and rightly it may be said,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That there was never man yet suffered evil<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For gold or silver that he lent to me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor did I ever intend falsehood in my heart.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And sir," said he, "now some of my secrets,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since you have been so goodly unto me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And shown to me such great courtesy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Something with which to repay your kindness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will show you, and if you want to learn,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will teach you fully the manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How I know how to to work in alchemy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pay cl,ose attention; you shall well see by eye<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I will do a masterful work before I go."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Yes," said the priest, "yes, sir, and will you so?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By Saint Mary, for that I pray you heartily."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "At your commandment, sir, truly,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said the canon, "and otherwise God forbid!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, how this thief could offer his service!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Very true it is that such a favor not asked for<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Stinks, as these old wise writers bear witness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And very soon I will verify it<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In (the deeds of) this canon, root of all treachery,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who evermore has delight and gladness --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such fiendish thoughts in his heart are fixed --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How he can bring Christ's people to mischief.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God keep us from his false dissimulation!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This priest knew not with whom he dealt,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of his coming harm he felt nothing.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O hapless priest! O hapless innocent!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Very soon thou shalt be blinded by greed!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O unfortunate, completely blind is thy mind,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In no way art thou aware of the deceit<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which this fox has destined for thee!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His cunning deceptions thou canst not flee.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Therefore, to go to the conclusion,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That refers to thy ruin,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unhappy man, right now I will hasten myself<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To tell thy lack of prudence and thy folly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also the falseness of that other wretch,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Insofar as my skill will stretch.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This canon was my lord, you would suppose?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sir host, in faith, and by the heaven's queen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It was another canon, and not he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who knows a hundred times more trickery.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He has betrayed folks many a time;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It distresses me to compose rimes about his falseness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Every time I speak of his falsehood,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For shame of him my cheeks grow red.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At least they begin to glow,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For redness have I none, very well I know,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In my visage; for various fumes<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of metals, which you have heard me rehearse,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That have consumed and wasted my redness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now pay attention to this canon's cursedness!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Sir," said he to the priest, "have your man go<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For quicksilver, would that we had it right now;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And have him bring two or three ounces;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he comes, quickly you shall see<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A wonderful thing, which you never saw before this."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Sir," said the priest, "it shall be done, indeed."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He bad his servant fetch him this thing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he was all ready at his bidding,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And went forth, and came right back again<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With this quicksilver, shortly to say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And gave these three ounces to the canon;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he laid them down neatly and carefully,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And bad the servant to bring coals,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So that he might go to his working right away.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The coals right away were fetched,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And this canon took out a crucible<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From his bosom, and showed it to the priest.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "This instrument," said he, "which thou seest,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Take in thy hand, and thyself put therein<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; An ounce of this quicksilver, and here begin,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In the name of Christ, to become an alchemist.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There are very few to whom I would offer<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To show them thus so much of my science.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For you shall see here, by experience,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That this quicksilver I will harden<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right in your sight indeed, without lie,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And make it as good silver and as fine<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As there is any in your purse or mine,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or elsewhere, and make it malleable;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And otherwise consider me false and unable<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For ever to appear amongst folk.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I have a powder here, that cost me dearly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shall make all good, for it is cause of all<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My cunning, which I shall show you.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Send away your man, and have him be outside,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And shut the door, while we are about<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our secret business, so that no man espy us,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; While we work in this science."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All was in deed fulfilled as he commanded.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This same servant right away went out,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And his master shut the door quickly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to their labor speedily they go.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This priest, at this cursed canon's bidding,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon the fire at once set this thing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And blew the fire, and busied himself very intently.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And this canon into the crucible cast<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A powder, I do not know of what it was<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Made, either of chalk, or of glass,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or something else, that was not worth a fly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With which to blind this priest; and bade him hasten<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To lay all the coals above<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The crucible. "To serve as a sign that I love thee,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said this canon, "thine own two hands<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shall do every thing that shall here be done."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Many thanks," said the priest, and was very glad,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And laid the coals as the canon bad.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And while he was busy, this fiendish wretch,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This false canon -- may the foul fiend fetch him! --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Out of his bosom took a beech coal,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In which very skilfully was made a hole,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And therein was put of silver filings<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; An ounce, and was sealed shut, without doubt, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This hole with wax, to keep the filings in.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And understand that this false device<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was not made there, but it was made before;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And other things I shall tell more<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Later, which he brought with him.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before he came there, he intended to trick him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And so he did, before they went apart;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until he had skinned him, he could not cease.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It distresses me when I speak of him.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I would like to avenge myself for his falsehood,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If I knew how, but he is now here and now there;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He is so changeable, he abides nowhere.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But pay attention now, sirs, for God's love!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He took his coal of which I spoke above,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in his hand he bore it secretly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And while the priest busily laid<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The coals, as I told you before this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This canon said, "Friend, you do it wrong.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is not arranged as it ought to be;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But soon I shall amend it," said he.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Now let me work with it but a while,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For I have pity of you, by Saint Gile!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You are very hot; I see well how you sweat.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have here a cloth, and wipe away the wetness."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And while the priest wiped his face,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This canon took his coal -- may he have bad luck! --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And laid it above, upon the middle<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of the crucible, and blew well afterward<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until the coals began to burn fast.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Now give us drink," said the canon then;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Soon all shall be well, I guarantee.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sit we down, and let us make merry."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when this canon's beech coal<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was burned, all the filings out of the hole<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Into the crucible fell right down;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And so it must be necessarily, by reason,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since it was placed so exactly above.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But of this the priest knew nothing, alas!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He thought all the coals equally good,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For he understood nothing of that trick.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when this alchemist saw his time,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Rise up," said he, "sir priest, and stand by me;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And because I know well you have no ingot,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Go, walk forth, and bring a chalk stone;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For I will make it of the same shape<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As is an ingot, if I may have such luck.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And bring also with you a bowl or a pan<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full of water, and you shall see well then<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How our business shall thrive and succeed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yet, so that you shall have no suspicion<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor wrong opinion of me in your absence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will not be out of your presence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But go with you and come with you again."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The chamber door, shortly to say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They opened and shut, and went their way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And forth with them they carried the key,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And came back again without any delay.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why should I tarry all the long day?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He took the chalk and shaped it in the manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of an ingot, as I shall tell you.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I say, he took out of his own sleeve<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A small bar of silver -- may he have evil luck! --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which was not more than an ounce of weight.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And pay attention now to his cursed trick!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He shaped his ingot in the length and in the breadth<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of this small bar, without any doubt,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So slyly that the priest did not see it, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in his sleeve again he did hide it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And from the fire he took up his material,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And put it in the ingot with merry demeanor,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in the pan of water he cast it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When it pleased him, and commanded the priest quickly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "See what is there; put in thy hand and grope.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou shalt find there silver, as I believe."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What else, devil of hell, should it be?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shaving of silver is silver, by God!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He put his hand in and took up a small bar<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of pure silver, and glad in every vein<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was this priest, when he saw it was so.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "God's blessing, and his mother's also,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all saints, have you (in their protection), sir canon,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said the priest, "and may I have their curse,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But, if you condescend to teach me<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This noble craft and this esoteric art,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will be yours in all that ever I can."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said the canon, "Yet I will make trial <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The second time, that you may pay attention<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And be expert concerning this, and when you are in need<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some other day in my absence to try out<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This discipline and this ingenious science.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let's take another ounce," said he then,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Of quicksilver, without more words,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And do therewith as you have done before this<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With that other, which now is silver."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This priest busies himself in all that he knows how<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To do as this canon, this cursed man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Commanded him, and blew hard on the fire,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In order to come to the realization of his desire.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And this canon, at exactly the same time,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was all ready to beguile this priest again,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And for show in his hand he bore<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A hollow stick -- pay attention and beware! --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In the end of which an ounce, and no more,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of silver filings was put, as before<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was in his coal, and well sealed shut with wax<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To keep in his filings every bit.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And while this priest was busy with his work,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This canon with his stick began to go<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To him right away, and his powder cast in<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As he did before-- the devil out of his skin<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Flay him, I pray to God, for his falsehood!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For he was ever false in thought and deed --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with this stick, above the crucible,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That was prepared with that false contrivance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He stirred the coals until it began to melt<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The wax next to the fire, as every man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless he be a fool, knows well it must by necessity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all that was in the stick went out,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And into the crucible it quickly fell.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now, good sirs, what more will you have?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When this priest was thus beguiled again,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Supposing nothing but truth, sooth to say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He was so glad that I can not express<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In any manner his mirth and his gladness;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to the canon he offered again<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Body and possessions. "Yes," quickly said the canon,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Though I be poor, thou shalt find me skilfull.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I warn thee, there is yet more to come.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is there any copper here?" said he.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Yes," said the priest, "sir, I believe well there is some."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Otherwise go buy us some, and do that quickly;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now, good sir, go forth thy way and hurry thee."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He went his way, and with the copper came back,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And this canon took it in his hands,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of that copper weighed out only an ounce.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All too simple is my tongue to pronounce,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As servant of my wit, the duplicity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of this canon, root of all cursedness!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He seemed friendly to those that did not know him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But he was fiendish both in deed and thought.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It wearies me to tell of his falseness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And nonetheless I will yet express it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With the intention that men may be warned by this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And for no other cause, truly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He put this ounce of copper in the crucible,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And on the fire quickly he has set it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And cast in powder, and made the priest to blow,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in his working to stoop low,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As he did before -- and all was nothing but a trick;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Exactly as he wished, he made the priest his ape!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And afterward he cast the ingot in it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And put it at the last into the pan <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of water, and in he put his own hand,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in his sleeve (as you before-hand<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Heard me tell) he had a small bar of silver.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He slyly took it out, this cursed rascal,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This priest not knowing of his false craft,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in the pan's bottom he has left it;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in the water groped noisily about to and fro,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And wonderfully secretly took up also <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The copper bar, this priest not knowing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And hid it, and grabbed him by his coat,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to him spoke, and thus said jokingly:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Stoop down. By God, you are to blame!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Help me now, as I did you before;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Put in your hand, and see what is there."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This priest quickly took up this silver bar,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And then said the canon, "Let us go<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With these three bars, which we have wrought,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To some goldsmith and learn if they are worth anything,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For, by my faith, I would not (have them), for (the cost of) my hood,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless they be silver pure and good,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that very quickly shall be tested."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto the goldsmith with these three bars<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They went and put these bars to the test<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of fire and hammer; no man could say nay,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But that they were as they ought to be.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This deluded priest, who was gladder than he?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was never bird more glad at daybreak,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor nightingale in the season of May,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was never none that was more eager to sing;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor lady more enthusiastic in singing carols to spring,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or to speak of love and womanhood,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor knight in arms to do a hardy deed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To stand in the good graces of his dear lady,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than this priest had to learn this sorry craft.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to the canon thus he spoke and said:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "For love of God, Who died for us all,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And as I may deserve (to have) it from you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What shall this recipe cost? Tell now!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "By our Lady," said this canon, "it is expensive,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I warn you well; for except for me and a friar,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is no man in England who can make it."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "No matter," said he, "now, sir, for God's sake,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What shall I pay? Tell me, I pray."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Indeed," said he, "as I say, it is very expensive.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sir, at one word, if thou want to have it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You must pay forty pounds, so help me God!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And were it not for the act of friendship that before this you did<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To me, you should pay more, indeed."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This priest right away the sum of forty pounds <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of nobles fetched, and gave every one of them<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To this canon for this same recipe.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All his working was nothing but fraud and deceit.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Sir priest," he said, "I do not care to have fame<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For my craft, for I would that it were kept confidential;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And, as you love me, keep it secret.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For, if men knew of all my esoteric skill,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By God, they would have so great envy<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of me because of my science<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I should be dead; there would be no other way."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "God forbid it," said the priest, "what say you?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet would I rather spend all the wealth<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I have, and otherwise I would rather go mad,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than that you should fall in such distress."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "For your good will, sir, you have givem right good proof,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said the canon, "and farewell, many thanks!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He went his way, and never the priest him saw<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; After that day; and when this priest should<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At such time as he wanted, make a trial <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of this recipe, farewell! It would not work.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, thus tricked and beguiled was he!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus he makes his introductory gambit,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To bring folk to their destruction.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Consider, sirs, how, in each social rank,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Betwixt men and gold there is conflict <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So widespread that there is hardly any gold left.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This transmutation blinds so many a one<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That in good faith I believe that it is<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The greatest cause of such scarcity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Philosophers speak so mystically<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; About this craft that men can not come to it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For any wit that men have now-a-days.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They may well chatter as do jays,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in their technical terms set their desire and pain,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But to their purpose shall they never attain.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A man can easily learn, if he have anything,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To transmute metals, and bring his wealth to nothing!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo! such a profit is in this pleasing game,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It will turn a man's mirth into sorrow,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And empty also great and heavy purses,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And make folk to deserve curses<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of those who have lent their wealth for that purpose.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O, fie, for shame! Those who have been burned,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Alas, can they not flee the fire's heat?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You who use it, I advise you let it go,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lest you lose all; for late is better than never.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Never to thrive would be too long a time.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though you search forever, you shall never find it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You are as heedless as is Bayard the blind horse,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That blunders forth and takes account of no peril.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He is as likely to run against a stone<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As to go around it in the road.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So fare you who multiply, I say.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If your eyes can not see clearly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; See that your mind lacks nothing of its sight.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For though you look never so broadly and stare,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You shall gain nothing on that transaction,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But waste all that you can steal and carry away.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Withdraw the fire, lest it burn too fast;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Meddle no more with that art, I mean,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For if you do, your prosperity is completely gone.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And very quickly I will you tell here<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What alchemists say in this matter.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, thus says Arnold of the New Town,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As his book Rosari makes mention;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He says right thus, without any lie:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "There is no man who can harden mercury <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless it be with his brother's knowledge";<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Although he who first said this thing<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was father of philosophers, Hermes Trismegistus;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He says that the dragon, doubtless,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Does not die unless he be slain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By his brother; and that is to say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By the dragon, Mercury, and none other<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He understood, and brimstone by his brother,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That out of Sol (gold) and Luna (silver) were drawn.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And therefore," said he -- take heed of my words --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Let no man busy himself to seek this art,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless he the meaning and speech<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of alchemists can understand;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if he do, he is an ignorant man.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For this science and this cunning," said he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Concerns the secret of the secrets, by God."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Also there was a disciple of Plato,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That one time said to his master,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As his book Senior will bear witness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And this was his question in truth:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Tell me the name of the secret stone."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And Plato answered unto him straightaway,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Take the stone that men name Titanos."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "What is that?" said he. "Magnesia is the same,"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Said Plato. "Yes, sir, and is it thus?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is explaining the unknown by the more unknown.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What is Magnesia, good sir, I pray you?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "It is a liquid that is made, I say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of the four elements," said Plato.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Good sir," said he then, "Tell me the basic constituent<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Of that liquid, if it be your wish."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Nay, nay," said Plato, "certainly, that I will not.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The alchemists were sworn every single one<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That they should reveal it unto no one,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor in any book write it in any way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For unto Christ it is so beloved and dear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That He does not wish that it be discovered,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except where it is pleasing to his deity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To enlighten men, and also to forbid<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whomever he pleases; lo, this is the end."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then I conclude thus, since God of heaven<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Does not wish that the alchemists should tell<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How a man shall come unto this stone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I advise, as for the best, let it go.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For whoever makes God his adversary,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As to do any thing in contrary<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To his will, certainly, never shall he thrive,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though he practice alchemy all his life.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And there (put) a period, for my tale is ended.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; God send every true man remedy for his troubles!<BR>
+When the life of Saint Cecile was ended,
+Before we had ridden a good five miles,
+At Boghtoun under Blee overtook us 
+A man who was clothed in black clothes,
+And underneath that he had a white surplice.
+His riding horse, that was all dapple gray,
+So sweated that it was a wonder to see;
+It seemed as if he had spurred hard for three miles.
+The horse also that his yeoman rode upon
+So sweated that it could hardly move.
+About the collar stood the foam very high;
+He was by foam all flecked like a magpie.
+A double bag on his crupper lay;
+It seemed that he carried little gear.
+All lightly clad for summer rode this worthy man,
+And in my heart I began to wonder
+What he was until I understood
+How his cloak was sewn to his hood,
+For which, when I had long thought about it,
+I judged him to be some sort of canon.
+His hat hung at his back down by a strap,
+For he had ridden at more than a trot or a walk;
+He had always spurred as if he were crazy.
+A burdock-leaf he had under his hood
+For sweat and to keep his head from heat.
+But what a joy it was to see him sweat!
+His forehead dripped like a still
+Full of the herbs plantain and pellitory.
+And when he was come to us, he began to cry out,
+"God save," said he, "this jolly company!
+Fast have I spurred," said he, "for your sake,
+Because I wanted to overtake you,
+To ride in this merry company."
+His yeoman also was full of courtesy,
+And said, "Sirs, just now in the morning time
+I saw you ride out of your hostelry,
+And told my lord here and my sovereign,
+Who is very eager to ride with you 
+For his pleasure; he loves sociability."
+"Friend, for thy telling him God give thee good luck,"
+Then said our Host, "for certainly it would seem
+Thy lord is wise, and as I can well judge.
+He is very cheerful also, I dare wager!
+Can he in any way tell a merry tale or two,
+With which he may gladden this company?"
+"Who, sir? My lord? Yes, yes, without lie,
+He knows about mirth and also about jollity
+More than enough; also, sir, trust me,
+If you knew him as well as do I,
+You would wonder how well and craftily
+He knows how to work, and that in a variety of ways.
+He has taken on him many a great enterprise,
+Which would be very hard for any one who is here
+To bring about, unless they learn it from him.
+Despite how modestly he rides amongst you,
+If you knew him, it would be to your advantage.
+You would not forgo his acquaintance
+For great riches, I dare wager on that
+All that I have in my possession.
+He is a man of great discretion;
+I tell you indeed, he is a remarkable man."
+"Well," said our Host, "I pray thee, tell me then,
+Is he a clerk, or not? Tell what he is."
+"Nay, he is greater than a clerk, indeed,"
+Said this Yeoman, "and in few words,
+Host, I will show you something of his craft.
+"I say, my lord knows such esoteric science --
+But all his craft you can not know from me,
+And yet somewhat I help in his work --
+That all this ground on which we are riding,
+Until we come to Canterbury town,
+He could turn all completely upside down,
+And pave it all with silver and with gold."
+And when this Yeoman had this tale told
+Unto our Host, he said, "Bless you!
+This thing is wonderfully marvelous to me,
+Since thy lord is of such great prudence,
+Because of which men should reverence him,
+That he cares so little for his own self-respect.
+His outer garment is not worth a fraction of a penny,
+Because in fact, to him, as I may go (I swear), 
+It is all dirty and tattered also.
+Why is thy lord so slovenly, I pray thee,
+And has the power to buy better cloth,
+If his deeds accord with thy speech?
+Tell me that, and of that I beseech thee."
+"Why?" said this Yeoman, "why do you ask me?
+So help me God, for he shall never prosper!
+(But I will not publicly acknowledge what I say,
+And therefore keep it secret, I pray you.)
+He is too wise, in faith, as I believe.
+That which is done too much, it will not turn out
+Right, as clerks say; it is a vice.
+Therefore in that I hold him ignorant and foolish.
+For when a man has too great a wit,
+Very often he happens to misuse it.
+So does my lord, and that sorely grieves me;
+God amend it! I can tell you no more."
+"That does not matter, good Yeoman," said our Host;
+"Since thou knowest of the cunning of thy lord,
+Tell how he does, I pray thee heartily,
+Since he is so crafty and so sly.
+Where do you dwell, if it can be told?"
+"In the outskirts of a town," said he,
+"Lurking in hiding places and in dead-end alleys,
+Where these robbers and these thieves by nature
+Hold their private fearful residence,
+Like those who dare not show their presence;
+So fare we, if I shall say the truth."
+"Now," said our Host, "yet let me talk to thee.
+Why art thou so discolored in thy face?"
+"Peter!" said he, "God give it bad luck,
+I am so used to blow in the fire 
+That it has changed my color, I believe.
+I am not accustomed to peer in any mirror,
+But to work hard and to learn to transmute metals.
+We blunder ever and stare in the fire,
+And despite all that, we fail to achieve our desire,
+For ever we lack our desired conclusion.
+To many folk we do delusion,
+And borrow gold, be it a pound or two,
+Or ten, or twelve, or many greater sums,
+And make them believe, at the very least,
+That of one pound we could make two.
+Yet is it false, but always we have good hope
+To do it, and after it we grope.
+But that knowledge is so far ahead of us,
+We can not, although we had sworn it,
+Overtake it, it slides away so fast.
+It will make us beggars at the last."
+While this Yeoman was thus in his talking,
+This Canon drew himself nearer and heard every thing
+Which this Yeoman spoke, for suspicion
+Of men's speech ever had this Canon.
+For Cato says that he who is guilty
+Believes every thing is spoken about him, indeed.
+That was the cause he did draw himself so near 
+To his Yeoman, to hear all his speech.
+And thus he said unto his Yeoman then:
+"Hold thou thy peace and speak no more words,
+For if thou do, thou shalt dearly pay for it.
+Thou slanderest me here in this company,
+And also revealest what thou shouldest hide."
+"Yes," said our Host, "tell on, whataever may happen.
+Reckon all his threatening not worth a fraction of a penny!" 
+"In faith," said he, "I do (reckon him) but little any more."
+And when this Canon saw it would not be,
+But that his Yeoman would tell his secrets,
+He fled away for true sorrow and shame.
+"Ah!" said the Yeoman, "here shall arise some amusement;
+Right now I will tell all that I know.
+Since he is gone, may the foul fiend kill him!
+For never hereafter will I meet with him 
+For penny nor for pound, I promise you.
+He who brought me first unto that game,
+Before he dies, may he have sorrow and shame!
+For it is serious (not game) to me, by my faith;
+That feel I well, whatever any man says.
+And yet, for all my pain and all my grief,
+For all my sorrow, labor, and mischief,
+I could never leave it in any way.
+Now I wish to God my wit might suffice
+To tell all that belongs to that art!
+But nonetheless you desire that I tell part.
+Since my lord is gone, I will not spare;
+Such things as what I know, I will declare.
+[<i>Prima Pars</i>]
+[<i>[First Part</i>]
+With this Canon I have dwelt seven years,
+And as to his science I am never the nearer (to success).
+All that I had I have lost thereby,
+And, God knows, so have many more than I.
+Where I was accustomed to be right fresh and gay
+Of clothing and of other splendid furnishings,
+Now may I wear a hose upon my head;
+And whereas my color was both fresh and red,
+Now is it pale and of a leaden hue --
+Whoever uses it (that art), sorely shall he rue! --
+And by my work yet my eye is bleared.
+Lo, how profitable it is to transute metals!
+That slippery science has made me so bare 
+That I have no possessions, wherever I fare;
+And yet by this I am so indebted 
+For gold that I have borrowed, truly,
+That while I live I shall never repay it.
+Let every man be warned by me forever!
+Whatever sort of man that applies himself to that,
+If he continue, I consider his prosperity done for.
+For so help me God, he shall not profit thereby,
+But empty his purse and make his wits thin.
+And when he through his madness and folly
+Has lost his own possessions in this dangerous business,
+Then he incites other folk to that,
+To lose their possessions as he himself has done.
+For unto scoundrels it is joy and ease
+To have their fellows in pain and hardship.
+Thus was I once taught by a clerk.
+No matter about that; I will speak of our work.
+When we are where we shall exercise
+Our mysterious craft, we seem wonderfully wise,
+Our terms are so scholarly and so strange.
+I blow the fire until my heart faints.
+Why should I tell each proportion
+Of the things that we work upon --
+As on five or six ounces, it may well be,
+Of silver, or some other quantity --
+And busy myself to tell you the names
+Of orpiment (arsenic trisulfide), burned bones, iron flakes,
+That are ground into very fine powder;
+And how all is put in an earthen pot,
+And salt put in, and also pepper,
+Before these powders that I speak of here;
+And well covered with a lamp-shaped vessel of glass;
+And of many other things which were there;
+And sealing of the pot and glasses
+So that not a bit of the air could pass out;
+And of the slow fir, and fast also,
+Which was made, and of the care and woe
+That we had in purifying our materials,
+And in blending and reducing to powder
+Of quicksilver, called raw mercury?
+Despite all our tricks we can not succeed.
+Our orpiment (arsenic trisulfide), and purified mercury,
+Our litharge (lead monoxide) ground also on the porphyry mortar,
+A certain number of ounces of each of these --
+Nothing helps us; our labor is in vain.
+Also neither our spirit's vaporization,
+Nor our materials that remain fixed in the pot,
+Can in any way help us in our working,
+For all our labor and travail is lost;
+And all the expenditure, in the name of twenty devils,
+Which we spent upon it, is lost also.
+There is also very many another thing
+That pertains unto our craft.
+Though I can not list them in their proper order,
+Because I am an unlearned man,
+Yet will I tell them as they come to mind,
+Though I can not set them in their proper categories:
+Such as armenian bol (red clay), verdigris (copper acetate), borax,
+And various vessels made of clay and glass,
+Our urinals and our retorts,
+Vials, crucibles, and sublimation vessels,
+Vessels for distilling and alembics also,
+And other such things, very expensive at the price of a leek --
+There ia no need to list them all --
+Liquids that cause reddening, and bull's gall,
+Arsenic, sal ammoniac, and brimstone;
+And herbs could I tell also many a one,
+Such as agrimony, valerian, and moonwort,
+And other such things, if I wanted to tarry;
+Our lamps burning both night and day,
+To bring about our purpose, if we can;
+Also our furnace for reducing substances to powder,
+And of whitening by liquids;
+Unslaked lime, chalk, and white of an egg,
+Various powders, ashes, dung, piss, and clay,
+Waxed (waterproofed) packets, saltpeter, sulphuric acid,
+And various sorts of fires made of wood and coal;
+Potassium nitrate, alkali, and purified salt,
+And burned materials and solidified;
+Clay made with horse or man's hair, and oil
+Of tartar, crystallized alum, yeast, unfermented malt, and argol,
+Arsenic, and soaking our materials,
+And also of forming a compound of our materials,
+And of turning our silver to a yellow color,
+Our fusion by heat and fermentation,
+Our casting molds, crucibles for testing, and many more.
+I will tell you, as it was taught also to me,
+The four spirits and the seven metals
+By order, as often I heard my lord name them.
+The first spirit is called quicksilver,
+The second orpiment (arsenic trisulfide), the third, indeed,
+Sal ammoniac, and the fourth brimstone.
+The seven metals also, lo, hear them now:
+Sun is gold, and Moon silver we say,
+Mars iron, Mercury we call quicksilver,
+Saturn lead, and Jupiter is tin,
+And Venus copper, by my father's kin!
+Whoever will exercise this cursed craft,
+He shall have no wealth that can be enough for him,
+For all the wealth he spends on this
+He shall lose; of that have I no doubt.
+Whoever desires to make public his folly,
+Let him come forth and learn to transmute base metals;
+And every man that has anything in his strong-box,
+Let him appear and become an alchemist.
+Is that craft were so easy to learn?
+Nay, nay, God knows, be he monk or friar,
+Priest or canon, or any other creature,
+Though he sit at his book both day and night
+In learning of this mysterious foolish lore,
+All is in vain, and by God, much more.
+To teach an ignorant man this ingenious skill --
+Fie! Speak not about that, for it will not be.
+And know he book learning or know he none,
+In fact, he shall find it all the same.
+For both of the two, by my salvation,
+Conclude in transmutation
+Equally well, when they are all done;
+This is to say, they fail, both of the two.
+Yet I forgot to make enumeration 
+Of acidic waters, and of metal filings,
+And of the softening of materials,
+And also of their hardening;
+Oils, cleansings, and fusible metal --
+To tell all would be longer than any large book
+That is anywhere; therefore, as for the best,
+Of all these names now I will rest myself,
+For, as I believe, I have told you enough
+To raise a fiend, though he look never so rough.
+Ah! Nay! Let be; the philosophers' stone,
+Called Elixir, we seek earnestly each one of us;
+For if we had it, then we would be very well off.
+But unto God of heaven I make avow,
+Despite all our craft, when we have all done,
+And all our skill, he will not come us to.
+He has made us spend much money,
+For sorrow of which we almost go mad,
+Except that good hope creeps into our heart,
+Supposing ever, though we sorely suffer,
+To be relieved by him afterward.
+Such supposing and hope is sharp and hard;
+I warn you well, it is to keep seeking forever.
+That future tense has made men to be separated,
+In trust on that, from all that ever they had.
+Yet of that art they can not be satisfied,
+For unto them it is a bitter sweet --
+So it seems -- for had they nothing but a sheet
+Which they might wrap themselves in at night,
+And a rough cloak to walk in by daylight,
+They would sell them and spend it on this craft.
+They can not stop until nothing is left.
+And evermore, wherever they go,
+Men can know them by the smell of brimstone.
+For all the world they stink like a goat;
+Their odor is so like a goat and so intense
+That though a man be a mile from them,
+The odor will infect him, trust me.
+Lo, thus by smelling and threadbare array,
+If men so desire, this folk they can know.
+And if a man will ask them privily
+Why they are clothed so poorly,
+They right away will whisper in his ear,
+And say that if they were recognized,
+Men would slay them because of their knowledge.
+Lo, thus these folk betray innocence!
+Pass over this; I go unto my tale.
+Before the pot on the fire is done,
+With a specific quantity of metals,
+My lord tempers them, and no man but he --
+Now he is gone, I dare say boldly --
+For, as men say, he can work craftily.
+Although I know well he has such a reputation;
+And yet very often he gets in trouble.
+And do you know how? Full often it so happens
+The pot shatters, and farewell, all is gone!
+These metals are of such great violence
+The sides of our vessels can not make resistance to them,
+Unless they were made of lime and stone;
+They pierce so, and through the wall they go.
+And some of them sink into the ground --
+Thus have we quickly lost many a pound --
+And some are scattered all over the floor;
+Some leap into the roof. Without doubt,
+Though the fiend does not show himself to our sight,
+I believe he is with us, that same scoundrel!
+In hell, where he is lord and sire,
+There is no greater woe, nor greater rancor nor ire.
+When our pot is broken, as I have said,
+Every man chides and considers himsef ill used.
+Some said it was due to the making of the fire;
+Some said nay, it was due to the blowing --
+Then was I afraid, for that was my job.
+"Rubbish!" said the third, "you are ignorant and foolish.
+It was not tempered as it ought to be."
+"Nay," said the fourth, "be quiet and listen to me.
+Because our fire was not made of beech,
+That is the cause and none other, as I may prosper!"
+I can not tell what it was due to,
+But well I know great strife is among us.
+"Well," said my lord, "there is no more to do;
+Of these perils I will be wary next time.
+I am very sure that the pot was cracked.
+Be as be may, be you in no way amazed;
+As our practice is, have the floor quickly swept,
+Pluck up your hearts and be glad and blithe."
+The rubbish was swept in a heap,
+And on the floor was cast a canvas,
+And all this rubbish thrown in a sieve 
+And sifted, and picked over many a time.
+"By God," said one, "something of our metal
+Yet is there here, though we have not all.
+And though this thing may have turned out badly this time,
+Another time it may go well indeed.
+We must put our possessions at risk.
+A merchant, by God, may not endure forever,
+Trust me well, in his prosperity.
+Sometimes his goods are drowned in the sea,
+And sometime they come safely unto the land."
+"Quiet!" said my lord, "the next time I will endeavor
+To bring our experiment to an entirely different state,
+And unless I do, sirs, let me have the blame.
+There was something wrong, I well know."
+Another said the fire was too hot --
+But, be it hot or cold, I dare say this,
+That we conclude always with something gone wrong.
+We fail to get that which we want to have,
+And in our madness always we rave.
+And when we are all together every one,
+Every man seems a Solomon.
+But every thing thah shines like gold
+Is not gold, as I have heard said;
+Nor every apple that is fair to the eye
+Is not good, whatever men may chatter or cry.
+Right so, lo, it fares among us:
+He who seems the wisest, by Jesus,
+Is the greatest fool, when it comes to the proof;
+And he that seems truest is a thief.
+That shall you know, before I from you wend,
+By the time that I have made an end of my tale.
+There is a canon regular
+Amongst us, who would infect a whole town,
+Though it were as big as was Nineveh,
+Rome, Alexandria, Troy, and any three others.
+His tricks and his infinite falseness
+No man could write, as I guess,
+Though he might live a thousand years.
+In all this world is not his equal in falsehood,
+For in his technical terms he will so wrap himself,
+And speak his words in so deceitful a manner,
+When he shall converse with any person,
+That he will make a fool of him right away,
+Unless it be a fiend, as he himself is.
+Very many a man has he beguiled before this,
+And will, if he may live a while longer;
+And yet men ride and walk very many a mile
+To seek him and have his acquaintance,
+Not knowing of his false way of life.
+And if you want to listen to me,
+I will tell it here in your presence.
+But worshipful religious canons,
+Do not think that I slander your house,
+Although my tale be about a canon.
+There is some scoundrel in every order, by God,
+And God forbid that a whole company
+Should suffer for one single man's folly.
+To slander you is not at all my intention,
+But I mean to correct what is amiss.
+This tale was not only told for you,
+But also for many others; you know well 
+That among Christ's twelve apostles 
+There was no traitor but Judas himself.
+Then why should all the remnant have the blame
+Who were guiltless? Concerning you I say the same,
+Save only this, if you will listen to me:
+If any Judas be in your convent,
+Remove him quickly, I advise you,
+If the prospect of shame or dishonor can cause any fear.
+And be not at all displeased, I pray you,
+But in this case listen to what I shall say.
+In London was a priest, a chantry priest,
+Who therein had dwelled many a year,
+Who was so pleasant and so attentive
+Unto the woman, where he took his meals,
+That she would not allow him to pay anything
+For board nor clothing, went he never so gay,
+And he had plenty of spending money.
+That does not not matter; I will now proceed,
+And tell forth my tale of the canon
+Who brought this priest to ruin.
+This false canon came upon one day
+Unto this priest's chamber, where he stayed,
+Beseeching him to lend him a certain amount
+Of gold, and he would pay it back to him again.
+"Loan me a mark," said he, "for only three days,
+And at my assigned day I will repay it to thee.
+And if it so be that thou find me false,
+The next day have me hanged by the neck!"
+This priest gave him a mark, and that very quickly,
+And this canon thanked him many times,
+And took his leave, and went forth on his way,
+And at the third day brought his money,
+And to the priest he gave back his gold,
+For which this priest was wonderfully glad and happy.
+"Certainly," said he, "in no way does it annoy me
+To lend a man a noble, or two, or three,
+Or whatever thing if it were in my possession,
+When he is so true, of such character
+That in no way will he fail to pay on his assigned day:
+To such a man I can never say no."
+"What!" said this canon, "should I be untrue?
+Nay, that would be a thing completely without precedent.
+My pledged word is a thing that I will always keep
+Until that day in which I shall creep
+Into my grave, and God forbid it be otherwise.
+Believe this is as true as your Creed.
+I thank God, and rightly it may be said,
+That there was never man yet suffered evil
+For gold or silver that he lent to me,
+Nor did I ever intend falsehood in my heart.
+And sir," said he, "now some of my secrets,
+Since you have been so goodly unto me,
+And shown to me such great courtesy,
+Something with which to repay your kindness
+I will show you, and if you want to learn,
+I will teach you fully the manner
+How I know how to to work in alchemy.
+Pay cl,ose attention; you shall well see by eye
+That I will do a masterful work before I go."
+"Yes," said the priest, "yes, sir, and will you so?
+By Saint Mary, for that I pray you heartily."
+"At your commandment, sir, truly,"
+Said the canon, "and otherwise God forbid!"
+Lo, how this thief could offer his service!
+Very true it is that such a favor not asked for
+Stinks, as these old wise writers bear witness,
+And very soon I will verify it
+In (the deeds of) this canon, root of all treachery,
+Who evermore has delight and gladness --
+Such fiendish thoughts in his heart are fixed --
+How he can bring Christ's people to mischief.
+God keep us from his false dissimulation!
+This priest knew not with whom he dealt,
+And of his coming harm he felt nothing.
+O hapless priest! O hapless innocent!
+Very soon thou shalt be blinded by greed!
+O unfortunate, completely blind is thy mind,
+In no way art thou aware of the deceit
+Which this fox has destined for thee!
+His cunning deceptions thou canst not flee.
+Therefore, to go to the conclusion,
+That refers to thy ruin,
+Unhappy man, right now I will hasten myself
+To tell thy lack of prudence and thy folly,
+And also the falseness of that other wretch,
+Insofar as my skill will stretch.
+This canon was my lord, you would suppose?
+Sir host, in faith, and by the heaven's queen,
+It was another canon, and not he,
+Who knows a hundred times more trickery.
+He has betrayed folks many a time;
+It distresses me to compose rimes about his falseness.
+Every time I speak of his falsehood,
+For shame of him my cheeks grow red.
+At least they begin to glow,
+For redness have I none, very well I know,
+In my visage; for various fumes
+Of metals, which you have heard me rehearse,
+That have consumed and wasted my redness.
+Now pay attention to this canon's cursedness!
+"Sir," said he to the priest, "have your man go
+For quicksilver, would that we had it right now;
+And have him bring two or three ounces;
+And when he comes, quickly you shall see
+A wonderful thing, which you never saw before this."
+"Sir," said the priest, "it shall be done, indeed."
+He bad his servant fetch him this thing,
+And he was all ready at his bidding,
+And went forth, and came right back again
+With this quicksilver, shortly to say,
+And gave these three ounces to the canon;
+And he laid them down neatly and carefully,
+And bad the servant to bring coals,
+So that he might go to his working right away.
+The coals right away were fetched,
+And this canon took out a crucible
+From his bosom, and showed it to the priest.
+"This instrument," said he, "which thou seest,
+Take in thy hand, and thyself put therein
+An ounce of this quicksilver, and here begin,
+In the name of Christ, to become an alchemist.
+There are very few to whom I would offer
+To show them thus so much of my science.
+For you shall see here, by experience,
+That this quicksilver I will harden
+Right in your sight indeed, without lie,
+And make it as good silver and as fine
+As there is any in your purse or mine,
+Or elsewhere, and make it malleable;
+And otherwise consider me false and unable
+For ever to appear amongst folk.
+I have a powder here, that cost me dearly,
+Shall make all good, for it is cause of all
+My cunning, which I shall show you.
+Send away your man, and have him be outside,
+And shut the door, while we are about
+Our secret business, so that no man espy us,
+While we work in this science."
+All was in deed fulfilled as he commanded.
+This same servant right away went out,
+And his master shut the door quickly,
+And to their labor speedily they go.
+This priest, at this cursed canon's bidding,
+Upon the fire at once set this thing,
+And blew the fire, and busied himself very intently.
+And this canon into the crucible cast
+A powder, I do not know of what it was
+Made, either of chalk, or of glass,
+Or something else, that was not worth a fly,
+With which to blind this priest; and bade him hasten
+To lay all the coals above
+The crucible. "To serve as a sign that I love thee,"
+Said this canon, "thine own two hands
+Shall do every thing that shall here be done."
+"Many thanks," said the priest, and was very glad,
+And laid the coals as the canon bad.
+And while he was busy, this fiendish wretch,
+This false canon -- may the foul fiend fetch him! --
+Out of his bosom took a beech coal,
+In which very skilfully was made a hole,
+And therein was put of silver filings
+An ounce, and was sealed shut, without doubt, 
+This hole with wax, to keep the filings in.
+And understand that this false device
+Was not made there, but it was made before;
+And other things I shall tell more
+Later, which he brought with him.
+Before he came there, he intended to trick him,
+And so he did, before they went apart;
+Until he had skinned him, he could not cease.
+It distresses me when I speak of him.
+I would like to avenge myself for his falsehood,
+If I knew how, but he is now here and now there;
+He is so changeable, he abides nowhere.
+But pay attention now, sirs, for God's love!
+He took his coal of which I spoke above,
+And in his hand he bore it secretly.
+And while the priest busily laid
+The coals, as I told you before this,
+This canon said, "Friend, you do it wrong.
+This is not arranged as it ought to be;
+But soon I shall amend it," said he.
+"Now let me work with it but a while,
+For I have pity of you, by Saint Gile!
+You are very hot; I see well how you sweat.
+Have here a cloth, and wipe away the wetness."
+And while the priest wiped his face,
+This canon took his coal -- may he have bad luck! --
+And laid it above, upon the middle
+Of the crucible, and blew well afterward
+Until the coals began to burn fast.
+"Now give us drink," said the canon then;
+"Soon all shall be well, I guarantee.
+Sit we down, and let us make merry."
+And when this canon's beech coal
+Was burned, all the filings out of the hole
+Into the crucible fell right down;
+And so it must be necessarily, by reason,
+Since it was placed so exactly above.
+But of this the priest knew nothing, alas!
+He thought all the coals equally good,
+For he understood nothing of that trick.
+And when this alchemist saw his time,
+"Rise up," said he, "sir priest, and stand by me;
+And because I know well you have no ingot,
+Go, walk forth, and bring a chalk stone;
+For I will make it of the same shape
+As is an ingot, if I may have such luck.
+And bring also with you a bowl or a pan
+Full of water, and you shall see well then
+How our business shall thrive and succeed.
+And yet, so that you shall have no suspicion
+Nor wrong opinion of me in your absence,
+I will not be out of your presence,
+But go with you and come with you again."
+The chamber door, shortly to say,
+They opened and shut, and went their way.
+And forth with them they carried the key,
+And came back again without any delay.
+Why should I tarry all the long day?
+He took the chalk and shaped it in the manner
+Of an ingot, as I shall tell you.
+I say, he took out of his own sleeve
+A small bar of silver -- may he have evil luck! --
+Which was not more than an ounce of weight.
+And pay attention now to his cursed trick!
+He shaped his ingot in the length and in the breadth
+Of this small bar, without any doubt,
+So slyly that the priest did not see it, 
+And in his sleeve again he did hide it,
+And from the fire he took up his material,
+And put it in the ingot with merry demeanor,
+And in the pan of water he cast it,
+When it pleased him, and commanded the priest quickly,
+"See what is there; put in thy hand and grope.
+Thou shalt find there silver, as I believe."
+What else, devil of hell, should it be?
+Shaving of silver is silver, by God!
+He put his hand in and took up a small bar
+Of pure silver, and glad in every vein
+Was this priest, when he saw it was so.
+"God's blessing, and his mother's also,
+And all saints, have you (in their protection), sir canon,"
+Said the priest, "and may I have their curse,
+But, if you condescend to teach me
+This noble craft and this esoteric art,
+I will be yours in all that ever I can."
+Said the canon, "Yet I will make trial 
+The second time, that you may pay attention
+And be expert concerning this, and when you are in need
+Some other day in my absence to try out
+This discipline and this ingenious science.
+Let's take another ounce," said he then,
+"Of quicksilver, without more words,
+And do therewith as you have done before this
+With that other, which now is silver."
+This priest busies himself in all that he knows how
+To do as this canon, this cursed man,
+Commanded him, and blew hard on the fire,
+In order to come to the realization of his desire.
+And this canon, at exactly the same time,
+Was all ready to beguile this priest again,
+And for show in his hand he bore
+A hollow stick -- pay attention and beware! --
+In the end of which an ounce, and no more,
+Of silver filings was put, as before
+Was in his coal, and well sealed shut with wax
+To keep in his filings every bit.
+And while this priest was busy with his work,
+This canon with his stick began to go
+To him right away, and his powder cast in
+As he did before-- the devil out of his skin
+Flay him, I pray to God, for his falsehood!
+For he was ever false in thought and deed --
+And with this stick, above the crucible,
+That was prepared with that false contrivance,
+He stirred the coals until it began to melt
+The wax next to the fire, as every man,
+Unless he be a fool, knows well it must by necessity,
+And all that was in the stick went out,
+And into the crucible it quickly fell.
+Now, good sirs, what more will you have?
+When this priest was thus beguiled again,
+Supposing nothing but truth, sooth to say,
+He was so glad that I can not express
+In any manner his mirth and his gladness;
+And to the canon he offered again
+Body and possessions. "Yes," quickly said the canon,
+"Though I be poor, thou shalt find me skilfull.
+I warn thee, there is yet more to come.
+Is there any copper here?" said he.
+"Yes," said the priest, "sir, I believe well there is some."
+"Otherwise go buy us some, and do that quickly;
+Now, good sir, go forth thy way and hurry thee."
+He went his way, and with the copper came back,
+And this canon took it in his hands,
+And of that copper weighed out only an ounce.
+All too simple is my tongue to pronounce,
+As servant of my wit, the duplicity
+Of this canon, root of all cursedness!
+He seemed friendly to those that did not know him,
+But he was fiendish both in deed and thought.
+It wearies me to tell of his falseness,
+And nonetheless I will yet express it,
+With the intention that men may be warned by this,
+And for no other cause, truly.
+He put this ounce of copper in the crucible,
+And on the fire quickly he has set it,
+And cast in powder, and made the priest to blow,
+And in his working to stoop low,
+As he did before -- and all was nothing but a trick;
+Exactly as he wished, he made the priest his ape!
+And afterward he cast the ingot in it,
+And put it at the last into the pan 
+Of water, and in he put his own hand,
+And in his sleeve (as you before-hand
+Heard me tell) he had a small bar of silver.
+He slyly took it out, this cursed rascal,
+This priest not knowing of his false craft,
+And in the pan's bottom he has left it;
+And in the water groped noisily about to and fro,
+And wonderfully secretly took up also 
+The copper bar, this priest not knowing,
+And hid it, and grabbed him by his coat,
+And to him spoke, and thus said jokingly:
+"Stoop down. By God, you are to blame!
+Help me now, as I did you before;
+Put in your hand, and see what is there."
+This priest quickly took up this silver bar,
+And then said the canon, "Let us go
+With these three bars, which we have wrought,
+To some goldsmith and learn if they are worth anything,
+For, by my faith, I would not (have them), for (the cost of) my hood,
+Unless they be silver pure and good,
+And that very quickly shall be tested."
+Unto the goldsmith with these three bars
+They went and put these bars to the test
+Of fire and hammer; no man could say nay,
+But that they were as they ought to be.
+This deluded priest, who was gladder than he?
+Was never bird more glad at daybreak,
+Nor nightingale in the season of May,
+Was never none that was more eager to sing;
+Nor lady more enthusiastic in singing carols to spring,
+Or to speak of love and womanhood,
+Nor knight in arms to do a hardy deed,
+To stand in the good graces of his dear lady,
+Than this priest had to learn this sorry craft.
+And to the canon thus he spoke and said:
+"For love of God, Who died for us all,
+And as I may deserve (to have) it from you,
+What shall this recipe cost? Tell now!"
+"By our Lady," said this canon, "it is expensive,
+I warn you well; for except for me and a friar,
+There is no man in England who can make it."
+"No matter," said he, "now, sir, for God's sake,
+What shall I pay? Tell me, I pray."
+"Indeed," said he, "as I say, it is very expensive.
+Sir, at one word, if thou want to have it,
+You must pay forty pounds, so help me God!
+And were it not for the act of friendship that before this you did
+To me, you should pay more, indeed."
+This priest right away the sum of forty pounds 
+Of nobles fetched, and gave every one of them
+To this canon for this same recipe.
+All his working was nothing but fraud and deceit.
+"Sir priest," he said, "I do not care to have fame
+For my craft, for I would that it were kept confidential;
+And, as you love me, keep it secret.
+For, if men knew of all my esoteric skill,
+By God, they would have so great envy
+Of me because of my science
+I should be dead; there would be no other way."
+"God forbid it," said the priest, "what say you?
+Yet would I rather spend all the wealth
+That I have, and otherwise I would rather go mad,
+Than that you should fall in such distress."
+"For your good will, sir, you have givem right good proof,"
+Said the canon, "and farewell, many thanks!"
+He went his way, and never the priest him saw
+After that day; and when this priest should
+At such time as he wanted, make a trial 
+Of this recipe, farewell! It would not work.
+Lo, thus tricked and beguiled was he!
+Thus he makes his introductory gambit,
+To bring folk to their destruction.
+Consider, sirs, how, in each social rank,
+Betwixt men and gold there is conflict 
+So widespread that there is hardly any gold left.
+This transmutation blinds so many a one
+That in good faith I believe that it is
+The greatest cause of such scarcity.
+Philosophers speak so mystically
+About this craft that men can not come to it,
+For any wit that men have now-a-days.
+They may well chatter as do jays,
+And in their technical terms set their desire and pain,
+But to their purpose shall they never attain.
+A man can easily learn, if he have anything,
+To transmute metals, and bring his wealth to nothing!
+Lo! such a profit is in this pleasing game,
+It will turn a man's mirth into sorrow,
+And empty also great and heavy purses,
+And make folk to deserve curses
+Of those who have lent their wealth for that purpose.
+O, fie, for shame! Those who have been burned,
+Alas, can they not flee the fire's heat?
+You who use it, I advise you let it go,
+Lest you lose all; for late is better than never.
+Never to thrive would be too long a time.
+Though you search forever, you shall never find it.
+You are as heedless as is Bayard the blind horse,
+That blunders forth and takes account of no peril.
+He is as likely to run against a stone
+As to go around it in the road.
+So fare you who multiply, I say.
+If your eyes can not see clearly,
+See that your mind lacks nothing of its sight.
+For though you look never so broadly and stare,
+You shall gain nothing on that transaction,
+But waste all that you can steal and carry away.
+Withdraw the fire, lest it burn too fast;
+Meddle no more with that art, I mean,
+For if you do, your prosperity is completely gone.
+And very quickly I will you tell here
+What alchemists say in this matter.
+Lo, thus says Arnold of the New Town,
+As his book Rosari makes mention;
+He says right thus, without any lie:
+"There is no man who can harden mercury 
+Unless it be with his brother's knowledge";
+Although he who first said this thing
+Was father of philosophers, Hermes Trismegistus;
+He says that the dragon, doubtless,
+Does not die unless he be slain
+By his brother; and that is to say,
+By the dragon, Mercury, and none other
+He understood, and brimstone by his brother,
+That out of Sol (gold) and Luna (silver) were drawn.
+"And therefore," said he -- take heed of my words --
+"Let no man busy himself to seek this art,
+Unless he the meaning and speech
+Of alchemists can understand;
+And if he do, he is an ignorant man.
+For this science and this cunning," said he,
+"Concerns the secret of the secrets, by God."
+Also there was a disciple of Plato,
+That one time said to his master,
+As his book Senior will bear witness,
+And this was his question in truth:
+"Tell me the name of the secret stone."
+And Plato answered unto him straightaway,
+"Take the stone that men name Titanos."
+"What is that?" said he. "Magnesia is the same,"
+Said Plato. "Yes, sir, and is it thus?
+This is explaining the unknown by the more unknown.
+What is Magnesia, good sir, I pray you?"
+"It is a liquid that is made, I say,
+Of the four elements," said Plato.
+Good sir," said he then, "Tell me the basic constituent
+"Of that liquid, if it be your wish."
+"Nay, nay," said Plato, "certainly, that I will not.
+The alchemists were sworn every single one
+That they should reveal it unto no one,
+Nor in any book write it in any way.
+For unto Christ it is so beloved and dear
+That He does not wish that it be discovered,
+Except where it is pleasing to his deity
+To enlighten men, and also to forbid
+Whomever he pleases; lo, this is the end."
+Then I conclude thus, since God of heaven
+Does not wish that the alchemists should tell
+How a man shall come unto this stone,
+I advise, as for the best, let it go.
+For whoever makes God his adversary,
+As to do any thing in contrary
+To his will, certainly, never shall he thrive,
+Though he practice alchemy all his life.
+And there (put) a period, for my tale is ended.
+God send every true man remedy for his troubles!

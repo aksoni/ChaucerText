@@ -1,916 +1,916 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These old noble Bretons in their days<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of diverse adventures made lays,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rhymed in their first Breton tongue,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which lays with their instruments they sang<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else read them for their pleasure;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And one of them have I in remembrance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which I shall say with as good will as I can.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But, sirs, because I am an unlearned man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At my beginning first I you beseech,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have me excused for my rude speech.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I learned never rhetoric, certainly;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thing that I speak, it must be bare and plain.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I slept never on the Mount of Parnassus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor learned Marcus Tullius Cicero.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Colors know I none, without doubt,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But such colors as grow in the field,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else such as men dye or paint.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Colors of rhetoric (figures of speech) are strange to me;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My spirit feels nothing of such matter.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But if you wish, you shall hear my tale.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In Armorica, that is called Brittany,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There was a knight that loved and worked hard<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To serve a lady in his best manner;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And many a labor, many a great chivalric exploit,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He wrought for his lady before she was won.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For she was the fairest of all under the sun,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also moreover come of such noble ancestry<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That this knight hardly dared, for fear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tell her his woe, his pain, and his distress.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But at the last she, for his worthiness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And namely for his meek submission,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has taken such a pity on his suffering<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That privately she agreed with him<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To take him for her husband and hir lord,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of such lordship as men have over their wives.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to lead the more blissfully their lives,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of his free will he swore her as a knight<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That never in all his life he, day or night,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Should take upon himself any mastery<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Against her will, nor show her jealousy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But obey her, and follow her will in everything,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As any lover to his lady should,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except for the appearance of sovereignty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which he would have to avoid bringing shame on his status (of knighthood). <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She thanked him, and with full great humbleness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She said, "Sir, since of your nobility<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You offer me to have such freedom from restraint,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And would God that never between us two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Through my fault, should be either war or strife.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sir, I will be your humble true wife --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have here my pledge -- until my heart bursts (until I die)." <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus are they both in quiet and in peace.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For one thing, sirs, I dare say confidently,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That friends must obey each other,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If they will long hold company.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Love will not be constrained by mastery.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When mastery comes, the God of Love immediately<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beats his wings, and farewell, he is gone!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Love is a thing free as any spirit.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Women, by nature, desire liberty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And not to be constrained like a slave;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And so do men, if I shall say the truth.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Look who is most patient in love,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He is in the best position, superior to all.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Patience is a noble virtue, certainly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For it vanquishes, as these clerks say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Things that rigor should never attain.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One may not chide or complain for every word.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Learn to suffer, or else, as I may walk (I swear),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You shall learn it, whether you want to or not;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For in this world, certainly, there is no person <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who does not sometime do or speak amiss.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ire, sickness, or the position of the stars,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wine, woe, or changing of the balance of bodily humors<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Causes (one) very often to do or speak amiss.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On every wrong a man can not be avenged.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There must be moderation suitable to the occasion <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By every person who knows about governance. <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And therefore has this wise, worthy knight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To live in ease, promised her forbearance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she to him full truly did swear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That never should there be fault in her.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Here may men see a humble, wise accord;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus has she taken her servant and her lord --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Servant in love, and lord in marriage.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then was he both in lordship and servitude.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Servitude? Nay, but in lordship above,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since he has both his lady and his love;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His lady, certainly, and his wife also,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The which accords to the law of love.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he was in this happy state,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Home with his wife he goes to his country,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not far from Pedmark, where his dwelling was,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where he lives in bliss and in pleasure.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who could tell, unless he had been wedded,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The joy, the ease, and the happiness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That is between a husband and his wife?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A year and more lasted this blissful life,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until the knight of whom I thus speak,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That was called Arveragus of Kayrrud,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prepared himself to go and dwell a year or two<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In England, which was also called Britain,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To seek in arms good reputation and honor --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For he set all his desire in such labor --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And dwelled there two years; the book says thus.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now will I stop (speaking) of this Arveragus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And I will speak of Dorigen his wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who loves her husband as her heart's life.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For his absence she weeps and sighs,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As do these noble wives when it pleases them.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She mourns, stays awake, wails, fasts, complains;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Desire of his presence so presses upon her<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That all this wide world she reckoned as worth nothing.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her friends, who knew her gloomy thought,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comfort her in all that ever they can.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They preach to her, they tell her night and day<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she slays herself without cause, alas!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And every comfort possible in this case<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They do to her with all their concern,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All to make her leave her sadness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In the course of time, as every one of you knows,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One may so long engrave on a stone<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until some figure is imprinted upon it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So long have they comforted her until she<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Received has, by hope and by reason,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The imprint of their consolation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Through which her great sorrow began to be relieved;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She can not always continue in such passionate grief.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also Arveragus, in (the midst of) all this care, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has sent her letters home (telling) of his welfare,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that he will come hastily again;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else this sorrow would have slain her heart.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her friends saw her sorrow began to slacken<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And prayed her on their knees, for God's sake,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To come and walk about in company,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Away to drive her dark imagining.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And finally she granted that request,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For well she saw that it was for the best.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now her castle stood close by the sea,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And often with her friends she walks<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To amuse herself upon the bank on high,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where she saw many a ship and sailing vessel<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sailing their course, where it pleases them to go.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But then was that a portion of her woe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For to herself full often, she says "Alas!",<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Is there no ship, of so many as I see,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Will bring home my lord? Then would my heart be<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All cured of its bitter, sharp pains."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Another time there would she sit and think,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And cast her eyes downward from the brink.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But when she saw the grisly black rocks,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For sheer fear her heart would so quake<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That on her feet she could not sustain herself.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then would she sit down upon the green,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And piteously stare into the sea,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And say right thus, with sorrowful, cold sighs:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Eternal God, who through thy foreknowledge<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Leads the world by sure governance, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Men say you make nothing in vain.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But, Lord, these grisly fiendish black rocks,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That seem rather a foul confusion<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of work than any fair creation<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of such a perfectly wise and stable God,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why have you created this unreasonable work?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For by this work, south, north, nor west, nor east,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is no benefit to man, nor bird, nor beast;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It does no good, to my understanding, but does harm.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; See you not, Lord, how it destroys mankind?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;A  hundred thousand bodies of mankind<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have rocks slain, although their names are forgotten,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And this mankind is so fair a part of thy work<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That thou made it like to thine own image.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then it seemed you had a great love<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Toward mankind; but how then may it be<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That you make such means to destroy it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which means do no good, but always cause trouble?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I know well clerks will say as they please,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By logical reasoning, that all is for the best,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though I can not know the causes.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But that same God that made wind to blow<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Keep my lord! This is my conclusion.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To clerks I leave all disputation.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But would God that all these black rocks <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Were sunk into hell for his sake!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These rocks slay my heart for fear."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus would she say, with many a piteous tear.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her friends saw that it was no pleasure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To roam by the sea, but discomfort,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And decide to amuse themselves somewhere else.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They lead her by rivers and by springs,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also in other delightful places;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They dance and they play at chess and backgammon.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So on a day, early in the morning-tide,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto a garden that was there nearby,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In which they had made their arrangement<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For victuals and for other provisions,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They go and amuse themselves all the long day.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And this was on the sixth morning of May,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which May had painted with its soft showers<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This garden full of leaves and of flowers;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And craft of man's hand so skillfully<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had adorned this garden, truly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That never was there garden of such worth<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless it were the true paradise.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The odor of flowers and the fresh sight<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Would have made any heart light<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That ever was born, unless too great sickness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or too great sorrow held it in distress,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It was so full of beauty with pleasure.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; After dinner they go to dance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And sing also, save Dorigen alone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who made always her complaint and her moan,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For she did not see him on the dance go<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who was her husband and her love also.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nonetheless she must a time abide<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with good hope let her sorrow slip away.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In this dance, among other men,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Danced a squire before Dorigen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who was more lively and more gaily dressed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As to my judgement, than is the month of May.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He sings, dances, passing any man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That is, or was, since the world began.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Therewith he was, if one should him describe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One of the most handsome men alive;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Young, strong, very valiant, and rich, and wise,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And well beloved, and held in great esteem.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And shortly, if I shall tell the truth,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unknown by this Dorigen at all,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This lusty squire, servant to Venus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who was called Aurelius,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had loved her best of any creature<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Two years and more, as was his fate,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But he never dared tell her his grievance.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Copiously he drank all his penance (suffered intensely).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He was in despair; he dared say nothing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except in his songs somewhat he would reveal<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His woe, as in a general lament;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He said he loved and was in no way loved in return<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of such subject matter made he many lays,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Songs, complaints, roundels, virelays,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Saying) how he dared not his sorrow tell,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But suffers as a fury does in hell;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he must die, he said, as did Echo<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For Narcissus, she who dared not tell her woe.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In other ways than you hear me say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He dared not reveal to her his woe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except that, by chance, sometimes at dances,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where young folk observe their customs (of courtship),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It may well be he looked on her face<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In such a manner as a man that asks for grace;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But she knew nothing of his intent.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nonetheless it happened, before they went away,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because he was her neighbor,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And was a man of good reputation and honor,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And (she) had known him for a long time,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They fell in speech; and forth, more and more,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto his purpose drew Aurelius,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he saw his time, he said thus:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Madame," he said, "by God that this world made,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Providing that I knew it might gladden your heart,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I wish that day that your Arveragus<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Went over the sea, that I, Aurelius,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had went from where I should never have come back.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For well I know my service is in vain;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My reward is but the breaking of my heart.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Madame, have pity upon my bitter pains;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For with one word you may me slay or save.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Here at your feet would God that I were buried!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I have now no opportunity to say more;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have mercy, sweet, or you will make me die!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She did look upon Aurelius;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Is this your desire," said she, "and say you thus?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Never before," she said, "Did I know what you meant.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But now, Aurelius, I know your intention,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By that same God that gave me soul and life,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I shall never be an untrue wife<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In word nor deed, so long as I have my wits;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will be his to whom that I am knit.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Take this for my final answer."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But after that in play thus she said:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Aurelius," she said, "by high God above,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet would I grant you to be your love,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since I see you so piteously lament.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On whatever day that from end to end of Brittany<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You remove all the rocks, stone by stone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So that they do not prevent ship nor boat to go --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I say, when you have made the coast so clean<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of rocks that there is no stone seen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then will I love you best of any man;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have here my pledged word, in all that is in my power."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Is there no other grace in you?" he said.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "No, by that Lord," she said, "that made me!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For well I know that it shall never happen.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let such follies pass out of your heart.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What pleasure should a man have in his life<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To go love another man's wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who has her body whenever he pleases?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aurelius very often bitterly sighs;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Woe was Aurelius when he heard this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with a sorrowful heart he thus answered:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Madame," he said, "this would be an impossiblity!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then I must die of sudden horrible death."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word he turned away immediately.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then came her other friends many a one,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in the garden paths roamed up and down,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And knew nothing of this business,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But suddenly began to revel anew<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until the bright sun lost its hue;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For the horizon has bereft the sun of its light --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is as much to say that it was night --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And home they go in joy and in pleasure,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Save only wretched Aurelius, alas!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He to his house is gone with sorrowful heart.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He sees he can not escape from his death;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He thought that he felt his heart grow cold.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Up to the heaven his hands he did hold,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And on his bare knees he set himself down,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in his delirium said his prayer. <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For utter woe out of his wits he suddenly went.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He knew not what he spoke, but thus he said;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With piteous heart he has begun his complaint <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto the gods, and first unto the sun:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He said, "Apollo, god and governor<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of every plant, herb, tree, and flower,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That gives, according to thy height (in the sky),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To each of them its time and its season,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As thy astronomical position changes low or high,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lord Phoebus, cast thy merciful eye<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On wretched Aurelius, who is as good as lost.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, lord! My lady has sworn my death <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Without guilt, unless thy kindness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon my dying heart have some pity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For well I know, lord Phoebus, if you wish,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You can help me best (of anyone), except for my lady.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now grant that I may tell you<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How I may be helped and in what manner.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Your blissful sister, Lucina the bright,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who of the sea is chief goddess and queen<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Though Neptune have godly dominion in the sea,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yet empress above him is she),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You know well, lord, that just as her desire<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is to be kindled and ignited by your fire, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which she follows you very attentively,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Just so the sea desires naturally<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To follow her, as she that is goddess<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Both in the sea and rivers great and small.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wherefore, lord Phoebus, this is my request --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do this miracle, or make my heart break --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That now at this next opposition (of the sun and moon)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which shall be in the sign of the Lion,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pray her so great a high tide to bring<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That five fathoms at the least it rise above<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The highest rock in Armorican Brittany;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And let this flood-tide endure for two years.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then certainly to my lady may I say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; `Keep your promise, the rocks are away.'<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Lord Phoebus, do this miracle for me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pray her that she go at no faster speed as you;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I say, pray your sister that she go<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At no faster speed as you for these two years.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then shall she be fully even with you always,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And spring flood will last both night and day.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And unless she agree in such manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To grant me my sovereign lady dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pray her to sink every rock down<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Into her own dark region<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Under the ground, in which Pluto dwells,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or never more shall I win my lady.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thy temple in Delphi I will barefoot seek.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lord Phoebus, see the tears on my cheek,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And on my pain have some compassion."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word he fell down in a faint,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And for a long time he lay in a trance.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His brother, who knew of his suffering,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Caught him up and to bed he has him brought.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Despaired in this torment and this thought<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I leave this woeful creature lying;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let him choose, for all I care, whether he will live or die. <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Arveragus, with well-being and great honor,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As he that was of chivalry the flower,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is come home, and other worthy men.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O blissful art thou now, thou Dorigen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That hast thy lusty husband in thine arms,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The vigorous knight, the worthy man of arms,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That loves thee as his own heart's life.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He not at all desired to be suspicious,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If any person had spoken, while he was away,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To her of love; he had of it no fear.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He pays no attention to any such matter,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But dances, jousts, makes her good cheer;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And thus in joy and bliss I let them dwell,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of the sick Aurelius I will tell.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In suffering and in hellish torment<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Two years and more lay wretched Aurelius,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before he could set a foot on the ground;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor had he any comfort in this time,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except from his brother, who was a clerk.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He knew of all this woe and all this suffering,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For to no other creature, certainly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He dared say any word of this matter.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Under his breast he bore it more secretly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than ever did Pamphilus for Galathee.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His breast was unhurt, in outward appearance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But in his heart ever was the sharp arrow.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And well you know that for a wound healed only on the surface<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In surgery the treatment is perilous,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless one could touch the arrow or grasp it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His brother wept and wailed secretly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until at the last he remembered,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That while he was at Orleans in France --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As young clerks that are eager<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To read arts that are arcane<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Seek in every nook and every cranny<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To learn specialized branches of learning --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He remembered that, one day,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At Orleans in a study hall he saw a book<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of natural science, which his fellow,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who was at that time a bachelor of law,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Although he was there to learn another craft,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had covertly left upon his desk;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which book spoke much of the operations<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Concerning the eight and twenty stations<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That belong to the moon, and such folly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As in our days is not worth a fly --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For holy church's faith in our belief<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Does not allow any illusion to grieve us.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when this book was in his remembrance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Straightway for joy his heart began to dance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to himself he said secretly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "My brother shall be cured speedily;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For I am sure that there are sciences<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By which men make diverse illusions,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such as these subtle illusionists play.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For often at feasts have I well heard say<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That illusionists within a large hall <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have made come in a water and a barge,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in the hall row up and down.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sometimes a grim lion has seemed to come;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And sometimes flowers spring as in a field;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sometimes a vine, and grapes white and red;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sometimes a castle, all of mortar and stone;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when they pleased, they made it suddenly disappear.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus it seemed to every man's sight.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Now then conclude I thus: that if I might<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At Orleans find some old fellow<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who had these moon's stations in mind,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or other natural science beyond that<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He should well make my brother have his love.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For with an apparition a clerk may make it seem,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To man's sight, that all the rocks black<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of Brittany were removed every one,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And ships by the shore come and go,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in such form endure a week or two.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then my brother would be cured of his woe;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then must she by necessity keep her promise,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else he shall shame her at the least."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why should I make a longer tale of this?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto his brother's bed he is come,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And such encouragement he gave him to go<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To Orleans that he leaped up immediately,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And on his way forth then is he gone<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In hope to be relieved of his care.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When they had come almost to that city,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not more than two or three furlongs,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A young clerk roaming by himself they met,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who in Latin politely greeted them,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And after that he said a wonderful thing:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I know," he said, "the cause of your coming."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And before they went any foot farther,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He told them all that was in their intention.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This Breton clerk asked him about fellows<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whom he had known in old days,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he answered him that they were dead,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which he wept very often many a tear.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Down off his horse Aurelius alighted straightway,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with this magician forth he is gone<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Home to his house, and put them well at ease.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They lacked no foods that might please them.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So well appointed a house as this one was <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aurelius in his life saw never a one.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He showed him, before he went to supper,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Forests, parks full of wild deer;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There he saw harts with their high horns,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The greatest that ever were seen with eye.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He saw a hundred of them slain by hounds,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And some bled because of bitter wounds from arrows.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He saw, when these wild deer were removed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These hunters with falcons upon a fair riverbank,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That with their hawks have slain the heron.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then he saw knights jousting in a plain;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And after this he provided him such pleasure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he showed him his lady in a dance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In which he himself danced, as he thought.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when this master that wrought this magic <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Saw it was time, he clapped his two hands,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And farewell! All our revel was gone.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And yet moved they never out of the house,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; While they saw all this marvelous sight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But in his study, where his books are,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They sat still, and no person (was there) but these three.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This master called his squire to him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said to him thus: "Is our supper ready?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Almost an hour it is, I declare,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since I ordered you to make our supper,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When these worthy men went with me<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Into my study, where my books are."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Sir," said this squire, "when it pleases you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It is all ready, even if you want it right now."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Go we then to sup," said he, "as is the best (to do).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These amorous folk sometime must have their rest."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At after-supper they began to discuss<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What sum this master's payment should be<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To remove all the rocks of Brittany,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also from Gironde to the mouth of Seine.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He raised difficulties, and swore, as God may him save,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Less than a thousand pounds he would not have,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor would he go gladly even for that sum. <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aurelius, with blissful heart, at once<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Answered thus: "Fie on a thousand pounds!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This wide world, which men say is round,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I would give it, if I were lord of it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This bargain is fully concluded, for we are agreed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You shall be paid truly, by my pledged word!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But look now, for no negligence or laziness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You delay us here any longer than to-morrow."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Nay," said this clerk, "have here my faith as a pledge."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To bed is gone Aurelius when it pleased him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And well nigh all that night he had his rest.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What for his labor and his hope of bliss,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His woeful heart of suffering had relief.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon the morrow, when it was day,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To Brittany took they the direct route,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aurelius and this magician beside him,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And are arrived where they would stay.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And this was, as these books remind me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The cold, frosty season of December.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phoebus grew old, and colored grayish silver,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That in his hot declination (in summer)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shone like burnished gold with bright rays;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But now in Capricorn he alights down,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where he shone full pale, I dare well say.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The bitter frosts, with the sleet and rain,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have destroyed the green in every garden.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Janus sits by the fire, with double beard,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And drinks the wine from his buffalo horn;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before him stands meat of the tusked boar,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And "Noel" cries every lusty man.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aurelius in all that ever he can<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Provides for this master entertainment and reverence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And prays him to work diligently<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To bring him out of his bitter pains,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or with a sword he would slit his heart.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This subtle clerk had such pity for this man<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That night and day he worked as fast as he can<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To seek a time for his astronomical operation; <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is to say, to make illusion,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By such an appearance or conjurer's trick --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I know no technical terms of astrology --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she and every person should believe and say<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That the rocks of Brittany were away,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else they were sunk under ground.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So at the last he has his time found<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To make his tricks and his wretched deeds<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of such a superstitious cursedness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His astronomical tables of Toledo he brought forth,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Accurately corrected, nor was there anything lacking,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Neither his tables of single years nor of twenty-year periods,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor his dates for calculations, nor his other apparatus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such as are his table of distances and his angles for calculation<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And his table for computing motions (of the planets)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For his divisions of the sphere in every detail. <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And by his eighth sphere in his working<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He knew full well how far the star Alnath was shoved<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From the head of that fixed Aries above,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That in the ninth sphere is observed;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full subtly he calculated all this.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When he had found his first position of the moon,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He knew the remnant by astronomical tables,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And knew the arising of his moon well,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in which planet's face and term (zodiacal divisions), and everything;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And knew full well the moon's position<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In accordance with his operation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And knew also his other observations<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For such illusions and such evil practices<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As heathen folk used in those days.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which no longer he made delay,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But through his magic, for a week or two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It seemed that all the rocks were away.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aurelius, who is yet in despair <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whether he shall have his love or fare badly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Waits night and day for this miracle;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he knew that there was no obstacle,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That every one of these rocks were removed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Down to his mistress' feet he fell at once,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said, "I woeful wretched, Aurelius,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thank you, lord, and my lady Venus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who have helped me out of my deadly cares."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to the temple he has held forth his way,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where he knew he should see his lady.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when he saw his time, immediately he,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With fearful heart and with full humble manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has saluted his sovereign lady dear:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "My true lady," said this woeful man,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Whom I most dread and love as I best know how,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And am of all this world most reluctant to displease,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Were it not that I for you have such distress<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That I must die here at your feet right now,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I would tell nothing of how I am beset by woe. <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But certainly either I must die or complain;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You slay me guiltless for sheer pain.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But though you have no pity on my death,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Think carefully before you break your pledged word.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Repent, for that God above,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before you slay me because I love you.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For, madam, you know well what you have promised --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not that I claim any thing as a right<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From you, my sovereign lady, except for your good favor --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But in a garden yonder, at a particular place,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You know right well what you promised me;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in my hand you pledged your word<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To love me best -- God knows, you said so,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Although I am unworthy of it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Madam, I speak it for your honor<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; More than to save my heart's life right now --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I have done as you commanded me;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if you agree, you may go see.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do as you please; have your promise in mind,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For, living or dead, right there you shall find me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In you lies the power to make me live or die --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But well I know the rocks are away."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He takes his leave, and she astounded stood;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In all her face was not a drop of blood.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She never expected to have come in such a trap.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Alas," she said, "that ever this should happen!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For I never supposed by possibility<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That such a wonder or marvel could be!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It is against the laws of nature."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And home she goes a sorrowful creature;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For sheer fear she can hardly walk.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She weeps, wails, all one day or two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And swoons, that it was pitiful to see.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But why it was she told to no person,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For Arveragus had gone out of town.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But to herself she spoke, and said thus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With face pale and with full sorrowful manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In her complaint, as you shall after hear:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Alas," said she, "on thee, Fortune, I complain,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That without warning hast wrapped me in thy chain,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From which to escape I know no help, <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Save only death or else dishonor;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One of these two I am compelled to choose.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But neverthelees, yet I would rather lose<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My life than of my body to have a shame,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or know myself false, or lose my good name;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with my death I may be free from blame, indeed.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has there not many a noble wife before this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And many a maid, slain herself, alas,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rather than do sin with her body?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Yes indeed, certainly, lo, these stories bear witness:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When thirty tyrants, full of cursedness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had slain Phidon in Athens at the feast,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They commanded (the guards) to seize his daughters <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And bring them before them as an insult,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All naked, to fulfill their foul delight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in their father's blood they made them dance<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon the pavement, God give them misfortune!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which these woeful maidens, full of dread,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rather than they would lose their maidenhood,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They secretly have leaped into a well<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And drowned themselves, as the books tell.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "They of Messene had (people) search out and seek<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fifty maidens of Sparta also,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On whom they would do their lechery.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But there was none of all that company<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That she was not slain, and with a good intent<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chose rather to die than assent<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To be deprived of her maidenhood.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why should I then be afraid to die?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, also, the tyrant Aristoclides,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That loved a maiden, called Stymphalides,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When her father was slain on a night,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto Diana's temple she goes directly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And seized the statue in her two hands,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; From which statue she would never go.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No person could pull her hands away from it <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Until she was slain, right in the same place.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Now since maidens had such disdain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To be defiled by man's foul delight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well ought a wife rather herself slay<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than be defiled, as it seems to me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What shall I say of Hasdrubale's wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That at Carthage deprived herself of her life?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For when she saw that Romans won the town,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She took her children all, and leaped down<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Into the fire, and chose rather to die<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than any Roman did her a dishonor.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has not Lucretia slain herself, alas,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At Rome, when she was raped<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By Tarquin, for she thought it was a shame<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To live when she had lost her good name?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The seven maidens of Miletus also<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have slain themselves, for sheer dread and woe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rather than folk of Galatia should rape them.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; More than a thousand stories, as I guess,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Could I now tell concerning this matter.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When Habradate was slain, his wife so dear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Herself slew, and let her blood pour<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In Habradate's wounds deep and wide,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said, `My body, at the least,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There shall no person defile, if I can (help it)."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Why should I tell more examples concerning this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since so many have themselves slain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Well rather than they would be defiled?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will conclude that it is better for me<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To slay myself than be defiled thus.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will be true unto Arveragus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or rather slay myself in some manner,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As did Demotion's daughter dear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because she would not defiled be.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O Scedasus, it is a very great pity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To read how thy daughters died, alas,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who slew themselves for a similar sort of cause.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As great a pity was it, or well more,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The Theban maiden that for Nichanore<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Slew herself, exactly for such sort of woe.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Another Theban maiden did exactly the same;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because one of Macedonia had raped her,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She with her death avenged her maidenhood.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What shall I say of Nicerates' wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That for a similar case deprived herself of her life?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How true also to Alcebiades was<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His lover, who chose rather to die <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than to allow his body to be unburied.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, what a wife was Alcestis," she said.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "What says Homer of good Penelope?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All Greece knows of her chastity.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By God, of Laodomia is written thus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That when at Troy Protheselaus was slain,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No longer would she live after his day (i.e., death).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The same of noble Portia I can tell;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Without Brutus she could not live,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To whom she had entirely given her heart.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The perfect wifehood of Arthemesie<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Honored is through all heathendom.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O Teuta, queen, thy wifely chastity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To all wives may be a mirror.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The same thing I say of Bilia,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of Rhodogune, and also Valeria."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus Dorigen complained a day or two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Intending ever that she would die.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But neverthelees, upon the third night,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Home came Arveragus, this worthy knight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And asked her why she wept so bitterly;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she began to weep, ever the longer (she wept) the more (she wept) . <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Alas," said she, "that ever I was born!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus have I said," said she, "thus have I sworn" --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And told him all as you have heard before;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is no need to repeat it to you any more.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This husband, with cheerful demeanor, in a friendly manner<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Answered and said as I shall tell you:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Is there anything else, Dorigen, but this?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Nay, nay," she said, "So help me God!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is too much, even if it were God's will."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Yes, wife," he said, "let sleep that which is still.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It may be well, perhaps, yet to day.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You shall keep your pledged word, by my faith!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For as surely as God may have mercy upon me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I had well rather be stabbed <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For sheer love which I to have for you,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than you should (do anything but) keep and save your pledged word.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; One's pldged word is the highest thing that one may keep" --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But with that word he immediately burst into tears,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said, "I you forbid, upon pain of death,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That never, while thy life or breath lasts,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou tell any person about this adventure --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As I best can, I will my woe endure --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor make any outward appearance of sadness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That folk may believe or guess anything harmful concerning you."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And forth he called a squire and a maid:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Go forth right now with Dorigen," he said,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "And bring her to such a place quickly."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They take their leave, and on their way they go,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But they knew not why she thither went.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He would no person tell his intention.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Perhaps a heap of you, indeed,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Will consider him a foolish man in this<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he will put his wife in jeopardy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Listen to the tale before you cry out about her.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She may have better fortune than it seems to you;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when you have heard the tale, judge.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This squire, who was called Aurelius,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; On Dorigen who was so amorous,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By chance happened to meet her <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Amidst the town, right in the busiest street,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As she was about to go the way directly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Toward the garden where she had promised (to go).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he was going toward the garden also;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For well he spied when she would go<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Out of her house to any sort of place.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But thus they met, by chance or luck,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he salutes her cheerfully,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And asked her where she went;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she answered, as if she were half mad,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Unto the garden, as my husband commanded,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My pledged word to keep -- alas, alas!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aurelius began to wonder about this case,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in his heart had great compassion<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of her and of her lamentation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of Arveragus, the worthy knight,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who commanded her to keep all that she had promised,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So hateful to him it was that his wife should break her word;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in his heart he took great pity on this,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Considering what would be best in every respect,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he would rather yet refrain from his desire<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than do so great a churlish despicable act<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Against generosity and all nobility of character;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which in few words he said thus:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Madam, say to your lord Arveragus<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That since I see his great graciousness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To you, and also I see well your distress,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he would rather have shame (and that would be a pity)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than you should thus break your pledged word to me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I would well rather suffer woe always<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than I should break apart the love between you two.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I release you, madam, into your hand I return<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Freely every pledge and every bond<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That you have made to me before now,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Since that time when you were born.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I pledge my word, I shall never reprove you <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For any promise, and here I take my leave,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of the truest and the best wife<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That ever yet I knew in all my life.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But let every wife beware of her promise!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Remember Dorigen, at the least.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus can a squire do a gentle deed<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As well as can a knight, without doubt."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She thanks him upon her bare knees,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And home unto her husband she is gone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And told him all, as you have heard me say;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And be you sure, he was so well pleased<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That it would be impossible for me to write.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Why should I write longer about this matter?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Arveragus and Dorigen his wife<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In perfect bliss lead forth their life.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Never again was there any anger between them.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He cherishes her as though she were a queen,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And she was to him true for evermore.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of these two folk you get of me no more.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aurelius, that all his expenditure has forfeited,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Curses the time that ever he was born:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Alas!" said he. "Alas, that I promised<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of refined gold a thousand pounds of weight<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto this scientist! What shall I do?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I see no more but that I am ruined.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My heritage I must of necessity sell,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And be a beggar; here I may not remain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And shame all my kin in this place,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unless I can get a better grace (favor) from him.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But nonetheless, I will try him, (offering)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; At specific days, year by year, to pay,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And thank him for his great courtesy.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My word I will keep, I will not lie."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With a sore heart he goes unto his money box,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And brought gold unto this scientist,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The value of five hundred pounds, I guess,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And him beseeches, of his nobleness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To grant him days (on which to pay) the remnant;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said, "Master, I dare well make boast,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I failed never of my pledged word as yet.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For surely my debt shall be repaid<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To you, even though I have<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To go a-begging in my bare tunic.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But if you would agree, upon my promise,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To grant me a respite for two years or three,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Then I would be well; for otherwise I must sell<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My heritage; there is no more to tell."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This scientist soberly answered,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said thus, when he heard these words:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Have I not kept my agreement with thee?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Yes, certainly, well and truly," said he.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Hast thou not had thy lady as it pleases thee?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "No, no," said he, and sorrowfully he sighs.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "What was the cause? Tel me if thou know how."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aurelius his tale immediately began,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And told him all, as you have heard before;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There is no need to repeat it to you again.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He said, "Arveragus, of his nobility,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Had rather die in sorrow and in distress<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Than that his wife would be false of her pledged word."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The sorrow of Dorigen he told him also;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How loathfull to her it was to be a wicked wife,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that she would rather have lost her life that day,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And that her word she swore through ignorance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She never before had heard tell of illusion.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "That made me have for her such great pity;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And right as freely as he sent her to me,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As freely I sent her to him again.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is the entire matter; there is no more to say."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This scientist answered, "Dear brother,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Every one of you did nobly to the other.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou art a squire, and he is a knight;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But God forbid, for his blissful might,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That a clerk could not do a gentle deed <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As well as any of you, it is no doubt!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sir, I release thee from thy (debt of a) thousand pounds,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As if thou right now were crept out of the ground,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor never before now had known me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For, sir, I will not take a penny from thee<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For all my craft, nor anything for my labor.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou hast paid well for my living expenses.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It is enough, and farewell, have good day!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And took his horse, and forth he goes his way.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gentlemen, this question, then, will I ask now,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which was the most free, as it seems to you?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now tell me, before you farther go.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I know no more; my tale is at an end.<BR>
+These old noble Bretons in their days
+Of diverse adventures made lays,
+Rhymed in their first Breton tongue,
+Which lays with their instruments they sang
+Or else read them for their pleasure;
+And one of them have I in remembrance,
+Which I shall say with as good will as I can.
+But, sirs, because I am an unlearned man,
+At my beginning first I you beseech,
+Have me excused for my rude speech.
+I learned never rhetoric, certainly;
+Thing that I speak, it must be bare and plain.
+I slept never on the Mount of Parnassus,
+Nor learned Marcus Tullius Cicero.
+Colors know I none, without doubt,
+But such colors as grow in the field,
+Or else such as men dye or paint.
+Colors of rhetoric (figures of speech) are strange to me;
+My spirit feels nothing of such matter.
+But if you wish, you shall hear my tale.
+In Armorica, that is called Brittany,
+There was a knight that loved and worked hard
+To serve a lady in his best manner;
+And many a labor, many a great chivalric exploit,
+He wrought for his lady before she was won.
+For she was the fairest of all under the sun,
+And also moreover come of such noble ancestry
+That this knight hardly dared, for fear,
+Tell her his woe, his pain, and his distress.
+But at the last she, for his worthiness,
+And namely for his meek submission,
+Has taken such a pity on his suffering
+That privately she agreed with him
+To take him for her husband and hir lord,
+Of such lordship as men have over their wives.
+And to lead the more blissfully their lives,
+Of his free will he swore her as a knight
+That never in all his life he, day or night,
+Should take upon himself any mastery
+Against her will, nor show her jealousy,
+But obey her, and follow her will in everything,
+As any lover to his lady should,
+Except for the appearance of sovereignty,
+Which he would have to avoid bringing shame on his status (of knighthood). 
+She thanked him, and with full great humbleness
+She said, "Sir, since of your nobility
+You offer me to have such freedom from restraint,
+And would God that never between us two,
+Through my fault, should be either war or strife.
+Sir, I will be your humble true wife --
+Have here my pledge -- until my heart bursts (until I die)." 
+Thus are they both in quiet and in peace.
+For one thing, sirs, I dare say confidently,
+That friends must obey each other,
+If they will long hold company.
+Love will not be constrained by mastery.
+When mastery comes, the God of Love immediately
+Beats his wings, and farewell, he is gone!
+Love is a thing free as any spirit.
+Women, by nature, desire liberty,
+And not to be constrained like a slave;
+And so do men, if I shall say the truth.
+Look who is most patient in love,
+He is in the best position, superior to all.
+Patience is a noble virtue, certainly,
+For it vanquishes, as these clerks say,
+Things that rigor should never attain.
+One may not chide or complain for every word.
+Learn to suffer, or else, as I may walk (I swear),
+You shall learn it, whether you want to or not;
+For in this world, certainly, there is no person 
+Who does not sometime do or speak amiss.
+Ire, sickness, or the position of the stars,
+Wine, woe, or changing of the balance of bodily humors
+Causes (one) very often to do or speak amiss.
+On every wrong a man can not be avenged.
+There must be moderation suitable to the occasion 
+By every person who knows about governance. 
+And therefore has this wise, worthy knight,
+To live in ease, promised her forbearance,
+And she to him full truly did swear
+That never should there be fault in her.
+Here may men see a humble, wise accord;
+Thus has she taken her servant and her lord --
+Servant in love, and lord in marriage.
+Then was he both in lordship and servitude.
+Servitude? Nay, but in lordship above,
+Since he has both his lady and his love;
+His lady, certainly, and his wife also,
+The which accords to the law of love.
+And when he was in this happy state,
+Home with his wife he goes to his country,
+Not far from Pedmark, where his dwelling was,
+Where he lives in bliss and in pleasure.
+Who could tell, unless he had been wedded,
+The joy, the ease, and the happiness
+That is between a husband and his wife?
+A year and more lasted this blissful life,
+Until the knight of whom I thus speak,
+That was called Arveragus of Kayrrud,
+Prepared himself to go and dwell a year or two
+In England, which was also called Britain,
+To seek in arms good reputation and honor --
+For he set all his desire in such labor --
+And dwelled there two years; the book says thus.
+Now will I stop (speaking) of this Arveragus,
+And I will speak of Dorigen his wife,
+Who loves her husband as her heart's life.
+For his absence she weeps and sighs,
+As do these noble wives when it pleases them.
+She mourns, stays awake, wails, fasts, complains;
+Desire of his presence so presses upon her
+That all this wide world she reckoned as worth nothing.
+Her friends, who knew her gloomy thought,
+Comfort her in all that ever they can.
+They preach to her, they tell her night and day
+That she slays herself without cause, alas!
+And every comfort possible in this case
+They do to her with all their concern,
+All to make her leave her sadness.
+In the course of time, as every one of you knows,
+One may so long engrave on a stone
+Until some figure is imprinted upon it.
+So long have they comforted her until she
+Received has, by hope and by reason,
+The imprint of their consolation,
+Through which her great sorrow began to be relieved;
+She can not always continue in such passionate grief.
+And also Arveragus, in (the midst of) all this care, 
+Has sent her letters home (telling) of his welfare,
+And that he will come hastily again;
+Or else this sorrow would have slain her heart.
+Her friends saw her sorrow began to slacken
+And prayed her on their knees, for God's sake,
+To come and walk about in company,
+Away to drive her dark imagining.
+And finally she granted that request,
+For well she saw that it was for the best.
+Now her castle stood close by the sea,
+And often with her friends she walks
+To amuse herself upon the bank on high,
+Where she saw many a ship and sailing vessel
+Sailing their course, where it pleases them to go.
+But then was that a portion of her woe,
+For to herself full often, she says "Alas!",
+"Is there no ship, of so many as I see,
+Will bring home my lord? Then would my heart be
+All cured of its bitter, sharp pains."
+Another time there would she sit and think,
+And cast her eyes downward from the brink.
+But when she saw the grisly black rocks,
+For sheer fear her heart would so quake
+That on her feet she could not sustain herself.
+Then would she sit down upon the green,
+And piteously stare into the sea,
+And say right thus, with sorrowful, cold sighs:
+"Eternal God, who through thy foreknowledge
+Leads the world by sure governance, 
+Men say you make nothing in vain.
+But, Lord, these grisly fiendish black rocks,
+That seem rather a foul confusion
+Of work than any fair creation
+Of such a perfectly wise and stable God,
+Why have you created this unreasonable work?
+For by this work, south, north, nor west, nor east,
+There is no benefit to man, nor bird, nor beast;
+It does no good, to my understanding, but does harm.
+See you not, Lord, how it destroys mankind?
+A  hundred thousand bodies of mankind
+Have rocks slain, although their names are forgotten,
+And this mankind is so fair a part of thy work
+That thou made it like to thine own image.
+Then it seemed you had a great love
+Toward mankind; but how then may it be
+That you make such means to destroy it,
+Which means do no good, but always cause trouble?
+I know well clerks will say as they please,
+By logical reasoning, that all is for the best,
+Though I can not know the causes.
+But that same God that made wind to blow
+Keep my lord! This is my conclusion.
+To clerks I leave all disputation.
+But would God that all these black rocks 
+Were sunk into hell for his sake!
+These rocks slay my heart for fear."
+Thus would she say, with many a piteous tear.
+Her friends saw that it was no pleasure
+To roam by the sea, but discomfort,
+And decide to amuse themselves somewhere else.
+They lead her by rivers and by springs,
+And also in other delightful places;
+They dance and they play at chess and backgammon.
+So on a day, early in the morning-tide,
+Unto a garden that was there nearby,
+In which they had made their arrangement
+For victuals and for other provisions,
+They go and amuse themselves all the long day.
+And this was on the sixth morning of May,
+Which May had painted with its soft showers
+This garden full of leaves and of flowers;
+And craft of man's hand so skillfully
+Had adorned this garden, truly,
+That never was there garden of such worth
+Unless it were the true paradise.
+The odor of flowers and the fresh sight
+Would have made any heart light
+That ever was born, unless too great sickness
+Or too great sorrow held it in distress,
+It was so full of beauty with pleasure.
+After dinner they go to dance,
+And sing also, save Dorigen alone,
+Who made always her complaint and her moan,
+For she did not see him on the dance go
+Who was her husband and her love also.
+But nonetheless she must a time abide
+And with good hope let her sorrow slip away.
+In this dance, among other men,
+Danced a squire before Dorigen,
+Who was more lively and more gaily dressed,
+As to my judgement, than is the month of May.
+He sings, dances, passing any man
+That is, or was, since the world began.
+Therewith he was, if one should him describe,
+One of the most handsome men alive;
+Young, strong, very valiant, and rich, and wise,
+And well beloved, and held in great esteem.
+And shortly, if I shall tell the truth,
+Unknown by this Dorigen at all,
+This lusty squire, servant to Venus,
+Who was called Aurelius,
+Had loved her best of any creature
+Two years and more, as was his fate,
+But he never dared tell her his grievance.
+Copiously he drank all his penance (suffered intensely).
+He was in despair; he dared say nothing,
+Except in his songs somewhat he would reveal
+His woe, as in a general lament;
+He said he loved and was in no way loved in return
+Of such subject matter made he many lays,
+Songs, complaints, roundels, virelays,
+(Saying) how he dared not his sorrow tell,
+But suffers as a fury does in hell;
+And he must die, he said, as did Echo
+For Narcissus, she who dared not tell her woe.
+In other ways than you hear me say,
+He dared not reveal to her his woe,
+Except that, by chance, sometimes at dances,
+Where young folk observe their customs (of courtship),
+It may well be he looked on her face
+In such a manner as a man that asks for grace;
+But she knew nothing of his intent.
+Nonetheless it happened, before they went away,
+Because he was her neighbor,
+And was a man of good reputation and honor,
+And (she) had known him for a long time,
+They fell in speech; and forth, more and more,
+Unto his purpose drew Aurelius,
+And when he saw his time, he said thus:
+"Madame," he said, "by God that this world made,
+Providing that I knew it might gladden your heart,
+I wish that day that your Arveragus
+Went over the sea, that I, Aurelius,
+Had went from where I should never have come back.
+For well I know my service is in vain;
+My reward is but the breaking of my heart.
+Madame, have pity upon my bitter pains;
+For with one word you may me slay or save.
+Here at your feet would God that I were buried!
+I have now no opportunity to say more;
+Have mercy, sweet, or you will make me die!"
+She did look upon Aurelius;
+"Is this your desire," said she, "and say you thus?
+Never before," she said, "Did I know what you meant.
+But now, Aurelius, I know your intention,
+By that same God that gave me soul and life,
+I shall never be an untrue wife
+In word nor deed, so long as I have my wits;
+I will be his to whom that I am knit.
+Take this for my final answer."
+But after that in play thus she said:
+"Aurelius," she said, "by high God above,
+Yet would I grant you to be your love,
+Since I see you so piteously lament.
+On whatever day that from end to end of Brittany
+You remove all the rocks, stone by stone,
+So that they do not prevent ship nor boat to go --
+I say, when you have made the coast so clean
+Of rocks that there is no stone seen,
+Then will I love you best of any man;
+Have here my pledged word, in all that is in my power."
+"Is there no other grace in you?" he said.
+"No, by that Lord," she said, "that made me!
+For well I know that it shall never happen.
+Let such follies pass out of your heart.
+What pleasure should a man have in his life
+To go love another man's wife,
+Who has her body whenever he pleases?"
+Aurelius very often bitterly sighs;
+Woe was Aurelius when he heard this,
+And with a sorrowful heart he thus answered:
+"Madame," he said, "this would be an impossiblity!
+Then I must die of sudden horrible death."
+And with that word he turned away immediately.
+Then came her other friends many a one,
+And in the garden paths roamed up and down,
+And knew nothing of this business,
+But suddenly began to revel anew
+Until the bright sun lost its hue;
+For the horizon has bereft the sun of its light --
+This is as much to say that it was night --
+And home they go in joy and in pleasure,
+Save only wretched Aurelius, alas!
+He to his house is gone with sorrowful heart.
+He sees he can not escape from his death;
+He thought that he felt his heart grow cold.
+Up to the heaven his hands he did hold,
+And on his bare knees he set himself down,
+And in his delirium said his prayer. 
+For utter woe out of his wits he suddenly went.
+He knew not what he spoke, but thus he said;
+With piteous heart he has begun his complaint 
+Unto the gods, and first unto the sun:
+He said, "Apollo, god and governor
+Of every plant, herb, tree, and flower,
+That gives, according to thy height (in the sky),
+To each of them its time and its season,
+As thy astronomical position changes low or high,
+Lord Phoebus, cast thy merciful eye
+On wretched Aurelius, who is as good as lost.
+Lo, lord! My lady has sworn my death 
+Without guilt, unless thy kindness
+Upon my dying heart have some pity.
+For well I know, lord Phoebus, if you wish,
+You can help me best (of anyone), except for my lady.
+Now grant that I may tell you
+How I may be helped and in what manner.
+"Your blissful sister, Lucina the bright,
+Who of the sea is chief goddess and queen
+(Though Neptune have godly dominion in the sea,
+Yet empress above him is she),
+You know well, lord, that just as her desire
+Is to be kindled and ignited by your fire, 
+For which she follows you very attentively,
+Just so the sea desires naturally
+To follow her, as she that is goddess
+Both in the sea and rivers great and small.
+Wherefore, lord Phoebus, this is my request --
+Do this miracle, or make my heart break --
+That now at this next opposition (of the sun and moon)
+Which shall be in the sign of the Lion,
+Pray her so great a high tide to bring
+That five fathoms at the least it rise above
+The highest rock in Armorican Brittany;
+And let this flood-tide endure for two years.
+Then certainly to my lady may I say,
+`Keep your promise, the rocks are away.'
+"Lord Phoebus, do this miracle for me.
+Pray her that she go at no faster speed as you;
+I say, pray your sister that she go
+At no faster speed as you for these two years.
+Then shall she be fully even with you always,
+And spring flood will last both night and day.
+And unless she agree in such manner
+To grant me my sovereign lady dear,
+Pray her to sink every rock down
+Into her own dark region
+Under the ground, in which Pluto dwells,
+Or never more shall I win my lady.
+Thy temple in Delphi I will barefoot seek.
+Lord Phoebus, see the tears on my cheek,
+And on my pain have some compassion."
+And with that word he fell down in a faint,
+And for a long time he lay in a trance.
+His brother, who knew of his suffering,
+Caught him up and to bed he has him brought.
+Despaired in this torment and this thought
+I leave this woeful creature lying;
+Let him choose, for all I care, whether he will live or die. 
+Arveragus, with well-being and great honor,
+As he that was of chivalry the flower,
+Is come home, and other worthy men.
+O blissful art thou now, thou Dorigen,
+That hast thy lusty husband in thine arms,
+The vigorous knight, the worthy man of arms,
+That loves thee as his own heart's life.
+He not at all desired to be suspicious,
+If any person had spoken, while he was away,
+To her of love; he had of it no fear.
+He pays no attention to any such matter,
+But dances, jousts, makes her good cheer;
+And thus in joy and bliss I let them dwell,
+And of the sick Aurelius I will tell.
+In suffering and in hellish torment
+Two years and more lay wretched Aurelius,
+Before he could set a foot on the ground;
+Nor had he any comfort in this time,
+Except from his brother, who was a clerk.
+He knew of all this woe and all this suffering,
+For to no other creature, certainly,
+He dared say any word of this matter.
+Under his breast he bore it more secretly
+Than ever did Pamphilus for Galathee.
+His breast was unhurt, in outward appearance,
+But in his heart ever was the sharp arrow.
+And well you know that for a wound healed only on the surface
+In surgery the treatment is perilous,
+Unless one could touch the arrow or grasp it.
+His brother wept and wailed secretly,
+Until at the last he remembered,
+That while he was at Orleans in France --
+As young clerks that are eager
+To read arts that are arcane
+Seek in every nook and every cranny
+To learn specialized branches of learning --
+He remembered that, one day,
+At Orleans in a study hall he saw a book
+Of natural science, which his fellow,
+Who was at that time a bachelor of law,
+Although he was there to learn another craft,
+Had covertly left upon his desk;
+Which book spoke much of the operations
+Concerning the eight and twenty stations
+That belong to the moon, and such folly
+As in our days is not worth a fly --
+For holy church's faith in our belief
+Does not allow any illusion to grieve us.
+And when this book was in his remembrance,
+Straightway for joy his heart began to dance,
+And to himself he said secretly,
+"My brother shall be cured speedily;
+For I am sure that there are sciences
+By which men make diverse illusions,
+Such as these subtle illusionists play.
+For often at feasts have I well heard say
+That illusionists within a large hall 
+Have made come in a water and a barge,
+And in the hall row up and down.
+Sometimes a grim lion has seemed to come;
+And sometimes flowers spring as in a field;
+Sometimes a vine, and grapes white and red;
+Sometimes a castle, all of mortar and stone;
+And when they pleased, they made it suddenly disappear.
+Thus it seemed to every man's sight.
+"Now then conclude I thus: that if I might
+At Orleans find some old fellow
+Who had these moon's stations in mind,
+Or other natural science beyond that
+He should well make my brother have his love.
+For with an apparition a clerk may make it seem,
+To man's sight, that all the rocks black
+Of Brittany were removed every one,
+And ships by the shore come and go,
+And in such form endure a week or two.
+Then my brother would be cured of his woe;
+Then must she by necessity keep her promise,
+Or else he shall shame her at the least."
+Why should I make a longer tale of this?
+Unto his brother's bed he is come,
+And such encouragement he gave him to go
+To Orleans that he leaped up immediately,
+And on his way forth then is he gone
+In hope to be relieved of his care.
+When they had come almost to that city,
+Not more than two or three furlongs,
+A young clerk roaming by himself they met,
+Who in Latin politely greeted them,
+And after that he said a wonderful thing:
+"I know," he said, "the cause of your coming."
+And before they went any foot farther,
+He told them all that was in their intention.
+This Breton clerk asked him about fellows
+Whom he had known in old days,
+And he answered him that they were dead,
+For which he wept very often many a tear.
+Down off his horse Aurelius alighted straightway,
+And with this magician forth he is gone
+Home to his house, and put them well at ease.
+They lacked no foods that might please them.
+So well appointed a house as this one was 
+Aurelius in his life saw never a one.
+He showed him, before he went to supper,
+Forests, parks full of wild deer;
+There he saw harts with their high horns,
+The greatest that ever were seen with eye.
+He saw a hundred of them slain by hounds,
+And some bled because of bitter wounds from arrows.
+He saw, when these wild deer were removed,
+These hunters with falcons upon a fair riverbank,
+That with their hawks have slain the heron.
+Then he saw knights jousting in a plain;
+And after this he provided him such pleasure
+That he showed him his lady in a dance,
+In which he himself danced, as he thought.
+And when this master that wrought this magic 
+Saw it was time, he clapped his two hands,
+And farewell! All our revel was gone.
+And yet moved they never out of the house,
+While they saw all this marvelous sight,
+But in his study, where his books are,
+They sat still, and no person (was there) but these three.
+This master called his squire to him,
+And said to him thus: "Is our supper ready?
+Almost an hour it is, I declare,
+Since I ordered you to make our supper,
+When these worthy men went with me
+Into my study, where my books are."
+"Sir," said this squire, "when it pleases you,
+It is all ready, even if you want it right now."
+"Go we then to sup," said he, "as is the best (to do).
+These amorous folk sometime must have their rest."
+At after-supper they began to discuss
+What sum this master's payment should be
+To remove all the rocks of Brittany,
+And also from Gironde to the mouth of Seine.
+He raised difficulties, and swore, as God may him save,
+Less than a thousand pounds he would not have,
+Nor would he go gladly even for that sum. 
+Aurelius, with blissful heart, at once
+Answered thus: "Fie on a thousand pounds!
+This wide world, which men say is round,
+I would give it, if I were lord of it.
+This bargain is fully concluded, for we are agreed.
+You shall be paid truly, by my pledged word!
+But look now, for no negligence or laziness
+You delay us here any longer than to-morrow."
+"Nay," said this clerk, "have here my faith as a pledge."
+To bed is gone Aurelius when it pleased him,
+And well nigh all that night he had his rest.
+What for his labor and his hope of bliss,
+His woeful heart of suffering had relief.
+Upon the morrow, when it was day,
+To Brittany took they the direct route,
+Aurelius and this magician beside him,
+And are arrived where they would stay.
+And this was, as these books remind me,
+The cold, frosty season of December.
+Phoebus grew old, and colored grayish silver,
+That in his hot declination (in summer)
+Shone like burnished gold with bright rays;
+But now in Capricorn he alights down,
+Where he shone full pale, I dare well say.
+The bitter frosts, with the sleet and rain,
+Have destroyed the green in every garden.
+Janus sits by the fire, with double beard,
+And drinks the wine from his buffalo horn;
+Before him stands meat of the tusked boar,
+And "Noel" cries every lusty man.
+Aurelius in all that ever he can
+Provides for this master entertainment and reverence,
+And prays him to work diligently
+To bring him out of his bitter pains,
+Or with a sword he would slit his heart.
+This subtle clerk had such pity for this man
+That night and day he worked as fast as he can
+To seek a time for his astronomical operation; 
+This is to say, to make illusion,
+By such an appearance or conjurer's trick --
+I know no technical terms of astrology --
+That she and every person should believe and say
+That the rocks of Brittany were away,
+Or else they were sunk under ground.
+So at the last he has his time found
+To make his tricks and his wretched deeds
+Of such a superstitious cursedness.
+His astronomical tables of Toledo he brought forth,
+Accurately corrected, nor was there anything lacking,
+Neither his tables of single years nor of twenty-year periods,
+Nor his dates for calculations, nor his other apparatus,
+Such as are his table of distances and his angles for calculation
+And his table for computing motions (of the planets)
+For his divisions of the sphere in every detail. 
+And by his eighth sphere in his working
+He knew full well how far the star Alnath was shoved
+From the head of that fixed Aries above,
+That in the ninth sphere is observed;
+Full subtly he calculated all this.
+When he had found his first position of the moon,
+He knew the remnant by astronomical tables,
+And knew the arising of his moon well,
+And in which planet's face and term (zodiacal divisions), and everything;
+And knew full well the moon's position
+In accordance with his operation,
+And knew also his other observations
+For such illusions and such evil practices
+As heathen folk used in those days.
+For which no longer he made delay,
+But through his magic, for a week or two,
+It seemed that all the rocks were away.
+Aurelius, who is yet in despair 
+Whether he shall have his love or fare badly,
+Waits night and day for this miracle;
+And when he knew that there was no obstacle,
+That every one of these rocks were removed,
+Down to his mistress' feet he fell at once,
+And said, "I woeful wretched, Aurelius,
+Thank you, lord, and my lady Venus,
+Who have helped me out of my deadly cares."
+And to the temple he has held forth his way,
+Where he knew he should see his lady.
+And when he saw his time, immediately he,
+With fearful heart and with full humble manner,
+Has saluted his sovereign lady dear:
+"My true lady," said this woeful man,
+"Whom I most dread and love as I best know how,
+And am of all this world most reluctant to displease,
+Were it not that I for you have such distress
+That I must die here at your feet right now,
+I would tell nothing of how I am beset by woe. 
+But certainly either I must die or complain;
+You slay me guiltless for sheer pain.
+But though you have no pity on my death,
+Think carefully before you break your pledged word.
+Repent, for that God above,
+Before you slay me because I love you.
+For, madam, you know well what you have promised --
+Not that I claim any thing as a right
+From you, my sovereign lady, except for your good favor --
+But in a garden yonder, at a particular place,
+You know right well what you promised me;
+And in my hand you pledged your word
+To love me best -- God knows, you said so,
+Although I am unworthy of it.
+Madam, I speak it for your honor
+More than to save my heart's life right now --
+I have done as you commanded me;
+And if you agree, you may go see.
+Do as you please; have your promise in mind,
+For, living or dead, right there you shall find me.
+In you lies the power to make me live or die --
+But well I know the rocks are away."
+He takes his leave, and she astounded stood;
+In all her face was not a drop of blood.
+She never expected to have come in such a trap.
+"Alas," she said, "that ever this should happen!
+For I never supposed by possibility
+That such a wonder or marvel could be!
+It is against the laws of nature."
+And home she goes a sorrowful creature;
+For sheer fear she can hardly walk.
+She weeps, wails, all one day or two,
+And swoons, that it was pitiful to see.
+But why it was she told to no person,
+For Arveragus had gone out of town.
+But to herself she spoke, and said thus,
+With face pale and with full sorrowful manner,
+In her complaint, as you shall after hear:
+"Alas," said she, "on thee, Fortune, I complain,
+That without warning hast wrapped me in thy chain,
+From which to escape I know no help, 
+Save only death or else dishonor;
+One of these two I am compelled to choose.
+But neverthelees, yet I would rather lose
+My life than of my body to have a shame,
+Or know myself false, or lose my good name;
+And with my death I may be free from blame, indeed.
+Has there not many a noble wife before this,
+And many a maid, slain herself, alas,
+Rather than do sin with her body?
+"Yes indeed, certainly, lo, these stories bear witness:
+When thirty tyrants, full of cursedness,
+Had slain Phidon in Athens at the feast,
+They commanded (the guards) to seize his daughters 
+And bring them before them as an insult,
+All naked, to fulfill their foul delight,
+And in their father's blood they made them dance
+Upon the pavement, God give them misfortune!
+For which these woeful maidens, full of dread,
+Rather than they would lose their maidenhood,
+They secretly have leaped into a well
+And drowned themselves, as the books tell.
+"They of Messene had (people) search out and seek
+Fifty maidens of Sparta also,
+On whom they would do their lechery.
+But there was none of all that company
+That she was not slain, and with a good intent
+Chose rather to die than assent
+To be deprived of her maidenhood.
+Why should I then be afraid to die?
+Lo, also, the tyrant Aristoclides,
+That loved a maiden, called Stymphalides,
+When her father was slain on a night,
+Unto Diana's temple she goes directly,
+And seized the statue in her two hands,
+From which statue she would never go.
+No person could pull her hands away from it 
+Until she was slain, right in the same place.
+"Now since maidens had such disdain
+To be defiled by man's foul delight,
+Well ought a wife rather herself slay
+Than be defiled, as it seems to me.
+What shall I say of Hasdrubale's wife,
+That at Carthage deprived herself of her life?
+For when she saw that Romans won the town,
+She took her children all, and leaped down
+Into the fire, and chose rather to die
+Than any Roman did her a dishonor.
+Has not Lucretia slain herself, alas,
+At Rome, when she was raped
+By Tarquin, for she thought it was a shame
+To live when she had lost her good name?
+The seven maidens of Miletus also
+Have slain themselves, for sheer dread and woe,
+Rather than folk of Galatia should rape them.
+More than a thousand stories, as I guess,
+Could I now tell concerning this matter.
+When Habradate was slain, his wife so dear
+Herself slew, and let her blood pour
+In Habradate's wounds deep and wide,
+And said, `My body, at the least,
+There shall no person defile, if I can (help it)."
+"Why should I tell more examples concerning this,
+Since so many have themselves slain
+Well rather than they would be defiled?
+I will conclude that it is better for me
+To slay myself than be defiled thus.
+I will be true unto Arveragus,
+Or rather slay myself in some manner,
+As did Demotion's daughter dear
+Because she would not defiled be.
+O Scedasus, it is a very great pity
+To read how thy daughters died, alas,
+Who slew themselves for a similar sort of cause.
+As great a pity was it, or well more,
+The Theban maiden that for Nichanore
+Slew herself, exactly for such sort of woe.
+Another Theban maiden did exactly the same;
+Because one of Macedonia had raped her,
+She with her death avenged her maidenhood.
+What shall I say of Nicerates' wife,
+That for a similar case deprived herself of her life?
+How true also to Alcebiades was
+His lover, who chose rather to die 
+Than to allow his body to be unburied.
+Lo, what a wife was Alcestis," she said.
+"What says Homer of good Penelope?
+All Greece knows of her chastity.
+By God, of Laodomia is written thus,
+That when at Troy Protheselaus was slain,
+No longer would she live after his day (i.e., death).
+The same of noble Portia I can tell;
+Without Brutus she could not live,
+To whom she had entirely given her heart.
+The perfect wifehood of Arthemesie
+Honored is through all heathendom.
+O Teuta, queen, thy wifely chastity
+To all wives may be a mirror.
+The same thing I say of Bilia,
+Of Rhodogune, and also Valeria."
+Thus Dorigen complained a day or two,
+Intending ever that she would die.
+But neverthelees, upon the third night,
+Home came Arveragus, this worthy knight,
+And asked her why she wept so bitterly;
+And she began to weep, ever the longer (she wept) the more (she wept) . 
+"Alas," said she, "that ever I was born!
+Thus have I said," said she, "thus have I sworn" --
+And told him all as you have heard before;
+There is no need to repeat it to you any more.
+This husband, with cheerful demeanor, in a friendly manner
+Answered and said as I shall tell you:
+"Is there anything else, Dorigen, but this?"
+"Nay, nay," she said, "So help me God!
+This is too much, even if it were God's will."
+"Yes, wife," he said, "let sleep that which is still.
+It may be well, perhaps, yet to day.
+You shall keep your pledged word, by my faith!
+For as surely as God may have mercy upon me,
+I had well rather be stabbed 
+For sheer love which I to have for you,
+Than you should (do anything but) keep and save your pledged word.
+One's pldged word is the highest thing that one may keep" --
+But with that word he immediately burst into tears,
+And said, "I you forbid, upon pain of death,
+That never, while thy life or breath lasts,
+Thou tell any person about this adventure --
+As I best can, I will my woe endure --
+Nor make any outward appearance of sadness,
+That folk may believe or guess anything harmful concerning you."
+And forth he called a squire and a maid:
+"Go forth right now with Dorigen," he said,
+"And bring her to such a place quickly."
+They take their leave, and on their way they go,
+But they knew not why she thither went.
+He would no person tell his intention.
+Perhaps a heap of you, indeed,
+Will consider him a foolish man in this
+That he will put his wife in jeopardy.
+Listen to the tale before you cry out about her.
+She may have better fortune than it seems to you;
+And when you have heard the tale, judge.
+This squire, who was called Aurelius,
+On Dorigen who was so amorous,
+By chance happened to meet her 
+Amidst the town, right in the busiest street,
+As she was about to go the way directly
+Toward the garden where she had promised (to go).
+And he was going toward the garden also;
+For well he spied when she would go
+Out of her house to any sort of place.
+But thus they met, by chance or luck,
+And he salutes her cheerfully,
+And asked her where she went;
+And she answered, as if she were half mad,
+"Unto the garden, as my husband commanded,
+My pledged word to keep -- alas, alas!"
+Aurelius began to wonder about this case,
+And in his heart had great compassion
+Of her and of her lamentation,
+And of Arveragus, the worthy knight,
+Who commanded her to keep all that she had promised,
+So hateful to him it was that his wife should break her word;
+And in his heart he took great pity on this,
+Considering what would be best in every respect,
+That he would rather yet refrain from his desire
+Than do so great a churlish despicable act
+Against generosity and all nobility of character;
+For which in few words he said thus:
+"Madam, say to your lord Arveragus
+That since I see his great graciousness
+To you, and also I see well your distress,
+That he would rather have shame (and that would be a pity)
+Than you should thus break your pledged word to me,
+I would well rather suffer woe always
+Than I should break apart the love between you two.
+I release you, madam, into your hand I return
+Freely every pledge and every bond
+That you have made to me before now,
+Since that time when you were born.
+I pledge my word, I shall never reprove you 
+For any promise, and here I take my leave,
+Of the truest and the best wife
+That ever yet I knew in all my life.
+But let every wife beware of her promise!
+Remember Dorigen, at the least.
+Thus can a squire do a gentle deed
+As well as can a knight, without doubt."
+She thanks him upon her bare knees,
+And home unto her husband she is gone,
+And told him all, as you have heard me say;
+And be you sure, he was so well pleased
+That it would be impossible for me to write.
+Why should I write longer about this matter?
+Arveragus and Dorigen his wife
+In perfect bliss lead forth their life.
+Never again was there any anger between them.
+He cherishes her as though she were a queen,
+And she was to him true for evermore.
+Of these two folk you get of me no more.
+Aurelius, that all his expenditure has forfeited,
+Curses the time that ever he was born:
+"Alas!" said he. "Alas, that I promised
+Of refined gold a thousand pounds of weight
+Unto this scientist! What shall I do?
+I see no more but that I am ruined.
+My heritage I must of necessity sell,
+And be a beggar; here I may not remain
+And shame all my kin in this place,
+Unless I can get a better grace (favor) from him.
+But nonetheless, I will try him, (offering)
+At specific days, year by year, to pay,
+And thank him for his great courtesy.
+My word I will keep, I will not lie."
+With a sore heart he goes unto his money box,
+And brought gold unto this scientist,
+The value of five hundred pounds, I guess,
+And him beseeches, of his nobleness,
+To grant him days (on which to pay) the remnant;
+And said, "Master, I dare well make boast,
+I failed never of my pledged word as yet.
+For surely my debt shall be repaid
+To you, even though I have
+To go a-begging in my bare tunic.
+But if you would agree, upon my promise,
+To grant me a respite for two years or three,
+Then I would be well; for otherwise I must sell
+My heritage; there is no more to tell."
+This scientist soberly answered,
+And said thus, when he heard these words:
+"Have I not kept my agreement with thee?"
+"Yes, certainly, well and truly," said he.
+"Hast thou not had thy lady as it pleases thee?"
+"No, no," said he, and sorrowfully he sighs.
+"What was the cause? Tel me if thou know how."
+Aurelius his tale immediately began,
+And told him all, as you have heard before;
+There is no need to repeat it to you again.
+He said, "Arveragus, of his nobility,
+Had rather die in sorrow and in distress
+Than that his wife would be false of her pledged word."
+The sorrow of Dorigen he told him also;
+How loathfull to her it was to be a wicked wife,
+And that she would rather have lost her life that day,
+And that her word she swore through ignorance,
+She never before had heard tell of illusion.
+"That made me have for her such great pity;
+And right as freely as he sent her to me,
+As freely I sent her to him again.
+This is the entire matter; there is no more to say."
+This scientist answered, "Dear brother,
+Every one of you did nobly to the other.
+Thou art a squire, and he is a knight;
+But God forbid, for his blissful might,
+That a clerk could not do a gentle deed 
+As well as any of you, it is no doubt!
+Sir, I release thee from thy (debt of a) thousand pounds,
+As if thou right now were crept out of the ground,
+Nor never before now had known me.
+For, sir, I will not take a penny from thee
+For all my craft, nor anything for my labor.
+Thou hast paid well for my living expenses.
+It is enough, and farewell, have good day!"
+And took his horse, and forth he goes his way.
+Gentlemen, this question, then, will I ask now,
+Which was the most free, as it seems to you?
+Now tell me, before you farther go.
+I know no more; my tale is at an end.

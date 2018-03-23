@@ -1,286 +1,286 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There was, as Titus Livius tells,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A knight who was called Virginius,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Filled with honor and with worthiness,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And having powerful friends, and great wealth.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This knight had a daughter by his wife;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No more children had he in all his life.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fair was this maid in excellent beauty<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Above every person that one may see;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For Nature has with her greatest diligence<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Formed her in such great excellence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As though she would say, "Lo! I, Nature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thus can I form and paint a creature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When I wish; who can counterfeit my work?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Not Pygmalion, though he always forge and beat,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or carve, or paint; for I dare well say<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Apelles  or Zeuxis, should work in vain<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Either to carve, or paint, or forge, or beat,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If they presumed to imitate me.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For He who is the principal creator<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has appointed me his Chief Deputy,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To form and paint earthly creatures<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Right as I wish, and in my control is each thing <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Under the moon, which may grow less or grow larger,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And nothing at all will I ask for my work;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My lord and I are fully in agreement.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I made her to the worship of my lord;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So do I all my other creatures,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whatever complexion they have or whatever shapes."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; It seems to me that Nature would say thus.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This maid was twelve years of age and two,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In whom Nature had such delight.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For just as she can paint a lily white,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And a rose red, just so with such pigments<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Has she painted this noble creature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Before she was born, upon her noble limbs,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where such colors should rightly be; <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And Phebus has dyed her great tresses<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Resembling the rays of his burnished sunbeams.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if her beauty was excellent,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A thousand times more virtuous was she.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In her there lacked no characteristic<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That is to be praised by (one with) sound moral judgement.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As well in spirit as in body chaste was she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which she flourished in virginity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With all humility and abstinence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With all temperance and patience,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With moderation also in demeanor and dress.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She was always discreet in conversation;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Though she was wise as Pallas, I dare say,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her manner of speaking was also very womanly and plain,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No pretentious terms had she<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To seem wise, but in accordance with her rank in life<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She spoke, and all her words, long speeches and brief,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In accord with virtue and nobility.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Modest she was in maidenly modesty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Constant in heart, and ever diligent<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To keep herself away from idle sluggishness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Bacchus had no mastery of her mouth at all;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For wine and youth does increase (the power of) Venus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As if men would cast oil or grease into a fire.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And of her own moral strength, of her own free choice,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She has very often pretended to be ill,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because she wanted to flee the company<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where there was likely to be talk of folly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As is at feasts, revels, and at dances,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That provide opportunities for flirtations.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Such things make children to be<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Too soon ripe and bold, as anyone can see,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Which is very perilous and has been since long ago,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For all too soon may she learn the lore<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of boldness, when she is grown to be a wife.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And you mistresses, in your old age,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who have lords' daughters in governance,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do not take of my words any displeasure.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Think that you are set in charge <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of lords' daughters only for two things:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Either because you have kept your chastity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or else you have fallen into frailty,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And know very well the tricks of the trade,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And have fully renounced such misconduct<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For evermore; therefore, for Christ's sake,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Look that you do not desisit from teaching them virtue.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A thief of venison, who has abandoned<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; His greedy appetite and all his old craft,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Can guard a forest better than any other man.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now guard well, for if you want (to do it), you can.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Take good care that you assent unto no vice,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lest you be damned for your wicked intent;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For whoever does so, is a traitor, certainly.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And pay attention to what I shall say:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Of all betrayals the supreme wickedness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is when a person betrays innocence.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; You fathers and you mothers also as well,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If you have children, be it one or more,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yours is the responsibility for all their supervision,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; While they are under your governance.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beware, lest by example of your (manner of) living,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Or by your negligence in chastising,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That they should perish; for I dare well say<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If they do, you shall dearly pay for it.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Under a soft and negligent shepherd <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The wolf has many a sheep and lamb torn to pieces.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let one ensample sufficefor the present,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For I must turn again to my subject.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This maiden, of whom I will narrate this tale,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So guarded herself she needed no governess<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For in her manner of life maidens might read,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As in a book, every good word or deed<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That is proper to a virtuous maiden,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She was so prudent and so filled with good.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which sprang out all around the fame,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Both of her beauty and her goodness widespread,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So that throughout that land they praised her everyone<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who loved virtue, save Envy alone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who is sorry of other men's prosperity<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And is glad of his sorrow and his misery.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (The Doctor [St. Augustine] makes this description.)<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This maid upon a day went in the town<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Toward a temple, with her mother dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As is the manner of young maidens.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Now was there then a justice in that town,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who was governor of that region.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And it so happened that this judge cast his eyes <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon this maid, considering her very intently,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As she passed by where this judge stood.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Immediately his heart changed and his mood,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So was he caught by the beauty of this maid,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And to himself very secretly he said,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "This maid shall be mine, despite what any man (may do)!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Immediately. the fiend ran into his heart,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And taught him suddenly that he by trickery <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Could win the maiden to his purpose.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For certainly, not by any force nor by any bribery,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He thought, would he be able to succeed;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For she had powerful friends, and also she<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was confirmed in such supreme goodness<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That he knew well he could never win her <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And make her sin with her body.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which, after great deliberation,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He sent for a churl, who was in the town,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whom he knew for trickery and for boldness.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This judge unto this churl his tale has told<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Secretly, and made him swear <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He should tell it to no creature,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if he did, he should lose his head.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When this cursed plot was agreed upon<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Glad was this judge, and made much of him (the churl),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And gave him precious and expensive gifts.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; When all their conspiracy was planned<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In great detail, how his lechery<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Should be accomplished very subtly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As you shall later hear it clearly,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Home goes the churl, who is called Claudius.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This false judge, who is called Apius,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Such was his name, for this is no fable,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But known for a noteworthy historical fact;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The substance of it is true, beyond doubt),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This false judge goes now fast about<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hastening his delight all that he can.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And so it happened soon after, on a certain day,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This false judge, as the story tells us,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As he was accustomed, sat in his court,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And gave his judgements upon various cases.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This false churl came forth at a very rapid pace,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said, "Lord, if it be your will,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do me justice concerning this piteous formal complaint,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In which I complain about Virginius;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And if he will say it is not thus,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I will prove it, and find good evidence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That what my formal complaint will express is truth."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The judge answered, "Of this, in his absence,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I can not give definitive judgment.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Let him be called, and I will gladly hear (the case);<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou shalt have all justice, and no wrong here."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Virginius came to learn the judge's will,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And right away this cursed complaint was read;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The substance of it was as you shall hear:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "To you, my lord, Sir Apius so dear,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Your poor servant Claudius shows<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; How a knight, called Virginius,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Against the law, against all equity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Expressly against my will, holds <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My servant, who is my slave by right,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who was stolen from my house upon one night,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; While she was very young; this will I prove<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By evidence, lord, providing that you be not displeased.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She is not his daughter, whatever he may say.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Therefore to you, my lord judge, I pray,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yield me my slave, if it be your will."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lo, this was all the substance of his complaint.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Virginius began to look upon the churl,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hastily, before he finished telling his tale,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And would have proven it as a knight should (by battle),<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also by the evidence of many a person,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That all that his adversary said was false,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This cursed judge would not at all delay,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nor hear one word more from Virginius,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But gave his judgment, and said thus:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "I decide that this churl should have his slave right now;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thou shalt no longer keep her in thine house.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Go bring her forth, and put her in our guardianship.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The churl shall have his slave, this I decree."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when this worthy knight Virginius<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because of the verdict of this justice Apius<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By force had to give his dear daughter<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unto the judge, to live in lechery,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He goes home, and sat himself in his hall,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And immediately had his dear daughter called,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with a face as dead as cold ashes <BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Upon her humble face he did behold,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With a father's pity stabbing through his heart,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Although he would not deviate from his purpose.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Daughter," said he, "Virginia, by thy name,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; There are two ways, either death or shame,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That thou most suffer; alas, that I was born!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For never thou deservedest for whatever reason<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To die by a sword or by a knife.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O dear daughter, ender of my life,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Whom I have nurured with such pleasure<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That thou were never out of my thoughts!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O daughter, who art my greatest woe,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And in my life my greatest joy also,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O gem of chastity, in patience<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Take thou thy death, for this is my decision.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For love, and not for hate, thou must be dead;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My piteous hand must smite off thy head.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Alas, that ever Apius saw thee!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For that reason he has falsely judged thee to-day" --<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And told her the whole business, as you before<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Have heard; there is no need to tell it again.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "O mercy, dear father!" said this maid,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word she both her arms laid<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; About his neck, as she was accustomed to do.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The tears burst out of her two eyes,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And said, "Good father, must I dye?<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Is there no grace, is there no remedy?"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "No, certainly, dear daughter mine," said he.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Then give me time, father mine," said she,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "To lament my death for a little while;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For, truly, Jeptha gave his daughter grace<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To lament, before he slew her, alas!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And, God knows it,  her trespass was nothing,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except that she ran first to see her father,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To welcome him with great solemnity."<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word immediately she fell in a swoon,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And afterwards, when her swooning is gone,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; She rises up, and to her father said,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "Blessed be God that I shall die a maid!<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Give me my death, before I have dishonor;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Do with your child your will, in God's name!"<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word she prayed him repeatedly<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That with his sword he would smite gently;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And with that word down she fell in a swoon.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Her father, with very sorrowful heart and will,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Struck off her head, and by the hair siezed it,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And he did present it to the judge,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As he sat yet rendering judgements in court.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And when the judge saw it, as says the story,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He ordered [his men] to take him and hang him at once;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; But right away a thousand people burst in,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To save the knight, for compassion and for pity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For the false wickedness was known.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The people immediately suspected in this matter,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because of the manner of the churl's claim,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That it was by the conspiring of Apius;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They knew well that he was lecherous.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For which unto this Apius they go<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And cast him in a prison straightway,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Where he slew himself; and Claudius,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who was servant unto this Apius,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Was condemned to hang upon a tree,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Except that Virginius, of his pity,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; So prayed for him (Claudius) that he was exiled;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And also, certainly, he had been tricked (by Apius).<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The remnant were hanged, high ranking and low,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Who were accessories to this crime.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Here may men see how sin has its reward.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beware, for no man knows whom God will smite<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In any rank, nor in what sort of way;<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The worm of conscience may tremble for fear<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Because of a wicked life, though it so secret be<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; That no man knows about it but God and he.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For be he ignorant man, or else learned,<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; He knows not how soon he shall be terrified.<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Therefore I advise you to take this counsel:<BR>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Abandon sin, before sin abandons you.<BR>
+There was, as Titus Livius tells,
+A knight who was called Virginius,
+Filled with honor and with worthiness,
+And having powerful friends, and great wealth.
+This knight had a daughter by his wife;
+No more children had he in all his life.
+Fair was this maid in excellent beauty
+Above every person that one may see;
+For Nature has with her greatest diligence
+Formed her in such great excellence,
+As though she would say, "Lo! I, Nature,
+Thus can I form and paint a creature,
+When I wish; who can counterfeit my work?
+Not Pygmalion, though he always forge and beat,
+Or carve, or paint; for I dare well say
+Apelles  or Zeuxis, should work in vain
+Either to carve, or paint, or forge, or beat,
+If they presumed to imitate me.
+For He who is the principal creator
+Has appointed me his Chief Deputy,
+To form and paint earthly creatures
+Right as I wish, and in my control is each thing 
+Under the moon, which may grow less or grow larger,
+And nothing at all will I ask for my work;
+My lord and I are fully in agreement.
+I made her to the worship of my lord;
+So do I all my other creatures,
+Whatever complexion they have or whatever shapes."
+It seems to me that Nature would say thus.
+This maid was twelve years of age and two,
+In whom Nature had such delight.
+For just as she can paint a lily white,
+And a rose red, just so with such pigments
+Has she painted this noble creature,
+Before she was born, upon her noble limbs,
+Where such colors should rightly be; 
+And Phebus has dyed her great tresses
+Resembling the rays of his burnished sunbeams.
+And if her beauty was excellent,
+A thousand times more virtuous was she.
+In her there lacked no characteristic
+That is to be praised by (one with) sound moral judgement.
+As well in spirit as in body chaste was she,
+For which she flourished in virginity
+With all humility and abstinence,
+With all temperance and patience,
+With moderation also in demeanor and dress.
+She was always discreet in conversation;
+Though she was wise as Pallas, I dare say,
+Her manner of speaking was also very womanly and plain,
+No pretentious terms had she
+To seem wise, but in accordance with her rank in life
+She spoke, and all her words, long speeches and brief,
+In accord with virtue and nobility.
+Modest she was in maidenly modesty,
+Constant in heart, and ever diligent
+To keep herself away from idle sluggishness.
+Bacchus had no mastery of her mouth at all;
+For wine and youth does increase (the power of) Venus,
+As if men would cast oil or grease into a fire.
+And of her own moral strength, of her own free choice,
+She has very often pretended to be ill,
+Because she wanted to flee the company
+Where there was likely to be talk of folly,
+As is at feasts, revels, and at dances,
+That provide opportunities for flirtations.
+Such things make children to be
+Too soon ripe and bold, as anyone can see,
+Which is very perilous and has been since long ago,
+For all too soon may she learn the lore
+Of boldness, when she is grown to be a wife.
+And you mistresses, in your old age,
+Who have lords' daughters in governance,
+Do not take of my words any displeasure.
+Think that you are set in charge 
+Of lords' daughters only for two things:
+Either because you have kept your chastity,
+Or else you have fallen into frailty,
+And know very well the tricks of the trade,
+And have fully renounced such misconduct
+For evermore; therefore, for Christ's sake,
+Look that you do not desisit from teaching them virtue.
+A thief of venison, who has abandoned
+His greedy appetite and all his old craft,
+Can guard a forest better than any other man.
+Now guard well, for if you want (to do it), you can.
+Take good care that you assent unto no vice,
+Lest you be damned for your wicked intent;
+For whoever does so, is a traitor, certainly.
+And pay attention to what I shall say:
+Of all betrayals the supreme wickedness
+Is when a person betrays innocence.
+You fathers and you mothers also as well,
+If you have children, be it one or more,
+Yours is the responsibility for all their supervision,
+While they are under your governance.
+Beware, lest by example of your (manner of) living,
+Or by your negligence in chastising,
+That they should perish; for I dare well say
+If they do, you shall dearly pay for it.
+Under a soft and negligent shepherd 
+The wolf has many a sheep and lamb torn to pieces.
+Let one ensample sufficefor the present,
+For I must turn again to my subject.
+This maiden, of whom I will narrate this tale,
+So guarded herself she needed no governess
+For in her manner of life maidens might read,
+As in a book, every good word or deed
+That is proper to a virtuous maiden,
+She was so prudent and so filled with good.
+For which sprang out all around the fame,
+Both of her beauty and her goodness widespread,
+So that throughout that land they praised her everyone
+Who loved virtue, save Envy alone,
+Who is sorry of other men's prosperity
+And is glad of his sorrow and his misery.
+(The Doctor [St. Augustine] makes this description.)
+This maid upon a day went in the town
+Toward a temple, with her mother dear,
+As is the manner of young maidens.
+Now was there then a justice in that town,
+Who was governor of that region.
+And it so happened that this judge cast his eyes 
+Upon this maid, considering her very intently,
+As she passed by where this judge stood.
+Immediately his heart changed and his mood,
+So was he caught by the beauty of this maid,
+And to himself very secretly he said,
+"This maid shall be mine, despite what any man (may do)!"
+Immediately. the fiend ran into his heart,
+And taught him suddenly that he by trickery 
+Could win the maiden to his purpose.
+For certainly, not by any force nor by any bribery,
+He thought, would he be able to succeed;
+For she had powerful friends, and also she
+Was confirmed in such supreme goodness
+That he knew well he could never win her 
+And make her sin with her body.
+For which, after great deliberation,
+He sent for a churl, who was in the town,
+Whom he knew for trickery and for boldness.
+This judge unto this churl his tale has told
+Secretly, and made him swear 
+He should tell it to no creature,
+And if he did, he should lose his head.
+When this cursed plot was agreed upon
+Glad was this judge, and made much of him (the churl),
+And gave him precious and expensive gifts.
+When all their conspiracy was planned
+In great detail, how his lechery
+Should be accomplished very subtly,
+As you shall later hear it clearly,
+Home goes the churl, who is called Claudius.
+This false judge, who is called Apius,
+(Such was his name, for this is no fable,
+But known for a noteworthy historical fact;
+The substance of it is true, beyond doubt),
+This false judge goes now fast about
+Hastening his delight all that he can.
+And so it happened soon after, on a certain day,
+This false judge, as the story tells us,
+As he was accustomed, sat in his court,
+And gave his judgements upon various cases.
+This false churl came forth at a very rapid pace,
+And said, "Lord, if it be your will,
+Do me justice concerning this piteous formal complaint,
+In which I complain about Virginius;
+And if he will say it is not thus,
+I will prove it, and find good evidence,
+That what my formal complaint will express is truth."
+The judge answered, "Of this, in his absence,
+I can not give definitive judgment.
+Let him be called, and I will gladly hear (the case);
+Thou shalt have all justice, and no wrong here."
+Virginius came to learn the judge's will,
+And right away this cursed complaint was read;
+The substance of it was as you shall hear:
+"To you, my lord, Sir Apius so dear,
+Your poor servant Claudius shows
+How a knight, called Virginius,
+Against the law, against all equity,
+Expressly against my will, holds 
+My servant, who is my slave by right,
+Who was stolen from my house upon one night,
+While she was very young; this will I prove
+By evidence, lord, providing that you be not displeased.
+She is not his daughter, whatever he may say.
+Therefore to you, my lord judge, I pray,
+Yield me my slave, if it be your will."
+Lo, this was all the substance of his complaint.
+Virginius began to look upon the churl,
+Hastily, before he finished telling his tale,
+And would have proven it as a knight should (by battle),
+And also by the evidence of many a person,
+That all that his adversary said was false,
+This cursed judge would not at all delay,
+Nor hear one word more from Virginius,
+But gave his judgment, and said thus:
+"I decide that this churl should have his slave right now;
+Thou shalt no longer keep her in thine house.
+Go bring her forth, and put her in our guardianship.
+The churl shall have his slave, this I decree."
+And when this worthy knight Virginius
+Because of the verdict of this justice Apius
+By force had to give his dear daughter
+Unto the judge, to live in lechery,
+He goes home, and sat himself in his hall,
+And immediately had his dear daughter called,
+And with a face as dead as cold ashes 
+Upon her humble face he did behold,
+With a father's pity stabbing through his heart,
+Although he would not deviate from his purpose.
+"Daughter," said he, "Virginia, by thy name,
+There are two ways, either death or shame,
+That thou most suffer; alas, that I was born!
+For never thou deservedest for whatever reason
+To die by a sword or by a knife.
+O dear daughter, ender of my life,
+Whom I have nurured with such pleasure
+That thou were never out of my thoughts!
+O daughter, who art my greatest woe,
+And in my life my greatest joy also,
+O gem of chastity, in patience
+Take thou thy death, for this is my decision.
+For love, and not for hate, thou must be dead;
+My piteous hand must smite off thy head.
+Alas, that ever Apius saw thee!
+For that reason he has falsely judged thee to-day" --
+And told her the whole business, as you before
+Have heard; there is no need to tell it again.
+"O mercy, dear father!" said this maid,
+And with that word she both her arms laid
+About his neck, as she was accustomed to do.
+The tears burst out of her two eyes,
+And said, "Good father, must I dye?
+Is there no grace, is there no remedy?"
+"No, certainly, dear daughter mine," said he.
+"Then give me time, father mine," said she,
+"To lament my death for a little while;
+For, truly, Jeptha gave his daughter grace
+To lament, before he slew her, alas!
+And, God knows it,  her trespass was nothing,
+Except that she ran first to see her father,
+To welcome him with great solemnity."
+And with that word immediately she fell in a swoon,
+And afterwards, when her swooning is gone,
+She rises up, and to her father said,
+"Blessed be God that I shall die a maid!
+Give me my death, before I have dishonor;
+Do with your child your will, in God's name!"
+And with that word she prayed him repeatedly
+That with his sword he would smite gently;
+And with that word down she fell in a swoon.
+Her father, with very sorrowful heart and will,
+Struck off her head, and by the hair siezed it,
+And he did present it to the judge,
+As he sat yet rendering judgements in court.
+And when the judge saw it, as says the story,
+He ordered [his men] to take him and hang him at once;
+But right away a thousand people burst in,
+To save the knight, for compassion and for pity,
+For the false wickedness was known.
+The people immediately suspected in this matter,
+Because of the manner of the churl's claim,
+That it was by the conspiring of Apius;
+They knew well that he was lecherous.
+For which unto this Apius they go
+And cast him in a prison straightway,
+Where he slew himself; and Claudius,
+Who was servant unto this Apius,
+Was condemned to hang upon a tree,
+Except that Virginius, of his pity,
+So prayed for him (Claudius) that he was exiled;
+And also, certainly, he had been tricked (by Apius).
+The remnant were hanged, high ranking and low,
+Who were accessories to this crime.
+Here may men see how sin has its reward.
+Beware, for no man knows whom God will smite
+In any rank, nor in what sort of way;
+The worm of conscience may tremble for fear
+Because of a wicked life, though it so secret be
+That no man knows about it but God and he.
+For be he ignorant man, or else learned,
+He knows not how soon he shall be terrified.
+Therefore I advise you to take this counsel:
+Abandon sin, before sin abandons you.
