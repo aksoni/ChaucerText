@@ -8987,7 +8987,7 @@ And send him drink, or else he must die;
 And of this ass's jawbone, that was dry,
 Out of a molar sprang right away a well,
 Of which he drank enough, shortly to say;
-Thus God helped him, as <i>The Book of Judges</i> can tell.
+Thus God helped him, as The Book of Judges can tell.
 By sheer force at Gaza on one night,
 Despite the Philistines of that city,
 The gates of the town he has plucked up,
@@ -9147,7 +9147,7 @@ And on a wall this king cast his eyes
 And saw a hand, armless, that wrote very fast,
 For fear of which he quaked and sighed deeply.
 This hand that so deeply terrified Belshazzar 
-Wrote<i> Mane</i>, <i>techel</i>, <i>phare</i>s, and no more.
+Wrote Mane, techel, phares, and no more.
 In all that land was no magician
 Who could explain what this text meant;
 But Daniel explained it right away,
@@ -9173,7 +9173,7 @@ Drank of the same vessels various wines;
 And worship false gods cursedly;
 Therefore to thee is ordained very great pain.
 "This hand was sent from God that on the wall
-Wrote <i>Mane</i>, <i>techel</i>, <i>pares</i>, trust me;
+Wrote Mane, techel, pares, trust me;
 Thy reign is done; thou art of no account at all.
 Broken up is thy kingdom, and it shall be
 Given to Medes and to Persians," said he.
@@ -9188,7 +9188,6 @@ And also his friends, both high ranking and low.
 For whatever man who has friends because of Fortune,
 Misfortune will make them enemies, I believe;
 This proverb is very true and very common.
-[Zenobia]
 Zenobia, of Palmyra queen,
 As Persians write of her nobility,
 So worthy was in arms and so fierce
@@ -9597,7 +9596,7 @@ I say, as far as man can ride or walk,
 The world was his -- what more should I tell?
 For though I should write or told you evermore
 About his knighthood, it could not suffice.
-Twelve years he reigned, as says <i>Maccabees</i>.
+Twelve years he reigned, as says Maccabees.
 He was the son of Philip of Macedonia,
 Who first was king in the country of Greece.
 O worthy, noble Alexander, alas,
@@ -12566,7 +12565,7 @@ A crown of an evergreen oak
 Was set upon her head full fair and suitable.
 Two fires on the altar did she kindle,
 And did her duties, as men can behold
-In Statius' <i>Thebaid</i> and such old books.
+In Statius' Thebaid and such old books.
 When the fire was kindled, with a pitiful expression
 Unto Diana she spoke as you may hear:
 "O chaste goddess of the green woods,
@@ -15136,7 +15135,7 @@ This is a pitiful tale to hear.
 But nonetheless, pass over; is does not matter.
 I pray to God so save thy gentle body,
 And also thy vessels for analyzing urine and thy flasks,
-Thine ipocras, and also thy galiones (<i>medicines</i>),
+Thine ipocras, and also thy galiones (medicines),
 And every container full of thy electuaries;
 God bless them, and our lady Saint Mary!
 As I may prosper, thou art a proper man,
@@ -16299,7 +16298,8 @@ In translating the legend
 Correctly of thy glorious life and suffering,
 Thou with thy garland made with rose and lily --
 I mean thee, maid and martyr, Saint Cecilie.
-(Invocation to Mary)</i>
+Invocacio ad Mariam
+(Invocation to Mary)
 And thou who art the flower of all virgins,
 Of whom it so well pleased Bernard to write,
 To thee at my beginning first I call;
@@ -16356,7 +16356,8 @@ For I have both the words and the meaning
 Of him who out of reverence for the saint
 Wrote the story, and  (I) follow her legend,
 And pray you that you will correct (any errors in) my work.
-Jacobus Januensis in Legenda</i>
+Interpretacio nominis Cecile quam ponit Frater
+Jacobus Januensis in Legenda
 Jacob of Genoa put in the Legend.)
 First the name of Saint Cecilie I would to you 
 Explain, as one can see in her story.
@@ -16393,6 +16394,7 @@ Very swift and busy ever in good works,
 And round and whole in persevering in good (works),
 And burning ever in very bright charity.
 Now have I declared to you what she was called.
+Explicit 
 (Here ends [the Prologue])
 This bright maiden Cecilie, as her Life says,
 Was descended from Romans and of noble birth,
@@ -16993,8 +16995,8 @@ To tell all that belongs to that art!
 But nonetheless you desire that I tell part.
 Since my lord is gone, I will not spare;
 Such things as what I know, I will declare.
-[<i>Prima Pars</i>]
-[<i>[First Part</i>]
+[Prima Pars]
+[[First Part]
 With this Canon I have dwelt seven years,
 And as to his science I am never the nearer (to success).
 All that I had I have lost thereby,
