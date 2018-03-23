@@ -52,7 +52,7 @@ for htmlFile in filesList:
                                                                                          line.lstrip()[0] == 'n' or line.lstrip()[0:3] == 'and' or line.lstrip()[0:4] == '</B>' or line.lstrip()[0:4] == '</b>'))):#line[0] is '&' or line[0] is ' &' or (len(line.lstrip()) > 0 and line.lstrip()[0] == '&'):
                 for word in delete_list:
                     line = line.replace(word, "")
-                if line.lstrip()[0:4] != "[The" and line.lstrip()[0:3] != "<i>" and line.lstrip()[0:3] != "<b>" and line.lstrip()[0:3] != "[Ze" and line.lstrip()[0:3] != "[Ne" and line.lstrip()[0:3] != "[Co" and line.lstrip()[0:3] != "</F" and line.lstrip()[0:9] != "Invocacio" and line.lstrip()[0:9] != "(Invocati" and line.lstrip()[0:13] != "Interpretacio" and line.lstrip()[0:9] != "(The inte" and line.lstrip()[0:10] != "Jacobus Ja" and line.lstrip()[0:10] != "Jacob of G":
+                if line.lstrip()[0:4] != "[The" and line.lstrip()[0:3] != "<i>" and line.lstrip()[0:3] != "<b>" and line.lstrip()[0:3] != "[Ze" and line.lstrip()[0:3] != "[Ne" and line.lstrip()[0:3] != "[Co" and line.lstrip()[0:3] != "</F" and line.lstrip()[0:9] != "Invocacio" and line.lstrip()[0:9] != "(Invocati" and line.lstrip()[0:13] != "Interpretacio" and line.lstrip()[0:9] != "(The inte" and line.lstrip()[0:10] != "Jacobus Ja" and line.lstrip()[0:10] != "Jacob of G" and line.lstrip()[0:8] != "Explicit" and line.lstrip()[0:8] != "(Here en":
                     fOut2.write(line.lstrip())
                     fOut4.write(line.lstrip())
                 #print("second line")
