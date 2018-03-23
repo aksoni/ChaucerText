@@ -2,7 +2,7 @@ import sys
 import os
 from bs4 import BeautifulSoup
 
-delete_list = ["&nbsp;", '\t', "<nobr>", "<BR>"]
+delete_list = ["&nbsp;", "nbsp;", '\t', "<nobr>", "<BR>"]
 
 filesList = []
 
@@ -47,7 +47,7 @@ for htmlFile in filesList:
                 #print("first line")
                 #print(line)
             # i += 1
-            elif readingText == True and line[0] is '&' or line[0] is ' &' or (len(line.lstrip()) > 0 and line.lstrip()[0] == '&'):
+            elif readingText == True and line[0] is 'n' or line[0] is '&' or line[0] is ' &' or (len(line.lstrip()) > 0 and line.lstrip()[0] == '&'):
                 for word in delete_list:
                    line = line.replace(word, "")
                 fOut2.write(line.lstrip())

@@ -8,8 +8,8 @@ for line in open('urls.txt'):
         print(url)
         urlobject = urllib.urlopen(url)
         print(urlobject.code)
-            #if urlobject.code == 404:
-            #break
+            if urlobject.code == 404:
+            break
         lines = urllib.urlopen(url).readlines()
  
         fOut = open('talesHTML/%s' % (url.split('/')[-1]), 'w')
