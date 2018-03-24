@@ -11,9 +11,6 @@ def pywalker(path):
                 originalFileName = "talesText/" + file_.split('_')[0] + "_original_clean.txt"
                 originalFilesList.append(originalFileName)
 
-#print(file_)
-# print( os.path.join(root, file_) )
-
 top = os.getcwd()
 pywalker(top)
 
@@ -37,6 +34,3 @@ for textFile in originalFilesList:
             fOut2.write(line)
 
 fOut2.close()
-
-#print(modernFilesList)
-#print(originalFilesList)

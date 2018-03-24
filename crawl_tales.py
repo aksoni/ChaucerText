@@ -8,7 +8,6 @@ if not os.path.exists('talesHTML'):
 
 for line in open('urls.txt'):
     url = line.rstrip('\n')  
-        #for i in range(2,10000):
     print(url)
     urlobject = urllib.request.urlopen(url)
     print(urlobject.code)
