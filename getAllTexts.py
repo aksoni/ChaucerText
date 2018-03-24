@@ -17,7 +17,10 @@ def pywalker(path):
 top = os.getcwd()
 pywalker(top)
 
-fOut = open('talesText/allModernText.txt', 'w')
+if not os.path.exists('allText'):
+    os.makedirs('allText')
+
+fOut = open('allText/allModernText.txt', 'w')
 
 for textFile in modernFilesList:
     with open(textFile) as file:
@@ -26,7 +29,7 @@ for textFile in modernFilesList:
 fOut.close()
 
 
-fOut2 = open('talesText/allOriginalText.txt', 'w')
+fOut2 = open('allText/allOriginalText.txt', 'w')
 
 for textFile in originalFilesList:
     with open(textFile) as file:
