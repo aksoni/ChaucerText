@@ -10,7 +10,7 @@ def pywalker(path):
     for root, dirs, files in os.walk(path):
         for file_ in files:
             if file_.endswith(".htm"):
-                htmlFileName = "testTalesHTML/" + file_
+                htmlFileName = "talesHTML/" + file_
                 filesList.append(htmlFileName)
 #print(file_)
 # print( os.path.join(root, file_) )
@@ -26,8 +26,8 @@ for htmlFile in filesList:
         i = 1
         readingText = False
         htmlFile = htmlFile.split('/')[1]
-        originalFile = "testTalesText/" + htmlFile.split('.')[0] + "_original_messy.txt"
-        modernFile = "testTalesText/" + htmlFile.split('.')[0] + "_modern_clean.txt"
+        originalFile = "talesText/" + htmlFile.split('.')[0] + "_original_messy.txt"
+        modernFile = "talesText/" + htmlFile.split('.')[0] + "_modern_clean.txt"
         #fOut = open('talesText/gpOriginalMessy.txt', 'w')
         #fOut2 = open('talesText/gpModernClean.txt', 'w')
         fOut = open(originalFile, 'w')

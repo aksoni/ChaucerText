@@ -20,6 +20,10 @@ pywalker(top)
 #fOut3 = open('talesText/allOriginalText_messy.txt', 'w')
 #fOut4 = open('talesText/allModernText_clean.txt', 'w')
 print(filesList)
+
+if not os.path.exists('talesText'):
+    os.makedirs('talesText')
+
 for htmlFile in filesList:
     with open(htmlFile) as file:
     #with open("tales/gp-par.htm") as file:
