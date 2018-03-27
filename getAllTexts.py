@@ -39,9 +39,9 @@ for textFile in modernFilesList:
     with open(textFile) as file:
         for line in file:
             fOut.write(line)
-            if textFile == "wbt-par_modern_clean.txt":
+            if textFile == "talesText/wbt-par_modern_clean.txt":
                 fOut4.write(line)
-            elif textFile == "mlt-par_modern_clean.txt":
+            elif textFile == "talesText/mlt-par_modern_clean.txt":
                 fOut5.write(line)
             else:
                 fOut2.write(line)
@@ -57,9 +57,9 @@ for textFile in originalFilesList:
     with open(textFile) as file:
         for line in file:
             fOut8.write(line)
-            if textFile == "wbt-par_original_clean.txt":
+            if textFile == "talesText/wbt-par_original_clean.txt":
                 fOut6.write(line)
-            elif textFile == "mlt-par_original_clean.txt":
+            elif textFile == "talesText/mlt-par_original_clean.txt":
                 fOut7.write(line)
             else:
                 fOut3.write(line)
