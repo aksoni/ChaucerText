@@ -23,22 +23,50 @@ pywalker(top)
 if not os.path.exists('allText'):
     os.makedirs('allText')
 
+if not os.path.exists('data'):
+    os.makedirs('data')
+
 fOut = open('allText/allModernText.txt', 'w')
+fOut2 = open('data/train.modern.nltkok', 'w')
+fOut3 = open('data/train.original.nltkok', 'w')
+fOut4 = open('data/valid.modern.nltkok', 'w')
+fOut5 = open('data/test.modern.nltkok', 'w')
+fOut6 = open('data/valid.original.nltkok', 'w')
+fOut7 = open('data/test.original.nltkok', 'w')
 
 #Write all modern lines to file
 for textFile in modernFilesList:
     with open(textFile) as file:
         for line in file:
             fOut.write(line)
+            if textFile == "wbt-par_modern_clean.txt":
+                fOut4.write(line)
+            elif textFile == "mlt-par_modern_clean.txt":
+                fOut5.write(line)
+            else:
+                fOut2.write(line)
 fOut.close()
+fOut2.close()
+fOut4.close()
+fOut5.close()
 
-
-fOut2 = open('allText/allOriginalText.txt', 'w')
+fOut8 = open('allText/allOriginalText.txt', 'w')
 
 #Write all original lines to file
 for textFile in originalFilesList:
     with open(textFile) as file:
         for line in file:
-            fOut2.write(line)
+            fOut8.write(line)
+            if textFile == "wbt-par_original_clean.txt":
+                fOut6.write(line)
+            elif textFile == "mlt-par_original_clean.txt":
+                fOut7.write(line)
+            else:
+                fOut3.write(line)
 
-fOut2.close()
+fOut3.close()
+fOut6.close()
+fOut7.close()
+fOut8.close()
+
+
