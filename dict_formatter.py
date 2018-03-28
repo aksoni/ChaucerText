@@ -16,14 +16,15 @@ with open("chaucer_glossary.txt") as file:
         original = str[0]
         modern_messy = str[1]
         if ',' in modern_messy:
-            modern_clean = modern_messy.split(',')[0]
+            modern_clean = modern_messy.split(',')[0].rstrip()
         elif ';' in modern_messy:
-            modern_clean = modern_messy.split(';')[0]
+            modern_clean = modern_messy.split(';')[0].rstrip()
         else:
-            modern_clean = modern_messy
+            modern_clean = modern_messy.rstrip()
     
         for word in original.split(','):
             #word = word.replace(",", "")
+            word = word.lstrip()
             line = word + '\t' + modern_clean
             print(line)
             fOut.write(line)
