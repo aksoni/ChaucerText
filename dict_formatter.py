@@ -23,6 +23,7 @@ with open("chaucer_glossary.txt") as file:
         for word in original.split(','):
             
             word = word.lstrip()
+            word = word.rstrip()
             line = word + '\t' + modern_clean
     
             fOut.write(line)
