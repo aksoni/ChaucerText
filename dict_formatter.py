@@ -52,8 +52,8 @@ with open("chaucer_glossary.txt") as file:
             #   print(len(str))
         
         #print(str[1])
-        if i > 30:
-            break
+        #if i > 30:
+#   break
 fOut.close()
 #  break
 
