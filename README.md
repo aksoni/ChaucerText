@@ -10,6 +10,9 @@ contains the HTML page for each tale, containing the original text and interline
 talesText directory 
 contains the original and modern lines for each tale.
 
+data directory
+contains the training, validation, and testing files for both original and modern sentences, as well as a baseline dictionary for commonly used words in Chaucer's works.
+
 crawl_tales.py 
 Crawls the Interlinear Translations webpages and downloads the HTML to talesHTML directory.
 
@@ -22,3 +25,6 @@ Removes HTML tags from the text files containing the original lines.
 get_all_texts.py
 Writes all cleaned original lines to one file and all modern lines to another file into the allTexts directory.
 Writes Man of Law's tale to test file. Writes Wife of Bath's tale to validation file. All other tales are written to training file (all in data folder).
+
+dict_formatter.py
+Cleans Chaucer glossary (https://www.english.cam.ac.uk/converse/chaucer/glossary.doc) for use as a baseline dictionary. Cleaned file is written to chaucer.dict in the data directory.
