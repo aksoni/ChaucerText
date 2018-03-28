@@ -15,18 +15,20 @@ with open("chaucer_glossary.txt") as file:
         str = line.split('\t')
         original = str[0]
         modern_messy = str[1]
-        if ',' in modern_messy:
-            modern_clean = modern_messy.split(',')[0].rstrip()
-        elif ';' in modern_messy:
-            modern_clean = modern_messy.split(';')[0].rstrip()
-        else:
-            modern_clean = modern_messy.rstrip()
-    
+        modern_messy = modern_messy.split(',')[0].rstrip()
+        modern_clean = modern_messy.split(';')[0].rstrip()
+            # if ',' in modern_messy:
+            #modern_clean = modern_messy.split(',')[0].rstrip()
+            #elif ';' in modern_messy:
+            #modern_clean = modern_messy.split(';')[0].rstrip()
+            #else:
+            #modern_clean = modern_messy.rstrip()
+        print(modern_clean)
         for word in original.split(','):
             #word = word.replace(",", "")
             word = word.lstrip()
             line = word + '\t' + modern_clean
-            print(line)
+            #print(line)
             fOut.write(line)
             fOut.write('\n')
         #modern_clean = modern_messy.split()
@@ -50,7 +52,8 @@ with open("chaucer_glossary.txt") as file:
             #   print(len(str))
         
         #print(str[1])
-        #if i > 3:
+        if i > 30:
+            break
 fOut.close()
 #  break
 
