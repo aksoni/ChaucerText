@@ -13,11 +13,12 @@ contains the original and modern lines for each tale.
 crawl_tales.py 
 Crawls the Interlinear Translations webpages and downloads the HTML to talesHTML directory.
 
-parseTales.py
+parse_tales.py
 Parses HTML files and outputs each tale's text into an original file and a modern file. The original file is "messy" because some HTML tags are still included.
 
-textCleaner.py
+text_cleaner.py
 Removes HTML tags from the text files containing the original lines.
 
-getAllTexts.py
+get_all_texts.py
 Writes all cleaned original lines to one file and all modern lines to another file into the allTexts directory.
+Writes Man of Law's tale to test file. Writes Wife of Bath's tale to validation file. All other tales are written to training file (all in data folder).
