@@ -1,5 +1,5 @@
 import os
-
+import re
 
 if not os.path.exists('data'):
     os.makedirs('data')
@@ -12,6 +12,7 @@ with open("chaucer_glossary.txt") as file:
 
     for i, line in enumerate(file):
         # print(originalList)
+        print(line)
         str = line.split('\t')
         original = str[0]
         modern_messy = str[1]
@@ -23,7 +24,8 @@ with open("chaucer_glossary.txt") as file:
             #modern_clean = modern_messy.split(';')[0].rstrip()
             #else:
             #modern_clean = modern_messy.rstrip()
-        print(modern_clean)
+            # print(modern_clean)
+            #print(re.sub(r'\(.*\)', '', modern_clean))
         for word in original.split(','):
             #word = word.replace(",", "")
             word = word.lstrip()

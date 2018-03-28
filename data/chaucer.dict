@@ -13,8 +13,6 @@ aferd	afraid
 afered	afraid
 affeccioun	emotion
 afferme	confirm
-affraye (n)	assault
-affraye (v)	to startle
 agaynward	back again
 ayenward	back again
 agaste	to frighten
@@ -117,13 +115,13 @@ companye	group
 comunly	commonly
 communely	commonly
 confort	assurance
-counfort (n)	assurance
+counfort	assurance
 conforte	to encourage
-comforte (v)	to encourage
+comforte 	to encourage
 conseil	a meeting
-counceil (n)	a meeting
+counceil	a meeting
 conseile	to teach
-counceilen (v)	to teach
+counceilen	to teach
 constreyne	to compel
 contenance	behaviour
 countenaunce	behaviour
@@ -174,9 +172,6 @@ dom	judgement
 doom	judgement
 doute	uncertainty
 draughte	drink
-drede	fear
-dreede (n)	fear
-drede	to be afraid
 drenche	to drown
 dresse	to place
 eft	again
@@ -215,7 +210,7 @@ face	face
 faile	to fail
 faylen	to fail
 fair	well
-fame	reputation (good or bad)
+fame	reputation
 fantasye	imagination
 fare	to go
 faste	tightly
@@ -309,8 +304,8 @@ hoote	hot
 hat	hot
 hoten	to be named
 housbondrye	careful management
-ich	I (personal pronoun)
-y 	I (personal pronoun)
+ich	I
+y 	I
 ydele	futile
 ylyke	alike
 in	in
@@ -324,8 +319,8 @@ ysee	to see
 ywis	indeed
 jalouse	jealous
 jelous	jealous
-jape (n)	trick
-japen (v)	to joke
+jape	trick
+japen	to joke
 joly	merry
 jolyf	merry
 jolitee	merriment
@@ -428,12 +423,8 @@ nempne	to name
 nye	near
 nyghe	near
 neigh	near
-noo	no (very emphatic)
+noo	no
 noyse	noise
-nombre	number
-noumbre (n)	number
-nombren	to count
-noumbre (v)	to count
 nones	occasion
 nonys	occasion
 norice	to nourish
@@ -520,10 +511,6 @@ quiten	to pay
 rathere	earlier
 rathir	earlier
 recchelees	reckless
-red	advice
-reed (n)	advice
-red	to read
-reed (v)	to read
 redy	ready
 refut	refuge
 regne	kingdom
@@ -542,8 +529,8 @@ reson	reason
 raison	reason
 retourne	to return
 reule	rule
-rewle (n)	rule
-reulen (v)	to rule
+rewle	rule
+reulen	to rule
 reven	to rob
 rewen	to have mercy on
 riche	rich
@@ -789,9 +776,6 @@ woodnesse	madness
 wodnesse	madness
 wombe	belly
 wommanhede	femininity
-wone (n)	custom
-wone	to dwell
-wonen (v)	to dwell
 worthy	respectable
 wrappe	to wrap
 wrecche	wretch
@@ -810,7 +794,7 @@ yerne	quickly
 yeve	to give
 yift	gift
 yefte	gift
-yis	yes (emphatic)
+yis	yes
 yond	yonder
 yong	young
 yonge	young

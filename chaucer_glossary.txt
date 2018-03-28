@@ -9,8 +9,6 @@ adoun	downwards, down, below
 aferd, afered	afraid
 affeccioun	emotion, feeling, desire
 afferme	confirm
-affraye (n)	assault; outcry, uproar; fear
-affraye (v)	to startle, frighten, disturb
 agaynward, ayenward	back again
 agaste	to frighten; be frightened
 ay	always, forever; progressively
@@ -74,10 +72,10 @@ clepe	to speak, say, call out; call ( a name)
 clere	bright, shining
 compaignye, companye	group; fellowship
 comunly, communely	commonly, ordinarily
-confort, counfort (n)	assurance, consolation; pleasure, delight
-conforte, comforte (v)	to encourage; console
-conseil, counceil (n)	a meeting, council; body of advisors
-conseile, counceilen (v)	to teach, instruct; persuade, advise
+confort, counfort	assurance, consolation; pleasure, delight
+conforte, comforte 	to encourage; console
+conseil, counceil	a meeting, council; body of advisors
+conseile, counceilen	to teach, instruct; persuade, advise
 constreyne	to compel, force
 contenance, countenaunce	behaviour; appearance
 corage, courage	heart, feelings; desire, determination; courage
@@ -114,8 +112,6 @@ disport, desport	amusement, fun, pleasure
 dom, doom	judgement, opinion
 doute	uncertainty, doubt
 draughte	drink
-drede, dreede (n)	fear, anxiety
-drede	to be afraid; hold in awe or reverence
 drenche	to drown, sink, flood
 dresse	to place, put, arrange
 eft	again, another time; immediately
@@ -143,7 +139,7 @@ expres	clearly, explicitly
 face	face, expression, appearance
 faile, faylen	to fail, disappoint
 fair	well, neatly, couteously, pleasantly
-fame	reputation (good or bad)
+fame	reputation
 fantasye	imagination; fancy, desire
 fare	to go; act, behave
 faste	tightly, closely
@@ -212,7 +208,7 @@ honge, hange	to hang
 hote, hoote, hat	hot; intense, eager
 hoten	to be named, be called
 housbondrye	careful management, economy
-ich, y 	I (personal pronoun)
+ich, y 	I
 ydele	futile, worthless
 ylyke	alike, equal, the same
 in, inne	in, within
@@ -222,8 +218,8 @@ irous	angry
 ysee	to see
 ywis	indeed, surely
 jalouse, jelous	jealous
-jape (n)	trick, joke
-japen (v)	to joke, jest; deceive, mock
+jape	trick, joke
+japen	to joke, jest; deceive, mock
 joly, jolyf	merry, cheerful, playful; pretty, attractive
 jolitee	merriment, pleasure; passion; attractiveness
 jugen, juggen	to judge
@@ -234,7 +230,7 @@ kyndely, kyndelich	natural
 kirtel, kirtle	tunic, simple gown
 knave	boy, male child; servant; peasant, villain
 knytte, knette	to join, fasten together
-kunne, cunne	to know, be informed about; know how to 
+kunne, cunne	to know, be informed about; know how to
 kunnynge, connynge	ability, skill; knowledge, understanding; intelligence
 labour	effort, work
 lay	religious law, doctrine, belief
@@ -290,10 +286,8 @@ natheles, nathelees	none the less, nevertheless
 nede, neede	need, necessity
 nempne	to name
 nye, nyghe, neigh	near; nearly
-noo	no (very emphatic)
+noo	no
 noyse	noise, sound, clamour
-nombre, noumbre (n)	number
-nombren, noumbre (v)	to count
 nones, nonys	occasion; that time, then
 norice	to nourish
 o	on
@@ -352,8 +346,6 @@ quyke	living, lively
 quiten	to pay; reward; pay back, be avenged
 rathere, rathir	earlier, sooner; rather
 recchelees	reckless, careless, negligent
-red, reed (n)	advice, counsel
-red, reed (v)	to read, study; advise
 redy	ready
 refut	refuge
 regne, reigne	kingdom, country
@@ -367,8 +359,8 @@ repreven	to blame, reprove
 requeren	to ask, request
 resoun, reson, raison	reason, judgement
 retourne	to return
-reule, rewle (n)	rule; code of behaviour
-reulen (v)	to rule, govern; conduct oneself
+reule, rewle	rule; code of behaviour
+reulen	to rule, govern; conduct oneself
 reven	to rob, steal, take away
 rewen	to have mercy on, feel pity for
 riche	rich, wealthy, splendid
@@ -545,8 +537,6 @@ wod, wode, wood	mad, crazy
 woodnesse, wodnesse	madness
 wombe	belly, womb
 wommanhede	femininity, womanliness
-wone (n)	custom, habit
-wone, wonen (v)	to dwell
 worthy	respectable, worthy; distinguished, excellent
 wrappe	to wrap, cover, conceal
 wrecche	wretch, miserable person; exile
@@ -560,7 +550,7 @@ yerde, yeerd	yard, garden
 yerne	quickly
 yeve	to give
 yift, yefte	gift
-yis	yes (emphatic)
+yis	yes
 yond	yonder
 yong, yonge	young
 yore, yoore	long ago, formerly
